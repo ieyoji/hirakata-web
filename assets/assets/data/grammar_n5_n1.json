@@ -1,0 +1,2645 @@
+{
+ "version": "1.0.0",
+ "patterns": [
+  {
+   "id": "g_n5_001",
+   "level": "N5",
+   "register": "both",
+   "pattern": "〜は〜です",
+   "romaji": "~ wa ~ desu",
+   "title": {
+    "en": "Basic Sentence with wa and desu",
+    "id": "Kalimat Dasar dengan は dan です"
+   },
+   "explanation": {
+    "en": "The particle wa marks the topic being talked about, and the statement about that topic is closed politely with desu. Use this pattern to introduce or state something about the topic.",
+    "id": "Partikel は menandai topik yang dibicarakan, lalu keterangan tentang topik itu diakhiri dengan です agar sopan. Pola ini dipakai untuk memperkenalkan atau menyatakan sesuatu tentang topik."
+   },
+   "examples": [
+    {
+     "jp": "私は猫です。",
+     "kana": "わたしはねこです。",
+     "romaji": "Watashi wa neko desu.",
+     "meaning": {
+      "id": "Aku seekor kucing.",
+      "en": "I'm a cat."
+     }
+    },
+    {
+     "jp": "卵は嫌いです。",
+     "kana": "たまごはきらいです。",
+     "romaji": "Tamago wa kirai desu.",
+     "meaning": {
+      "id": "Aku tidak suka telur.",
+      "en": "I don't care for eggs."
+     }
+    },
+    {
+     "jp": "彼は病気です。",
+     "kana": "かれはびょうきです。",
+     "romaji": "Kareha byouki desu.",
+     "meaning": {
+      "id": "Dia sakit.",
+      "en": "He is sick."
+     }
+    }
+   ]
+  },
+  {
+   "id": "g_n5_002",
+   "level": "N5",
+   "register": "formal",
+   "pattern": "〜ではありません",
+   "romaji": "~ dewa arimasen",
+   "title": {
+    "en": "Polite Negative (Is Not)",
+    "id": "Bentuk Negatif Sopan (Bukan / Tidak)"
+   },
+   "explanation": {
+    "en": "To deny something politely, replace desu with dewa arimasen after a noun or na-adjective. It is the negative counterpart of the plain affirmative desu pattern.",
+    "id": "Untuk menyangkal dengan sopan, ganti です menjadi ではありません setelah kata benda atau kata sifat-na. Bentuk ini adalah pasangan negatif dari pola 〜です."
+   },
+   "examples": [
+    {
+     "jp": "私は先生ではありません。",
+     "kana": "わたしはせんせいではありません。",
+     "romaji": "Watashi wa sensei dehaarimasen.",
+     "meaning": {
+      "id": "Saya bukan guru.",
+      "en": "I am not a teacher."
+     }
+    },
+    {
+     "jp": "私は医者ではありません。",
+     "kana": "わたしはいしゃではありません。",
+     "romaji": "Watashi wa isha dehaarimasen.",
+     "meaning": {
+      "id": "Saya bukan dokter.",
+      "en": "I'm not a doctor."
+     }
+    },
+    {
+     "jp": "私は医者じゃありません。",
+     "kana": "わたしはいしゃじゃありません。",
+     "romaji": "Watashi wa isha jaarimasen.",
+     "meaning": {
+      "id": "Saya bukan dokter.",
+      "en": "I'm not a doctor."
+     }
+    }
+   ]
+  },
+  {
+   "id": "g_n5_003",
+   "level": "N5",
+   "register": "both",
+   "pattern": "〜の〜",
+   "romaji": "~ no ~",
+   "title": {
+    "en": "The Particle no for Possession and Relation",
+    "id": "Partikel の untuk Kepemilikan dan Hubungan"
+   },
+   "explanation": {
+    "en": "The particle no links two nouns. The noun before no describes the noun after it, for example possession, origin, or category.",
+    "id": "Partikel の menghubungkan dua kata benda. Kata sebelum の menjelaskan kata sesudahnya, misalnya untuk kepemilikan, asal, atau kategori."
+   },
+   "examples": [
+    {
+     "jp": "眠いの？",
+     "kana": "ねむいの？",
+     "romaji": "Nemui no ？",
+     "meaning": {
+      "id": "Ngantuk?",
+      "en": "Are you sleepy?"
+     }
+    },
+    {
+     "jp": "寒いの？",
+     "kana": "さむいの？",
+     "romaji": "Samui no ？",
+     "meaning": {
+      "id": "Kamu kedinginan?",
+      "en": "Are you cold?"
+     }
+    },
+    {
+     "jp": "本当なの？",
+     "kana": "ほんとうなの？",
+     "romaji": "Hontou nano ？",
+     "meaning": {
+      "id": "Apa itu benar?",
+      "en": "Is that true?"
+     }
+    }
+   ]
+  },
+  {
+   "id": "g_n5_004",
+   "level": "N5",
+   "register": "both",
+   "pattern": "〜に／へ行きます",
+   "romaji": "~ ni / e ikimasu",
+   "title": {
+    "en": "Going to a Place",
+    "id": "Menuju ke Suatu Tempat"
+   },
+   "explanation": {
+    "en": "The destination of movement is marked with ni or e before a motion verb such as ikimasu. The particle he is read 'e' and stresses direction, while ni stresses the arrival point.",
+    "id": "Tujuan arah gerakan ditandai dengan に atau へ sebelum kata kerja gerakan seperti 行きます. Partikel へ dibaca 'e' dan menekankan arah, sedangkan に menekankan titik tujuan."
+   },
+   "examples": [
+    {
+     "jp": "ここに来な。",
+     "kana": "ここにこな。",
+     "romaji": "Kokoni kona.",
+     "meaning": {
+      "id": "Kemari.",
+      "en": "Come here."
+     }
+    },
+    {
+     "jp": "2時に来て。",
+     "kana": "2ときにきて。",
+     "romaji": "2 tokini kite.",
+     "meaning": {
+      "id": "Datanglah pada jam dua.",
+      "en": "Come at two o'clock."
+     }
+    },
+    {
+     "jp": "どこに行くの？",
+     "kana": "どこにいくの？",
+     "romaji": "Dokoni iku no ？",
+     "meaning": {
+      "id": "Kau mau pergi ke mana?",
+      "en": "Where are you going?"
+     }
+    }
+   ]
+  },
+  {
+   "id": "g_n5_005",
+   "level": "N5",
+   "register": "both",
+   "pattern": "〜を〜ます",
+   "romaji": "~ wo ~ masu",
+   "title": {
+    "en": "Direct Object with wo",
+    "id": "Objek Langsung dengan を"
+   },
+   "explanation": {
+    "en": "The particle wo marks the direct object, the thing the verb acts on, such as eating, drinking, reading, or watching something.",
+    "id": "Partikel を menandai objek langsung, yaitu benda atau hal yang dikenai perbuatan kata kerja, misalnya makan, minum, membaca, atau melihat sesuatu."
+   },
+   "examples": [
+    {
+     "jp": "家を買った。",
+     "kana": "いえをかった。",
+     "romaji": "Ie wo katsu ta.",
+     "meaning": {
+      "id": "Aku membeli rumah.",
+      "en": "I bought a house."
+     }
+    },
+    {
+     "jp": "薬を飲んで。",
+     "kana": "くすりをのんで。",
+     "romaji": "Kusuri wo non de.",
+     "meaning": {
+      "id": "Minum obatmu!",
+      "en": "Drink the medicine."
+     }
+    },
+    {
+     "jp": "私を見なさい。",
+     "kana": "わたしをみなさい。",
+     "romaji": "Watashi wo mina sai.",
+     "meaning": {
+      "id": "Lihat saya.",
+      "en": "Look at me."
+     }
+    }
+   ]
+  },
+  {
+   "id": "g_n5_006",
+   "level": "N5",
+   "register": "formal",
+   "pattern": "〜てください",
+   "romaji": "~ te kudasai",
+   "title": {
+    "en": "Polite Request: Please Do ...",
+    "id": "Permintaan Sopan: Tolong ..."
+   },
+   "explanation": {
+    "en": "Add te kudasai after the te-form of a verb to politely ask someone to do something. This pattern is common in classrooms, offices, and public services.",
+    "id": "Tambahkan てください setelah bentuk-te kata kerja untuk meminta seseorang melakukan sesuatu dengan sopan. Pola ini umum dipakai di kelas, kantor, dan layanan umum."
+   },
+   "examples": [
+    {
+     "jp": "助けてください。",
+     "kana": "たすけてください。",
+     "romaji": "Tasuke tekudasai.",
+     "meaning": {
+      "id": "Tolonglah aku.",
+      "en": "Please help me."
+     }
+    },
+    {
+     "jp": "払わせてください。",
+     "kana": "はらわせてください。",
+     "romaji": "Harawa setekudasai.",
+     "meaning": {
+      "id": "Biarkan saya yang membayar.",
+      "en": "Let me pick up the check."
+     }
+    },
+    {
+     "jp": "窓を開けてください。",
+     "kana": "まどをひらけてください。",
+     "romaji": "Mado wo hirake tekudasai.",
+     "meaning": {
+      "id": "Tolong buka jendelanya.",
+      "en": "Please open the window."
+     }
+    }
+   ]
+  },
+  {
+   "id": "g_n5_007",
+   "level": "N5",
+   "register": "both",
+   "pattern": "〜ています",
+   "romaji": "~ te imasu",
+   "title": {
+    "en": "Action in Progress",
+    "id": "Kejadian yang Sedang Berlangsung"
+   },
+   "explanation": {
+    "en": "The te-form plus imasu expresses an action happening right now, or a state that resulted from an earlier action.",
+    "id": "Bentuk-te ditambah います menyatakan perbuatan yang sedang berlangsung saat ini, atau keadaan yang merupakan hasil dari suatu perbuatan."
+   },
+   "examples": [
+    {
+     "jp": "満足しています。",
+     "kana": "まんぞくしています。",
+     "romaji": "Manzoku shiteimasu.",
+     "meaning": {
+      "id": "Aku puas.",
+      "en": "I'm satisfied."
+     }
+    },
+    {
+     "jp": "雪が降っています。",
+     "kana": "ゆきがふっています。",
+     "romaji": "Yuki ga futsu teimasu.",
+     "meaning": {
+      "id": "Salju.",
+      "en": "Snow is falling."
+     }
+    },
+    {
+     "jp": "犬を飼っていますか。",
+     "kana": "いぬをかっていますか。",
+     "romaji": "Inu wo katsu teimasuka.",
+     "meaning": {
+      "id": "Apa kamu memelihara anjing?",
+      "en": "Do you have a dog?"
+     }
+    }
+   ]
+  },
+  {
+   "id": "g_n5_008",
+   "level": "N5",
+   "register": "casual",
+   "pattern": "〜たい",
+   "romaji": "~ tai",
+   "title": {
+    "en": "Own Desire, Plain Style",
+    "id": "Keinginan Sendiri (Gaya Akrab)"
+   },
+   "explanation": {
+    "en": "The ending tai on a verb states the speaker's own desire. In casual speech tai is used without desu, sometimes with a final particle such as na or yo.",
+    "id": "Akhiran たい pada kata kerja menyatakan keinginan pembicara sendiri. Dalam percakapan akrab, たい dipakai tanpa です, kadang ditambah partikel akhir seperti な atau よ."
+   },
+   "examples": [
+    {
+     "jp": "生きたい。",
+     "kana": "いきたい。",
+     "romaji": "Iki tai.",
+     "meaning": {
+      "id": "Aku ingin hidup.",
+      "en": "I want to live."
+     }
+    },
+    {
+     "jp": "死にたい。",
+     "kana": "しにたい。",
+     "romaji": "Shini tai.",
+     "meaning": {
+      "id": "Aku ingin mati.",
+      "en": "I want to die."
+     }
+    },
+    {
+     "jp": "話したい？",
+     "kana": "はなしたい？",
+     "romaji": "Hanashi tai ？",
+     "meaning": {
+      "id": "Kamu mau bicara?",
+      "en": "Do you wanna talk?"
+     }
+    }
+   ]
+  },
+  {
+   "id": "g_n5_009",
+   "level": "N5",
+   "register": "both",
+   "pattern": "〜から〜まで",
+   "romaji": "~ kara ~ made",
+   "title": {
+    "en": "From ... Until ...",
+    "id": "Dari ... Sampai ..."
+   },
+   "explanation": {
+    "en": "The particle kara marks a starting point and made marks an end point, for both time and place. They can be used on their own or paired in one sentence.",
+    "id": "Partikel から menandai titik awal dan まで menandai titik akhir, baik untuk waktu maupun tempat. Keduanya bisa dipakai sendiri-sendiri atau berpasangan dalam satu kalimat."
+   },
+   "examples": [
+    {
+     "jp": "だから何？",
+     "kana": "だからなに？",
+     "romaji": "Dakara nani ？",
+     "meaning": {
+      "id": "Terus kenapa?",
+      "en": "So what?"
+     }
+    },
+    {
+     "jp": "いつから？",
+     "kana": "いつから？",
+     "romaji": "Itsukara ？",
+     "meaning": {
+      "id": "Dari kapan?",
+      "en": "Since when?"
+     }
+    },
+    {
+     "jp": "分からない。",
+     "kana": "わからない。",
+     "romaji": "Waka ranai.",
+     "meaning": {
+      "id": "Aku tidak paham.",
+      "en": "I don't know."
+     }
+    }
+   ]
+  },
+  {
+   "id": "g_n5_010",
+   "level": "N5",
+   "register": "both",
+   "pattern": "〜が好きです",
+   "romaji": "~ ga suki desu",
+   "title": {
+    "en": "Saying What You Like",
+    "id": "Menyatakan Kesukaan"
+   },
+   "explanation": {
+    "en": "The thing that is liked is marked with ga before suki desu. Note that Japanese marks the liked thing, not the person who likes it.",
+    "id": "Hal yang disukai ditandai dengan が sebelum 好きです. Perhatikan bahwa dalam bahasa Jepang yang ditandai adalah benda yang disukai, bukan orang yang menyukai."
+   },
+   "examples": [
+    {
+     "jp": "青が好きだ。",
+     "kana": "あおがすきだ。",
+     "romaji": "Ao ga suki da.",
+     "meaning": {
+      "id": "Aku suka biru.",
+      "en": "I like blue."
+     }
+    },
+    {
+     "jp": "彼は虎が好き。",
+     "kana": "かれはとらがすき。",
+     "romaji": "Kareha tora ga suki.",
+     "meaning": {
+      "id": "Dia suka macan.",
+      "en": "He likes a tiger."
+     }
+    },
+    {
+     "jp": "彼が好きです。",
+     "kana": "かれがすきです。",
+     "romaji": "Kare ga suki desu.",
+     "meaning": {
+      "id": "Aku suka dia.",
+      "en": "I like him."
+     }
+    }
+   ]
+  },
+  {
+   "id": "g_n5_011",
+   "level": "N5",
+   "register": "both",
+   "pattern": "〜でしょう",
+   "romaji": "~ deshou",
+   "title": {
+    "en": "Conjecture: Probably",
+    "id": "Dugaan: Mungkin / Barangkali"
+   },
+   "explanation": {
+    "en": "The ending deshou expresses the speaker's guess or an uncertain expectation. With rising intonation it can also ask the listener to agree.",
+    "id": "Akhiran でしょう menyatakan dugaan pembicara atau perkiraan yang belum pasti. Dengan intonasi naik, pola ini juga bisa dipakai untuk meminta persetujuan lawan bicara."
+   },
+   "examples": [
+    {
+     "jp": "彼は医者でしょう。",
+     "kana": "かれはいしゃでしょう。",
+     "romaji": "Kareha isha deshou.",
+     "meaning": {
+      "id": "Kemungkinan dia adalah seorang dokter.",
+      "en": "I think he is a doctor."
+     }
+    },
+    {
+     "jp": "彼はすぐ来るでしょう。",
+     "kana": "かれはすぐくるでしょう。",
+     "romaji": "Kareha sugu kuru deshou.",
+     "meaning": {
+      "id": "Ia akan segera datang.",
+      "en": "He will come soon."
+     }
+    },
+    {
+     "jp": "お名前は何でしょうか。",
+     "kana": "おなまえはなんでしょうか。",
+     "romaji": "O namae wa nande shouka.",
+     "meaning": {
+      "id": "Siapa nama Anda?",
+      "en": "What is your name?"
+     }
+    }
+   ]
+  },
+  {
+   "id": "g_n5_012",
+   "level": "N5",
+   "register": "casual",
+   "pattern": "〜だ",
+   "romaji": "~ da",
+   "title": {
+    "en": "Plain Copula da",
+    "id": "Kopula Akrab だ"
+   },
+   "explanation": {
+    "en": "In casual speech, desu is replaced by da after nouns and na-adjectives. This form is used with close friends and family, often together with final particles such as yo or ne.",
+    "id": "Dalam percakapan akrab, です diganti dengan だ setelah kata benda dan kata sifat-na. Bentuk ini dipakai dengan teman dekat dan keluarga, sering bersama partikel akhir よ atau ね."
+   },
+   "examples": [
+    {
+     "jp": "嫌だ！",
+     "kana": "いやだ！",
+     "romaji": "Iyada!",
+     "meaning": {
+      "id": "Tidak!",
+      "en": "No!"
+     }
+    },
+    {
+     "jp": "成功だ！",
+     "kana": "せいこうだ！",
+     "romaji": "Seikou da!",
+     "meaning": {
+      "id": "Berhasil!",
+      "en": "We succeeded!"
+     }
+    },
+    {
+     "jp": "残念だ！",
+     "kana": "ざんねんだ！",
+     "romaji": "Zannen da!",
+     "meaning": {
+      "id": "Sayang sekali!",
+      "en": "What a pity!"
+     }
+    }
+   ]
+  },
+  {
+   "id": "g_n4_001",
+   "level": "N4",
+   "register": "both",
+   "pattern": "〜たことがあります",
+   "romaji": "~ ta koto ga arimasu",
+   "title": {
+    "en": "Experience: Have Done ... Before",
+    "id": "Pengalaman: Pernah ..."
+   },
+   "explanation": {
+    "en": "The plain past form plus koto ga arimasu states that someone has done something at least once in their life.",
+    "id": "Bentuk lampau biasa ditambah ことがあります menyatakan bahwa seseorang pernah melakukan sesuatu setidaknya satu kali dalam hidupnya."
+   },
+   "examples": [
+    {
+     "jp": "これ見たことある？",
+     "kana": "これみたことある？",
+     "romaji": "Kore mita kotoaru ？",
+     "meaning": {
+      "id": "Apa kamu sudah lihat ini?",
+      "en": "Have you seen this?"
+     }
+    },
+    {
+     "jp": "虹を見たことある？",
+     "kana": "にじをみたことある？",
+     "romaji": "Niji wo mita kotoaru ？",
+     "meaning": {
+      "id": "Pernahkah kamu melihat pelangi?",
+      "en": "Have you ever seen a rainbow?"
+     }
+    },
+    {
+     "jp": "日本食食べたことある？",
+     "kana": "にほんしょくたべたことある？",
+     "romaji": "Nihonshoku tabeta kotoaru ？",
+     "meaning": {
+      "id": "Kamu pernah makan masakan Jepang?",
+      "en": "Have you ever eaten Japanese food?"
+     }
+    }
+   ]
+  },
+  {
+   "id": "g_n4_002",
+   "level": "N4",
+   "register": "both",
+   "pattern": "〜たり〜たりします",
+   "romaji": "~ tari ~ tari shimasu",
+   "title": {
+    "en": "Listing Example Activities",
+    "id": "Menyebut Contoh Kegiatan"
+   },
+   "explanation": {
+    "en": "The tari form repeats verbs or adjectives to name a few example activities, without claiming the list is complete.",
+    "id": "Bentuk たり mengulang kata kerja atau kata sifat untuk menyebut beberapa contoh kegiatan, tanpa mengklaim bahwa daftarnya lengkap."
+   },
+   "examples": [
+    {
+     "jp": "当たり前のこと言うなよ。",
+     "kana": "あたりまえのこというなよ。",
+     "romaji": "Atarimae nokoto iu nayo.",
+     "meaning": {
+      "id": "Gak usah dibilang yang sudah jelas.",
+      "en": "Don't state the obvious."
+     }
+    },
+    {
+     "jp": "このあたりが落とし所だろう。",
+     "kana": "このあたりがおとしところだろう。",
+     "romaji": "Konoatariga oto shi tokoro darou.",
+     "meaning": {
+      "id": "Jatuhnya di sekitar sini kan?",
+      "en": "I must have dropped it somewhere around here."
+     }
+    },
+    {
+     "jp": "彼は背中を掻いたり、爪を噛んだりする癖がある。",
+     "kana": "かれはせなかをかいたり、つめをかんだりするくせがある。",
+     "romaji": "Kareha senaka wo kai tari, tsume wo kan darisuru kuse gaaru.",
+     "meaning": {
+      "id": "Dia memiliki kebiasaan menggaruk punggung dan menggigit kuku.",
+      "en": "He has a habit of scratching his back and biting his nails."
+     }
+    }
+   ]
+  },
+  {
+   "id": "g_n4_003",
+   "level": "N4",
+   "register": "formal",
+   "pattern": "〜なければなりません",
+   "romaji": "~ nakereba narimasen",
+   "title": {
+    "en": "Obligation: Must ...",
+    "id": "Kewajiban: Harus ..."
+   },
+   "explanation": {
+    "en": "This pattern expresses obligation: not doing the action is not acceptable. It literally means 'it will not do if (you) do not'.",
+    "id": "Pola ini menyatakan kewajiban: jika tidak melakukan sesuatu, keadaan tidak bisa diterima. Bentuknya secara harfiah berarti 'tidak boleh jika tidak'."
+   },
+   "examples": [
+    {
+     "jp": "何かしなければならない。",
+     "kana": "なにかしなければならない。",
+     "romaji": "Nanika shinakerebanaranai.",
+     "meaning": {
+      "id": "Saya harus melakukan sesuatu.",
+      "en": "I have to do something."
+     }
+    },
+    {
+     "jp": "私は眠らなければなりません。",
+     "kana": "わたしはねむらなければなりません。",
+     "romaji": "Watashi wa nemura nakerebanarimasen.",
+     "meaning": {
+      "id": "Saya harus tidur",
+      "en": "I have to go to sleep."
+     }
+    },
+    {
+     "jp": "法律は守らなければならない。",
+     "kana": "ほうりつはまもらなければならない。",
+     "romaji": "Houritsu wa mamora nakerebanaranai.",
+     "meaning": {
+      "id": "Kita harus taat peraturan.",
+      "en": "You must observe the law."
+     }
+    }
+   ]
+  },
+  {
+   "id": "g_n4_004",
+   "level": "N4",
+   "register": "formal",
+   "pattern": "〜てもいいです",
+   "romaji": "~ temo ii desu",
+   "title": {
+    "en": "Permission: May ...",
+    "id": "Izin: Boleh ..."
+   },
+   "explanation": {
+    "en": "The te-form plus mo ii desu gives or asks permission to do something. To ask, end the sentence with ka.",
+    "id": "Bentuk-te ditambah もいいです memberi atau meminta izin melakukan sesuatu. Untuk bertanya, kalimat diakhiri dengan か."
+   },
+   "examples": [
+    {
+     "jp": "手つないでもいい？",
+     "kana": "てつないでもいい？",
+     "romaji": "Te tsunaidemoii ？",
+     "meaning": {
+      "id": "Boleh aku pegang tangan kamu?",
+      "en": "May I hold your hand?"
+     }
+    },
+    {
+     "jp": "トムに話してもいい？",
+     "kana": "とむにはなしてもいい？",
+     "romaji": "Tomu ni hanashi temoii ？",
+     "meaning": {
+      "id": "Boleh aku bicara sama Tom?",
+      "en": "Can I tell Tom?"
+     }
+    },
+    {
+     "jp": "トム連れてきてもいい？",
+     "kana": "とむつれてきてもいい？",
+     "romaji": "Tomu tsure tekitemoii ？",
+     "meaning": {
+      "id": "Boleh aku mengajak Tom?",
+      "en": "Can I bring Tom?"
+     }
+    }
+   ]
+  },
+  {
+   "id": "g_n4_005",
+   "level": "N4",
+   "register": "formal",
+   "pattern": "〜てはいけません",
+   "romaji": "~ tewa ikemasen",
+   "title": {
+    "en": "Prohibition: Must Not ...",
+    "id": "Larangan: Tidak Boleh ..."
+   },
+   "explanation": {
+    "en": "The te-form plus wa ikemasen expresses a prohibition. It is the counterpart of the permission pattern temo ii desu.",
+    "id": "Bentuk-te ditambah はいけません menyatakan larangan. Pola ini adalah lawan dari pola izin 〜てもいいです."
+   },
+   "examples": [
+    {
+     "jp": "石を投げてはいけない。",
+     "kana": "いしをなげてはいけない。",
+     "romaji": "Ishi wo nage tehaikenai.",
+     "meaning": {
+      "id": "Jangan melempar batu.",
+      "en": "Don't throw stones."
+     }
+    },
+    {
+     "jp": "道路で遊んではいけません。",
+     "kana": "どうろであそんではいけません。",
+     "romaji": "Douro de asonde haikemasen.",
+     "meaning": {
+      "id": "Jangan main di jalan raya.",
+      "en": "Don't play in the street."
+     }
+    },
+    {
+     "jp": "人をからかってはいけない。",
+     "kana": "にんをからかってはいけない。",
+     "romaji": "Nin wokarakattehaikenai.",
+     "meaning": {
+      "id": "Jangan mempermainkan orang lain.",
+      "en": "Don't make fun of other people."
+     }
+    }
+   ]
+  },
+  {
+   "id": "g_n4_006",
+   "level": "N4",
+   "register": "both",
+   "pattern": "〜と思います",
+   "romaji": "~ to omoimasu",
+   "title": {
+    "en": "Opinion: I Think That ...",
+    "id": "Pendapat: Saya Pikir ..."
+   },
+   "explanation": {
+    "en": "Add to omoimasu after a plain form to present a personal opinion or guess softly, rather than as a certain fact.",
+    "id": "Tambahkan と思います setelah bentuk biasa untuk menyampaikan pendapat atau dugaan pribadi secara halus, bukan sebagai fakta pasti."
+   },
+   "examples": [
+    {
+     "jp": "彼は正しいと思う。",
+     "kana": "かれはただしいとおもう。",
+     "romaji": "Kareha tadashii to omou.",
+     "meaning": {
+      "id": "Saya pikir dia benar.",
+      "en": "I think he is right."
+     }
+    },
+    {
+     "jp": "どれが正しいと思う？",
+     "kana": "どれがただしいとおもう？",
+     "romaji": "Dorega tadashii to omou ？",
+     "meaning": {
+      "id": "Menurutmu mana yang benar?",
+      "en": "Which one do you think is correct?"
+     }
+    },
+    {
+     "jp": "僕は彼は馬鹿だと思う。",
+     "kana": "ぼくはかれはばかだとおもう。",
+     "romaji": "Bokuha kareha baka dato omou.",
+     "meaning": {
+      "id": "Saya rasa dia bodoh.",
+      "en": "I think him a fool."
+     }
+    }
+   ]
+  },
+  {
+   "id": "g_n4_007",
+   "level": "N4",
+   "register": "both",
+   "pattern": "〜ことができます",
+   "romaji": "~ koto ga dekimasu",
+   "title": {
+    "en": "Ability: Can Do ...",
+    "id": "Kemampuan: Bisa / Dapat ..."
+   },
+   "explanation": {
+    "en": "The dictionary form of a verb plus koto ga dekimasu expresses the ability or possibility of doing something. It is equivalent to the verb potential form.",
+    "id": "Bentuk kamus kata kerja ditambah ことができます menyatakan kemampuan atau kemungkinan melakukan sesuatu. Pola ini setara dengan bentuk potensial kata kerja."
+   },
+   "examples": [
+    {
+     "jp": "荷物を預けることができますか。",
+     "kana": "にもつをあずけることができますか。",
+     "romaji": "Nimotsu wo azuke rukotogadekimasuka.",
+     "meaning": {
+      "id": "Apakah saya bisa menitipkan barang saya?",
+      "en": "Could I check my bags?"
+     }
+    },
+    {
+     "jp": "彼女は状況をつかむことができる。",
+     "kana": "かのじょはじょうきょうをつかむことができる。",
+     "romaji": "Kanojo wa joukyou wotsukamukotogadekiru.",
+     "meaning": {
+      "id": "Dia mampu memahami situasi yang ada.",
+      "en": "She is able to grasp the situation."
+     }
+    },
+    {
+     "jp": "彼女は情勢を把握することができる。",
+     "kana": "かのじょはじょうせいをはあくすることができる。",
+     "romaji": "Kanojo wa jousei wo haaku surukotogadekiru.",
+     "meaning": {
+      "id": "Dia mampu memahami situasi yang ada.",
+      "en": "She is able to grasp the situation."
+     }
+    }
+   ]
+  },
+  {
+   "id": "g_n4_008",
+   "level": "N4",
+   "register": "both",
+   "pattern": "〜たほうがいいです",
+   "romaji": "~ ta hou ga ii desu",
+   "title": {
+    "en": "Advice: Had Better ...",
+    "id": "Saran: Sebaiknya ..."
+   },
+   "explanation": {
+    "en": "The past form plus hou ga ii desu advises that an action is better to do. For negative advice, use the nai hou ga ii desu form.",
+    "id": "Bentuk lampau ditambah ほうがいいです memberi saran bahwa suatu tindakan lebih baik dilakukan. Untuk saran negatif, gunakan bentuk ないほうがいいです."
+   },
+   "examples": [
+    {
+     "jp": "私達は座った方がいい。",
+     "kana": "わたしたちはすわったほうがいい。",
+     "romaji": "Watashitachi wa suwatsu ta houga ii.",
+     "meaning": {
+      "id": "Sebaiknya kita duduk.",
+      "en": "We had better sit down here."
+     }
+    },
+    {
+     "jp": "煙草は止めたほうがいいよ。",
+     "kana": "たばこはとめたほうがいいよ。",
+     "romaji": "Tabako wa tome tahougaiiyo.",
+     "meaning": {
+      "id": "Kamu harus berhenti merokok.",
+      "en": "You should give up smoking."
+     }
+    },
+    {
+     "jp": "コートを着たほうがいいよ。",
+     "kana": "こーとをきたほうがいいよ。",
+     "romaji": "Kooto wo kita hougaiiyo.",
+     "meaning": {
+      "id": "Sebaiknya kamu pakai jasmu.",
+      "en": "You should put your coat on."
+     }
+    }
+   ]
+  },
+  {
+   "id": "g_n4_009",
+   "level": "N4",
+   "register": "casual",
+   "pattern": "〜ちゃう／〜じゃう",
+   "romaji": "~ chau / ~ jau",
+   "title": {
+    "en": "Casual Contraction chau",
+    "id": "Kontraksi Akrab ちゃう"
+   },
+   "explanation": {
+    "en": "In casual speech, te shimau shrinks to chau and de shimau to jau. The meaning stays the same: completion, or something happening regrettably.",
+    "id": "Dalam percakapan akrab, てしまう menyusut menjadi ちゃう dan でしまう menjadi じゃう. Maknanya tetap: selesai sepenuhnya, atau terjadi hal yang disesali."
+   },
+   "examples": [
+    {
+     "jp": "疲れちゃったの？",
+     "kana": "つかれちゃったの？",
+     "romaji": "Tsukare chattano ？",
+     "meaning": {
+      "id": "Kamu capek?",
+      "en": "Are you tired?"
+     }
+    },
+    {
+     "jp": "退屈しちゃったよ。",
+     "kana": "たいくつしちゃったよ。",
+     "romaji": "Taikutsu shichattayo.",
+     "meaning": {
+      "id": "Aku bosan.",
+      "en": "I'm bored."
+     }
+    },
+    {
+     "jp": "ごめん、起こしちゃった？",
+     "kana": "ごめん、おこしちゃった？",
+     "romaji": "Gomen, oko shichatta ？",
+     "meaning": {
+      "id": "Maaf, aku bangunin kamu?",
+      "en": "I'm sorry. Did I wake you up?"
+     }
+    }
+   ]
+  },
+  {
+   "id": "g_n4_010",
+   "level": "N4",
+   "register": "casual",
+   "pattern": "〜てる",
+   "romaji": "~ teru",
+   "title": {
+    "en": "The teru Form (Dropped i)",
+    "id": "Bentuk てる (Penghilangan い)"
+   },
+   "explanation": {
+    "en": "In casual style, te iru is often spoken as teru with the i dropped. The meaning is unchanged: an action in progress or a continuing state.",
+    "id": "Dalam gaya akrab, ている sering diucapkan てる dengan menghilangkan い. Maknanya sama: perbuatan sedang berlangsung atau keadaan berlanjut."
+   },
+   "examples": [
+    {
+     "jp": "愛してる。",
+     "kana": "いとしてる。",
+     "romaji": "Itoshi teru.",
+     "meaning": {
+      "id": "Aku cinta kamu.",
+      "en": "I love you."
+     }
+    },
+    {
+     "jp": "彼寝てる？",
+     "kana": "かれねてる？",
+     "romaji": "Kare nete ru ？",
+     "meaning": {
+      "id": "Dia sedang tidur?",
+      "en": "Is he sleeping?"
+     }
+    },
+    {
+     "jp": "寝てるの？",
+     "kana": "ねてるの？",
+     "romaji": "Nete runo ？",
+     "meaning": {
+      "id": "Kamu sudah tidur?",
+      "en": "Is he sleeping?"
+     }
+    }
+   ]
+  },
+  {
+   "id": "g_n4_011",
+   "level": "N4",
+   "register": "casual",
+   "pattern": "〜んだ",
+   "romaji": "~ n da",
+   "title": {
+    "en": "Casual Explanatory n da",
+    "id": "Penjelas Akrab んだ"
+   },
+   "explanation": {
+    "en": "The ending n da adds an explanatory nuance, giving a reason or background, and is often used when realising or emphasising something in casual talk.",
+    "id": "Akhiran んだ memberi nuansa menjelaskan alasan atau latar belakang, dan sering dipakai saat menyadari atau menekankan sesuatu dalam percakapan akrab."
+   },
+   "examples": [
+    {
+     "jp": "金髪の女の子なんだ。",
+     "kana": "きんぱつのおんなのこなんだ。",
+     "romaji": "Kinpatsu no onnanoko nanda.",
+     "meaning": {
+      "id": "Dia wanita berambut pirang.",
+      "en": "She is a blonde girl."
+     }
+    },
+    {
+     "jp": "僕の家この近くなんだ。",
+     "kana": "ぼくのいえこのちかくなんだ。",
+     "romaji": "Boku no ie kono chikaku nanda.",
+     "meaning": {
+      "id": "Rumahku di dekat sini.",
+      "en": "My apartment is near here."
+     }
+    },
+    {
+     "jp": "泳ぐのが大好きなんだ。",
+     "kana": "およぐのがだいすきなんだ。",
+     "romaji": "Oyogu noga daisuki nanda.",
+     "meaning": {
+      "id": "Aku sangat suka berenang.",
+      "en": "I love swimming."
+     }
+    }
+   ]
+  },
+  {
+   "id": "g_n4_012",
+   "level": "N4",
+   "register": "both",
+   "pattern": "〜やすい／〜にくい",
+   "romaji": "~ yasui / ~ nikui",
+   "title": {
+    "en": "Easy / Hard to Do",
+    "id": "Mudah / Sulit Dilakukan"
+   },
+   "explanation": {
+    "en": "Attach yasui to a verb stem to say something is easy to do, and nikui to say it is hard to do.",
+    "id": "Tambahkan やすい pada batang kata kerja untuk menyatakan sesuatu mudah dilakukan, dan にくい untuk menyatakan sulit dilakukan."
+   },
+   "examples": [
+    {
+     "jp": "ガラスは壊れやすい。",
+     "kana": "がらすはこわれやすい。",
+     "romaji": "Garasu wa koware yasui.",
+     "meaning": {
+      "id": "Kaca mudah pecah.",
+      "en": "Glass breaks easily."
+     }
+    },
+    {
+     "jp": "この花瓶は割れやすい。",
+     "kana": "このかびんはわれやすい。",
+     "romaji": "Kono kabin wa ware yasui.",
+     "meaning": {
+      "id": "Vas ini mudah pecah.",
+      "en": "This vase is fragile."
+     }
+    },
+    {
+     "jp": "トムは親しみやすい人だ。",
+     "kana": "とむはしたしみやすいにんだ。",
+     "romaji": "Tomu wa shitashimi yasui nin da.",
+     "meaning": {
+      "id": "Tom adalah orang yang ramah.",
+      "en": "Tom is a friendly person."
+     }
+    }
+   ]
+  },
+  {
+   "id": "g_n3_001",
+   "level": "N3",
+   "register": "both",
+   "pattern": "〜たら",
+   "romaji": "~ tara",
+   "title": {
+    "en": "Conditional tara (If / When)",
+    "id": "Syarat たら (Jika / Ketika)"
+   },
+   "explanation": {
+    "en": "The plain past form plus tara gives a conditional: when or if the first part happens, the second part follows. It can also suggest doing something after an event is finished.",
+    "id": "Bentuk lampau biasa ditambah たら membentuk syarat: jika atau setelah bagian pertama terjadi, bagian kedua mengikuti. Pola ini juga bisa menyarankan tindakan setelah suatu kejadian selesai."
+   },
+   "examples": [
+    {
+     "jp": "痛いったら。",
+     "kana": "いたいったら。",
+     "romaji": "Itai ttara.",
+     "meaning": {
+      "id": "Sakit, ih!",
+      "en": "You're hurting me."
+     }
+    },
+    {
+     "jp": "泳げたらいいな。",
+     "kana": "およげたらいいな。",
+     "romaji": "Oyoge taraiina.",
+     "meaning": {
+      "id": "Andai aku bisa berenang.",
+      "en": "I wish I could swim."
+     }
+    },
+    {
+     "jp": "泳げたらいいのになあ。",
+     "kana": "およげたらいいのになあ。",
+     "romaji": "Oyoge taraiinoninaa.",
+     "meaning": {
+      "id": "Andai saja aku bisa berenang.",
+      "en": "I wish I could swim."
+     }
+    }
+   ]
+  },
+  {
+   "id": "g_n3_002",
+   "level": "N3",
+   "register": "both",
+   "pattern": "〜のに",
+   "romaji": "~ noni",
+   "title": {
+    "en": "Despite / Even Though",
+    "id": "Meskipun / Walaupun"
+   },
+   "explanation": {
+    "en": "The particle noni connects two facts that contrast: the second clause happened despite the first. It often carries surprise or mild complaint.",
+    "id": "Partikel のに menghubungkan dua fakta yang berlawanan: klausa kedua terjadi meskipun ada klausa pertama. Nuansanya sering mengandung rasa heran atau keluhan ringan."
+   },
+   "examples": [
+    {
+     "jp": "泳げたらいいのになあ。",
+     "kana": "およげたらいいのになあ。",
+     "romaji": "Oyoge taraiinoninaa.",
+     "meaning": {
+      "id": "Andai saja aku bisa berenang.",
+      "en": "I wish I could swim."
+     }
+    },
+    {
+     "jp": "黙ってればよかったのに。",
+     "kana": "だまってればよかったのに。",
+     "romaji": "Damatsu terebayokattanoni.",
+     "meaning": {
+      "id": "Sebaiknya kamu diam saja tadi.",
+      "en": "You should have kept your mouth shut."
+     }
+    },
+    {
+     "jp": "うまくいったと思ったのに。",
+     "kana": "うまくいったとおもったのに。",
+     "romaji": "Umakuittato omotta noni.",
+     "meaning": {
+      "id": "Padahal aku pikir berjalan mulus.",
+      "en": "I thought that went well."
+     }
+    }
+   ]
+  },
+  {
+   "id": "g_n3_003",
+   "level": "N3",
+   "register": "both",
+   "pattern": "〜ように",
+   "romaji": "~ you ni",
+   "title": {
+    "en": "So That / In Order To",
+    "id": "Agar / Supaya"
+   },
+   "explanation": {
+    "en": "The pattern you ni expresses a purpose, a wish, or an effort so that something becomes possible or turns out a certain way.",
+    "id": "Pola ように menyatakan tujuan, harapan, atau usaha agar sesuatu menjadi mungkin atau terjadi dengan cara tertentu."
+   },
+   "examples": [
+    {
+     "jp": "神の恵みがありますように。",
+     "kana": "かみのめぐみがありますように。",
+     "romaji": "Kami no megumi gaarimasuyouni.",
+     "meaning": {
+      "id": "Semoga Tuhan memberkatimu.",
+      "en": "May God bless you."
+     }
+    },
+    {
+     "jp": "ケーキを食べ過ぎないようにね。",
+     "kana": "けーきをたべすぎないようにね。",
+     "romaji": "Keeki wo tabe sugina iyounine.",
+     "meaning": {
+      "id": "Kuenya jangan dimakan banyak-banyak, ya.",
+      "en": "Do not eat too much cake."
+     }
+    },
+    {
+     "jp": "君はまだ高校生のように見えるね。",
+     "kana": "くんはまだこうこうせいのようにみえるね。",
+     "romaji": "Kun hamada koukousei noyouni mie rune.",
+     "meaning": {
+      "id": "Kamu kelihatan seperti masih SMA.",
+      "en": "You still look like a high school student."
+     }
+    }
+   ]
+  },
+  {
+   "id": "g_n3_004",
+   "level": "N3",
+   "register": "both",
+   "pattern": "〜ばかり",
+   "romaji": "~ bakari",
+   "title": {
+    "en": "Just Did / Nothing But",
+    "id": "Baru Saja / Hanya ... Saja"
+   },
+   "explanation": {
+    "en": "After the plain past form, bakari means an action has just been completed a moment ago. After a noun, it means nothing but that thing.",
+    "id": "Setelah bentuk lampau biasa, ばかり berarti suatu tindakan baru saja selesai. Setelah kata benda, maknanya adalah hanya benda itu saja."
+   },
+   "examples": [
+    {
+     "jp": "よく行くお店ばかりつぶれる。",
+     "kana": "よくいくおみせばかりつぶれる。",
+     "romaji": "Yoku iku o mise bakaritsubureru.",
+     "meaning": {
+      "id": "Restoran yang tutup selalu yang sering aku kunjungi.",
+      "en": "It's only the shops I often go to that go out of business."
+     }
+    },
+    {
+     "jp": "彼女は12歳になったばかりである。",
+     "kana": "かのじょは12としになったばかりである。",
+     "romaji": "Kanojo wa 12 toshi ninattabakaridearu.",
+     "meaning": {
+      "id": "Dia baru saja menginjak usia 12 tahun.",
+      "en": "She has just turned twelve."
+     }
+    },
+    {
+     "jp": "私の髪はまだ洗ったばかりで濡れていた。",
+     "kana": "わたしのかみはまだあらったばかりでぬれていた。",
+     "romaji": "Watashi no kami hamada aratsu tabakaride nure teita.",
+     "meaning": {
+      "id": "Rambutku masih basah karena aku baru saja keramas.",
+      "en": "My hair was still wet from being washed."
+     }
+    }
+   ]
+  },
+  {
+   "id": "g_n3_005",
+   "level": "N3",
+   "register": "both",
+   "pattern": "〜てあげる／〜てくれる／〜てもらう",
+   "romaji": "~ te ageru / ~ te kureru / ~ te morau",
+   "title": {
+    "en": "Favours: Giving and Receiving Actions",
+    "id": "Pertolongan: Memberi dan Menerima Tindakan"
+   },
+   "explanation": {
+    "en": "Giving and receiving verbs describe favours. Ageru is a favour to someone else, kureru is a favour to the speaker or their group, and morau is receiving a favour.",
+    "id": "Kata kerja memberi dan menerima menggambarkan pertolongan. あげる adalah pertolongan untuk orang lain, くれる pertolongan untuk pembicara atau kelompoknya, dan もらう menerima pertolongan."
+   },
+   "examples": [
+    {
+     "jp": "助けてくれ。",
+     "kana": "たすけてくれ。",
+     "romaji": "Tasuke tekure.",
+     "meaning": {
+      "id": "Tolong aku.",
+      "en": "Help me."
+     }
+    },
+    {
+     "jp": "見せてくれ。",
+     "kana": "みせてくれ。",
+     "romaji": "Mise tekure.",
+     "meaning": {
+      "id": "Perlihatkan padaku.",
+      "en": "Let me check it."
+     }
+    },
+    {
+     "jp": "見してくれ。",
+     "kana": "みしてくれ。",
+     "romaji": "Mishi tekure.",
+     "meaning": {
+      "id": "Perlihatkan padaku.",
+      "en": "Gimme a look-see."
+     }
+    }
+   ]
+  },
+  {
+   "id": "g_n3_006",
+   "level": "N3",
+   "register": "formal",
+   "pattern": "〜させられる",
+   "romaji": "~ saserareru",
+   "title": {
+    "en": "Causative-Passive: Was Made To",
+    "id": "Kausatif-Pasif: Dipaksa / Dibuat Melakukan"
+   },
+   "explanation": {
+    "en": "The causative-passive form means someone was made to do something against their will, combining the causative and passive voices in one verb form.",
+    "id": "Bentuk kausatif-pasif berarti seseorang dibuat melakukan sesuatu di luar keinginannya, menggabungkan bentuk kausatif dan pasif dalam satu kata kerja."
+   },
+   "examples": [
+    {
+     "jp": "僕を来させられないよ。",
+     "kana": "ぼくをきさせられないよ。",
+     "romaji": "Boku wo kisa serarenaiyo.",
+     "meaning": {
+      "id": "Anda tidak bisa membuat saya datang.",
+      "en": "You can't make me come."
+     }
+    },
+    {
+     "jp": "彼はそうさせられました。",
+     "kana": "かれはそうさせられました。",
+     "romaji": "Kareha sousaseraremashita.",
+     "meaning": {
+      "id": "Dia diciptakan untuk melakukannya.",
+      "en": "He was made to do so."
+     }
+    },
+    {
+     "jp": "彼は悪い癖を直させられた。",
+     "kana": "かれはわるいくせをなおさせられた。",
+     "romaji": "Kareha warui kuse wo naosa serareta.",
+     "meaning": {
+      "id": "Dia sembuh dari kebiasaan buruknya.",
+      "en": "He was cured of his bad habits."
+     }
+    }
+   ]
+  },
+  {
+   "id": "g_n3_007",
+   "level": "N3",
+   "register": "both",
+   "pattern": "〜わけではない",
+   "romaji": "~ wake dewa nai",
+   "title": {
+    "en": "It Does Not Necessarily Mean That",
+    "id": "Bukan Berarti Bahwa ..."
+   },
+   "explanation": {
+    "en": "Adding wake dewa nai after a plain form softens a denial: it does not necessarily mean that, or it is not that something is impossible.",
+    "id": "Menambahkan わけではない setelah bentuk biasa melembutkan sangkalan: bukan berarti demikian, atau bukan berarti sesuatu tidak mungkin."
+   },
+   "examples": [
+    {
+     "jp": "人は皆幸せになれるわけではない。",
+     "kana": "にんはみなしあわせになれるわけではない。",
+     "romaji": "Nin wa mina shiawase ninareruwakedehanai.",
+     "meaning": {
+      "id": "Tidak semua orang dapat merasakan kebahagiaan.",
+      "en": "Every man cannot be happy."
+     }
+    },
+    {
+     "jp": "私は彼の小説を全部読んだわけではない。",
+     "kana": "わたしはかのしょうせつをぜんぶよんだわけではない。",
+     "romaji": "Watashi wa kano shousetsu wo zenbu yonda wakedehanai.",
+     "meaning": {
+      "id": "Aku belum membaca semua novelnya.",
+      "en": "I haven't read all of his novels."
+     }
+    },
+    {
+     "jp": "その本のうちどちらもおもしろいわけではない。",
+     "kana": "そのほんのうちどちらもおもしろいわけではない。",
+     "romaji": "Sono hon nouchidochiramoomoshiroiwakedehanai.",
+     "meaning": {
+      "id": "Tidak ada satupun dari buku-buku itu yang menarik.",
+      "en": "Neither of those books is interesting."
+     }
+    }
+   ]
+  },
+  {
+   "id": "g_n3_008",
+   "level": "N3",
+   "register": "both",
+   "pattern": "〜っぽい",
+   "romaji": "~ ppoi",
+   "title": {
+    "en": "-ish / Tends To",
+    "id": "Terasa Seperti / Cenderung"
+   },
+   "explanation": {
+    "en": "The ending ppoi attached to a noun or verb stem says something feels or looks like that thing, or that a tendency is easily noticed.",
+    "id": "Akhiran っぽい yang dilekatkan pada kata benda atau batang kata kerja menyatakan sesuatu terasa atau tampak seperti hal itu, atau kecenderungan yang mudah terlihat."
+   },
+   "examples": [
+    {
+     "jp": "トムは忘れっぽい。",
+     "kana": "とむはわすれっぽい。",
+     "romaji": "Tomu wa wasure ppoi.",
+     "meaning": {
+      "id": "Tom itu pelupa.",
+      "en": "Tom is forgetful."
+     }
+    },
+    {
+     "jp": "あたし、惚れっぽいから。",
+     "kana": "あたし、ほれっぽいから。",
+     "romaji": "Atashi, hore ppoikara.",
+     "meaning": {
+      "id": "Aku kayaknya mau jatuh cinta.",
+      "en": "Since I soon fall in love."
+     }
+    },
+    {
+     "jp": "熱っぽいの。",
+     "kana": "あつっぽいの。",
+     "romaji": "Atsutsu poino.",
+     "meaning": {
+      "id": "Aku merasa demam.",
+      "en": "I feel feverish."
+     }
+    }
+   ]
+  },
+  {
+   "id": "g_n3_009",
+   "level": "N3",
+   "register": "casual",
+   "pattern": "〜じゃん",
+   "romaji": "~ jan",
+   "title": {
+    "en": "Casual jan: See, Isn't It?",
+    "id": "じゃん Akrab: Kan, Tuh Benar?"
+   },
+   "explanation": {
+    "en": "The ending jan is a casual way to point out something obvious or newly noticed, similar to saying 'see?' or 'isn't it?' among friends.",
+    "id": "Akhiran じゃん adalah cara akrab untuk menunjukkan sesuatu yang jelas atau baru disadari, mirip dengan 'kan?' atau 'tuh, benar kan?' di antara teman."
+   },
+   "examples": [
+    {
+     "jp": "嘘に決まってんじゃん。",
+     "kana": "うそにきまってんじゃん。",
+     "romaji": "Uso ni kima ttenjan.",
+     "meaning": {
+      "id": "Jelas-jelas bohong kan.",
+      "en": "It is obvious that that is a lie."
+     }
+    },
+    {
+     "jp": "ごめんって言ったじゃん。",
+     "kana": "ごめんっていったじゃん。",
+     "romaji": "Gomentte itta jan.",
+     "meaning": {
+      "id": "Kan aku sudah bilang maaf.",
+      "en": "I said I'm sorry."
+     }
+    },
+    {
+     "jp": "そりゃあ楽しそうじゃん？",
+     "kana": "そりゃあたのしそうじゃん？",
+     "romaji": "Soryaa tanoshisou jan ？",
+     "meaning": {
+      "id": "Itu sepertinya menyenangkan, ya?",
+      "en": "That sounds like fun, doesn't it?"
+     }
+    }
+   ]
+  },
+  {
+   "id": "g_n3_010",
+   "level": "N3",
+   "register": "casual",
+   "pattern": "〜ぞ／〜ぜ",
+   "romaji": "~ zo / ~ ze",
+   "title": {
+    "en": "Assertive Final Particles zo and ze",
+    "id": "Partikel Akhir Tegas ぞ dan ぜ"
+   },
+   "explanation": {
+    "en": "The sentence-final particles zo and ze add a rough, assertive emphasis, telling the listener something firmly or cheering them on. They are strongly associated with casual masculine speech.",
+    "id": "Partikel akhir kalimat ぞ dan ぜ memberi penekanan tegas, menyampaikan sesuatu dengan yakin atau menyemangati lawan bicara. Keduanya sangat lekat dengan percakapan akrab maskulin."
+   },
+   "examples": [
+    {
+     "jp": "わかったぞ！",
+     "kana": "わかったぞ！",
+     "romaji": "Wakattazo!",
+     "meaning": {
+      "id": "Aku mengerti!",
+      "en": "I understand."
+     }
+    },
+    {
+     "jp": "徹夜しようぜ！",
+     "kana": "てつやしようぜ！",
+     "romaji": "Tetsuya shiyouze!",
+     "meaning": {
+      "id": "Ayo begadang!",
+      "en": "Let's stay up all night!"
+     }
+    },
+    {
+     "jp": "パーティーを始めようぜ。",
+     "kana": "ぱーてぃーをはじめようぜ。",
+     "romaji": "Paateii wo hajime youze.",
+     "meaning": {
+      "id": "Mari kita mulai pestanya.",
+      "en": "Let's get the party underway."
+     }
+    }
+   ]
+  },
+  {
+   "id": "g_n3_011",
+   "level": "N3",
+   "register": "casual",
+   "pattern": "〜だよね",
+   "romaji": "~ da yo ne",
+   "title": {
+    "en": "Casual Agreement: da yo ne",
+    "id": "Persetujuan Akrab: だよね"
+   },
+   "explanation": {
+    "en": "The ending da yo ne seeks agreement while sharing a feeling or observation, like saying 'right?' in casual conversation.",
+    "id": "Akhiran だよね dipakai untuk meminta persetujuan sambil berbagi perasaan atau pengamatan, seperti 'iya kan?' dalam percakapan akrab."
+   },
+   "examples": [
+    {
+     "jp": "君、学生だよね？",
+     "kana": "くん、がくせいだよね？",
+     "romaji": "Kun, gakusei dayone ？",
+     "meaning": {
+      "id": "Kamu pelajar, kan?",
+      "en": "You're a student, aren't you?"
+     }
+    },
+    {
+     "jp": "きみは雨が好きだよね。",
+     "kana": "きみはあめがすきだよね。",
+     "romaji": "Kimiha ame ga suki dayone.",
+     "meaning": {
+      "id": "Kamu suka hujan, kan?",
+      "en": "You like rain, don't you?"
+     }
+    },
+    {
+     "jp": "二人ともカナダ人だよね。",
+     "kana": "ふたりともかなだにんだよね。",
+     "romaji": "Futari tomo kanada nin dayone.",
+     "meaning": {
+      "id": "Kalian berdua orang Kanada, kan?",
+      "en": "Both of you are Canadians, aren't you?"
+     }
+    }
+   ]
+  },
+  {
+   "id": "g_n3_012",
+   "level": "N3",
+   "register": "both",
+   "pattern": "〜という",
+   "romaji": "~ to iu",
+   "title": {
+    "en": "Quotation and Naming: to iu",
+    "id": "Kutipan dan Penamaan: という"
+   },
+   "explanation": {
+    "en": "The pattern to iu quotes speech or thought, and also names or defines things, as in 'a fish called X'.",
+    "id": "Pola という mengutip ucapan atau pikiran, dan juga memberi nama atau menjelaskan sesuatu, seperti pada 'ikan yang bernama X'."
+   },
+   "examples": [
+    {
+     "jp": "変なこと言うなよ。",
+     "kana": "へんなこというなよ。",
+     "romaji": "Henna koto iu nayo.",
+     "meaning": {
+      "id": "Jangan bicara yang aneh-aneh.",
+      "en": "Don't talk rubbish."
+     }
+    },
+    {
+     "jp": "当たり前のこと言うなよ。",
+     "kana": "あたりまえのこというなよ。",
+     "romaji": "Atarimae nokoto iu nayo.",
+     "meaning": {
+      "id": "Gak usah dibilang yang sudah jelas.",
+      "en": "Don't state the obvious."
+     }
+    },
+    {
+     "jp": "なんでそんなこと言うの？",
+     "kana": "なんでそんなこというの？",
+     "romaji": "Nandesonnakoto iu no ？",
+     "meaning": {
+      "id": "Kenapa kau berkata begitu?",
+      "en": "Why do you say that?"
+     }
+    }
+   ]
+  },
+  {
+   "id": "g_n2_001",
+   "level": "N2",
+   "register": "formal",
+   "pattern": "〜にもかかわらず",
+   "romaji": "~ ni mo kakawarazu",
+   "title": {
+    "en": "In Spite Of (Formal)",
+    "id": "Terlepas Dari / Meskipun (Resmi)"
+   },
+   "explanation": {
+    "en": "This formal expression states that something happened in spite of an obstacle or expectation stated before it. It is common in writing and announcements.",
+    "id": "Ungkapan resmi ini menyatakan sesuatu terjadi terlepas dari hambatan atau dugaan yang disebut sebelumnya. Pola ini umum dalam tulisan dan pengumuman."
+   },
+   "examples": [
+    {
+     "jp": "彼は多くの困難にもかかわらず、成功した。",
+     "kana": "かれはおおくのこんなんにもかかわらず、せいこうした。",
+     "romaji": "Kareha ooku no konnan nimokakawarazu, seikou shita.",
+     "meaning": {
+      "id": "Dia berhasil meskipun terdapat banyak kesulitan.",
+      "en": "He succeeded in the face of many difficulties."
+     }
+    },
+    {
+     "jp": "彼は多くの障害にもかかわらずその仕事をした。",
+     "kana": "かれはおおくのしょうがいにもかかわらずそのしごとをした。",
+     "romaji": "Kareha ooku no shougai nimokakawarazusono shigoto woshita.",
+     "meaning": {
+      "id": "Dia melakukan pekerjaan itu meskipun ada banyak kendala.",
+      "en": "He did the work in spite of many obstacles."
+     }
+    },
+    {
+     "jp": "金額にもかかわらず、ブライアンは来週までに間違いなく全額返してもらいたがっています。",
+     "kana": "きんがくにもかかわらず、ぶらいあんはらいしゅうまでにまちがいなくぜんがくかえしてもらいたがっています。",
+     "romaji": "Kingaku nimokakawarazu, buraian wa raishuu madeni machigai naku zengaku kaeshi temoraitagatteimasu.",
+     "meaning": {
+      "id": "Terlepas dari berapa jumlah uangnya, Brian ingin kita mengembalikan seluruhnya sebelum minggu depan.",
+      "en": "Regardless of the amount, Brian wants the correct, entire amount by next week."
+     }
+    }
+   ]
+  },
+  {
+   "id": "g_n2_002",
+   "level": "N2",
+   "register": "formal",
+   "pattern": "〜ざるを得ない",
+   "romaji": "~ zaru wo enai",
+   "title": {
+    "en": "No Choice But To (Formal)",
+    "id": "Terpaksa Harus (Resmi)"
+   },
+   "explanation": {
+    "en": "This formal pattern says there is no choice but to do something, because every other option is closed off.",
+    "id": "Pola resmi ini menyatakan tidak ada pilihan selain melakukan sesuatu, karena semua pilihan lain tertutup."
+   },
+   "examples": [
+    {
+     "jp": "そう考えざるを得ない。",
+     "kana": "そうかんがえざるをえない。",
+     "romaji": "Sou kangae zaruwo ena i.",
+     "meaning": {
+      "id": "Aku tidak bisa tapi berpikir begitu.",
+      "en": "I can not but think so."
+     }
+    },
+    {
+     "jp": "そうせざるを得ないね。",
+     "kana": "そうせざるをえないね。",
+     "romaji": "Sousezaruwo ena ine.",
+     "meaning": {
+      "id": "Aku tidak punya pilihan selain melakukan itu.",
+      "en": "I have no choice but to do that."
+     }
+    },
+    {
+     "jp": "彼女は笑わざるを得ない。",
+     "kana": "かのじょはわらわざるをえない。",
+     "romaji": "Kanojo wa warawa zaruwo ena i.",
+     "meaning": {
+      "id": "Dia tidak bisa hanya tertawa.",
+      "en": "She cannot but laugh."
+     }
+    }
+   ]
+  },
+  {
+   "id": "g_n2_003",
+   "level": "N2",
+   "register": "formal",
+   "pattern": "〜を問わず",
+   "romaji": "~ wo towazu",
+   "title": {
+    "en": "Regardless Of",
+    "id": "Tanpa Memandang / Terlepas Dari"
+   },
+   "explanation": {
+    "en": "The pattern wo towazu after a noun states that something applies regardless of that factor, such as age, gender, or experience.",
+    "id": "Pola を問わず setelah kata benda menyatakan sesuatu berlaku tanpa memandang faktor tersebut, misalnya umur, jenis kelamin, atau pengalaman."
+   },
+   "examples": [
+    {
+     "jp": "試合は晴雨を問わず行われます。",
+     "kana": "しあいはせいうをとわずおこなわれます。",
+     "romaji": "Shiai wa seiu wo towa zu okonawa remasu.",
+     "meaning": {
+      "id": "Permainan akan diadakan hujan atau bersinar.",
+      "en": "The game will be held rain or shine."
+     }
+    },
+    {
+     "jp": "年齢を問わず人々はこの歌が好きだ。",
+     "kana": "ねんれいをとわずひとびとはこのうたがすきだ。",
+     "romaji": "Nenrei wo towa zu hitobito hakono uta ga suki da.",
+     "meaning": {
+      "id": "Orang-orang dari segala usia seperti lagu ini.",
+      "en": "People of all ages like this song."
+     }
+    },
+    {
+     "jp": "そこは、日中問わず兵士が警備に当たっている。",
+     "kana": "そこは、にっちゅうとわずへいしがけいびにあたっている。",
+     "romaji": "Sokoha, nitchuu towa zu heishi ga keibi ni ata tteiru.",
+     "meaning": {
+      "id": "Tentara menjaga tempat siang dan malam.",
+      "en": "Soldiers guard the place day and night."
+     }
+    }
+   ]
+  },
+  {
+   "id": "g_n2_004",
+   "level": "N2",
+   "register": "both",
+   "pattern": "〜に違いない",
+   "romaji": "~ ni chigai nai",
+   "title": {
+    "en": "Strong Certainty: Must Be",
+    "id": "Kepastian Kuat: Pasti ..."
+   },
+   "explanation": {
+    "en": "Adding ni chigai nai after a plain form expresses strong certainty: the speaker is convinced something must be the case.",
+    "id": "Menambahkan に違いない setelah bentuk biasa menyatakan keyakinan kuat: pembicara yakin sesuatu pasti demikian."
+   },
+   "examples": [
+    {
+     "jp": "船積みの時壊れたに違いない。",
+     "kana": "ふなづみのときこわれたにちがいない。",
+     "romaji": "Funazumi no toki koware tani chigai nai.",
+     "meaning": {
+      "id": "Pasti rusaknya pada saat pengapalan.",
+      "en": "It must have been broken during shipping."
+     }
+    },
+    {
+     "jp": "彼はまだ来ない。バスに乗り遅れたに違いない。",
+     "kana": "かれはまだこない。ばすにのりおくれたにちがいない。",
+     "romaji": "Kareha mada konai. basu ni nori okure tani chigai nai.",
+     "meaning": {
+      "id": "Dia belum datang juga. Dia pasti ketinggalan bis.",
+      "en": "He hasn't come yet. He must have missed the bus."
+     }
+    },
+    {
+     "jp": "彼のやったことには何か理由があるに違いない。",
+     "kana": "かのやったことにはなにかりゆうがあるにちがいない。",
+     "romaji": "Kano yattakotoniha nanika riyuu gaaruni chigai nai.",
+     "meaning": {
+      "id": "Pasti ada alasan atas apa yang telah ia perbuat.",
+      "en": "There must be some reason for what he has done."
+     }
+    }
+   ]
+  },
+  {
+   "id": "g_n2_005",
+   "level": "N2",
+   "register": "both",
+   "pattern": "〜ものだ",
+   "romaji": "~ mono da",
+   "title": {
+    "en": "General Truth: mono da",
+    "id": "Kebenaran Umum: ものだ"
+   },
+   "explanation": {
+    "en": "The ending mono da states a general truth or how things naturally are. It can also look back at the past with nostalgia.",
+    "id": "Akhiran ものだ menyatakan kebenaran umum atau keadaan yang wajar. Pola ini juga bisa dipakai untuk mengenang masa lalu dengan rasa nostalgia."
+   },
+   "examples": [
+    {
+     "jp": "男ってそういうものだ。",
+     "kana": "おとこってそういうものだ。",
+     "romaji": "Otoko ttesouiumonoda.",
+     "meaning": {
+      "id": "Laki-laki itu seperti itu.",
+      "en": "Boys will be boys."
+     }
+    },
+    {
+     "jp": "詐欺みたいなもんだよな。",
+     "kana": "さぎみたいなもんだよな。",
+     "romaji": "Sagi mitainamondayona.",
+     "meaning": {
+      "id": "Kelihatannya seperti penipuan ya ini.",
+      "en": "It sounds like a scam."
+     }
+    },
+    {
+     "jp": "この自転車は私の弟のものだ。",
+     "kana": "このじてんしゃはわたしのおとうとのものだ。",
+     "romaji": "Kono jitensha wa watashi no otouto nomonoda.",
+     "meaning": {
+      "id": "Sepeda ini milik adik laki-lakiku.",
+      "en": "This bicycle belongs to my brother."
+     }
+    }
+   ]
+  },
+  {
+   "id": "g_n2_006",
+   "level": "N2",
+   "register": "both",
+   "pattern": "〜て以来",
+   "romaji": "~ te irai",
+   "title": {
+    "en": "Ever Since",
+    "id": "Sejak Saat Itu Sampai Sekarang"
+   },
+   "explanation": {
+    "en": "The te-form plus irai marks a point in the past after which a state has continued unchanged up to now.",
+    "id": "Bentuk-te ditambah 以来 menandai titik di masa lalu yang setelahnya suatu keadaan terus berlanjut tanpa berubah sampai sekarang."
+   },
+   "examples": [
+    {
+     "jp": "お別れして以来２年たちました。",
+     "kana": "おわかれしていらい２ねんたちました。",
+     "romaji": "O wakare shite irai 2 nen tachimashita.",
+     "meaning": {
+      "id": "Dua tahun telah berlalu sejak kami berpisah.",
+      "en": "Two years have passed since we parted."
+     }
+    },
+    {
+     "jp": "彼がアメリカへ行って以来便りがない。",
+     "kana": "かれがあめりかへいっていらいたよりがない。",
+     "romaji": "Kare ga amerika e itte irai tayori ganai.",
+     "meaning": {
+      "id": "Aku belum mendengar kabar darinya sejak dia berangkat ke Amerika.",
+      "en": "I have not heard from him since he left for America."
+     }
+    },
+    {
+     "jp": "高校を卒業して以来彼は何もしていない。",
+     "kana": "こうこうをそつぎょうしていらいかれはなにもしていない。",
+     "romaji": "Koukou wo sotsugyou shite irai kareha nanimo shiteinai.",
+     "meaning": {
+      "id": "Sejak dia lulus SMA, dia tidak melakukan apa-apa.",
+      "en": "Since he graduated from high school, he hasn't been doing anything."
+     }
+    }
+   ]
+  },
+  {
+   "id": "g_n2_007",
+   "level": "N2",
+   "register": "both",
+   "pattern": "〜がち",
+   "romaji": "~ gachi",
+   "title": {
+    "en": "Tendency: Prone To",
+    "id": "Kecenderungan: Cenderung / Sering"
+   },
+   "explanation": {
+    "en": "Attach gachi to a verb stem or noun to say someone tends to do something, often an undesirable habit or a frequent condition.",
+    "id": "Tambahkan がち pada batang kata kerja atau kata benda untuk menyatakan kecenderungan melakukan sesuatu, sering berupa kebiasaan yang kurang baik atau keadaan yang sering terjadi."
+   },
+   "examples": [
+    {
+     "jp": "彼女は学校に遅れがちだ。",
+     "kana": "かのじょはがっこうにおくれがちだ。",
+     "romaji": "Kanojo wa gakkou ni okure gachida.",
+     "meaning": {
+      "id": "Dia suka terlambat ke sekolah.",
+      "en": "She tends to be late for school."
+     }
+    },
+    {
+     "jp": "病気がちだ。",
+     "kana": "びょうきがちだ。",
+     "romaji": "Byouki gachida.",
+     "meaning": {
+      "id": "Aku sering sakit.",
+      "en": "I get sick a lot."
+     }
+    },
+    {
+     "jp": "がちょうを飼う。",
+     "kana": "がちょうをかう。",
+     "romaji": "Gachouwo kau.",
+     "meaning": {
+      "id": "Aku mengangkat angsa.",
+      "en": "I raise a goose."
+     }
+    }
+   ]
+  },
+  {
+   "id": "g_n2_008",
+   "level": "N2",
+   "register": "formal",
+   "pattern": "〜つつある",
+   "romaji": "~ tsutsu aru",
+   "title": {
+    "en": "Gradual Change in Progress (Formal)",
+    "id": "Perubahan Bertahap Sedang Berlangsung (Resmi)"
+   },
+   "explanation": {
+    "en": "The verb stem plus tsutsu aru describes a gradual change that is currently in progress, in formal or written style.",
+    "id": "Batang kata kerja ditambah つつある menggambarkan perubahan bertahap yang sedang berlangsung, dalam gaya resmi atau tulisan."
+   },
+   "examples": [
+    {
+     "jp": "冬が近づきつつある。",
+     "kana": "ふゆがちかづきつつある。",
+     "romaji": "Fuyu ga chikazu kitsutsuaru.",
+     "meaning": {
+      "id": "Musim dingin akan segera tiba.",
+      "en": "Winter is drawing on."
+     }
+    },
+    {
+     "jp": "物価が上がりつつある。",
+     "kana": "ぶっかがあがりつつある。",
+     "romaji": "Bukka ga aga ritsutsuaru.",
+     "meaning": {
+      "id": "Harga naik.",
+      "en": "Prices are going up."
+     }
+    },
+    {
+     "jp": "太陽が今昇りつつある。",
+     "kana": "たいようがいまのぼりつつある。",
+     "romaji": "Taiyou ga ima nobori tsutsuaru.",
+     "meaning": {
+      "id": "Matahari terbit sekarang.",
+      "en": "The sun is rising now."
+     }
+    }
+   ]
+  },
+  {
+   "id": "g_n2_009",
+   "level": "N2",
+   "register": "both",
+   "pattern": "〜抜きで",
+   "romaji": "~ nuki de",
+   "title": {
+    "en": "Without / Leaving Out",
+    "id": "Tanpa / Mengesampingkan"
+   },
+   "explanation": {
+    "en": "The pattern nuki de or wo nuki ni sets something aside, doing without it for once, such as skipping formalities or an ingredient.",
+    "id": "Pola 抜きで atau を抜きに mengesampingkan sesuatu, melakukannya tanpa hal itu untuk kali ini, misalnya tanpa basa-basi atau tanpa satu bahan."
+   },
+   "examples": [
+    {
+     "jp": "冗談抜きで。",
+     "kana": "じょうだんぬききで。",
+     "romaji": "Joudannuki kide.",
+     "meaning": {
+      "id": "Aku tidak bercanda.",
+      "en": "I'm not joking."
+     }
+    },
+    {
+     "jp": "朝ご飯は抜きでした。",
+     "kana": "あさごめしはぬきでした。",
+     "romaji": "Asa go meshi wa nuki deshita.",
+     "meaning": {
+      "id": "Aku melewatkan sarapan.",
+      "en": "I skipped breakfast."
+     }
+    },
+    {
+     "jp": "利益は税金抜きですか。",
+     "kana": "りえきはぜいきんぬきですか。",
+     "romaji": "Rieki wa zeikin nuki desuka.",
+     "meaning": {
+      "id": "Apakah keuntungan eksklusif pajak?",
+      "en": "Are the profits exclusive of taxes?"
+     }
+    }
+   ]
+  },
+  {
+   "id": "g_n2_010",
+   "level": "N2",
+   "register": "casual",
+   "pattern": "〜っけ",
+   "romaji": "~ kke",
+   "title": {
+    "en": "Casual Recalling: kke",
+    "id": "Mengingat-ingat Akrab: っけ"
+   },
+   "explanation": {
+    "en": "The ending kke attached to a plain form is used when trying to recall something, like asking yourself 'what was it again?'.",
+    "id": "Akhiran っけ yang dilekatkan pada bentuk biasa dipakai saat berusaha mengingat sesuatu, seperti bertanya pada diri sendiri 'apa ya tadi?'."
+   },
+   "examples": [
+    {
+     "jp": "薬飲んだっけ？",
+     "kana": "くすりのんだっけ？",
+     "romaji": "Kusuri non dakke ？",
+     "meaning": {
+      "id": "Apa aku meminum obatku?",
+      "en": "Did I take my meds?"
+     }
+    },
+    {
+     "jp": "今何月だっけ？",
+     "kana": "いまなんがつだっけ？",
+     "romaji": "Ima nangatsu dakke ？",
+     "meaning": {
+      "id": "Bulan berapa sekarang?",
+      "en": "What month is it now?"
+     }
+    },
+    {
+     "jp": "何考えてたっけ。",
+     "kana": "なにかんがえてたっけ。",
+     "romaji": "Nanikangae tetakke.",
+     "meaning": {
+      "id": "Apa yang kupikirkan?",
+      "en": "What was I thinking?"
+     }
+    }
+   ]
+  },
+  {
+   "id": "g_n2_011",
+   "level": "N2",
+   "register": "casual",
+   "pattern": "〜なあ",
+   "romaji": "~ naa",
+   "title": {
+    "en": "Casual Wistful Particle naa",
+    "id": "Partikel Kerinduan Akrab なあ"
+   },
+   "explanation": {
+    "en": "The final particle naa stretches a feeling out loud: admiration, longing, or a wish, said mostly to oneself in casual speech.",
+    "id": "Partikel akhir なあ memanjangkan ungkapan perasaan: kekaguman, kerinduan, atau harapan, yang kebanyakan diucapkan untuk diri sendiri dalam percakapan akrab."
+   },
+   "examples": [
+    {
+     "jp": "若いなあ。",
+     "kana": "わかいなあ。",
+     "romaji": "Wakai naa.",
+     "meaning": {
+      "id": "Kamu muda, ya.",
+      "en": "You're young."
+     }
+    },
+    {
+     "jp": "変だなあ。",
+     "kana": "へんだなあ。",
+     "romaji": "Henda naa.",
+     "meaning": {
+      "id": "Itu aneh.",
+      "en": "That's strange."
+     }
+    },
+    {
+     "jp": "美人だなあ。",
+     "kana": "びじんだなあ。",
+     "romaji": "Bijin danaa.",
+     "meaning": {
+      "id": "Cantiknya.",
+      "en": "She is beautiful."
+     }
+    }
+   ]
+  },
+  {
+   "id": "g_n2_012",
+   "level": "N2",
+   "register": "casual",
+   "pattern": "〜だって",
+   "romaji": "~ datte",
+   "title": {
+    "en": "Casual datte: Because / Even",
+    "id": "だって Akrab: Karena / Bahkan"
+   },
+   "explanation": {
+    "en": "The casual conjunction datte gives a reason with a hint of excuse or insistence, or adds a surprising item with the meaning 'even'.",
+    "id": "Kata hubung akrab だって memberi alasan dengan nuansa membela diri atau menekankan, atau menambahkan hal yang mengejutkan dengan arti 'bahkan'."
+   },
+   "examples": [
+    {
+     "jp": "ダメだって言ったでしょ。",
+     "kana": "だめだっていったでしょ。",
+     "romaji": "Dame datte itta desho.",
+     "meaning": {
+      "id": "Sudah dibilang jangan.",
+      "en": "I said no."
+     }
+    },
+    {
+     "jp": "こっからは立入禁止だって。",
+     "kana": "こっからはたちいりきんしだって。",
+     "romaji": "Kokkaraha tachiirikinshi datte.",
+     "meaning": {
+      "id": "Mulai dari sini dilarang masuk katanya.",
+      "en": "It says entry is prohibited from this point on."
+     }
+    },
+    {
+     "jp": "ボブとルーシーが別れたんだって。",
+     "kana": "ぼぶとるーしーがわかれたんだって。",
+     "romaji": "Bobu to ruushii ga wakare tandatte.",
+     "meaning": {
+      "id": "Aku dengar Bob dan Lucy putus.",
+      "en": "I hear that Bob and Lucy have broken up."
+     }
+    }
+   ]
+  },
+  {
+   "id": "g_n1_001",
+   "level": "N1",
+   "register": "formal",
+   "pattern": "〜を余儀なくされる",
+   "romaji": "~ wo yogi naku sareru",
+   "title": {
+    "en": "Forced by Circumstances (Formal)",
+    "id": "Terpaksa oleh Keadaan (Resmi)"
+   },
+   "explanation": {
+    "en": "The pattern wo yogi naku sareru is a formal, passive expression meaning someone is forced by circumstances to do something unavoidable.",
+    "id": "Pola を余儀なくされる adalah ungkapan pasif resmi yang berarti seseorang terpaksa oleh keadaan untuk melakukan sesuatu yang tidak bisa dihindari."
+   },
+   "examples": [
+    {
+     "jp": "世論のため彼は引退を余儀なくされた。",
+     "kana": "よろんのためかれはいんたいをよぎなくされた。",
+     "romaji": "Yoron notame kareha intai wo yogina kusareta.",
+     "meaning": {
+      "id": "Opini publik mengharuskan dia untuk pensiun.",
+      "en": "Public opinion obliged him to retire."
+     }
+    },
+    {
+     "jp": "首相は内閣からの辞職を余儀なくされた。",
+     "kana": "しゅしょうはないかくからのじしょくをよぎなくされた。",
+     "romaji": "Shushou wa naikaku karano jishoku wo yogina kusareta.",
+     "meaning": {
+      "id": "Perdana Menteri berkewajiban untuk mengundurkan diri dari kabinet.",
+      "en": "The Prime Minister was obliged to resign from the Cabinet."
+     }
+    },
+    {
+     "jp": "政府は外交政策の転換を余儀なくされた。",
+     "kana": "せいふはがいこうせいさくのてんかんをよぎなくされた。",
+     "romaji": "Seifu wa gaikou seisaku no tenkan wo yogina kusareta.",
+     "meaning": {
+      "id": "Pemerintah berkewajiban untuk membuat perubahan dalam kebijakan luar negerinya.",
+      "en": "The government was obliged to make changes in its foreign policy."
+     }
+    }
+   ]
+  },
+  {
+   "id": "g_n1_002",
+   "level": "N1",
+   "register": "formal",
+   "pattern": "〜に至る",
+   "romaji": "~ ni itaru",
+   "title": {
+    "en": "Reaching a Final Point (Formal)",
+    "id": "Mencapai Titik Akhir (Resmi)"
+   },
+   "explanation": {
+    "en": "The pattern ni itaru is a formal way to say a process reaches a final point or result, often after a long development.",
+    "id": "Pola に至る adalah cara resmi menyatakan suatu proses mencapai titik akhir atau hasil, sering setelah perkembangan yang panjang."
+   },
+   "examples": [
+    {
+     "jp": "この道は公園に至る。",
+     "kana": "このみちはこうえんにいたる。",
+     "romaji": "Kono michi wa kouen ni itaru.",
+     "meaning": {
+      "id": "Jalan ini menuju ke taman.",
+      "en": "This road goes to the park."
+     }
+    },
+    {
+     "jp": "もう決断に至りましたか。",
+     "kana": "もうけつだんにいたりましたか。",
+     "romaji": "Mou ketsudan ni itari mashitaka.",
+     "meaning": {
+      "id": "Apakah Anda tiba pada keputusan belum?",
+      "en": "Have you arrived at a decision yet?"
+     }
+    },
+    {
+     "jp": "彼女は事実を知るに至った。",
+     "kana": "かのじょはじじつをしるにいたった。",
+     "romaji": "Kanojo wa jijitsu wo shiru ni itatsu ta.",
+     "meaning": {
+      "id": "Dia datang untuk mengetahui fakta.",
+      "en": "She came to know the fact."
+     }
+    }
+   ]
+  },
+  {
+   "id": "g_n1_003",
+   "level": "N1",
+   "register": "formal",
+   "pattern": "〜をもって",
+   "romaji": "~ wo motte",
+   "title": {
+    "en": "By Means Of / As Of (Formal)",
+    "id": "Dengan / Terhitung Sejak (Resmi)"
+   },
+   "explanation": {
+    "en": "In formal writing, wo motte marks the means used for something, or the exact point at which something ends or takes effect.",
+    "id": "Dalam tulisan resmi, をもって menandai sarana yang digunakan untuk sesuatu, atau titik pasti saat sesuatu berakhir atau mulai berlaku."
+   },
+   "examples": [
+    {
+     "jp": "鳥は鋭い目をもっている。",
+     "kana": "とりはするどいめをもっている。",
+     "romaji": "Tori wa surudoi me womotteiru.",
+     "meaning": {
+      "id": "Burung memiliki mata yang tajam.",
+      "en": "Birds have sharp eyes."
+     }
+    },
+    {
+     "jp": "私たちは記憶するという能力をもっている。",
+     "kana": "わたしたちはきおくするというのうりょくをもっている。",
+     "romaji": "Watashitachi wa kioku surutoiu nouryoku womotteiru.",
+     "meaning": {
+      "id": "Kita memiliki kemampuan untuk mengingat.",
+      "en": "We have the ability to remember."
+     }
+    },
+    {
+     "jp": "類をもって集まる。",
+     "kana": "るいをもってあつまる。",
+     "romaji": "Rui womotte atsumaru.",
+     "meaning": {
+      "id": "Burung dari kawanan bulu bersama-sama.",
+      "en": "Birds of a feather flock together."
+     }
+    }
+   ]
+  },
+  {
+   "id": "g_n1_004",
+   "level": "N1",
+   "register": "formal",
+   "pattern": "〜んばかり",
+   "romaji": "~ n bakari",
+   "title": {
+    "en": "As If About To (Formal)",
+    "id": "Seolah-olah Hampir (Resmi)"
+   },
+   "explanation": {
+    "en": "The pattern n bakari describes someone looking as if they are just about to do something, such as burst into tears or speak.",
+    "id": "Pola んばかり menggambarkan seseorang yang tampak seolah-olah hampir melakukan sesuatu, misalnya hampir menangis atau hampir berbicara."
+   },
+   "examples": [
+    {
+     "jp": "トムは泣かんばかりだった。",
+     "kana": "とむはなかんばかりだった。",
+     "romaji": "Tomu wa naka nbakaridatta.",
+     "meaning": {
+      "id": "Tom hampir menangis.",
+      "en": "Tom was on the verge of tears."
+     }
+    },
+    {
+     "jp": "飛行機は離陸せんばかりであった。",
+     "kana": "ひこうきはりりくせんばかりであった。",
+     "romaji": "Hikouki wa ririku senbakarideatta.",
+     "meaning": {
+      "id": "Pesawat hanya akan lepas landas.",
+      "en": "The airplane was just going to take off."
+     }
+    },
+    {
+     "jp": "彼は激怒で張り裂けんばかりだった。",
+     "kana": "かれはげきどではりさけんばかりだった。",
+     "romaji": "Kareha gekido de hari sake nbakaridatta.",
+     "meaning": {
+      "id": "(Sesungguhnya dia dahulu di dunia dalam keadaan marah) karena melakukan homosex.",
+      "en": "He was bursting with fury."
+     }
+    }
+   ]
+  },
+  {
+   "id": "g_n1_005",
+   "level": "N1",
+   "register": "both",
+   "pattern": "〜次第",
+   "romaji": "~ shidai",
+   "title": {
+    "en": "As Soon As / Depending On",
+    "id": "Segera Setelah / Tergantung Pada"
+   },
+   "explanation": {
+    "en": "The pattern shidai after a verb means as soon as that action is complete. After a noun it can also mean depending on that factor.",
+    "id": "Pola 次第 setelah kata kerja berarti segera setelah tindakan itu selesai. Setelah kata benda, pola ini juga bisa berarti tergantung pada faktor tersebut."
+   },
+   "examples": [
+    {
+     "jp": "それは完全にあなた次第です。",
+     "kana": "それはかんぜんにあなたしだいです。",
+     "romaji": "Soreha kanzen nianata shidai desu.",
+     "meaning": {
+      "id": "Itu sepenuhnya tergantung padamu.",
+      "en": "It's entirely up to you."
+     }
+    },
+    {
+     "jp": "君を助けるために私は最善を尽くした。あとは君次第だ。",
+     "kana": "くんをたすけるためにわたしはさいぜんをつくした。あとはきみじだいだ。",
+     "romaji": "Kun wo tasuke rutameni watashi wa saizen wo tsukushi ta. atoha kimiji dai da.",
+     "meaning": {
+      "id": "Saya sudah melakukan yang saya mampu untuk membantu kamu. Selebihnya adalah kamu sendiri.",
+      "en": "I have done the best I could to help you. The rest is up to you."
+     }
+    },
+    {
+     "jp": "あなたにいくら給料を支払うかは、あなたの腕次第ですね。",
+     "kana": "あなたにいくらきゅうりょうをしはらうかは、あなたのうでしだいですね。",
+     "romaji": "Anataniikura kyuuryou wo shiharau kaha, anatano ude shidai desune.",
+     "meaning": {
+      "id": "Berapa gaji yang harus kubayar, tergantung pada kemampuanmu.",
+      "en": "How much we pay you depends on your skill."
+     }
+    }
+   ]
+  },
+  {
+   "id": "g_n1_006",
+   "level": "N1",
+   "register": "formal",
+   "pattern": "〜や否や",
+   "romaji": "~ ya inaya",
+   "title": {
+    "en": "The Very Moment That (Literary)",
+    "id": "Begitu ... Langsung (Sastra)"
+   },
+   "explanation": {
+    "en": "The pattern ya inaya is a literary expression meaning the very moment something happens, another thing immediately follows.",
+    "id": "Pola や否や adalah ungkapan sastra yang berarti pada saat yang sama sesuatu terjadi, hal lain segera menyusul."
+   },
+   "examples": [
+    {
+     "jp": "外に出るや否や雨が降ってきた。",
+     "kana": "そとにでるやひやあめがふってきた。",
+     "romaji": "Soto ni deru ya hi ya ame ga futsu tekita.",
+     "meaning": {
+      "id": "Tidak lama setelah aku pergi keluar dari itu mulai hujan.",
+      "en": "No sooner had I gone out than it began to rain."
+     }
+    },
+    {
+     "jp": "彼は警官を見るや否や逃亡した。",
+     "kana": "かれはけいかんをみるやひやとうぼうした。",
+     "romaji": "Kareha keikan wo miru ya hi ya toubou shita.",
+     "meaning": {
+      "id": "Begitu ia melihat polisi, ia melarikan diri.",
+      "en": "As soon as he saw the policeman, he ran away."
+     }
+    },
+    {
+     "jp": "彼は警官をみるや否や走り去った。",
+     "kana": "かれはけいかんをみるやひやはしりさった。",
+     "romaji": "Kareha keikan womiruya hi ya hashiri satsu ta.",
+     "meaning": {
+      "id": "Begitu ia melihat polisi, ia melarikan diri.",
+      "en": "As soon as he saw the policeman, he ran away."
+     }
+    }
+   ]
+  },
+  {
+   "id": "g_n1_007",
+   "level": "N1",
+   "register": "formal",
+   "pattern": "〜べく",
+   "romaji": "~ beku",
+   "title": {
+    "en": "For the Purpose Of (Formal)",
+    "id": "Demi / Untuk Tujuan (Resmi)"
+   },
+   "explanation": {
+    "en": "The pattern beku is a formal, written form used to state the purpose of an action, similar in meaning to tame ni but more literary.",
+    "id": "Pola べく adalah bentuk resmi tertulis untuk menyatakan tujuan suatu tindakan, mirip dengan ために tetapi lebih sastra."
+   },
+   "examples": [
+    {
+     "jp": "なるべく早く帰るよ。",
+     "kana": "なるべくはやくかえるよ。",
+     "romaji": "Narubeku hayaku kaeru yo.",
+     "meaning": {
+      "id": "Aku akan pulang secepatnya.",
+      "en": "I'll come back home as soon as I can."
+     }
+    },
+    {
+     "jp": "なるべく早く行くよ。",
+     "kana": "なるべくはやくいくよ。",
+     "romaji": "Narubeku hayaku iku yo.",
+     "meaning": {
+      "id": "Aku akan datang secepat mungkin.",
+      "en": "I'll come as soon as I can."
+     }
+    },
+    {
+     "jp": "なるべくしてなった。",
+     "kana": "なるべくしてなった。",
+     "romaji": "Narubekushitenatta.",
+     "meaning": {
+      "id": "Itu seharusnya terjadi.",
+      "en": "It should have happened."
+     }
+    }
+   ]
+  },
+  {
+   "id": "g_n1_008",
+   "level": "N1",
+   "register": "formal",
+   "pattern": "〜はおろか",
+   "romaji": "~ wa oroka",
+   "title": {
+    "en": "Let Alone (Formal)",
+    "id": "Apalagi / Jangankan (Resmi)"
+   },
+   "explanation": {
+    "en": "The pattern ha oroka is a formal expression meaning let alone: if even the smaller thing is impossible or absent, the bigger one is even more so.",
+    "id": "Pola はおろか adalah ungkapan resmi yang berarti apalagi: jika hal yang lebih kecil saja tidak mungkin atau tidak ada, hal yang lebih besar tentu lebih lagi."
+   },
+   "examples": [
+    {
+     "jp": "僕はイタリア語を書くのはおろか読めもしない。",
+     "kana": "ぼくはいたりあごをかくのはおろかよめもしない。",
+     "romaji": "Bokuha itaria go wo kaku nohaoroka yome moshinai.",
+     "meaning": {
+      "id": "Aku tidak bisa menulis dalam bahasa Italia, apalagi membacanya.",
+      "en": "I can't even read Italian, let alone write it."
+     }
+    },
+    {
+     "jp": "彼はおろかにもがちょうを殺した。",
+     "kana": "かれはおろかにもがちょうをころした。",
+     "romaji": "Kareha orokanimogachouwo koroshi ta.",
+     "meaning": {
+      "id": "Dia membunuh angsa, bodoh.",
+      "en": "He killed the goose, foolishly."
+     }
+    },
+    {
+     "jp": "君はおろかな行為をやめねばならない。",
+     "kana": "くんはおろかなこういをやめねばならない。",
+     "romaji": "Kun haorokana koui woyamenebanaranai.",
+     "meaning": {
+      "id": "Anda harus mengakhiri perilaku bodoh Anda.",
+      "en": "You must put an end to your foolish behavior."
+     }
+    }
+   ]
+  },
+  {
+   "id": "g_n1_009",
+   "level": "N1",
+   "register": "formal",
+   "pattern": "〜いかん",
+   "romaji": "~ ikan",
+   "title": {
+    "en": "Depending On the Nature Of (Formal)",
+    "id": "Tergantung Sifatnya (Resmi)"
+   },
+   "explanation": {
+    "en": "The word ikan in formal patterns refers to the nature or outcome of something, used to say a result depends on it or regardless of it.",
+    "id": "Kata いかん dalam pola resmi merujuk pada sifat atau hasil sesuatu, dipakai untuk menyatakan hasil bergantung padanya atau terlepas darinya."
+   },
+   "examples": [
+    {
+     "jp": "それはいかんわい！",
+     "kana": "それはいかんわい！",
+     "romaji": "Sorehaikanwai!",
+     "meaning": {
+      "id": "Itu tidak akan berhasil!",
+      "en": "That won't work!"
+     }
+    },
+    {
+     "jp": "成功は努力いかんによる。",
+     "kana": "せいこうはどりょくいかんによる。",
+     "romaji": "Seikou wa doryoku ikanniyoru.",
+     "meaning": {
+      "id": "Sukses tergantung pada usahamu.",
+      "en": "Success depends on your efforts."
+     }
+    },
+    {
+     "jp": "教室でおしゃべりをしてはいかん。",
+     "kana": "きょうしつでおしゃべりをしてはいかん。",
+     "romaji": "Kyoushitsu deoshaberiwoshitehaikan.",
+     "meaning": {
+      "id": "Jangan bicara di kelas.",
+      "en": "Don't you talk in the classroom."
+     }
+    }
+   ]
+  },
+  {
+   "id": "g_n1_010",
+   "level": "N1",
+   "register": "casual",
+   "pattern": "〜かい",
+   "romaji": "~ kai",
+   "title": {
+    "en": "Casual Question Particle kai",
+    "id": "Partikel Tanya Akrab かい"
+   },
+   "explanation": {
+    "en": "The question particle kai is a plain, casual way to ask yes-no questions, softer and more familiar than the plain ka used in writing.",
+    "id": "Partikel tanya かい adalah cara biasa dan akrab untuk mengajukan pertanyaan ya-tidak, lebih lembut dan dekat dibandingkan か biasa dalam tulisan."
+   },
+   "examples": [
+    {
+     "jp": "そう思うかい？",
+     "kana": "そうおもうかい？",
+     "romaji": "Sou omou kai ？",
+     "meaning": {
+      "id": "Apa kamu pikir begitu?",
+      "en": "Do you think so?"
+     }
+    },
+    {
+     "jp": "一緒にくるかい。",
+     "kana": "いっしょにくるかい。",
+     "romaji": "Isshoni kurukai.",
+     "meaning": {
+      "id": "Kamu mau ikut?",
+      "en": "Do you want to come along?"
+     }
+    },
+    {
+     "jp": "それは確かかい。",
+     "kana": "それはたしかかい。",
+     "romaji": "Soreha tashika kai.",
+     "meaning": {
+      "id": "Apa kau yakin dengan hal itu?",
+      "en": "Can I take your word for it?"
+     }
+    }
+   ]
+  },
+  {
+   "id": "g_n1_011",
+   "level": "N1",
+   "register": "casual",
+   "pattern": "〜ってば",
+   "romaji": "~ tteba",
+   "title": {
+    "en": "Casual Insistence: tteba",
+    "id": "Penegasan Akrab: ってば"
+   },
+   "explanation": {
+    "en": "Repeating something with tteba shows insistence or frustration in casual speech, as if saying 'I keep telling you'.",
+    "id": "Mengulang sesuatu dengan ってば menunjukkan ketegasan atau kejengkelan dalam percakapan akrab, seperti mengatakan 'sudah kubilang berkali-kali'."
+   },
+   "examples": [
+    {
+     "jp": "違うってば。",
+     "kana": "ちがうってば。",
+     "romaji": "Chigautsu teba.",
+     "meaning": {
+      "id": "Aku bilang tidak.",
+      "en": "I said no."
+     }
+    },
+    {
+     "jp": "ほんとだってば。",
+     "kana": "ほんとだってば。",
+     "romaji": "Hontodatteba.",
+     "meaning": {
+      "id": "Aku jujur.",
+      "en": "I'm honest."
+     }
+    },
+    {
+     "jp": "だから黙れってば！",
+     "kana": "だからだまれってば！",
+     "romaji": "Dakara damare tteba!",
+     "meaning": {
+      "id": "Kubilang diam!",
+      "en": "I said shut up!"
+     }
+    }
+   ]
+  },
+  {
+   "id": "g_n1_012",
+   "level": "N1",
+   "register": "casual",
+   "pattern": "〜じゃねえ",
+   "romaji": "~ ja nee",
+   "title": {
+    "en": "Rough Casual Negative ja nee",
+    "id": "Negatif Sangat Akrab じゃねえ"
+   },
+   "explanation": {
+    "en": "The rough negative ja nee replaces dewa nai in very casual speech, especially in informal masculine talk. It sounds blunt, so it is kept for close company.",
+    "id": "Bentuk negatif kasar じゃねえ menggantikan ではない dalam percakapan sangat akrab, terutama dalam pembicaraan maskulin informal. Kesannya blak-blakan, jadi hanya dipakai di lingkungan dekat."
+   },
+   "examples": [
+    {
+     "jp": "冗談じゃねえよ。",
+     "kana": "じょうだんじゃねえよ。",
+     "romaji": "Joudan janeeyo.",
+     "meaning": {
+      "id": "Ini bukan lelucon.",
+      "en": "Are you freaking kidding me?!"
+     }
+    },
+    {
+     "jp": "俺のＣＤじゃねえか。",
+     "kana": "おれのＣＤじゃねえか。",
+     "romaji": "Ore no C D janeeka.",
+     "meaning": {
+      "id": "Ini CDku, kan?",
+      "en": "It's my CD."
+     }
+    },
+    {
+     "jp": "あんな奴のどこがいいんだよ？ ただの女たらしじゃねえか。",
+     "kana": "あんなやつのどこがいいんだよ？ ただのおんなたらしじゃねえか。",
+     "romaji": "Anna yatsu nodokogaiindayo ？   tadano onna tarashijaneeka.",
+     "meaning": {
+      "id": "Orang seperti itu apanya yang baik? Bukankah ia suka mempermainkan wanita?",
+      "en": "What!? I can't see anything good about him. Doesn't he just break all the girls' hearts?"
+     }
+    }
+   ]
+  }
+ ]
+}

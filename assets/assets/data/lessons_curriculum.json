@@ -1,0 +1,962 @@
+{
+  "version": "1.0.0",
+  "babs": [
+    {
+      "id": "bab1_hiragana",
+      "script": "hiragana",
+      "title": {
+        "id": "Hiragana",
+        "en": "Hiragana"
+      },
+      "lessons": [
+        {
+          "id": "intro",
+          "type": "introduction",
+          "title": {
+            "id": "Pendahuluan",
+            "en": "Introduction"
+          },
+          "subtitle": {
+            "id": "Hiragana dan Katakana",
+            "en": "Hiragana and Katakana"
+          },
+          "cards": [
+            {
+              "title": {
+                "id": "Dua Sistem Huruf Kana",
+                "en": "Two Kana Writing Systems"
+              },
+              "body": {
+                "id": "Bahasa Jepang memakai dua sistem huruf bunyi: Hiragana dan Katakana. Setiap huruf kana mewakili satu bunyi suku kata, misalnya か selalu dibaca 'ka'. Jika kamu menguasai kana, kamu bisa membaca bunyi kata Jepang apa pun.",
+                "en": "Japanese uses two syllabic writing systems: Hiragana and Katakana. Each kana character stands for one syllable sound, for example か is always read 'ka'. Once you know kana, you can sound out any Japanese word."
+              }
+            },
+            {
+              "title": {
+                "id": "Hiragana untuk Kata Asli Jepang",
+                "en": "Hiragana for Native Japanese Words"
+              },
+              "body": {
+                "id": "Hiragana dipakai untuk kata asli Jepang, partikel, dan akhiran kata kerja, misalnya たべもの (makanan) dan partikel は. Bentuk hurufnya halus dan membulat. Hiragana adalah sistem pertama yang dipelajari di jalur ini.",
+                "en": "Hiragana is used for native Japanese words, particles, and verb endings, such as たべもの (food) and the particle は. Its letterforms are soft and rounded. Hiragana is the first system you will learn on this path."
+              }
+            },
+            {
+              "title": {
+                "id": "Katakana untuk Kata Serapan",
+                "en": "Katakana for Borrowed Words"
+              },
+              "body": {
+                "id": "Katakana dipakai untuk kata serapan dari bahasa asing, nama asing, dan penekanan, misalnya コーヒー (kopi). Bunyi setiap hurufnya sama dengan padanan Hiragananya, tetapi bentuknya lebih lurus dan bersudut.",
+                "en": "Katakana is used for words borrowed from other languages, foreign names, and emphasis, such as コーヒー (coffee). Each character sounds exactly like its Hiragana counterpart, but the shapes are straighter and more angular."
+              }
+            },
+            {
+              "title": {
+                "id": "Urutan Coretan Itu Penting",
+                "en": "Stroke Order Matters"
+              },
+              "body": {
+                "id": "Setiap kana ditulis dengan urutan dan arah coretan yang tetap. Menulis dengan urutan yang benar membuat hurufmu mudah dibaca dan terasa alami. Di setiap pelajaran, kartu perkenalan menampilkan animasi urutan coretan sebelum kamu berlatih menulis.",
+                "en": "Every kana is written with a fixed stroke order and direction. Writing in the correct order keeps your characters readable and natural. In each lesson, the introduction card shows the animated stroke order before you practise writing."
+              }
+            },
+            {
+              "title": {
+                "id": "Tanda Bunyi Tambahan",
+                "en": "Extra Sound Marks"
+              },
+              "body": {
+                "id": "Dua tanda kecil mengubah bunyi huruf dasar: dakuten (゛) mengubah か menjadi が, dan handakuten (゜) mengubah は menjadi ぱ. Huruf っ kecil menggandakan konsonan berikutnya, dan vokal panjang memanjangkan bunyi vokal. Semuanya akan dipelajari di Bab 3 dan Bab 4.",
+                "en": "Two small marks change the sound of a base character: dakuten (゛) turns か into が, and handakuten (゜) turns は into ぱ. A small っ doubles the following consonant, and long vowels stretch a vowel sound. You will learn all of these in Bab 3 and Bab 4."
+              }
+            },
+            {
+              "title": {
+                "id": "Cara Kerja Jalur Pelajaran Ini",
+                "en": "How This Lesson Path Works"
+              },
+              "body": {
+                "id": "Pelajaran terbuka satu per satu secara berurutan. Selesaikan satu ronde dengan nilai sempurna 100% untuk membuka ronde berikutnya, dan selesaikan semua ronde dalam satu Bab untuk membuka Bab selanjutnya. Kartu pendahuluan ini tidak dinilai, jadi santai saja dan selamat belajar!",
+                "en": "Lessons unlock one by one in order. Finish a round with a perfect 100% score to unlock the next round, and complete every round in a Bab to open the next Bab. These introduction cards are not scored, so relax and enjoy learning!"
+              }
+            }
+          ]
+        },
+        {
+          "id": "hira_row_a",
+          "type": "row",
+          "title": {
+            "id": "Pelajaran 1",
+            "en": "Lesson 1"
+          },
+          "subtitle": {
+            "id": "あいうえお",
+            "en": "a i u e o"
+          },
+          "kana": [
+            "hira_a",
+            "hira_i",
+            "hira_u",
+            "hira_e",
+            "hira_o"
+          ]
+        },
+        {
+          "id": "hira_row_k",
+          "type": "row",
+          "title": {
+            "id": "Pelajaran 2",
+            "en": "Lesson 2"
+          },
+          "subtitle": {
+            "id": "かきくけこ",
+            "en": "ka ki ku ke ko"
+          },
+          "kana": [
+            "hira_ka",
+            "hira_ki",
+            "hira_ku",
+            "hira_ke",
+            "hira_ko"
+          ]
+        },
+        {
+          "id": "hira_row_s",
+          "type": "row",
+          "title": {
+            "id": "Pelajaran 3",
+            "en": "Lesson 3"
+          },
+          "subtitle": {
+            "id": "さしすせそ",
+            "en": "sa shi su se so"
+          },
+          "kana": [
+            "hira_sa",
+            "hira_shi",
+            "hira_su",
+            "hira_se",
+            "hira_so"
+          ]
+        },
+        {
+          "id": "hira_row_t",
+          "type": "row",
+          "title": {
+            "id": "Pelajaran 4",
+            "en": "Lesson 4"
+          },
+          "subtitle": {
+            "id": "たちつてと",
+            "en": "ta chi tsu te to"
+          },
+          "kana": [
+            "hira_ta",
+            "hira_chi",
+            "hira_tsu",
+            "hira_te",
+            "hira_to"
+          ]
+        },
+        {
+          "id": "hira_row_n",
+          "type": "row",
+          "title": {
+            "id": "Pelajaran 5",
+            "en": "Lesson 5"
+          },
+          "subtitle": {
+            "id": "なにぬねの",
+            "en": "na ni nu ne no"
+          },
+          "kana": [
+            "hira_na",
+            "hira_ni",
+            "hira_nu",
+            "hira_ne",
+            "hira_no"
+          ]
+        },
+        {
+          "id": "hira_row_h",
+          "type": "row",
+          "title": {
+            "id": "Pelajaran 6",
+            "en": "Lesson 6"
+          },
+          "subtitle": {
+            "id": "はひふへほ",
+            "en": "ha hi fu he ho"
+          },
+          "kana": [
+            "hira_ha",
+            "hira_hi",
+            "hira_fu",
+            "hira_he",
+            "hira_ho"
+          ]
+        },
+        {
+          "id": "hira_row_m",
+          "type": "row",
+          "title": {
+            "id": "Pelajaran 7",
+            "en": "Lesson 7"
+          },
+          "subtitle": {
+            "id": "まみむめも",
+            "en": "ma mi mu me mo"
+          },
+          "kana": [
+            "hira_ma",
+            "hira_mi",
+            "hira_mu",
+            "hira_me",
+            "hira_mo"
+          ]
+        },
+        {
+          "id": "hira_row_y",
+          "type": "row",
+          "title": {
+            "id": "Pelajaran 8",
+            "en": "Lesson 8"
+          },
+          "subtitle": {
+            "id": "やゆよ",
+            "en": "ya yu yo"
+          },
+          "kana": [
+            "hira_ya",
+            "hira_yu",
+            "hira_yo"
+          ]
+        },
+        {
+          "id": "hira_row_r",
+          "type": "row",
+          "title": {
+            "id": "Pelajaran 9",
+            "en": "Lesson 9"
+          },
+          "subtitle": {
+            "id": "らりるれろ",
+            "en": "ra ri ru re ro"
+          },
+          "kana": [
+            "hira_ra",
+            "hira_ri",
+            "hira_ru",
+            "hira_re",
+            "hira_ro"
+          ]
+        },
+        {
+          "id": "hira_row_wa",
+          "type": "row",
+          "title": {
+            "id": "Pelajaran 10",
+            "en": "Lesson 10"
+          },
+          "subtitle": {
+            "id": "わをん",
+            "en": "wa wo n"
+          },
+          "kana": [
+            "hira_wa",
+            "hira_wo",
+            "hira_n"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bab2_katakana",
+      "script": "katakana",
+      "title": {
+        "id": "Katakana",
+        "en": "Katakana"
+      },
+      "lessons": [
+        {
+          "id": "kata_row_a",
+          "type": "row",
+          "title": {
+            "id": "Pelajaran 1",
+            "en": "Lesson 1"
+          },
+          "subtitle": {
+            "id": "アイウエオ",
+            "en": "a i u e o"
+          },
+          "kana": [
+            "kata_a",
+            "kata_i",
+            "kata_u",
+            "kata_e",
+            "kata_o"
+          ]
+        },
+        {
+          "id": "kata_row_k",
+          "type": "row",
+          "title": {
+            "id": "Pelajaran 2",
+            "en": "Lesson 2"
+          },
+          "subtitle": {
+            "id": "カキクケコ",
+            "en": "ka ki ku ke ko"
+          },
+          "kana": [
+            "kata_ka",
+            "kata_ki",
+            "kata_ku",
+            "kata_ke",
+            "kata_ko"
+          ]
+        },
+        {
+          "id": "kata_row_s",
+          "type": "row",
+          "title": {
+            "id": "Pelajaran 3",
+            "en": "Lesson 3"
+          },
+          "subtitle": {
+            "id": "サシスセソ",
+            "en": "sa shi su se so"
+          },
+          "kana": [
+            "kata_sa",
+            "kata_shi",
+            "kata_su",
+            "kata_se",
+            "kata_so"
+          ]
+        },
+        {
+          "id": "kata_row_t",
+          "type": "row",
+          "title": {
+            "id": "Pelajaran 4",
+            "en": "Lesson 4"
+          },
+          "subtitle": {
+            "id": "タチツテト",
+            "en": "ta chi tsu te to"
+          },
+          "kana": [
+            "kata_ta",
+            "kata_chi",
+            "kata_tsu",
+            "kata_te",
+            "kata_to"
+          ]
+        },
+        {
+          "id": "kata_row_n",
+          "type": "row",
+          "title": {
+            "id": "Pelajaran 5",
+            "en": "Lesson 5"
+          },
+          "subtitle": {
+            "id": "ナニヌネノ",
+            "en": "na ni nu ne no"
+          },
+          "kana": [
+            "kata_na",
+            "kata_ni",
+            "kata_nu",
+            "kata_ne",
+            "kata_no"
+          ]
+        },
+        {
+          "id": "kata_row_h",
+          "type": "row",
+          "title": {
+            "id": "Pelajaran 6",
+            "en": "Lesson 6"
+          },
+          "subtitle": {
+            "id": "ハヒフヘホ",
+            "en": "ha hi fu he ho"
+          },
+          "kana": [
+            "kata_ha",
+            "kata_hi",
+            "kata_fu",
+            "kata_he",
+            "kata_ho"
+          ]
+        },
+        {
+          "id": "kata_row_m",
+          "type": "row",
+          "title": {
+            "id": "Pelajaran 7",
+            "en": "Lesson 7"
+          },
+          "subtitle": {
+            "id": "マミムメモ",
+            "en": "ma mi mu me mo"
+          },
+          "kana": [
+            "kata_ma",
+            "kata_mi",
+            "kata_mu",
+            "kata_me",
+            "kata_mo"
+          ]
+        },
+        {
+          "id": "kata_row_y",
+          "type": "row",
+          "title": {
+            "id": "Pelajaran 8",
+            "en": "Lesson 8"
+          },
+          "subtitle": {
+            "id": "ヤユヨ",
+            "en": "ya yu yo"
+          },
+          "kana": [
+            "kata_ya",
+            "kata_yu",
+            "kata_yo"
+          ]
+        },
+        {
+          "id": "kata_row_r",
+          "type": "row",
+          "title": {
+            "id": "Pelajaran 9",
+            "en": "Lesson 9"
+          },
+          "subtitle": {
+            "id": "ラリルレロ",
+            "en": "ra ri ru re ro"
+          },
+          "kana": [
+            "kata_ra",
+            "kata_ri",
+            "kata_ru",
+            "kata_re",
+            "kata_ro"
+          ]
+        },
+        {
+          "id": "kata_row_wa",
+          "type": "row",
+          "title": {
+            "id": "Pelajaran 10",
+            "en": "Lesson 10"
+          },
+          "subtitle": {
+            "id": "ワヲン",
+            "en": "wa wo n"
+          },
+          "kana": [
+            "kata_wa",
+            "kata_wo",
+            "kata_n"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bab3_hiragana_special",
+      "script": "hiragana",
+      "title": {
+        "id": "Hiragana",
+        "en": "Hiragana"
+      },
+      "lessons": [
+        {
+          "id": "hira_dakuon_handakuon",
+          "type": "topic",
+          "topic": "dakuon_handakuon",
+          "title": {
+            "id": "Dakuon & Handakuon",
+            "en": "Dakuon & Handakuon"
+          },
+          "subtitle": {
+            "id": "が ざ だ ば ぱ",
+            "en": "ga za da ba pa"
+          },
+          "kana": [
+            "hira_ga",
+            "hira_gi",
+            "hira_gu",
+            "hira_ge",
+            "hira_go",
+            "hira_za",
+            "hira_ji",
+            "hira_zu",
+            "hira_ze",
+            "hira_zo",
+            "hira_da",
+            "hira_di",
+            "hira_du",
+            "hira_de",
+            "hira_do",
+            "hira_ba",
+            "hira_bi",
+            "hira_bu",
+            "hira_be",
+            "hira_bo",
+            "hira_pa",
+            "hira_pi",
+            "hira_pu",
+            "hira_pe",
+            "hira_po"
+          ]
+        },
+        {
+          "id": "hira_long_vowels",
+          "type": "topic",
+          "topic": "long_vowels",
+          "title": {
+            "id": "Vokal Panjang",
+            "en": "Long Vowels"
+          },
+          "subtitle": {
+            "id": "ああ, いい, うう",
+            "en": "aa, ii, uu"
+          },
+          "patterns": [
+            "aa",
+            "ii",
+            "uu",
+            "ee",
+            "oo"
+          ],
+          "kana": [
+            "hira_a",
+            "hira_i",
+            "hira_u",
+            "hira_e",
+            "hira_o"
+          ]
+        },
+        {
+          "id": "hira_sokuon",
+          "type": "topic",
+          "topic": "sokuon",
+          "title": {
+            "id": "Konsonan Panjang",
+            "en": "Long Consonants"
+          },
+          "subtitle": {
+            "id": "っ kecil",
+            "en": "small tsu"
+          },
+          "specialMarks": [
+            "hira_small_tsu"
+          ],
+          "kana": [],
+          "examples": [
+            {
+              "glyph": "ずっと",
+              "romaji": "zutto",
+              "meaning": {
+                "id": "selalu / terus-menerus",
+                "en": "always / the whole time"
+              }
+            },
+            {
+              "glyph": "きっと",
+              "romaji": "kitto",
+              "meaning": {
+                "id": "pasti",
+                "en": "surely / certainly"
+              }
+            },
+            {
+              "glyph": "もっと",
+              "romaji": "motto",
+              "meaning": {
+                "id": "lebih",
+                "en": "more"
+              }
+            },
+            {
+              "glyph": "がっこう",
+              "romaji": "gakkou",
+              "meaning": {
+                "id": "sekolah",
+                "en": "school"
+              }
+            }
+          ]
+        },
+        {
+          "id": "hira_yoon",
+          "type": "topic",
+          "topic": "yoon",
+          "title": {
+            "id": "Yōon",
+            "en": "Yōon"
+          },
+          "subtitle": {
+            "id": "きゃ きゅ きょ",
+            "en": "kya kyu kyo"
+          },
+          "kana": [
+            "hira_kya",
+            "hira_kyu",
+            "hira_kyo",
+            "hira_sha",
+            "hira_shu",
+            "hira_sho",
+            "hira_cha",
+            "hira_chu",
+            "hira_cho",
+            "hira_nya",
+            "hira_nyu",
+            "hira_nyo",
+            "hira_hya",
+            "hira_hyu",
+            "hira_hyo",
+            "hira_mya",
+            "hira_myu",
+            "hira_myo",
+            "hira_rya",
+            "hira_ryu",
+            "hira_ryo",
+            "hira_gya",
+            "hira_gyu",
+            "hira_gyo",
+            "hira_ja",
+            "hira_ju",
+            "hira_jo",
+            "hira_bya",
+            "hira_byu",
+            "hira_byo",
+            "hira_pya",
+            "hira_pyu",
+            "hira_pyo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bab4_katakana_special",
+      "script": "katakana",
+      "title": {
+        "id": "Katakana",
+        "en": "Katakana"
+      },
+      "lessons": [
+        {
+          "id": "kata_dakuon_handakuon",
+          "type": "topic",
+          "topic": "dakuon_handakuon",
+          "title": {
+            "id": "Dakuon & Handakuon",
+            "en": "Dakuon & Handakuon"
+          },
+          "subtitle": {
+            "id": "ガ ザ ダ バ パ",
+            "en": "ga za da ba pa"
+          },
+          "kana": [
+            "kata_ga",
+            "kata_gi",
+            "kata_gu",
+            "kata_ge",
+            "kata_go",
+            "kata_za",
+            "kata_ji",
+            "kata_zu",
+            "kata_ze",
+            "kata_zo",
+            "kata_da",
+            "kata_di",
+            "kata_du",
+            "kata_de",
+            "kata_do",
+            "kata_ba",
+            "kata_bi",
+            "kata_bu",
+            "kata_be",
+            "kata_bo",
+            "kata_pa",
+            "kata_pi",
+            "kata_pu",
+            "kata_pe",
+            "kata_po"
+          ]
+        },
+        {
+          "id": "kata_long_vowels",
+          "type": "topic",
+          "topic": "long_vowels",
+          "title": {
+            "id": "Vokal Panjang",
+            "en": "Long Vowels"
+          },
+          "subtitle": {
+            "id": "アー, イー, ウー",
+            "en": "aa, ii, uu"
+          },
+          "patterns": [
+            "aa",
+            "ii",
+            "uu",
+            "ee",
+            "oo"
+          ],
+          "kana": [
+            "kata_a",
+            "kata_i",
+            "kata_u",
+            "kata_e",
+            "kata_o"
+          ],
+          "specialMarks": [
+            "chouonpu"
+          ]
+        },
+        {
+          "id": "kata_sokuon",
+          "type": "topic",
+          "topic": "sokuon",
+          "title": {
+            "id": "Konsonan Panjang",
+            "en": "Long Consonants"
+          },
+          "subtitle": {
+            "id": "ッ kecil",
+            "en": "small tsu"
+          },
+          "specialMarks": [
+            "kata_small_tsu"
+          ],
+          "kana": [],
+          "examples": [
+            {
+              "glyph": "ベッド",
+              "romaji": "beddo",
+              "meaning": {
+                "id": "tempat tidur",
+                "en": "bed"
+              }
+            },
+            {
+              "glyph": "カップ",
+              "romaji": "kappu",
+              "meaning": {
+                "id": "cangkir",
+                "en": "cup"
+              }
+            },
+            {
+              "glyph": "ネット",
+              "romaji": "netto",
+              "meaning": {
+                "id": "internet / jaring",
+                "en": "internet / net"
+              }
+            },
+            {
+              "glyph": "チケット",
+              "romaji": "chiketto",
+              "meaning": {
+                "id": "tiket",
+                "en": "ticket"
+              }
+            }
+          ]
+        },
+        {
+          "id": "kata_additional_sounds",
+          "type": "topic",
+          "topic": "additional_sounds",
+          "title": {
+            "id": "Bunyi Tambahan",
+            "en": "Additional Sounds"
+          },
+          "subtitle": {
+            "id": "ファ フィ フェ フォ",
+            "en": "fa fi fe fo"
+          },
+          "kana": [],
+          "combos": [
+            {
+              "glyph": "ファ",
+              "romaji": "fa",
+              "base": "フ",
+              "small": "ァ"
+            },
+            {
+              "glyph": "フィ",
+              "romaji": "fi",
+              "base": "フ",
+              "small": "ィ"
+            },
+            {
+              "glyph": "フェ",
+              "romaji": "fe",
+              "base": "フ",
+              "small": "ェ"
+            },
+            {
+              "glyph": "フォ",
+              "romaji": "fo",
+              "base": "フ",
+              "small": "ォ"
+            },
+            {
+              "glyph": "ウィ",
+              "romaji": "wi",
+              "base": "ウ",
+              "small": "ィ"
+            },
+            {
+              "glyph": "ウェ",
+              "romaji": "we",
+              "base": "ウ",
+              "small": "ェ"
+            },
+            {
+              "glyph": "ウォ",
+              "romaji": "wo",
+              "base": "ウ",
+              "small": "ォ"
+            },
+            {
+              "glyph": "ヴァ",
+              "romaji": "va",
+              "base": "ヴ",
+              "small": "ァ"
+            },
+            {
+              "glyph": "ヴィ",
+              "romaji": "vi",
+              "base": "ヴ",
+              "small": "ィ"
+            },
+            {
+              "glyph": "ヴェ",
+              "romaji": "ve",
+              "base": "ヴ",
+              "small": "ェ"
+            },
+            {
+              "glyph": "ヴォ",
+              "romaji": "vo",
+              "base": "ヴ",
+              "small": "ォ"
+            },
+            {
+              "glyph": "ティ",
+              "romaji": "ti",
+              "base": "テ",
+              "small": "ィ"
+            },
+            {
+              "glyph": "ディ",
+              "romaji": "di",
+              "base": "デ",
+              "small": "ィ"
+            },
+            {
+              "glyph": "トゥ",
+              "romaji": "tu",
+              "base": "ト",
+              "small": "ゥ"
+            },
+            {
+              "glyph": "ドゥ",
+              "romaji": "du",
+              "base": "ド",
+              "small": "ゥ"
+            },
+            {
+              "glyph": "シェ",
+              "romaji": "she",
+              "base": "シ",
+              "small": "ェ"
+            },
+            {
+              "glyph": "ジェ",
+              "romaji": "je",
+              "base": "ジ",
+              "small": "ェ"
+            },
+            {
+              "glyph": "チェ",
+              "romaji": "che",
+              "base": "チ",
+              "small": "ェ"
+            },
+            {
+              "glyph": "ツァ",
+              "romaji": "tsa",
+              "base": "ツ",
+              "small": "ァ"
+            },
+            {
+              "glyph": "ツィ",
+              "romaji": "tsi",
+              "base": "ツ",
+              "small": "ィ"
+            }
+          ]
+        },
+        {
+          "id": "kata_yoon",
+          "type": "topic",
+          "topic": "yoon",
+          "title": {
+            "id": "Yōon",
+            "en": "Yōon"
+          },
+          "subtitle": {
+            "id": "キャ キュ キョ",
+            "en": "kya kyu kyo"
+          },
+          "kana": [
+            "kata_kya",
+            "kata_kyu",
+            "kata_kyo",
+            "kata_sha",
+            "kata_shu",
+            "kata_sho",
+            "kata_cha",
+            "kata_chu",
+            "kata_cho",
+            "kata_nya",
+            "kata_nyu",
+            "kata_nyo",
+            "kata_hya",
+            "kata_hyu",
+            "kata_hyo",
+            "kata_mya",
+            "kata_myu",
+            "kata_myo",
+            "kata_rya",
+            "kata_ryu",
+            "kata_ryo",
+            "kata_gya",
+            "kata_gyu",
+            "kata_gyo",
+            "kata_ja",
+            "kata_ju",
+            "kata_jo",
+            "kata_bya",
+            "kata_byu",
+            "kata_byo",
+            "kata_pya",
+            "kata_pyu",
+            "kata_pyo"
+          ]
+        }
+      ]
+    }
+  ]
+}

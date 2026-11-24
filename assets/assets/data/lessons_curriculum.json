@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "2.0.0",
   "babs": [
     {
       "id": "bab1_hiragana",
@@ -468,138 +468,249 @@
       ]
     },
     {
-      "id": "bab3_hiragana_special",
+      "id": "bab3_hiragana_dakuten",
       "script": "hiragana",
       "title": {
-        "id": "Hiragana",
-        "en": "Hiragana"
+        "id": "Hiragana (Dakuten)",
+        "en": "Hiragana (Dakuten)"
       },
       "lessons": [
         {
-          "id": "hira_dakuon_handakuon",
-          "type": "topic",
-          "topic": "dakuon_handakuon",
+          "id": "hira_dakuten_ga",
+          "type": "row",
           "title": {
-            "id": "Dakuon & Handakuon",
-            "en": "Dakuon & Handakuon"
+            "id": "Pelajaran 1",
+            "en": "Lesson 1"
           },
           "subtitle": {
-            "id": "が ざ だ ば ぱ",
-            "en": "ga za da ba pa"
+            "id": "がぎぐげご",
+            "en": "ga gi gu ge go"
           },
           "kana": [
             "hira_ga",
             "hira_gi",
             "hira_gu",
             "hira_ge",
-            "hira_go",
+            "hira_go"
+          ]
+        },
+        {
+          "id": "hira_dakuten_za",
+          "type": "row",
+          "title": {
+            "id": "Pelajaran 2",
+            "en": "Lesson 2"
+          },
+          "subtitle": {
+            "id": "ざじずぜぞ",
+            "en": "za ji zu ze zo"
+          },
+          "kana": [
             "hira_za",
             "hira_ji",
             "hira_zu",
             "hira_ze",
-            "hira_zo",
+            "hira_zo"
+          ]
+        },
+        {
+          "id": "hira_dakuten_da",
+          "type": "row",
+          "title": {
+            "id": "Pelajaran 3",
+            "en": "Lesson 3"
+          },
+          "subtitle": {
+            "id": "だぢづでど",
+            "en": "da di du de do"
+          },
+          "kana": [
             "hira_da",
             "hira_di",
             "hira_du",
             "hira_de",
-            "hira_do",
+            "hira_do"
+          ]
+        },
+        {
+          "id": "hira_dakuten_ba",
+          "type": "row",
+          "title": {
+            "id": "Pelajaran 4",
+            "en": "Lesson 4"
+          },
+          "subtitle": {
+            "id": "ばびぶべぼ",
+            "en": "ba bi bu be bo"
+          },
+          "kana": [
             "hira_ba",
             "hira_bi",
             "hira_bu",
             "hira_be",
-            "hira_bo",
+            "hira_bo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bab4_katakana_dakuten",
+      "script": "katakana",
+      "title": {
+        "id": "Katakana (Dakuten)",
+        "en": "Katakana (Dakuten)"
+      },
+      "lessons": [
+        {
+          "id": "kata_dakuten_ga",
+          "type": "row",
+          "title": {
+            "id": "Pelajaran 1",
+            "en": "Lesson 1"
+          },
+          "subtitle": {
+            "id": "ガギグゲゴ",
+            "en": "ga gi gu ge go"
+          },
+          "kana": [
+            "kata_ga",
+            "kata_gi",
+            "kata_gu",
+            "kata_ge",
+            "kata_go"
+          ]
+        },
+        {
+          "id": "kata_dakuten_za",
+          "type": "row",
+          "title": {
+            "id": "Pelajaran 2",
+            "en": "Lesson 2"
+          },
+          "subtitle": {
+            "id": "ザジズゼゾ",
+            "en": "za ji zu ze zo"
+          },
+          "kana": [
+            "kata_za",
+            "kata_ji",
+            "kata_zu",
+            "kata_ze",
+            "kata_zo"
+          ]
+        },
+        {
+          "id": "kata_dakuten_da",
+          "type": "row",
+          "title": {
+            "id": "Pelajaran 3",
+            "en": "Lesson 3"
+          },
+          "subtitle": {
+            "id": "ダヂヅデド",
+            "en": "da di du de do"
+          },
+          "kana": [
+            "kata_da",
+            "kata_di",
+            "kata_du",
+            "kata_de",
+            "kata_do"
+          ]
+        },
+        {
+          "id": "kata_dakuten_ba",
+          "type": "row",
+          "title": {
+            "id": "Pelajaran 4",
+            "en": "Lesson 4"
+          },
+          "subtitle": {
+            "id": "バビブベボ",
+            "en": "ba bi bu be bo"
+          },
+          "kana": [
+            "kata_ba",
+            "kata_bi",
+            "kata_bu",
+            "kata_be",
+            "kata_bo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bab5_hiragana_handakuon",
+      "script": "hiragana",
+      "title": {
+        "id": "Hiragana (Handakuon)",
+        "en": "Hiragana (Handakuon)"
+      },
+      "lessons": [
+        {
+          "id": "hira_handakuon_pa",
+          "type": "row",
+          "title": {
+            "id": "Pelajaran 1",
+            "en": "Lesson 1"
+          },
+          "subtitle": {
+            "id": "ぱぴぷぺぽ",
+            "en": "pa pi pu pe po"
+          },
+          "kana": [
             "hira_pa",
             "hira_pi",
             "hira_pu",
             "hira_pe",
             "hira_po"
           ]
-        },
+        }
+      ]
+    },
+    {
+      "id": "bab6_katakana_handakuon",
+      "script": "katakana",
+      "title": {
+        "id": "Katakana (Handakuon)",
+        "en": "Katakana (Handakuon)"
+      },
+      "lessons": [
         {
-          "id": "hira_long_vowels",
-          "type": "topic",
-          "topic": "long_vowels",
+          "id": "kata_handakuon_pa",
+          "type": "row",
           "title": {
-            "id": "Vokal Panjang",
-            "en": "Long Vowels"
+            "id": "Pelajaran 1",
+            "en": "Lesson 1"
           },
           "subtitle": {
-            "id": "ああ, いい, うう",
-            "en": "aa, ii, uu"
+            "id": "パピプペポ",
+            "en": "pa pi pu pe po"
           },
-          "patterns": [
-            "aa",
-            "ii",
-            "uu",
-            "ee",
-            "oo"
-          ],
           "kana": [
-            "hira_a",
-            "hira_i",
-            "hira_u",
-            "hira_e",
-            "hira_o"
+            "kata_pa",
+            "kata_pi",
+            "kata_pu",
+            "kata_pe",
+            "kata_po"
           ]
-        },
+        }
+      ]
+    },
+    {
+      "id": "bab7_yoon",
+      "title": {
+        "id": "Yoon",
+        "en": "Yoon"
+      },
+      "lessons": [
         {
-          "id": "hira_sokuon",
-          "type": "topic",
-          "topic": "sokuon",
-          "title": {
-            "id": "Konsonan Panjang",
-            "en": "Long Consonants"
-          },
-          "subtitle": {
-            "id": "っ kecil",
-            "en": "small tsu"
-          },
-          "specialMarks": [
-            "hira_small_tsu"
-          ],
-          "kana": [],
-          "examples": [
-            {
-              "glyph": "ずっと",
-              "romaji": "zutto",
-              "meaning": {
-                "id": "selalu / terus-menerus",
-                "en": "always / the whole time"
-              }
-            },
-            {
-              "glyph": "きっと",
-              "romaji": "kitto",
-              "meaning": {
-                "id": "pasti",
-                "en": "surely / certainly"
-              }
-            },
-            {
-              "glyph": "もっと",
-              "romaji": "motto",
-              "meaning": {
-                "id": "lebih",
-                "en": "more"
-              }
-            },
-            {
-              "glyph": "がっこう",
-              "romaji": "gakkou",
-              "meaning": {
-                "id": "sekolah",
-                "en": "school"
-              }
-            }
-          ]
-        },
-        {
-          "id": "hira_yoon",
-          "type": "topic",
+          "id": "yoon_hiragana",
+          "type": "material",
           "topic": "yoon",
           "title": {
-            "id": "Yōon",
-            "en": "Yōon"
+            "id": "Yoon Hiragana",
+            "en": "Hiragana Yoon"
           },
           "subtitle": {
             "id": "きゃ きゅ きょ",
@@ -639,70 +750,402 @@
             "hira_pya",
             "hira_pyu",
             "hira_pyo"
+          ],
+          "cards": [
+            {
+              "title": {
+                "id": "Yoon: Dua Huruf, Satu Bunyi",
+                "en": "Yoon: Two Letters, One Sound"
+              },
+              "body": {
+                "id": "Yoon dibentuk dari kana kolom i (き, し, ち, に, ひ, み, り) ditambah huruf kecil ゃ, ゅ, atau ょ. Pasangan itu dibaca sebagai SATU mora, misalnya き + ゃ = きゃ dibaca \"kya\", bukan \"ki-ya\" dua ketukan.",
+                "en": "Yoon are formed from an i-column kana (き, し, ち, に, ひ, み, り) plus a small ゃ, ゅ, or ょ. The pair is read as ONE mora, for example き + ゃ = きゃ is read \"kya\", not the two beats \"ki-ya\"."
+              }
+            },
+            {
+              "title": {
+                "id": "Huruf Kecil Mengubah Bunyi",
+                "en": "The Small Letter Changes the Sound"
+              },
+              "body": {
+                "id": "Huruf ゃ ゅ ょ selalu ditulis kecil. Kalau ditulis besar (や ゆ よ), bunyinya menjadi dua mora yang terpisah. Baris bersuara juga punya yoon: ぎゃ (gya), じゃ (ja), びゃ (bya), dan ぴゃ (pya).",
+                "en": "The letters ゃ ゅ ょ are always written small. Written full-size (や ゆ よ), the sound becomes two separate morae instead. The voiced rows have yoon too: ぎゃ (gya), じゃ (ja), びゃ (bya), and ぴゃ (pya)."
+              }
+            }
+          ],
+          "quiz": [
+            {
+              "prompt": {
+                "id": "Bunyi apa ini?",
+                "en": "What sound is this?"
+              },
+              "glyph": "きゃ",
+              "options": [
+                "kya",
+                "kiya",
+                "ka",
+                "kyo"
+              ],
+              "answer": "kya"
+            },
+            {
+              "prompt": {
+                "id": "Bunyi apa ini?",
+                "en": "What sound is this?"
+              },
+              "glyph": "しゅ",
+              "options": [
+                "shu",
+                "shiyu",
+                "su",
+                "sho"
+              ],
+              "answer": "shu"
+            },
+            {
+              "prompt": {
+                "id": "Bunyi apa ini?",
+                "en": "What sound is this?"
+              },
+              "glyph": "ちょ",
+              "options": [
+                "cho",
+                "chiyo",
+                "chi",
+                "cha"
+              ],
+              "answer": "cho"
+            },
+            {
+              "prompt": {
+                "id": "Pasangan mana yang membentuk \"kya\"?",
+                "en": "Which pair forms \"kya\"?"
+              },
+              "options": [
+                "き + ゃ",
+                "き + や",
+                "か + ゃ",
+                "き + ゅ"
+              ],
+              "answer": "き + ゃ"
+            }
+          ],
+          "practice": [
+            {
+              "prompt": {
+                "id": "Huruf mana yang berbunyi \"ryu\"?",
+                "en": "Which letters read \"ryu\"?"
+              },
+              "options": [
+                "りゅ",
+                "りゆ",
+                "る",
+                "りょ"
+              ],
+              "answer": "りゅ"
+            },
+            {
+              "prompt": {
+                "id": "Kata きょう dibaca...",
+                "en": "The word きょう is read..."
+              },
+              "options": [
+                "kyou",
+                "kiyou",
+                "kyo-u terpisah dua kata",
+                "kou"
+              ],
+              "answer": "kyou"
+            },
+            {
+              "prompt": {
+                "id": "Satu mora yoon dihitung sebagai...",
+                "en": "One yoon mora counts as..."
+              },
+              "options": [
+                "satu ketukan",
+                "dua ketukan",
+                "tiga ketukan",
+                "tidak dihitung"
+              ],
+              "answer": "satu ketukan"
+            },
+            {
+              "prompt": {
+                "id": "Huruf mana yang berbunyi \"ja\"?",
+                "en": "Which letters read \"ja\"?"
+              },
+              "options": [
+                "じゃ",
+                "じや",
+                "じ",
+                "ぢゃ"
+              ],
+              "answer": "じゃ"
+            }
+          ],
+          "examples": [
+            {
+              "glyph": "きょう",
+              "romaji": "kyou",
+              "meaning": {
+                "id": "hari ini",
+                "en": "today"
+              }
+            },
+            {
+              "glyph": "しゃしん",
+              "romaji": "shashin",
+              "meaning": {
+                "id": "foto",
+                "en": "photo"
+              }
+            },
+            {
+              "glyph": "りょこう",
+              "romaji": "ryokou",
+              "meaning": {
+                "id": "perjalanan",
+                "en": "trip"
+              }
+            }
+          ]
+        },
+        {
+          "id": "yoon_katakana",
+          "type": "material",
+          "topic": "yoon",
+          "title": {
+            "id": "Yoon Katakana",
+            "en": "Katakana Yoon"
+          },
+          "subtitle": {
+            "id": "キャ キュ キョ",
+            "en": "kya kyu kyo"
+          },
+          "kana": [
+            "kata_kya",
+            "kata_kyu",
+            "kata_kyo",
+            "kata_sha",
+            "kata_shu",
+            "kata_sho",
+            "kata_cha",
+            "kata_chu",
+            "kata_cho",
+            "kata_nya",
+            "kata_nyu",
+            "kata_nyo",
+            "kata_hya",
+            "kata_hyu",
+            "kata_hyo",
+            "kata_mya",
+            "kata_myu",
+            "kata_myo",
+            "kata_rya",
+            "kata_ryu",
+            "kata_ryo",
+            "kata_gya",
+            "kata_gyu",
+            "kata_gyo",
+            "kata_ja",
+            "kata_ju",
+            "kata_jo",
+            "kata_bya",
+            "kata_byu",
+            "kata_byo",
+            "kata_pya",
+            "kata_pyu",
+            "kata_pyo"
+          ],
+          "cards": [
+            {
+              "title": {
+                "id": "Yoon Katakana: Aturan yang Sama",
+                "en": "Katakana Yoon: The Same Rule"
+              },
+              "body": {
+                "id": "Di katakana, yoon dibentuk dengan cara yang sama: kana kolom i (キ, シ, チ, ニ, ヒ, ミ, リ) ditambah huruf kecil ャ, ュ, atau ョ, dibaca satu mora. Contoh: キ + ャ = キャ dibaca \"kya\".",
+                "en": "In katakana, yoon are formed the same way: an i-column kana (キ, シ, チ, ニ, ヒ, ミ, リ) plus a small ャ, ュ, or ョ, read as one mora. Example: キ + ャ = キャ is read \"kya\"."
+              }
+            },
+            {
+              "title": {
+                "id": "Sering Muncul di Kata Serapan",
+                "en": "Common in Borrowed Words"
+              },
+              "body": {
+                "id": "Yoon katakana sering muncul pada kata serapan dan nama asing. Huruf kecilnya tidak dibaca sendiri: シュ dibaca \"shu\" sebagai satu bunyi, bukan \"shi-yu\".",
+                "en": "Katakana yoon often appear in borrowed words and foreign names. The small letter is not read on its own: シュ is read \"shu\" as a single sound, not \"shi-yu\"."
+              }
+            }
+          ],
+          "quiz": [
+            {
+              "prompt": {
+                "id": "Bunyi apa ini?",
+                "en": "What sound is this?"
+              },
+              "glyph": "キャ",
+              "options": [
+                "kya",
+                "kiya",
+                "ka",
+                "kyo"
+              ],
+              "answer": "kya"
+            },
+            {
+              "prompt": {
+                "id": "Bunyi apa ini?",
+                "en": "What sound is this?"
+              },
+              "glyph": "シュ",
+              "options": [
+                "shu",
+                "shiu",
+                "su",
+                "sha"
+              ],
+              "answer": "shu"
+            },
+            {
+              "prompt": {
+                "id": "Bunyi apa ini?",
+                "en": "What sound is this?"
+              },
+              "glyph": "ジョ",
+              "options": [
+                "jo",
+                "jiyo",
+                "ji",
+                "ja"
+              ],
+              "answer": "jo"
+            },
+            {
+              "prompt": {
+                "id": "Pasangan mana yang membentuk \"cha\"?",
+                "en": "Which pair forms \"cha\"?"
+              },
+              "options": [
+                "チ + ャ",
+                "チ + ヤ",
+                "タ + ャ",
+                "チ + ュ"
+              ],
+              "answer": "チ + ャ"
+            }
+          ],
+          "practice": [
+            {
+              "prompt": {
+                "id": "Huruf mana yang berbunyi \"myu\"?",
+                "en": "Which letters read \"myu\"?"
+              },
+              "options": [
+                "ミュ",
+                "ミユ",
+                "ム",
+                "ミョ"
+              ],
+              "answer": "ミュ"
+            },
+            {
+              "prompt": {
+                "id": "Kata キャンプ dibaca...",
+                "en": "The word キャンプ is read..."
+              },
+              "options": [
+                "kyanpu",
+                "kiyanpu",
+                "kanpu",
+                "kyapu"
+              ],
+              "answer": "kyanpu"
+            },
+            {
+              "prompt": {
+                "id": "Huruf kecil ャ ュ ョ dibaca...",
+                "en": "The small letters ャ ュ ョ are read..."
+              },
+              "options": [
+                "menyatu dengan huruf sebelumnya",
+                "terpisah sebagai ya yu yo",
+                "tidak dibaca sama sekali",
+                "sebagai n"
+              ],
+              "answer": "menyatu dengan huruf sebelumnya"
+            },
+            {
+              "prompt": {
+                "id": "Huruf mana yang berbunyi \"pyo\"?",
+                "en": "Which letters read \"pyo\"?"
+              },
+              "options": [
+                "ピョ",
+                "ピヨ",
+                "ポ",
+                "ピャ"
+              ],
+              "answer": "ピョ"
+            }
+          ],
+          "examples": [
+            {
+              "glyph": "キャンプ",
+              "romaji": "kyanpu",
+              "meaning": {
+                "id": "kemah",
+                "en": "camp"
+              }
+            },
+            {
+              "glyph": "シャツ",
+              "romaji": "shatsu",
+              "meaning": {
+                "id": "kemeja",
+                "en": "shirt"
+              }
+            },
+            {
+              "glyph": "チョコ",
+              "romaji": "choko",
+              "meaning": {
+                "id": "cokelat",
+                "en": "chocolate"
+              }
+            }
           ]
         }
       ]
     },
     {
-      "id": "bab4_katakana_special",
-      "script": "katakana",
+      "id": "bab8_long_vowels",
       "title": {
-        "id": "Katakana",
-        "en": "Katakana"
+        "id": "Vokal Panjang",
+        "en": "Long Vowels"
       },
       "lessons": [
         {
-          "id": "kata_dakuon_handakuon",
-          "type": "topic",
-          "topic": "dakuon_handakuon",
-          "title": {
-            "id": "Dakuon & Handakuon",
-            "en": "Dakuon & Handakuon"
-          },
-          "subtitle": {
-            "id": "ガ ザ ダ バ パ",
-            "en": "ga za da ba pa"
-          },
-          "kana": [
-            "kata_ga",
-            "kata_gi",
-            "kata_gu",
-            "kata_ge",
-            "kata_go",
-            "kata_za",
-            "kata_ji",
-            "kata_zu",
-            "kata_ze",
-            "kata_zo",
-            "kata_da",
-            "kata_di",
-            "kata_du",
-            "kata_de",
-            "kata_do",
-            "kata_ba",
-            "kata_bi",
-            "kata_bu",
-            "kata_be",
-            "kata_bo",
-            "kata_pa",
-            "kata_pi",
-            "kata_pu",
-            "kata_pe",
-            "kata_po"
-          ]
-        },
-        {
-          "id": "kata_long_vowels",
-          "type": "topic",
+          "id": "long_vowels_hiragana",
+          "type": "material",
           "topic": "long_vowels",
           "title": {
-            "id": "Vokal Panjang",
-            "en": "Long Vowels"
+            "id": "Vokal Panjang Hiragana",
+            "en": "Hiragana Long Vowels"
           },
           "subtitle": {
-            "id": "アー, イー, ウー",
+            "id": "ああ, いい, うう",
             "en": "aa, ii, uu"
           },
+          "kana": [
+            "hira_a",
+            "hira_i",
+            "hira_u",
+            "hira_e",
+            "hira_o"
+          ],
           "patterns": [
             "aa",
             "ii",
@@ -710,6 +1153,177 @@
             "ee",
             "oo"
           ],
+          "cards": [
+            {
+              "title": {
+                "id": "Vokal Panjang: Dua Mora",
+                "en": "Long Vowels: Two Morae"
+              },
+              "body": {
+                "id": "Vokal panjang dibunyikan dua kali lebih lama dan dihitung DUA mora. Di hiragana, vokal diperpanjang dengan menambah huruf vokal: あ+あ (aa), い+い (ii), う+う (uu). Contoh: おかあさん (okaasan) artinya ibu.",
+                "en": "A long vowel is held twice as long and counts as TWO morae. In hiragana, a vowel is lengthened by adding a vowel letter: あ+あ (aa), い+い (ii), う+う (uu). Example: おかあさん (okaasan) means mother."
+              }
+            },
+            {
+              "title": {
+                "id": "Baris e dan o Punya Aturan Khusus",
+                "en": "The e and o Rows Have Special Rules"
+              },
+              "body": {
+                "id": "Untuk bunyi ee, biasanya ditambah い: せんせい (sensei, guru). Untuk bunyi oo, biasanya ditambah う: おとうさん (otousan, ayah). Panjang vokal bisa mengubah arti: おばさん (bibi) berbeda dari おばあさん (nenek).",
+                "en": "For an ee sound, い is usually added: せんせい (sensei, teacher). For an oo sound, う is usually added: おとうさん (otousan, father). Vowel length can change meaning: おばさん (aunt) differs from おばあさん (grandmother)."
+              }
+            }
+          ],
+          "quiz": [
+            {
+              "prompt": {
+                "id": "Vokal panjang dihitung sebagai berapa mora?",
+                "en": "A long vowel counts as how many morae?"
+              },
+              "options": [
+                "dua mora",
+                "satu mora",
+                "tiga mora",
+                "setengah mora"
+              ],
+              "answer": "dua mora"
+            },
+            {
+              "prompt": {
+                "id": "Huruf apa yang memperpanjang あ?",
+                "en": "Which letter lengthens あ?"
+              },
+              "glyph": "あ",
+              "options": [
+                "あ",
+                "い",
+                "う",
+                "ー"
+              ],
+              "answer": "あ"
+            },
+            {
+              "prompt": {
+                "id": "Bunyi \"ee\" panjang biasanya ditulis dengan menambah...",
+                "en": "A long \"ee\" sound is usually written by adding..."
+              },
+              "options": [
+                "い",
+                "あ",
+                "う",
+                "お"
+              ],
+              "answer": "い"
+            },
+            {
+              "prompt": {
+                "id": "Bunyi \"oo\" panjang biasanya ditulis dengan menambah...",
+                "en": "A long \"oo\" sound is usually written by adding..."
+              },
+              "options": [
+                "う",
+                "あ",
+                "い",
+                "え"
+              ],
+              "answer": "う"
+            }
+          ],
+          "practice": [
+            {
+              "prompt": {
+                "id": "Kata おかあさん dibaca...",
+                "en": "The word おかあさん is read..."
+              },
+              "options": [
+                "okaasan",
+                "okasan",
+                "okaasan tiga mora",
+                "okausan"
+              ],
+              "answer": "okaasan"
+            },
+            {
+              "prompt": {
+                "id": "Kata mana yang berarti \"nenek\"?",
+                "en": "Which word means \"grandmother\"?"
+              },
+              "options": [
+                "おばあさん",
+                "おばさん",
+                "おじいさん",
+                "おかあさん"
+              ],
+              "answer": "おばあさん"
+            },
+            {
+              "prompt": {
+                "id": "Kata せんせい dibaca...",
+                "en": "The word せんせい is read..."
+              },
+              "options": [
+                "sensei",
+                "sense",
+                "sen sei pendek",
+                "sensee ditulis せんせえ selalu"
+              ],
+              "answer": "sensei"
+            },
+            {
+              "prompt": {
+                "id": "Huruf apa yang memperpanjang う?",
+                "en": "Which letter lengthens う?"
+              },
+              "glyph": "う",
+              "options": [
+                "う",
+                "あ",
+                "お",
+                "ー"
+              ],
+              "answer": "う"
+            }
+          ],
+          "examples": [
+            {
+              "glyph": "おかあさん",
+              "romaji": "okaasan",
+              "meaning": {
+                "id": "ibu",
+                "en": "mother"
+              }
+            },
+            {
+              "glyph": "せんせい",
+              "romaji": "sensei",
+              "meaning": {
+                "id": "guru",
+                "en": "teacher"
+              }
+            },
+            {
+              "glyph": "おとうさん",
+              "romaji": "otousan",
+              "meaning": {
+                "id": "ayah",
+                "en": "father"
+              }
+            }
+          ]
+        },
+        {
+          "id": "long_vowels_katakana",
+          "type": "material",
+          "topic": "long_vowels",
+          "title": {
+            "id": "Vokal Panjang Katakana",
+            "en": "Katakana Long Vowels"
+          },
+          "subtitle": {
+            "id": "アー, イー, ウー",
+            "en": "aa, ii, uu"
+          },
           "kana": [
             "kata_a",
             "kata_i",
@@ -719,72 +1333,194 @@
           ],
           "specialMarks": [
             "chouonpu"
-          ]
-        },
-        {
-          "id": "kata_sokuon",
-          "type": "topic",
-          "topic": "sokuon",
-          "title": {
-            "id": "Konsonan Panjang",
-            "en": "Long Consonants"
-          },
-          "subtitle": {
-            "id": "ッ kecil",
-            "en": "small tsu"
-          },
-          "specialMarks": [
-            "kata_small_tsu"
           ],
-          "kana": [],
+          "patterns": [
+            "aa",
+            "ii",
+            "uu",
+            "ee",
+            "oo"
+          ],
+          "cards": [
+            {
+              "title": {
+                "id": "Tanda ー Memperpanjang Vokal",
+                "en": "The Mark ー Lengthens a Vowel"
+              },
+              "body": {
+                "id": "Di katakana, vokal panjang ditulis dengan tanda ー (chooonpu) SETELAH kana: コ + ー = コー dibaca \"koo\" yang panjang. Tanda ini dihitung satu mora. Contoh: コーヒー (koohii) artinya kopi.",
+                "en": "In katakana, a long vowel is written with the mark ー (chooonpu) AFTER the kana: コ + ー = コー is read as a long \"koo\". The mark counts as one mora. Example: コーヒー (koohii) means coffee."
+              }
+            },
+            {
+              "title": {
+                "id": "Dipakai di Kata Serapan",
+                "en": "Used in Borrowed Words"
+              },
+              "body": {
+                "id": "Tanda ー sangat sering muncul di kata serapan: ケーキ (keeki, kue) dan タクシー (takushii, taksi). Tanpa ー, bunyinya menjadi pendek dan kata bisa terdengar berbeda.",
+                "en": "The mark ー appears very often in borrowed words: ケーキ (keeki, cake) and タクシー (takushii, taxi). Without ー, the sound becomes short and the word can sound different."
+              }
+            }
+          ],
+          "quiz": [
+            {
+              "prompt": {
+                "id": "Tanda apa yang memperpanjang vokal di katakana?",
+                "en": "Which mark lengthens a vowel in katakana?"
+              },
+              "options": [
+                "ー",
+                "゛",
+                "゜",
+                "っ"
+              ],
+              "answer": "ー"
+            },
+            {
+              "prompt": {
+                "id": "Tanda ー ditulis di mana?",
+                "en": "Where is the mark ー written?"
+              },
+              "options": [
+                "setelah kana",
+                "sebelum kana",
+                "di atas kana",
+                "menggantikan kana"
+              ],
+              "answer": "setelah kana"
+            },
+            {
+              "prompt": {
+                "id": "Tanda ー dihitung sebagai...",
+                "en": "The mark ー counts as..."
+              },
+              "options": [
+                "satu mora",
+                "tidak dihitung",
+                "dua mora",
+                "satu kata"
+              ],
+              "answer": "satu mora"
+            },
+            {
+              "prompt": {
+                "id": "Bunyi apa ini?",
+                "en": "What sound is this?"
+              },
+              "glyph": "コー",
+              "options": [
+                "koo",
+                "ko",
+                "kou pendek",
+                "kotsu"
+              ],
+              "answer": "koo"
+            }
+          ],
+          "practice": [
+            {
+              "prompt": {
+                "id": "Kata コーヒー dibaca...",
+                "en": "The word コーヒー is read..."
+              },
+              "options": [
+                "koohii",
+                "kohi",
+                "koohi pendek",
+                "kofii"
+              ],
+              "answer": "koohii"
+            },
+            {
+              "prompt": {
+                "id": "Kata mana yang berarti \"kue\"?",
+                "en": "Which word means \"cake\"?"
+              },
+              "options": [
+                "ケーキ",
+                "ケキ",
+                "コーキ",
+                "ケー"
+              ],
+              "answer": "ケーキ"
+            },
+            {
+              "prompt": {
+                "id": "Kata タクシー dibaca...",
+                "en": "The word タクシー is read..."
+              },
+              "options": [
+                "takushii",
+                "takushi",
+                "takusii pendek",
+                "takushitsu"
+              ],
+              "answer": "takushii"
+            },
+            {
+              "prompt": {
+                "id": "Untuk menulis \"aa\" panjang di katakana, kita menulis...",
+                "en": "To write a long \"aa\" in katakana, we write..."
+              },
+              "options": [
+                "アー",
+                "アア selalu",
+                "アっ",
+                "ア゛"
+              ],
+              "answer": "アー"
+            }
+          ],
           "examples": [
             {
-              "glyph": "ベッド",
-              "romaji": "beddo",
+              "glyph": "コーヒー",
+              "romaji": "koohii",
               "meaning": {
-                "id": "tempat tidur",
-                "en": "bed"
+                "id": "kopi",
+                "en": "coffee"
               }
             },
             {
-              "glyph": "カップ",
-              "romaji": "kappu",
+              "glyph": "ケーキ",
+              "romaji": "keeki",
               "meaning": {
-                "id": "cangkir",
-                "en": "cup"
+                "id": "kue",
+                "en": "cake"
               }
             },
             {
-              "glyph": "ネット",
-              "romaji": "netto",
+              "glyph": "タクシー",
+              "romaji": "takushii",
               "meaning": {
-                "id": "internet / jaring",
-                "en": "internet / net"
-              }
-            },
-            {
-              "glyph": "チケット",
-              "romaji": "chiketto",
-              "meaning": {
-                "id": "tiket",
-                "en": "ticket"
+                "id": "taksi",
+                "en": "taxi"
               }
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "id": "bab9_additional_sounds",
+      "script": "katakana",
+      "title": {
+        "id": "Bunyi Tambahan",
+        "en": "Additional Sounds"
+      },
+      "lessons": [
         {
-          "id": "kata_additional_sounds",
-          "type": "topic",
+          "id": "additional_sounds_katakana",
+          "type": "material",
           "topic": "additional_sounds",
           "title": {
-            "id": "Bunyi Tambahan",
-            "en": "Additional Sounds"
+            "id": "Bunyi Tambahan Katakana",
+            "en": "Katakana Additional Sounds"
           },
           "subtitle": {
             "id": "ファ フィ フェ フォ",
             "en": "fa fi fe fo"
           },
-          "kana": [],
           "combos": [
             {
               "glyph": "ファ",
@@ -906,54 +1642,518 @@
               "base": "ツ",
               "small": "ィ"
             }
+          ],
+          "cards": [
+            {
+              "title": {
+                "id": "Bunyi Asing dari Huruf Vokal Kecil",
+                "en": "Foreign Sounds from Small Vowel Letters"
+              },
+              "body": {
+                "id": "Katakana bisa menulis bunyi asing yang tidak ada di kana dasar, dengan menggabungkan kana dasar + huruf vokal kecil ァ ィ ゥ ェ ォ. Contoh: フ + ァ = ファ dibaca \"fa\", dan テ + ィ = ティ dibaca \"ti\".",
+                "en": "Katakana can write foreign sounds that do not exist in the basic kana by combining a base kana + a small vowel letter ァ ィ ゥ ェ ォ. Example: フ + ァ = ファ is read \"fa\", and テ + ィ = ティ is read \"ti\"."
+              }
+            },
+            {
+              "title": {
+                "id": "Bukan Handakuon",
+                "en": "Not Handakuon"
+              },
+              "body": {
+                "id": "Bunyi tambahan TIDAK memakai handakuon. Handakuon adalah tanda lingkaran kecil ゜ pada baris ha yang membuat baris pa (パピプペポ), sudah dipelajari di Bab 6. Bunyi tambahan memakai huruf vokal kecil, bukan tanda. Huruf ヴ (vu) adalah ウ dengan tanda dakuten, untuk bunyi v.",
+                "en": "Additional sounds do NOT use handakuon. Handakuon is the small circle mark ゜ on the h-row that makes the p-row (パピプペポ), already learned in Chapter 6. Additional sounds use small vowel letters, not a mark. The letter ヴ (vu) is ウ with a dakuten mark, for the v sound."
+              }
+            }
+          ],
+          "quiz": [
+            {
+              "prompt": {
+                "id": "Bunyi apa ini?",
+                "en": "What sound is this?"
+              },
+              "glyph": "ファ",
+              "options": [
+                "fa",
+                "fu a",
+                "ha",
+                "fua"
+              ],
+              "answer": "fa"
+            },
+            {
+              "prompt": {
+                "id": "Bunyi apa ini?",
+                "en": "What sound is this?"
+              },
+              "glyph": "ティ",
+              "options": [
+                "ti",
+                "te i",
+                "chi",
+                "tei"
+              ],
+              "answer": "ti"
+            },
+            {
+              "prompt": {
+                "id": "Bunyi apa ini?",
+                "en": "What sound is this?"
+              },
+              "glyph": "ヴ",
+              "options": [
+                "vu",
+                "u",
+                "bu",
+                "fu"
+              ],
+              "answer": "vu"
+            },
+            {
+              "prompt": {
+                "id": "Bunyi tambahan dibentuk dengan...",
+                "en": "Additional sounds are formed with..."
+              },
+              "options": [
+                "huruf vokal kecil ァィゥェォ",
+                "tanda handakuon ゜",
+                "tanda ー",
+                "huruf っ"
+              ],
+              "answer": "huruf vokal kecil ァィゥェォ"
+            }
+          ],
+          "practice": [
+            {
+              "prompt": {
+                "id": "Pasangan mana yang membentuk \"fe\"?",
+                "en": "Which pair forms \"fe\"?"
+              },
+              "options": [
+                "フ + ェ",
+                "フ + ァ",
+                "ハ + ェ",
+                "フ + ー"
+              ],
+              "answer": "フ + ェ"
+            },
+            {
+              "prompt": {
+                "id": "Huruf mana yang berbunyi \"she\"?",
+                "en": "Which letters read \"she\"?"
+              },
+              "options": [
+                "シェ",
+                "シヱ",
+                "セ",
+                "シャ"
+              ],
+              "answer": "シェ"
+            },
+            {
+              "prompt": {
+                "id": "Handakuon adalah...",
+                "en": "Handakuon is..."
+              },
+              "options": [
+                "tanda ゜ yang membuat baris pa",
+                "huruf vokal kecil",
+                "tanda ー",
+                "huruf kecil ャ"
+              ],
+              "answer": "tanda ゜ yang membuat baris pa"
+            },
+            {
+              "prompt": {
+                "id": "Kata パーティー dibaca...",
+                "en": "The word パーティー is read..."
+              },
+              "options": [
+                "paatii",
+                "patei",
+                "paatei pendek",
+                "hatii"
+              ],
+              "answer": "paatii"
+            }
+          ],
+          "examples": [
+            {
+              "glyph": "ファン",
+              "romaji": "fan",
+              "meaning": {
+                "id": "penggemar",
+                "en": "fan"
+              }
+            },
+            {
+              "glyph": "パーティー",
+              "romaji": "paatii",
+              "meaning": {
+                "id": "pesta",
+                "en": "party"
+              }
+            },
+            {
+              "glyph": "フォーク",
+              "romaji": "fooku",
+              "meaning": {
+                "id": "garpu",
+                "en": "fork"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bab10_sokuon",
+      "title": {
+        "id": "Konsonan Kecil",
+        "en": "Small Consonants"
+      },
+      "lessons": [
+        {
+          "id": "sokuon_hiragana",
+          "type": "material",
+          "topic": "sokuon",
+          "title": {
+            "id": "Konsonan Kecil Hiragana",
+            "en": "Hiragana Small Consonants"
+          },
+          "subtitle": {
+            "id": "っ kecil",
+            "en": "small tsu"
+          },
+          "specialMarks": [
+            "hira_small_tsu"
+          ],
+          "cards": [
+            {
+              "title": {
+                "id": "っ Kecil Menggandakan Konsonan",
+                "en": "Small っ Doubles the Next Consonant"
+              },
+              "body": {
+                "id": "Huruf っ adalah つ yang ditulis kecil, disebut sokuon. Ia TIDAK dibaca \"tsu\": ia menahan bunyi selama satu mora lalu menggandakan konsonan huruf berikutnya. Contoh: きって (kitte) dibaca ki-t-te, berbeda dari きて (kite).",
+                "en": "The letter っ is a small つ, called sokuon. It is NOT read \"tsu\": it holds the sound for one mora and doubles the consonant of the next letter. Example: きって (kitte) is read ki-t-te, unlike きて (kite)."
+              }
+            },
+            {
+              "title": {
+                "id": "Satu Mora Jeda",
+                "en": "One Mora of Pause"
+              },
+              "body": {
+                "id": "Sokuon dihitung satu mora penuh, seperti jeda kecil sebelum konsonan berikutnya. Di romaji, ia ditulis sebagai konsonan ganda: がっこう (gakkou, sekolah) dan ずっと (zutto, selalu).",
+                "en": "Sokuon counts as one full mora, like a small pause before the next consonant. In romaji it is written as a doubled consonant: がっこう (gakkou, school) and ずっと (zutto, always)."
+              }
+            }
+          ],
+          "quiz": [
+            {
+              "prompt": {
+                "id": "Huruf っ dibaca sebagai...",
+                "en": "The letter っ is read as..."
+              },
+              "options": [
+                "jeda satu mora yang menggandakan konsonan berikutnya",
+                "tsu",
+                "su",
+                "chi"
+              ],
+              "answer": "jeda satu mora yang menggandakan konsonan berikutnya"
+            },
+            {
+              "prompt": {
+                "id": "Di romaji, sokuon ditulis sebagai...",
+                "en": "In romaji, sokuon is written as..."
+              },
+              "options": [
+                "konsonan ganda",
+                "huruf t kecil",
+                "tanda apostrof",
+                "huruf x"
+              ],
+              "answer": "konsonan ganda"
+            },
+            {
+              "prompt": {
+                "id": "Kata mana yang mengandung sokuon?",
+                "en": "Which word contains a sokuon?"
+              },
+              "options": [
+                "がっこう",
+                "がこう",
+                "かっこ tanpa jeda",
+                "がく"
+              ],
+              "answer": "がっこう"
+            },
+            {
+              "prompt": {
+                "id": "Sokuon dihitung sebagai...",
+                "en": "Sokuon counts as..."
+              },
+              "options": [
+                "satu mora",
+                "tidak dihitung",
+                "dua mora",
+                "satu suku kata terpisah dibaca tsu"
+              ],
+              "answer": "satu mora"
+            }
+          ],
+          "practice": [
+            {
+              "prompt": {
+                "id": "Kata きって dibaca...",
+                "en": "The word きって is read..."
+              },
+              "options": [
+                "kitte",
+                "kite",
+                "kitsute",
+                "kitete"
+              ],
+              "answer": "kitte"
+            },
+            {
+              "prompt": {
+                "id": "Kata mana yang berarti \"selalu\"?",
+                "en": "Which word means \"always\"?"
+              },
+              "options": [
+                "ずっと",
+                "ずと",
+                "すっと dibaca sutto saja",
+                "ずうと"
+              ],
+              "answer": "ずっと"
+            },
+            {
+              "prompt": {
+                "id": "Pasangan kata mana yang berbeda arti karena sokuon?",
+                "en": "Which word pair differs in meaning because of sokuon?"
+              },
+              "options": [
+                "きて / きって",
+                "きて / きで",
+                "あい / あう",
+                "か / が"
+              ],
+              "answer": "きて / きって"
+            },
+            {
+              "prompt": {
+                "id": "Kata もっと dibaca...",
+                "en": "The word もっと is read..."
+              },
+              "options": [
+                "motto",
+                "moto",
+                "motsuto",
+                "mooto"
+              ],
+              "answer": "motto"
+            }
+          ],
+          "examples": [
+            {
+              "glyph": "がっこう",
+              "romaji": "gakkou",
+              "meaning": {
+                "id": "sekolah",
+                "en": "school"
+              }
+            },
+            {
+              "glyph": "ずっと",
+              "romaji": "zutto",
+              "meaning": {
+                "id": "selalu",
+                "en": "always"
+              }
+            },
+            {
+              "glyph": "きっと",
+              "romaji": "kitto",
+              "meaning": {
+                "id": "pasti",
+                "en": "surely"
+              }
+            }
           ]
         },
         {
-          "id": "kata_yoon",
-          "type": "topic",
-          "topic": "yoon",
+          "id": "sokuon_katakana",
+          "type": "material",
+          "topic": "sokuon",
           "title": {
-            "id": "Yōon",
-            "en": "Yōon"
+            "id": "Konsonan Kecil Katakana",
+            "en": "Katakana Small Consonants"
           },
           "subtitle": {
-            "id": "キャ キュ キョ",
-            "en": "kya kyu kyo"
+            "id": "ッ kecil",
+            "en": "small tsu"
           },
-          "kana": [
-            "kata_kya",
-            "kata_kyu",
-            "kata_kyo",
-            "kata_sha",
-            "kata_shu",
-            "kata_sho",
-            "kata_cha",
-            "kata_chu",
-            "kata_cho",
-            "kata_nya",
-            "kata_nyu",
-            "kata_nyo",
-            "kata_hya",
-            "kata_hyu",
-            "kata_hyo",
-            "kata_mya",
-            "kata_myu",
-            "kata_myo",
-            "kata_rya",
-            "kata_ryu",
-            "kata_ryo",
-            "kata_gya",
-            "kata_gyu",
-            "kata_gyo",
-            "kata_ja",
-            "kata_ju",
-            "kata_jo",
-            "kata_bya",
-            "kata_byu",
-            "kata_byo",
-            "kata_pya",
-            "kata_pyu",
-            "kata_pyo"
+          "specialMarks": [
+            "kata_small_tsu"
+          ],
+          "cards": [
+            {
+              "title": {
+                "id": "ッ di Kata Serapan",
+                "en": "ッ in Borrowed Words"
+              },
+              "body": {
+                "id": "Di katakana, sokuon ditulis ッ kecil dan bekerja persis seperti っ: jeda satu mora yang menggandakan konsonan berikutnya. Ia sangat sering muncul di kata serapan, misalnya ベッド (beddo, tempat tidur).",
+                "en": "In katakana, sokuon is written as a small ッ and works exactly like っ: a one-mora pause that doubles the next consonant. It appears very often in borrowed words, for example ベッド (beddo, bed)."
+              }
+            },
+            {
+              "title": {
+                "id": "Jangan Tertukar dengan ツ Besar",
+                "en": "Do Not Confuse It with a Full-Size ツ"
+              },
+              "body": {
+                "id": "ッ selalu ditulis kecil. ツ yang besar dibaca \"tsu\" sebagai bunyi penuh, sedangkan ッ kecil tidak dibaca sendiri. Contoh: ネット (netto, internet) memakai ッ kecil.",
+                "en": "ッ is always written small. A full-size ツ is read \"tsu\" as a full sound, while the small ッ is not read on its own. Example: ネット (netto, internet) uses a small ッ."
+              }
+            }
+          ],
+          "quiz": [
+            {
+              "prompt": {
+                "id": "Huruf ッ dibaca sebagai...",
+                "en": "The letter ッ is read as..."
+              },
+              "options": [
+                "jeda satu mora yang menggandakan konsonan berikutnya",
+                "tsu",
+                "su",
+                "te"
+              ],
+              "answer": "jeda satu mora yang menggandakan konsonan berikutnya"
+            },
+            {
+              "prompt": {
+                "id": "Kata mana yang mengandung sokuon?",
+                "en": "Which word contains a sokuon?"
+              },
+              "options": [
+                "ベッド",
+                "ベド",
+                "ベツド dibaca betsudu",
+                "ベー"
+              ],
+              "answer": "ベッド"
+            },
+            {
+              "prompt": {
+                "id": "ッ kecil berbeda dari ツ besar karena...",
+                "en": "Small ッ differs from full-size ツ because..."
+              },
+              "options": [
+                "ッ tidak dibaca sendiri",
+                "ッ dibaca tsu dua kali",
+                "ツ adalah tanda baca",
+                "keduanya sama persis"
+              ],
+              "answer": "ッ tidak dibaca sendiri"
+            },
+            {
+              "prompt": {
+                "id": "Di romaji, ッ ditulis sebagai...",
+                "en": "In romaji, ッ is written as..."
+              },
+              "options": [
+                "konsonan ganda",
+                "huruf q",
+                "tanda seru",
+                "huruf tsu"
+              ],
+              "answer": "konsonan ganda"
+            }
+          ],
+          "practice": [
+            {
+              "prompt": {
+                "id": "Kata カップ dibaca...",
+                "en": "The word カップ is read..."
+              },
+              "options": [
+                "kappu",
+                "kapu",
+                "katsupu",
+                "kaapu"
+              ],
+              "answer": "kappu"
+            },
+            {
+              "prompt": {
+                "id": "Kata ネット dibaca...",
+                "en": "The word ネット is read..."
+              },
+              "options": [
+                "netto",
+                "neto",
+                "netsuto",
+                "neeto"
+              ],
+              "answer": "netto"
+            },
+            {
+              "prompt": {
+                "id": "Kata mana yang berarti \"tiket\"?",
+                "en": "Which word means \"ticket\"?"
+              },
+              "options": [
+                "チケット",
+                "チケト",
+                "チケート",
+                "チツケト"
+              ],
+              "answer": "チケット"
+            },
+            {
+              "prompt": {
+                "id": "Kata ベッド dibaca...",
+                "en": "The word ベッド is read..."
+              },
+              "options": [
+                "beddo",
+                "bedo",
+                "betsudo",
+                "beedo"
+              ],
+              "answer": "beddo"
+            }
+          ],
+          "examples": [
+            {
+              "glyph": "ベッド",
+              "romaji": "beddo",
+              "meaning": {
+                "id": "tempat tidur",
+                "en": "bed"
+              }
+            },
+            {
+              "glyph": "カップ",
+              "romaji": "kappu",
+              "meaning": {
+                "id": "cangkir",
+                "en": "cup"
+              }
+            },
+            {
+              "glyph": "ネット",
+              "romaji": "netto",
+              "meaning": {
+                "id": "internet",
+                "en": "internet"
+              }
+            }
           ]
         }
       ]

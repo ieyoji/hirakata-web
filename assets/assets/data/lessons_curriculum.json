@@ -850,15 +850,51 @@
             },
             {
               "title": {
-                "id": "Kelompok bersuara: gi, ja, bi, pi",
-                "en": "The voiced group: gi, ja, bi, pi"
+                "id": "Kelompok gi: ぎゃ ぎゅ ぎょ",
+                "en": "The gi group: gya gyu gyo"
               },
               "body": {
-                "id": "Baris bersuara juga punya yoon, dengan aturan yang sama: ぎ + ゃ = ぎゃ (gya), じ + ゃ = じゃ (ja), び + ゃ = びゃ (bya), ぴ + ゃ = ぴゃ (pya). Huruf kecilnya tetap ditulis kecil.",
-                "en": "The voiced rows have yoon too, with the same rule: ぎ + ゃ = ぎゃ (gya), じ + ゃ = じゃ (ja), び + ゃ = びゃ (bya), ぴ + ゃ = ぴゃ (pya). The small letter stays small."
+                "id": "Huruf ぎ bertemu huruf kecil: ぎ + ゃ = ぎゃ (gya), ぎ + ゅ = ぎゅ (gyu), ぎ + ょ = ぎょ (gyo). Ketiganya dibaca satu ketukan, bukan dua.",
+                "en": "The letter ぎ meets a small letter: ぎ + ゃ = ぎゃ (gya), ぎ + ゅ = ぎゅ (gyu), ぎ + ょ = ぎょ (gyo). Each is read as one beat, not two."
+              },
+              "glyph": "ぎゃ",
+              "romaji": "gya"
+            },
+            {
+              "title": {
+                "id": "Kelompok ja: じゃ じゅ じょ",
+                "en": "The ja group: ja ju jo"
+              },
+              "body": {
+                "id": "Huruf じ bertemu huruf kecil: じ + ゃ = じゃ (ja), じ + ゅ = じゅ (ju), じ + ょ = じょ (jo). Ketiganya dibaca satu ketukan, bukan dua.",
+                "en": "The letter じ meets a small letter: じ + ゃ = じゃ (ja), じ + ゅ = じゅ (ju), じ + ょ = じょ (jo). Each is read as one beat, not two."
               },
               "glyph": "じゃ",
               "romaji": "ja"
+            },
+            {
+              "title": {
+                "id": "Kelompok bi: びゃ びゅ びょ",
+                "en": "The bi group: bya byu byo"
+              },
+              "body": {
+                "id": "Huruf び bertemu huruf kecil: び + ゃ = びゃ (bya), び + ゅ = びゅ (byu), び + ょ = びょ (byo). Ketiganya dibaca satu ketukan, bukan dua.",
+                "en": "The letter び meets a small letter: び + ゃ = びゃ (bya), び + ゅ = びゅ (byu), び + ょ = びょ (byo). Each is read as one beat, not two."
+              },
+              "glyph": "びゃ",
+              "romaji": "bya"
+            },
+            {
+              "title": {
+                "id": "Kelompok pi: ぴゃ ぴゅ ぴょ",
+                "en": "The pi group: pya pyu pyo"
+              },
+              "body": {
+                "id": "Huruf ぴ bertemu huruf kecil: ぴ + ゃ = ぴゃ (pya), ぴ + ゅ = ぴゅ (pyu), ぴ + ょ = ぴょ (pyo). Ketiganya dibaca satu ketukan, bukan dua.",
+                "en": "The letter ぴ meets a small letter: ぴ + ゃ = ぴゃ (pya), ぴ + ゅ = ぴゅ (pyu), ぴ + ょ = ぴょ (pyo). Each is read as one beat, not two."
+              },
+              "glyph": "ぴゃ",
+              "romaji": "pya"
             },
             {
               "title": {
@@ -1175,6 +1211,30 @@
                 "id": "rumah sakit",
                 "en": "hospital"
               }
+            },
+            {
+              "glyph": "ぴゃ",
+              "romaji": "pya",
+              "meaning": {
+                "id": "bentuk pi",
+                "en": "pi form"
+              }
+            },
+            {
+              "glyph": "ぴゅ",
+              "romaji": "pyu",
+              "meaning": {
+                "id": "bentuk pi",
+                "en": "pi form"
+              }
+            },
+            {
+              "glyph": "ぴょ",
+              "romaji": "pyo",
+              "meaning": {
+                "id": "bentuk pi",
+                "en": "pi form"
+              }
             }
           ],
           "stages": [
@@ -1417,15 +1477,15 @@
               "kind": "group",
               "card": {
                 "title": {
-                  "id": "Kelompok bersuara: gi, ja, bi, pi",
-                  "en": "The voiced group: gi, ja, bi, pi"
+                  "id": "Kelompok gi: ぎゃ ぎゅ ぎょ",
+                  "en": "The gi group: gya gyu gyo"
                 },
                 "body": {
-                  "id": "Baris bersuara juga punya yoon, dengan aturan yang sama: ぎ + ゃ = ぎゃ (gya), じ + ゃ = じゃ (ja), び + ゃ = びゃ (bya), ぴ + ゃ = ぴゃ (pya). Huruf kecilnya tetap ditulis kecil.",
-                  "en": "The voiced rows have yoon too, with the same rule: ぎ + ゃ = ぎゃ (gya), じ + ゃ = じゃ (ja), び + ゃ = びゃ (bya), ぴ + ゃ = ぴゃ (pya). The small letter stays small."
+                  "id": "Huruf ぎ bertemu huruf kecil: ぎ + ゃ = ぎゃ (gya), ぎ + ゅ = ぎゅ (gyu), ぎ + ょ = ぎょ (gyo). Ketiganya dibaca satu ketukan, bukan dua.",
+                  "en": "The letter ぎ meets a small letter: ぎ + ゃ = ぎゃ (gya), ぎ + ゅ = ぎゅ (gyu), ぎ + ょ = ぎょ (gyo). Each is read as one beat, not two."
                 },
-                "glyph": "じゃ",
-                "romaji": "ja"
+                "glyph": "ぎゃ",
+                "romaji": "gya"
               }
             },
             {
@@ -1438,7 +1498,27 @@
                     "id": "gyoza",
                     "en": "gyoza"
                   }
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "card": {
+                "title": {
+                  "id": "Kelompok ja: じゃ じゅ じょ",
+                  "en": "The ja group: ja ju jo"
                 },
+                "body": {
+                  "id": "Huruf じ bertemu huruf kecil: じ + ゃ = じゃ (ja), じ + ゅ = じゅ (ju), じ + ょ = じょ (jo). Ketiganya dibaca satu ketukan, bukan dua.",
+                  "en": "The letter じ meets a small letter: じ + ゃ = じゃ (ja), じ + ゅ = じゅ (ju), じ + ょ = じょ (jo). Each is read as one beat, not two."
+                },
+                "glyph": "じゃ",
+                "romaji": "ja"
+              }
+            },
+            {
+              "kind": "examples",
+              "examples": [
                 {
                   "glyph": "じゅう",
                   "romaji": "juu",
@@ -1446,13 +1526,77 @@
                     "id": "sepuluh",
                     "en": "ten"
                   }
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "card": {
+                "title": {
+                  "id": "Kelompok bi: びゃ びゅ びょ",
+                  "en": "The bi group: bya byu byo"
                 },
+                "body": {
+                  "id": "Huruf び bertemu huruf kecil: び + ゃ = びゃ (bya), び + ゅ = びゅ (byu), び + ょ = びょ (byo). Ketiganya dibaca satu ketukan, bukan dua.",
+                  "en": "The letter び meets a small letter: び + ゃ = びゃ (bya), び + ゅ = びゅ (byu), び + ょ = びょ (byo). Each is read as one beat, not two."
+                },
+                "glyph": "びゃ",
+                "romaji": "bya"
+              }
+            },
+            {
+              "kind": "examples",
+              "examples": [
                 {
                   "glyph": "びょういん",
                   "romaji": "byouin",
                   "meaning": {
                     "id": "rumah sakit",
                     "en": "hospital"
+                  }
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "card": {
+                "title": {
+                  "id": "Kelompok pi: ぴゃ ぴゅ ぴょ",
+                  "en": "The pi group: pya pyu pyo"
+                },
+                "body": {
+                  "id": "Huruf ぴ bertemu huruf kecil: ぴ + ゃ = ぴゃ (pya), ぴ + ゅ = ぴゅ (pyu), ぴ + ょ = ぴょ (pyo). Ketiganya dibaca satu ketukan, bukan dua.",
+                  "en": "The letter ぴ meets a small letter: ぴ + ゃ = ぴゃ (pya), ぴ + ゅ = ぴゅ (pyu), ぴ + ょ = ぴょ (pyo). Each is read as one beat, not two."
+                },
+                "glyph": "ぴゃ",
+                "romaji": "pya"
+              }
+            },
+            {
+              "kind": "examples",
+              "examples": [
+                {
+                  "glyph": "ぴゃ",
+                  "romaji": "pya",
+                  "meaning": {
+                    "id": "bentuk pi",
+                    "en": "pi form"
+                  }
+                },
+                {
+                  "glyph": "ぴゅ",
+                  "romaji": "pyu",
+                  "meaning": {
+                    "id": "bentuk pi",
+                    "en": "pi form"
+                  }
+                },
+                {
+                  "glyph": "ぴょ",
+                  "romaji": "pyo",
+                  "meaning": {
+                    "id": "bentuk pi",
+                    "en": "pi form"
                   }
                 }
               ]
@@ -1847,15 +1991,51 @@
             },
             {
               "title": {
-                "id": "Kelompok bersuara: gi, ja, bi, pi",
-                "en": "The voiced group: gi, ja, bi, pi"
+                "id": "Kelompok gi: ギャ ギュ ギョ",
+                "en": "The gi group: gya gyu gyo"
               },
               "body": {
-                "id": "Baris bersuara juga punya yoon, dengan aturan yang sama: ギ + ャ = ギャ (gya), ジ + ャ = ジャ (ja), ビ + ャ = ビャ (bya), ピ + ャ = ピャ (pya). Huruf kecilnya tetap ditulis kecil. Yoon katakana sering muncul di kata serapan.",
-                "en": "The voiced rows have yoon too, with the same rule: ギ + ャ = ギャ (gya), ジ + ャ = ジャ (ja), ビ + ャ = ビャ (bya), ピ + ャ = ピャ (pya). The small letter stays small. Katakana yoon often appear in borrowed words."
+                "id": "Huruf ギ bertemu huruf kecil: ギ + ャ = ギャ (gya), ギ + ュ = ギュ (gyu), ギ + ョ = ギョ (gyo). Ketiganya dibaca satu ketukan, bukan dua.",
+                "en": "The letter ギ meets a small letter: ギ + ャ = ギャ (gya), ギ + ュ = ギュ (gyu), ギ + ョ = ギョ (gyo). Each is read as one beat, not two."
+              },
+              "glyph": "ギャ",
+              "romaji": "gya"
+            },
+            {
+              "title": {
+                "id": "Kelompok ja: ジャ ジュ ジョ",
+                "en": "The ja group: ja ju jo"
+              },
+              "body": {
+                "id": "Huruf ジ bertemu huruf kecil: ジ + ャ = ジャ (ja), ジ + ュ = ジュ (ju), ジ + ョ = ジョ (jo). Ketiganya dibaca satu ketukan, bukan dua.",
+                "en": "The letter ジ meets a small letter: ジ + ャ = ジャ (ja), ジ + ュ = ジュ (ju), ジ + ョ = ジョ (jo). Each is read as one beat, not two."
               },
               "glyph": "ジャ",
               "romaji": "ja"
+            },
+            {
+              "title": {
+                "id": "Kelompok bi: ビャ ビュ ビョ",
+                "en": "The bi group: bya byu byo"
+              },
+              "body": {
+                "id": "Huruf ビ bertemu huruf kecil: ビ + ャ = ビャ (bya), ビ + ュ = ビュ (byu), ビ + ョ = ビョ (byo). Ketiganya dibaca satu ketukan, bukan dua.",
+                "en": "The letter ビ meets a small letter: ビ + ャ = ビャ (bya), ビ + ュ = ビュ (byu), ビ + ョ = ビョ (byo). Each is read as one beat, not two."
+              },
+              "glyph": "ビャ",
+              "romaji": "bya"
+            },
+            {
+              "title": {
+                "id": "Kelompok pi: ピャ ピュ ピョ",
+                "en": "The pi group: pya pyu pyo"
+              },
+              "body": {
+                "id": "Huruf ピ bertemu huruf kecil: ピ + ャ = ピャ (pya), ピ + ュ = ピュ (pyu), ピ + ョ = ピョ (pyo). Ketiganya dibaca satu ketukan, bukan dua.",
+                "en": "The letter ピ meets a small letter: ピ + ャ = ピャ (pya), ピ + ュ = ピュ (pyu), ピ + ョ = ピョ (pyo). Each is read as one beat, not two."
+              },
+              "glyph": "ピャ",
+              "romaji": "pya"
             },
             {
               "title": {
@@ -2406,15 +2586,15 @@
               "kind": "group",
               "card": {
                 "title": {
-                  "id": "Kelompok bersuara: gi, ja, bi, pi",
-                  "en": "The voiced group: gi, ja, bi, pi"
+                  "id": "Kelompok gi: ギャ ギュ ギョ",
+                  "en": "The gi group: gya gyu gyo"
                 },
                 "body": {
-                  "id": "Baris bersuara juga punya yoon, dengan aturan yang sama: ギ + ャ = ギャ (gya), ジ + ャ = ジャ (ja), ビ + ャ = ビャ (bya), ピ + ャ = ピャ (pya). Huruf kecilnya tetap ditulis kecil. Yoon katakana sering muncul di kata serapan.",
-                  "en": "The voiced rows have yoon too, with the same rule: ギ + ャ = ギャ (gya), ジ + ャ = ジャ (ja), ビ + ャ = ビャ (bya), ピ + ャ = ピャ (pya). The small letter stays small. Katakana yoon often appear in borrowed words."
+                  "id": "Huruf ギ bertemu huruf kecil: ギ + ャ = ギャ (gya), ギ + ュ = ギュ (gyu), ギ + ョ = ギョ (gyo). Ketiganya dibaca satu ketukan, bukan dua.",
+                  "en": "The letter ギ meets a small letter: ギ + ャ = ギャ (gya), ギ + ュ = ギュ (gyu), ギ + ョ = ギョ (gyo). Each is read as one beat, not two."
                 },
-                "glyph": "ジャ",
-                "romaji": "ja"
+                "glyph": "ギャ",
+                "romaji": "gya"
               }
             },
             {
@@ -2427,7 +2607,27 @@
                     "id": "gyoza",
                     "en": "gyoza"
                   }
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "card": {
+                "title": {
+                  "id": "Kelompok ja: ジャ ジュ ジョ",
+                  "en": "The ja group: ja ju jo"
                 },
+                "body": {
+                  "id": "Huruf ジ bertemu huruf kecil: ジ + ャ = ジャ (ja), ジ + ュ = ジュ (ju), ジ + ョ = ジョ (jo). Ketiganya dibaca satu ketukan, bukan dua.",
+                  "en": "The letter ジ meets a small letter: ジ + ャ = ジャ (ja), ジ + ュ = ジュ (ju), ジ + ョ = ジョ (jo). Each is read as one beat, not two."
+                },
+                "glyph": "ジャ",
+                "romaji": "ja"
+              }
+            },
+            {
+              "kind": "examples",
+              "examples": [
                 {
                   "glyph": "ジャム",
                   "romaji": "jamu",
@@ -2435,7 +2635,27 @@
                     "id": "selai",
                     "en": "jam"
                   }
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "card": {
+                "title": {
+                  "id": "Kelompok bi: ビャ ビュ ビョ",
+                  "en": "The bi group: bya byu byo"
                 },
+                "body": {
+                  "id": "Huruf ビ bertemu huruf kecil: ビ + ャ = ビャ (bya), ビ + ュ = ビュ (byu), ビ + ョ = ビョ (byo). Ketiganya dibaca satu ketukan, bukan dua.",
+                  "en": "The letter ビ meets a small letter: ビ + ャ = ビャ (bya), ビ + ュ = ビュ (byu), ビ + ョ = ビョ (byo). Each is read as one beat, not two."
+                },
+                "glyph": "ビャ",
+                "romaji": "bya"
+              }
+            },
+            {
+              "kind": "examples",
+              "examples": [
                 {
                   "glyph": "ビョウイン",
                   "romaji": "byouin",
@@ -2443,7 +2663,27 @@
                     "id": "rumah sakit",
                     "en": "hospital"
                   }
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "card": {
+                "title": {
+                  "id": "Kelompok pi: ピャ ピュ ピョ",
+                  "en": "The pi group: pya pyu pyo"
                 },
+                "body": {
+                  "id": "Huruf ピ bertemu huruf kecil: ピ + ャ = ピャ (pya), ピ + ュ = ピュ (pyu), ピ + ョ = ピョ (pyo). Ketiganya dibaca satu ketukan, bukan dua.",
+                  "en": "The letter ピ meets a small letter: ピ + ャ = ピャ (pya), ピ + ュ = ピュ (pyu), ピ + ョ = ピョ (pyo). Each is read as one beat, not two."
+                },
+                "glyph": "ピャ",
+                "romaji": "pya"
+              }
+            },
+            {
+              "kind": "examples",
+              "examples": [
                 {
                   "glyph": "ピュア",
                   "romaji": "pyua",

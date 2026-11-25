@@ -758,22 +758,195 @@
                 "en": "Yoon: Two Letters, One Sound"
               },
               "body": {
-                "id": "Yoon dibentuk dari kana kolom i (き, し, ち, に, ひ, み, り) ditambah huruf kecil ゃ, ゅ, atau ょ. Pasangan itu dibaca sebagai SATU mora, misalnya き + ゃ = きゃ dibaca \"kya\", bukan \"ki-ya\" dua ketukan.",
-                "en": "Yoon are formed from an i-column kana (き, し, ち, に, ひ, み, り) plus a small ゃ, ゅ, or ょ. The pair is read as ONE mora, for example き + ゃ = きゃ is read \"kya\", not the two beats \"ki-ya\"."
-              }
+                "id": "Yoon dibuat dari satu kana kolom i, seperti き, lalu huruf kecil ゃ, ゅ, atau ょ. Perhatikan bedanya: や ゆ よ itu huruf BESAR, sedangkan ゃ ゅ ょ itu huruf KECIL. Dua huruf ini dibaca menyatu sebagai satu ketukan bunyi (satu mora). Contoh: き + ゃ = きゃ, dibaca \"kya\", bukan \"ki-ya\".",
+                "en": "Yoon are made from one i-column kana, like き, plus a small ゃ, ゅ, or ょ. Notice the difference: や ゆ よ are BIG letters, while ゃ ゅ ょ are SMALL. The two letters are read together as a single sound beat (one mora). Example: き + ゃ = きゃ, read \"kya\", not \"ki-ya\"."
+              },
+              "glyph": "きゃ",
+              "romaji": "kya"
             },
             {
               "title": {
-                "id": "Huruf Kecil Mengubah Bunyi",
-                "en": "The Small Letter Changes the Sound"
+                "id": "Kelompok ki: きゃ きゅ きょ",
+                "en": "The ki group: kya kyu kyo"
               },
               "body": {
-                "id": "Huruf ゃ ゅ ょ selalu ditulis kecil. Kalau ditulis besar (や ゆ よ), bunyinya menjadi dua mora yang terpisah. Baris bersuara juga punya yoon: ぎゃ (gya), じゃ (ja), びゃ (bya), dan ぴゃ (pya).",
-                "en": "The letters ゃ ゅ ょ are always written small. Written full-size (や ゆ よ), the sound becomes two separate morae instead. The voiced rows have yoon too: ぎゃ (gya), じゃ (ja), びゃ (bya), and ぴゃ (pya)."
-              }
+                "id": "Huruf き bertemu huruf kecil: き + ゃ = きゃ (kya), き + ゅ = きゅ (kyu), き + ょ = きょ (kyo). Ketiganya dibaca satu ketukan, bukan dua.",
+                "en": "The letter き meets a small letter: き + ゃ = きゃ (kya), き + ゅ = きゅ (kyu), き + ょ = きょ (kyo). Each is read as one beat, not two."
+              },
+              "glyph": "きゃ",
+              "romaji": "kya"
+            },
+            {
+              "title": {
+                "id": "Kelompok shi: しゃ しゅ しょ",
+                "en": "The shi group: sha shu sho"
+              },
+              "body": {
+                "id": "Huruf し bertemu huruf kecil: し + ゃ = しゃ (sha), し + ゅ = しゅ (shu), し + ょ = しょ (sho). Ketiganya dibaca satu ketukan, bukan dua.",
+                "en": "The letter し meets a small letter: し + ゃ = しゃ (sha), し + ゅ = しゅ (shu), し + ょ = しょ (sho). Each is read as one beat, not two."
+              },
+              "glyph": "しゃ",
+              "romaji": "sha"
+            },
+            {
+              "title": {
+                "id": "Kelompok chi: ちゃ ちゅ ちょ",
+                "en": "The chi group: cha chu cho"
+              },
+              "body": {
+                "id": "Huruf ち bertemu huruf kecil: ち + ゃ = ちゃ (cha), ち + ゅ = ちゅ (chu), ち + ょ = ちょ (cho). Ketiganya dibaca satu ketukan, bukan dua.",
+                "en": "The letter ち meets a small letter: ち + ゃ = ちゃ (cha), ち + ゅ = ちゅ (chu), ち + ょ = ちょ (cho). Each is read as one beat, not two."
+              },
+              "glyph": "ちゃ",
+              "romaji": "cha"
+            },
+            {
+              "title": {
+                "id": "Kelompok ni: にゃ にゅ にょ",
+                "en": "The ni group: nya nyu nyo"
+              },
+              "body": {
+                "id": "Huruf に bertemu huruf kecil: に + ゃ = にゃ (nya), に + ゅ = にゅ (nyu), に + ょ = にょ (nyo). Ketiganya dibaca satu ketukan, bukan dua.",
+                "en": "The letter に meets a small letter: に + ゃ = にゃ (nya), に + ゅ = にゅ (nyu), に + ょ = にょ (nyo). Each is read as one beat, not two."
+              },
+              "glyph": "にゃ",
+              "romaji": "nya"
+            },
+            {
+              "title": {
+                "id": "Kelompok hi: ひゃ ひゅ ひょ",
+                "en": "The hi group: hya hyu hyo"
+              },
+              "body": {
+                "id": "Huruf ひ bertemu huruf kecil: ひ + ゃ = ひゃ (hya), ひ + ゅ = ひゅ (hyu), ひ + ょ = ひょ (hyo). Ketiganya dibaca satu ketukan, bukan dua.",
+                "en": "The letter ひ meets a small letter: ひ + ゃ = ひゃ (hya), ひ + ゅ = ひゅ (hyu), ひ + ょ = ひょ (hyo). Each is read as one beat, not two."
+              },
+              "glyph": "ひゃ",
+              "romaji": "hya"
+            },
+            {
+              "title": {
+                "id": "Kelompok mi: みゃ みゅ みょ",
+                "en": "The mi group: mya myu myo"
+              },
+              "body": {
+                "id": "Huruf み bertemu huruf kecil: み + ゃ = みゃ (mya), み + ゅ = みゅ (myu), み + ょ = みょ (myo). Ketiganya dibaca satu ketukan, bukan dua.",
+                "en": "The letter み meets a small letter: み + ゃ = みゃ (mya), み + ゅ = みゅ (myu), み + ょ = みょ (myo). Each is read as one beat, not two."
+              },
+              "glyph": "みゃ",
+              "romaji": "mya"
+            },
+            {
+              "title": {
+                "id": "Kelompok ri: りゃ りゅ りょ",
+                "en": "The ri group: rya ryu ryo"
+              },
+              "body": {
+                "id": "Huruf り bertemu huruf kecil: り + ゃ = りゃ (rya), り + ゅ = りゅ (ryu), り + ょ = りょ (ryo). Ketiganya dibaca satu ketukan, bukan dua.",
+                "en": "The letter り meets a small letter: り + ゃ = りゃ (rya), り + ゅ = りゅ (ryu), り + ょ = りょ (ryo). Each is read as one beat, not two."
+              },
+              "glyph": "りゃ",
+              "romaji": "rya"
+            },
+            {
+              "title": {
+                "id": "Kelompok bersuara: gi, ja, bi, pi",
+                "en": "The voiced group: gi, ja, bi, pi"
+              },
+              "body": {
+                "id": "Baris bersuara juga punya yoon, dengan aturan yang sama: ぎ + ゃ = ぎゃ (gya), じ + ゃ = じゃ (ja), び + ゃ = びゃ (bya), ぴ + ゃ = ぴゃ (pya). Huruf kecilnya tetap ditulis kecil.",
+                "en": "The voiced rows have yoon too, with the same rule: ぎ + ゃ = ぎゃ (gya), じ + ゃ = じゃ (ja), び + ゃ = びゃ (bya), ぴ + ゃ = ぴゃ (pya). The small letter stays small."
+              },
+              "glyph": "じゃ",
+              "romaji": "ja"
+            },
+            {
+              "title": {
+                "id": "Awas tertukar: きや dan きゃ",
+                "en": "Do not mix up: kiya and kya"
+              },
+              "body": {
+                "id": "Bandingkan baik-baik. きや dibaca \"ki-ya\": dua ketukan, karena や ditulis BESAR. きゃ dibaca \"kya\": satu ketukan, karena ゃ ditulis KECIL. Besar atau kecil mengubah bunyi dan jumlah ketukan.",
+                "en": "Compare carefully. きや is read \"ki-ya\": two beats, because や is written BIG. きゃ is read \"kya\": one beat, because ゃ is written SMALL. Big or small changes the sound and the number of beats."
+              },
+              "glyph": "きゃ",
+              "romaji": "kya"
             }
           ],
           "quiz": [
+            {
+              "prompt": {
+                "id": "Bunyi apa ini?",
+                "en": "What sound is this?"
+              },
+              "glyph": "ちょ",
+              "options": [
+                "cho",
+                "chiyo",
+                "chi",
+                "cha"
+              ],
+              "answer": "cho",
+              "explanation": {
+                "id": "ちょ dibaca cho satu ketukan; ょ kecil menyatu dengan ち.",
+                "en": "ちょ is read cho, one beat; the small ょ joins ち."
+              }
+            },
+            {
+              "prompt": {
+                "id": "Pasangan mana yang membentuk \"kya\"?",
+                "en": "Which pair forms \"kya\"?"
+              },
+              "options": [
+                "き + ゃ",
+                "き + や",
+                "か + ゃ",
+                "き + ゅ"
+              ],
+              "answer": "き + ゃ",
+              "explanation": {
+                "id": "kya dibentuk き + ゃ kecil. Dengan や besar jadinya kiya, bukan kya.",
+                "en": "kya is formed by き + small ゃ. With a big や it becomes kiya, not kya."
+              }
+            },
+            {
+              "prompt": {
+                "id": "Kata りょこう dibaca...",
+                "en": "The word りょこう is read..."
+              },
+              "glyph": "りょこう",
+              "options": [
+                "ryokou",
+                "riyokou",
+                "ryoku",
+                "ryou"
+              ],
+              "answer": "ryokou",
+              "explanation": {
+                "id": "りょこう dibaca ryokou: りょ (ryo) lalu こ (ko) lalu う memanjangkan o.",
+                "en": "りょこう is read ryokou: りょ (ryo), then こ (ko), then う lengthens the o."
+              }
+            },
+            {
+              "prompt": {
+                "id": "Kata きゃく artinya...",
+                "en": "The word きゃく means..."
+              },
+              "glyph": "きゃく",
+              "options": [
+                "tamu",
+                "foto",
+                "perjalanan",
+                "hari ini"
+              ],
+              "answer": "tamu",
+              "explanation": {
+                "id": "きゃく artinya tamu; きゃ adalah kelompok ki yang baru kamu pelajari.",
+                "en": "きゃく means guest; きゃ is the ki group you just learned."
+              }
+            }
+          ],
+          "practice": [
             {
               "prompt": {
                 "id": "Bunyi apa ini?",
@@ -786,7 +959,11 @@
                 "ka",
                 "kyo"
               ],
-              "answer": "kya"
+              "answer": "kya",
+              "explanation": {
+                "id": "きゃ dibaca kya satu ketukan, karena ゃ kecil menyatu dengan き.",
+                "en": "きゃ is read kya, one beat, because the small ゃ joins き."
+              }
             },
             {
               "prompt": {
@@ -800,37 +977,30 @@
                 "su",
                 "sho"
               ],
-              "answer": "shu"
+              "answer": "shu",
+              "explanation": {
+                "id": "しゅ dibaca shu satu ketukan; ゅ kecil menyatu dengan し.",
+                "en": "しゅ is read shu, one beat; the small ゅ joins し."
+              }
             },
             {
               "prompt": {
-                "id": "Bunyi apa ini?",
-                "en": "What sound is this?"
+                "id": "Kata しゃしん artinya...",
+                "en": "The word しゃしん means..."
               },
-              "glyph": "ちょ",
+              "glyph": "しゃしん",
               "options": [
-                "cho",
-                "chiyo",
-                "chi",
-                "cha"
+                "foto",
+                "perjalanan",
+                "hari ini",
+                "kemah"
               ],
-              "answer": "cho"
+              "answer": "foto",
+              "explanation": {
+                "id": "しゃしん artinya foto; しゃ adalah kelompok shi yang baru kamu pelajari.",
+                "en": "しゃしん means photo; しゃ is the shi group you just learned."
+              }
             },
-            {
-              "prompt": {
-                "id": "Pasangan mana yang membentuk \"kya\"?",
-                "en": "Which pair forms \"kya\"?"
-              },
-              "options": [
-                "き + ゃ",
-                "き + や",
-                "か + ゃ",
-                "き + ゅ"
-              ],
-              "answer": "き + ゃ"
-            }
-          ],
-          "practice": [
             {
               "prompt": {
                 "id": "Huruf mana yang berbunyi \"ryu\"?",
@@ -842,33 +1012,11 @@
                 "る",
                 "りょ"
               ],
-              "answer": "りゅ"
-            },
-            {
-              "prompt": {
-                "id": "Kata きょう dibaca...",
-                "en": "The word きょう is read..."
-              },
-              "options": [
-                "kyou",
-                "kiyou",
-                "kyo-u terpisah dua kata",
-                "kou"
-              ],
-              "answer": "kyou"
-            },
-            {
-              "prompt": {
-                "id": "Satu mora yoon dihitung sebagai...",
-                "en": "One yoon mora counts as..."
-              },
-              "options": [
-                "satu ketukan",
-                "dua ketukan",
-                "tiga ketukan",
-                "tidak dihitung"
-              ],
-              "answer": "satu ketukan"
+              "answer": "りゅ",
+              "explanation": {
+                "id": "りゅ memakai ゅ kecil, jadi dibaca ryu satu ketukan; りゆ dibaca ri-yu dua ketukan.",
+                "en": "りゅ uses a small ゅ, so it is read ryu, one beat; りゆ is read ri-yu, two beats."
+              }
             },
             {
               "prompt": {
@@ -878,13 +1026,60 @@
               "options": [
                 "じゃ",
                 "じや",
-                "じ",
-                "ぢゃ"
+                "しゃ",
+                "じ"
               ],
-              "answer": "じゃ"
+              "answer": "じゃ",
+              "explanation": {
+                "id": "じゃ memakai ゃ kecil sehingga dibaca ja; じや dibaca ji-ya, dan しゃ dibaca sha.",
+                "en": "じゃ uses a small ゃ, so it is read ja; じや is read ji-ya, and しゃ is read sha."
+              }
+            },
+            {
+              "prompt": {
+                "id": "Kata きょう dibaca...",
+                "en": "The word きょう is read..."
+              },
+              "glyph": "きょう",
+              "options": [
+                "kyou",
+                "kiyou",
+                "kou",
+                "kyo"
+              ],
+              "answer": "kyou",
+              "explanation": {
+                "id": "きょう dibaca kyou: きょ (kyo) lalu う memanjangkan o. Bukan kiyou, karena ょ kecil menyatu dengan き.",
+                "en": "きょう is read kyou: きょ (kyo), then う lengthens the o. Not kiyou, because the small ょ joins き."
+              }
+            },
+            {
+              "prompt": {
+                "id": "Satu yoon dihitung sebagai...",
+                "en": "One yoon counts as..."
+              },
+              "options": [
+                "satu ketukan",
+                "dua ketukan",
+                "tiga ketukan",
+                "tidak dihitung"
+              ],
+              "answer": "satu ketukan",
+              "explanation": {
+                "id": "Satu yoon, misalnya きゃ, adalah satu ketukan bunyi (satu mora), walau ditulis dengan dua huruf.",
+                "en": "One yoon, for example きゃ, is one sound beat (one mora), even though it is written with two letters."
+              }
             }
           ],
           "examples": [
+            {
+              "glyph": "きゃく",
+              "romaji": "kyaku",
+              "meaning": {
+                "id": "tamu",
+                "en": "guest"
+              }
+            },
             {
               "glyph": "きょう",
               "romaji": "kyou",
@@ -902,11 +1097,606 @@
               }
             },
             {
+              "glyph": "しゃかい",
+              "romaji": "shakai",
+              "meaning": {
+                "id": "masyarakat",
+                "en": "society"
+              }
+            },
+            {
+              "glyph": "ちゃわん",
+              "romaji": "chawan",
+              "meaning": {
+                "id": "mangkuk nasi",
+                "en": "rice bowl"
+              }
+            },
+            {
+              "glyph": "にゅうがく",
+              "romaji": "nyuugaku",
+              "meaning": {
+                "id": "masuk sekolah",
+                "en": "entering school"
+              }
+            },
+            {
+              "glyph": "ひゃく",
+              "romaji": "hyaku",
+              "meaning": {
+                "id": "seratus",
+                "en": "one hundred"
+              }
+            },
+            {
+              "glyph": "みょう",
+              "romaji": "myou",
+              "meaning": {
+                "id": "aneh",
+                "en": "strange"
+              }
+            },
+            {
               "glyph": "りょこう",
               "romaji": "ryokou",
               "meaning": {
                 "id": "perjalanan",
                 "en": "trip"
+              }
+            },
+            {
+              "glyph": "りゅう",
+              "romaji": "ryuu",
+              "meaning": {
+                "id": "naga",
+                "en": "dragon"
+              }
+            },
+            {
+              "glyph": "ぎょうざ",
+              "romaji": "gyouza",
+              "meaning": {
+                "id": "gyoza",
+                "en": "gyoza"
+              }
+            },
+            {
+              "glyph": "じゅう",
+              "romaji": "juu",
+              "meaning": {
+                "id": "sepuluh",
+                "en": "ten"
+              }
+            },
+            {
+              "glyph": "びょういん",
+              "romaji": "byouin",
+              "meaning": {
+                "id": "rumah sakit",
+                "en": "hospital"
+              }
+            }
+          ],
+          "stages": [
+            {
+              "kind": "concept",
+              "card": {
+                "title": {
+                  "id": "Yoon: Dua Huruf, Satu Bunyi",
+                  "en": "Yoon: Two Letters, One Sound"
+                },
+                "body": {
+                  "id": "Yoon dibuat dari satu kana kolom i, seperti き, lalu huruf kecil ゃ, ゅ, atau ょ. Perhatikan bedanya: や ゆ よ itu huruf BESAR, sedangkan ゃ ゅ ょ itu huruf KECIL. Dua huruf ini dibaca menyatu sebagai satu ketukan bunyi (satu mora). Contoh: き + ゃ = きゃ, dibaca \"kya\", bukan \"ki-ya\".",
+                  "en": "Yoon are made from one i-column kana, like き, plus a small ゃ, ゅ, or ょ. Notice the difference: や ゆ よ are BIG letters, while ゃ ゅ ょ are SMALL. The two letters are read together as a single sound beat (one mora). Example: き + ゃ = きゃ, read \"kya\", not \"ki-ya\"."
+                },
+                "glyph": "きゃ",
+                "romaji": "kya"
+              }
+            },
+            {
+              "kind": "group",
+              "card": {
+                "title": {
+                  "id": "Kelompok ki: きゃ きゅ きょ",
+                  "en": "The ki group: kya kyu kyo"
+                },
+                "body": {
+                  "id": "Huruf き bertemu huruf kecil: き + ゃ = きゃ (kya), き + ゅ = きゅ (kyu), き + ょ = きょ (kyo). Ketiganya dibaca satu ketukan, bukan dua.",
+                  "en": "The letter き meets a small letter: き + ゃ = きゃ (kya), き + ゅ = きゅ (kyu), き + ょ = きょ (kyo). Each is read as one beat, not two."
+                },
+                "glyph": "きゃ",
+                "romaji": "kya"
+              }
+            },
+            {
+              "kind": "examples",
+              "examples": [
+                {
+                  "glyph": "きゃく",
+                  "romaji": "kyaku",
+                  "meaning": {
+                    "id": "tamu",
+                    "en": "guest"
+                  }
+                },
+                {
+                  "glyph": "きょう",
+                  "romaji": "kyou",
+                  "meaning": {
+                    "id": "hari ini",
+                    "en": "today"
+                  }
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "card": {
+                "title": {
+                  "id": "Kelompok shi: しゃ しゅ しょ",
+                  "en": "The shi group: sha shu sho"
+                },
+                "body": {
+                  "id": "Huruf し bertemu huruf kecil: し + ゃ = しゃ (sha), し + ゅ = しゅ (shu), し + ょ = しょ (sho). Ketiganya dibaca satu ketukan, bukan dua.",
+                  "en": "The letter し meets a small letter: し + ゃ = しゃ (sha), し + ゅ = しゅ (shu), し + ょ = しょ (sho). Each is read as one beat, not two."
+                },
+                "glyph": "しゃ",
+                "romaji": "sha"
+              }
+            },
+            {
+              "kind": "examples",
+              "examples": [
+                {
+                  "glyph": "しゃしん",
+                  "romaji": "shashin",
+                  "meaning": {
+                    "id": "foto",
+                    "en": "photo"
+                  }
+                },
+                {
+                  "glyph": "しゃかい",
+                  "romaji": "shakai",
+                  "meaning": {
+                    "id": "masyarakat",
+                    "en": "society"
+                  }
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "card": {
+                "title": {
+                  "id": "Kelompok chi: ちゃ ちゅ ちょ",
+                  "en": "The chi group: cha chu cho"
+                },
+                "body": {
+                  "id": "Huruf ち bertemu huruf kecil: ち + ゃ = ちゃ (cha), ち + ゅ = ちゅ (chu), ち + ょ = ちょ (cho). Ketiganya dibaca satu ketukan, bukan dua.",
+                  "en": "The letter ち meets a small letter: ち + ゃ = ちゃ (cha), ち + ゅ = ちゅ (chu), ち + ょ = ちょ (cho). Each is read as one beat, not two."
+                },
+                "glyph": "ちゃ",
+                "romaji": "cha"
+              }
+            },
+            {
+              "kind": "examples",
+              "examples": [
+                {
+                  "glyph": "ちゃわん",
+                  "romaji": "chawan",
+                  "meaning": {
+                    "id": "mangkuk nasi",
+                    "en": "rice bowl"
+                  }
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "card": {
+                "title": {
+                  "id": "Kelompok ni: にゃ にゅ にょ",
+                  "en": "The ni group: nya nyu nyo"
+                },
+                "body": {
+                  "id": "Huruf に bertemu huruf kecil: に + ゃ = にゃ (nya), に + ゅ = にゅ (nyu), に + ょ = にょ (nyo). Ketiganya dibaca satu ketukan, bukan dua.",
+                  "en": "The letter に meets a small letter: に + ゃ = にゃ (nya), に + ゅ = にゅ (nyu), に + ょ = にょ (nyo). Each is read as one beat, not two."
+                },
+                "glyph": "にゃ",
+                "romaji": "nya"
+              }
+            },
+            {
+              "kind": "examples",
+              "examples": [
+                {
+                  "glyph": "にゅうがく",
+                  "romaji": "nyuugaku",
+                  "meaning": {
+                    "id": "masuk sekolah",
+                    "en": "entering school"
+                  }
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "card": {
+                "title": {
+                  "id": "Kelompok hi: ひゃ ひゅ ひょ",
+                  "en": "The hi group: hya hyu hyo"
+                },
+                "body": {
+                  "id": "Huruf ひ bertemu huruf kecil: ひ + ゃ = ひゃ (hya), ひ + ゅ = ひゅ (hyu), ひ + ょ = ひょ (hyo). Ketiganya dibaca satu ketukan, bukan dua.",
+                  "en": "The letter ひ meets a small letter: ひ + ゃ = ひゃ (hya), ひ + ゅ = ひゅ (hyu), ひ + ょ = ひょ (hyo). Each is read as one beat, not two."
+                },
+                "glyph": "ひゃ",
+                "romaji": "hya"
+              }
+            },
+            {
+              "kind": "examples",
+              "examples": [
+                {
+                  "glyph": "ひゃく",
+                  "romaji": "hyaku",
+                  "meaning": {
+                    "id": "seratus",
+                    "en": "one hundred"
+                  }
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "card": {
+                "title": {
+                  "id": "Kelompok mi: みゃ みゅ みょ",
+                  "en": "The mi group: mya myu myo"
+                },
+                "body": {
+                  "id": "Huruf み bertemu huruf kecil: み + ゃ = みゃ (mya), み + ゅ = みゅ (myu), み + ょ = みょ (myo). Ketiganya dibaca satu ketukan, bukan dua.",
+                  "en": "The letter み meets a small letter: み + ゃ = みゃ (mya), み + ゅ = みゅ (myu), み + ょ = みょ (myo). Each is read as one beat, not two."
+                },
+                "glyph": "みゃ",
+                "romaji": "mya"
+              }
+            },
+            {
+              "kind": "examples",
+              "examples": [
+                {
+                  "glyph": "みょう",
+                  "romaji": "myou",
+                  "meaning": {
+                    "id": "aneh",
+                    "en": "strange"
+                  }
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "card": {
+                "title": {
+                  "id": "Kelompok ri: りゃ りゅ りょ",
+                  "en": "The ri group: rya ryu ryo"
+                },
+                "body": {
+                  "id": "Huruf り bertemu huruf kecil: り + ゃ = りゃ (rya), り + ゅ = りゅ (ryu), り + ょ = りょ (ryo). Ketiganya dibaca satu ketukan, bukan dua.",
+                  "en": "The letter り meets a small letter: り + ゃ = りゃ (rya), り + ゅ = りゅ (ryu), り + ょ = りょ (ryo). Each is read as one beat, not two."
+                },
+                "glyph": "りゃ",
+                "romaji": "rya"
+              }
+            },
+            {
+              "kind": "examples",
+              "examples": [
+                {
+                  "glyph": "りょこう",
+                  "romaji": "ryokou",
+                  "meaning": {
+                    "id": "perjalanan",
+                    "en": "trip"
+                  }
+                },
+                {
+                  "glyph": "りゅう",
+                  "romaji": "ryuu",
+                  "meaning": {
+                    "id": "naga",
+                    "en": "dragon"
+                  }
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "card": {
+                "title": {
+                  "id": "Kelompok bersuara: gi, ja, bi, pi",
+                  "en": "The voiced group: gi, ja, bi, pi"
+                },
+                "body": {
+                  "id": "Baris bersuara juga punya yoon, dengan aturan yang sama: ぎ + ゃ = ぎゃ (gya), じ + ゃ = じゃ (ja), び + ゃ = びゃ (bya), ぴ + ゃ = ぴゃ (pya). Huruf kecilnya tetap ditulis kecil.",
+                  "en": "The voiced rows have yoon too, with the same rule: ぎ + ゃ = ぎゃ (gya), じ + ゃ = じゃ (ja), び + ゃ = びゃ (bya), ぴ + ゃ = ぴゃ (pya). The small letter stays small."
+                },
+                "glyph": "じゃ",
+                "romaji": "ja"
+              }
+            },
+            {
+              "kind": "examples",
+              "examples": [
+                {
+                  "glyph": "ぎょうざ",
+                  "romaji": "gyouza",
+                  "meaning": {
+                    "id": "gyoza",
+                    "en": "gyoza"
+                  }
+                },
+                {
+                  "glyph": "じゅう",
+                  "romaji": "juu",
+                  "meaning": {
+                    "id": "sepuluh",
+                    "en": "ten"
+                  }
+                },
+                {
+                  "glyph": "びょういん",
+                  "romaji": "byouin",
+                  "meaning": {
+                    "id": "rumah sakit",
+                    "en": "hospital"
+                  }
+                }
+              ]
+            },
+            {
+              "kind": "contrast",
+              "card": {
+                "title": {
+                  "id": "Awas tertukar: きや dan きゃ",
+                  "en": "Do not mix up: kiya and kya"
+                },
+                "body": {
+                  "id": "Bandingkan baik-baik. きや dibaca \"ki-ya\": dua ketukan, karena や ditulis BESAR. きゃ dibaca \"kya\": satu ketukan, karena ゃ ditulis KECIL. Besar atau kecil mengubah bunyi dan jumlah ketukan.",
+                  "en": "Compare carefully. きや is read \"ki-ya\": two beats, because や is written BIG. きゃ is read \"kya\": one beat, because ゃ is written SMALL. Big or small changes the sound and the number of beats."
+                },
+                "glyph": "きゃ",
+                "romaji": "kya"
+              }
+            },
+            {
+              "kind": "practice",
+              "question": {
+                "prompt": {
+                  "id": "Bunyi apa ini?",
+                  "en": "What sound is this?"
+                },
+                "glyph": "きゃ",
+                "options": [
+                  "kya",
+                  "kiya",
+                  "ka",
+                  "kyo"
+                ],
+                "answer": "kya",
+                "explanation": {
+                  "id": "きゃ dibaca kya satu ketukan, karena ゃ kecil menyatu dengan き.",
+                  "en": "きゃ is read kya, one beat, because the small ゃ joins き."
+                }
+              }
+            },
+            {
+              "kind": "practice",
+              "question": {
+                "prompt": {
+                  "id": "Bunyi apa ini?",
+                  "en": "What sound is this?"
+                },
+                "glyph": "しゅ",
+                "options": [
+                  "shu",
+                  "shiyu",
+                  "su",
+                  "sho"
+                ],
+                "answer": "shu",
+                "explanation": {
+                  "id": "しゅ dibaca shu satu ketukan; ゅ kecil menyatu dengan し.",
+                  "en": "しゅ is read shu, one beat; the small ゅ joins し."
+                }
+              }
+            },
+            {
+              "kind": "practice",
+              "question": {
+                "prompt": {
+                  "id": "Kata しゃしん artinya...",
+                  "en": "The word しゃしん means..."
+                },
+                "glyph": "しゃしん",
+                "options": [
+                  "foto",
+                  "perjalanan",
+                  "hari ini",
+                  "kemah"
+                ],
+                "answer": "foto",
+                "explanation": {
+                  "id": "しゃしん artinya foto; しゃ adalah kelompok shi yang baru kamu pelajari.",
+                  "en": "しゃしん means photo; しゃ is the shi group you just learned."
+                }
+              }
+            },
+            {
+              "kind": "practice",
+              "question": {
+                "prompt": {
+                  "id": "Huruf mana yang berbunyi \"ryu\"?",
+                  "en": "Which letters read \"ryu\"?"
+                },
+                "options": [
+                  "りゅ",
+                  "りゆ",
+                  "る",
+                  "りょ"
+                ],
+                "answer": "りゅ",
+                "explanation": {
+                  "id": "りゅ memakai ゅ kecil, jadi dibaca ryu satu ketukan; りゆ dibaca ri-yu dua ketukan.",
+                  "en": "りゅ uses a small ゅ, so it is read ryu, one beat; りゆ is read ri-yu, two beats."
+                }
+              }
+            },
+            {
+              "kind": "practice",
+              "question": {
+                "prompt": {
+                  "id": "Huruf mana yang berbunyi \"ja\"?",
+                  "en": "Which letters read \"ja\"?"
+                },
+                "options": [
+                  "じゃ",
+                  "じや",
+                  "しゃ",
+                  "じ"
+                ],
+                "answer": "じゃ",
+                "explanation": {
+                  "id": "じゃ memakai ゃ kecil sehingga dibaca ja; じや dibaca ji-ya, dan しゃ dibaca sha.",
+                  "en": "じゃ uses a small ゃ, so it is read ja; じや is read ji-ya, and しゃ is read sha."
+                }
+              }
+            },
+            {
+              "kind": "practice",
+              "question": {
+                "prompt": {
+                  "id": "Kata きょう dibaca...",
+                  "en": "The word きょう is read..."
+                },
+                "glyph": "きょう",
+                "options": [
+                  "kyou",
+                  "kiyou",
+                  "kou",
+                  "kyo"
+                ],
+                "answer": "kyou",
+                "explanation": {
+                  "id": "きょう dibaca kyou: きょ (kyo) lalu う memanjangkan o. Bukan kiyou, karena ょ kecil menyatu dengan き.",
+                  "en": "きょう is read kyou: きょ (kyo), then う lengthens the o. Not kiyou, because the small ょ joins き."
+                }
+              }
+            },
+            {
+              "kind": "practice",
+              "question": {
+                "prompt": {
+                  "id": "Satu yoon dihitung sebagai...",
+                  "en": "One yoon counts as..."
+                },
+                "options": [
+                  "satu ketukan",
+                  "dua ketukan",
+                  "tiga ketukan",
+                  "tidak dihitung"
+                ],
+                "answer": "satu ketukan",
+                "explanation": {
+                  "id": "Satu yoon, misalnya きゃ, adalah satu ketukan bunyi (satu mora), walau ditulis dengan dua huruf.",
+                  "en": "One yoon, for example きゃ, is one sound beat (one mora), even though it is written with two letters."
+                }
+              }
+            },
+            {
+              "kind": "quiz",
+              "question": {
+                "prompt": {
+                  "id": "Bunyi apa ini?",
+                  "en": "What sound is this?"
+                },
+                "glyph": "ちょ",
+                "options": [
+                  "cho",
+                  "chiyo",
+                  "chi",
+                  "cha"
+                ],
+                "answer": "cho",
+                "explanation": {
+                  "id": "ちょ dibaca cho satu ketukan; ょ kecil menyatu dengan ち.",
+                  "en": "ちょ is read cho, one beat; the small ょ joins ち."
+                }
+              }
+            },
+            {
+              "kind": "quiz",
+              "question": {
+                "prompt": {
+                  "id": "Pasangan mana yang membentuk \"kya\"?",
+                  "en": "Which pair forms \"kya\"?"
+                },
+                "options": [
+                  "き + ゃ",
+                  "き + や",
+                  "か + ゃ",
+                  "き + ゅ"
+                ],
+                "answer": "き + ゃ",
+                "explanation": {
+                  "id": "kya dibentuk き + ゃ kecil. Dengan や besar jadinya kiya, bukan kya.",
+                  "en": "kya is formed by き + small ゃ. With a big や it becomes kiya, not kya."
+                }
+              }
+            },
+            {
+              "kind": "quiz",
+              "question": {
+                "prompt": {
+                  "id": "Kata りょこう dibaca...",
+                  "en": "The word りょこう is read..."
+                },
+                "glyph": "りょこう",
+                "options": [
+                  "ryokou",
+                  "riyokou",
+                  "ryoku",
+                  "ryou"
+                ],
+                "answer": "ryokou",
+                "explanation": {
+                  "id": "りょこう dibaca ryokou: りょ (ryo) lalu こ (ko) lalu う memanjangkan o.",
+                  "en": "りょこう is read ryokou: りょ (ryo), then こ (ko), then う lengthens the o."
+                }
+              }
+            },
+            {
+              "kind": "quiz",
+              "question": {
+                "prompt": {
+                  "id": "Kata きゃく artinya...",
+                  "en": "The word きゃく means..."
+                },
+                "glyph": "きゃく",
+                "options": [
+                  "tamu",
+                  "foto",
+                  "perjalanan",
+                  "hari ini"
+                ],
+                "answer": "tamu",
+                "explanation": {
+                  "id": "きゃく artinya tamu; きゃ adalah kelompok ki yang baru kamu pelajari.",
+                  "en": "きゃく means guest; きゃ is the ki group you just learned."
+                }
               }
             }
           ]
@@ -965,22 +1755,195 @@
                 "en": "Katakana Yoon: The Same Rule"
               },
               "body": {
-                "id": "Di katakana, yoon dibentuk dengan cara yang sama: kana kolom i (キ, シ, チ, ニ, ヒ, ミ, リ) ditambah huruf kecil ャ, ュ, atau ョ, dibaca satu mora. Contoh: キ + ャ = キャ dibaca \"kya\".",
-                "en": "In katakana, yoon are formed the same way: an i-column kana (キ, シ, チ, ニ, ヒ, ミ, リ) plus a small ャ, ュ, or ョ, read as one mora. Example: キ + ャ = キャ is read \"kya\"."
-              }
+                "id": "Di katakana, yoon dibentuk dengan cara yang sama: kana kolom i, seperti キ, ditambah huruf kecil ャ, ュ, atau ョ. Ingat: ヤ ユ ヨ itu huruf BESAR, sedangkan ャ ュ ョ itu huruf KECIL. Pasangan ini dibaca menyatu sebagai satu ketukan (satu mora). Contoh: キ + ャ = キャ, dibaca \"kya\".",
+                "en": "In katakana, yoon are formed the same way: an i-column kana, like キ, plus a small ャ, ュ, or ョ. Remember: ヤ ユ ヨ are BIG letters, while ャ ュ ョ are SMALL. The pair is read together as a single beat (one mora). Example: キ + ャ = キャ, read \"kya\"."
+              },
+              "glyph": "キャ",
+              "romaji": "kya"
             },
             {
               "title": {
-                "id": "Sering Muncul di Kata Serapan",
-                "en": "Common in Borrowed Words"
+                "id": "Kelompok ki: キャ キュ キョ",
+                "en": "The ki group: kya kyu kyo"
               },
               "body": {
-                "id": "Yoon katakana sering muncul pada kata serapan dan nama asing. Huruf kecilnya tidak dibaca sendiri: シュ dibaca \"shu\" sebagai satu bunyi, bukan \"shi-yu\".",
-                "en": "Katakana yoon often appear in borrowed words and foreign names. The small letter is not read on its own: シュ is read \"shu\" as a single sound, not \"shi-yu\"."
-              }
+                "id": "Huruf キ bertemu huruf kecil: キ + ャ = キャ (kya), キ + ュ = キュ (kyu), キ + ョ = キョ (kyo). Ketiganya dibaca satu ketukan, bukan dua.",
+                "en": "The letter キ meets a small letter: キ + ャ = キャ (kya), キ + ュ = キュ (kyu), キ + ョ = キョ (kyo). Each is read as one beat, not two."
+              },
+              "glyph": "キャ",
+              "romaji": "kya"
+            },
+            {
+              "title": {
+                "id": "Kelompok shi: シャ シュ ショ",
+                "en": "The shi group: sha shu sho"
+              },
+              "body": {
+                "id": "Huruf シ bertemu huruf kecil: シ + ャ = シャ (sha), シ + ュ = シュ (shu), シ + ョ = ショ (sho). Ketiganya dibaca satu ketukan, bukan dua.",
+                "en": "The letter シ meets a small letter: シ + ャ = シャ (sha), シ + ュ = シュ (shu), シ + ョ = ショ (sho). Each is read as one beat, not two."
+              },
+              "glyph": "シャ",
+              "romaji": "sha"
+            },
+            {
+              "title": {
+                "id": "Kelompok chi: チャ チュ チョ",
+                "en": "The chi group: cha chu cho"
+              },
+              "body": {
+                "id": "Huruf チ bertemu huruf kecil: チ + ャ = チャ (cha), チ + ュ = チュ (chu), チ + ョ = チョ (cho). Ketiganya dibaca satu ketukan, bukan dua.",
+                "en": "The letter チ meets a small letter: チ + ャ = チャ (cha), チ + ュ = チュ (chu), チ + ョ = チョ (cho). Each is read as one beat, not two."
+              },
+              "glyph": "チャ",
+              "romaji": "cha"
+            },
+            {
+              "title": {
+                "id": "Kelompok ni: ニャ ニュ ニョ",
+                "en": "The ni group: nya nyu nyo"
+              },
+              "body": {
+                "id": "Huruf ニ bertemu huruf kecil: ニ + ャ = ニャ (nya), ニ + ュ = ニュ (nyu), ニ + ョ = ニョ (nyo). Ketiganya dibaca satu ketukan, bukan dua.",
+                "en": "The letter ニ meets a small letter: ニ + ャ = ニャ (nya), ニ + ュ = ニュ (nyu), ニ + ョ = ニョ (nyo). Each is read as one beat, not two."
+              },
+              "glyph": "ニャ",
+              "romaji": "nya"
+            },
+            {
+              "title": {
+                "id": "Kelompok hi: ヒャ ヒュ ヒョ",
+                "en": "The hi group: hya hyu hyo"
+              },
+              "body": {
+                "id": "Huruf ヒ bertemu huruf kecil: ヒ + ャ = ヒャ (hya), ヒ + ュ = ヒュ (hyu), ヒ + ョ = ヒョ (hyo). Ketiganya dibaca satu ketukan, bukan dua.",
+                "en": "The letter ヒ meets a small letter: ヒ + ャ = ヒャ (hya), ヒ + ュ = ヒュ (hyu), ヒ + ョ = ヒョ (hyo). Each is read as one beat, not two."
+              },
+              "glyph": "ヒャ",
+              "romaji": "hya"
+            },
+            {
+              "title": {
+                "id": "Kelompok mi: ミャ ミュ ミョ",
+                "en": "The mi group: mya myu myo"
+              },
+              "body": {
+                "id": "Huruf ミ bertemu huruf kecil: ミ + ャ = ミャ (mya), ミ + ュ = ミュ (myu), ミ + ョ = ミョ (myo). Ketiganya dibaca satu ketukan, bukan dua.",
+                "en": "The letter ミ meets a small letter: ミ + ャ = ミャ (mya), ミ + ュ = ミュ (myu), ミ + ョ = ミョ (myo). Each is read as one beat, not two."
+              },
+              "glyph": "ミャ",
+              "romaji": "mya"
+            },
+            {
+              "title": {
+                "id": "Kelompok ri: リャ リュ リョ",
+                "en": "The ri group: rya ryu ryo"
+              },
+              "body": {
+                "id": "Huruf リ bertemu huruf kecil: リ + ャ = リャ (rya), リ + ュ = リュ (ryu), リ + ョ = リョ (ryo). Ketiganya dibaca satu ketukan, bukan dua.",
+                "en": "The letter リ meets a small letter: リ + ャ = リャ (rya), リ + ュ = リュ (ryu), リ + ョ = リョ (ryo). Each is read as one beat, not two."
+              },
+              "glyph": "リャ",
+              "romaji": "rya"
+            },
+            {
+              "title": {
+                "id": "Kelompok bersuara: gi, ja, bi, pi",
+                "en": "The voiced group: gi, ja, bi, pi"
+              },
+              "body": {
+                "id": "Baris bersuara juga punya yoon, dengan aturan yang sama: ギ + ャ = ギャ (gya), ジ + ャ = ジャ (ja), ビ + ャ = ビャ (bya), ピ + ャ = ピャ (pya). Huruf kecilnya tetap ditulis kecil. Yoon katakana sering muncul di kata serapan.",
+                "en": "The voiced rows have yoon too, with the same rule: ギ + ャ = ギャ (gya), ジ + ャ = ジャ (ja), ビ + ャ = ビャ (bya), ピ + ャ = ピャ (pya). The small letter stays small. Katakana yoon often appear in borrowed words."
+              },
+              "glyph": "ジャ",
+              "romaji": "ja"
+            },
+            {
+              "title": {
+                "id": "Awas tertukar: キヤ dan キャ",
+                "en": "Do not mix up: kiya and kya"
+              },
+              "body": {
+                "id": "Bandingkan baik-baik. キヤ dibaca \"ki-ya\": dua ketukan, karena ヤ ditulis BESAR. キャ dibaca \"kya\": satu ketukan, karena ャ ditulis KECIL. Besar atau kecil mengubah bunyi dan jumlah ketukan.",
+                "en": "Compare carefully. キヤ is read \"ki-ya\": two beats, because ヤ is written BIG. キャ is read \"kya\": one beat, because ャ is written SMALL. Big or small changes the sound and the number of beats."
+              },
+              "glyph": "キャ",
+              "romaji": "kya"
             }
           ],
           "quiz": [
+            {
+              "prompt": {
+                "id": "Bunyi apa ini?",
+                "en": "What sound is this?"
+              },
+              "glyph": "ジョ",
+              "options": [
+                "jo",
+                "jiyo",
+                "ji",
+                "ja"
+              ],
+              "answer": "jo",
+              "explanation": {
+                "id": "ジョ dibaca jo satu ketukan; ョ kecil menyatu dengan ジ.",
+                "en": "ジョ is read jo, one beat; the small ョ joins ジ."
+              }
+            },
+            {
+              "prompt": {
+                "id": "Pasangan mana yang membentuk \"cha\"?",
+                "en": "Which pair forms \"cha\"?"
+              },
+              "options": [
+                "チ + ャ",
+                "チ + ヤ",
+                "タ + ャ",
+                "チ + ュ"
+              ],
+              "answer": "チ + ャ",
+              "explanation": {
+                "id": "cha dibentuk チ + ャ kecil. Dengan ヤ besar jadinya chiya, bukan cha.",
+                "en": "cha is formed by チ + small ャ. With a big ヤ it becomes chiya, not cha."
+              }
+            },
+            {
+              "prompt": {
+                "id": "Kata チョコ dibaca...",
+                "en": "The word チョコ is read..."
+              },
+              "glyph": "チョコ",
+              "options": [
+                "choko",
+                "chiyoko",
+                "choku",
+                "chooko"
+              ],
+              "answer": "choko",
+              "explanation": {
+                "id": "チョコ dibaca choko: チョ (cho) lalu コ (ko).",
+                "en": "チョコ is read choko: チョ (cho), then コ (ko)."
+              }
+            },
+            {
+              "prompt": {
+                "id": "Kata チョコ artinya...",
+                "en": "The word チョコ means..."
+              },
+              "glyph": "チョコ",
+              "options": [
+                "cokelat",
+                "kemeja",
+                "kemah",
+                "kesempatan"
+              ],
+              "answer": "cokelat",
+              "explanation": {
+                "id": "チョコ artinya cokelat; チョ adalah kelompok chi yang baru kamu pelajari.",
+                "en": "チョコ means chocolate; チョ is the chi group you just learned."
+              }
+            }
+          ],
+          "practice": [
             {
               "prompt": {
                 "id": "Bunyi apa ini?",
@@ -993,7 +1956,11 @@
                 "ka",
                 "kyo"
               ],
-              "answer": "kya"
+              "answer": "kya",
+              "explanation": {
+                "id": "キャ dibaca kya satu ketukan, karena ャ kecil menyatu dengan キ.",
+                "en": "キャ is read kya, one beat, because the small ャ joins キ."
+              }
             },
             {
               "prompt": {
@@ -1007,37 +1974,30 @@
                 "su",
                 "sha"
               ],
-              "answer": "shu"
+              "answer": "shu",
+              "explanation": {
+                "id": "シュ dibaca shu satu ketukan; ュ kecil menyatu dengan シ.",
+                "en": "シュ is read shu, one beat; the small ュ joins シ."
+              }
             },
             {
               "prompt": {
-                "id": "Bunyi apa ini?",
-                "en": "What sound is this?"
+                "id": "Kata シャツ artinya...",
+                "en": "The word シャツ means..."
               },
-              "glyph": "ジョ",
+              "glyph": "シャツ",
               "options": [
-                "jo",
-                "jiyo",
-                "ji",
-                "ja"
+                "kemeja",
+                "cokelat",
+                "kemah",
+                "kesempatan"
               ],
-              "answer": "jo"
+              "answer": "kemeja",
+              "explanation": {
+                "id": "シャツ artinya kemeja; シャ adalah kelompok shi yang baru kamu pelajari.",
+                "en": "シャツ means shirt; シャ is the shi group you just learned."
+              }
             },
-            {
-              "prompt": {
-                "id": "Pasangan mana yang membentuk \"cha\"?",
-                "en": "Which pair forms \"cha\"?"
-              },
-              "options": [
-                "チ + ャ",
-                "チ + ヤ",
-                "タ + ャ",
-                "チ + ュ"
-              ],
-              "answer": "チ + ャ"
-            }
-          ],
-          "practice": [
             {
               "prompt": {
                 "id": "Huruf mana yang berbunyi \"myu\"?",
@@ -1049,33 +2009,11 @@
                 "ム",
                 "ミョ"
               ],
-              "answer": "ミュ"
-            },
-            {
-              "prompt": {
-                "id": "Kata キャンプ dibaca...",
-                "en": "The word キャンプ is read..."
-              },
-              "options": [
-                "kyanpu",
-                "kiyanpu",
-                "kanpu",
-                "kyapu"
-              ],
-              "answer": "kyanpu"
-            },
-            {
-              "prompt": {
-                "id": "Huruf kecil ャ ュ ョ dibaca...",
-                "en": "The small letters ャ ュ ョ are read..."
-              },
-              "options": [
-                "menyatu dengan huruf sebelumnya",
-                "terpisah sebagai ya yu yo",
-                "tidak dibaca sama sekali",
-                "sebagai n"
-              ],
-              "answer": "menyatu dengan huruf sebelumnya"
+              "answer": "ミュ",
+              "explanation": {
+                "id": "ミュ memakai ュ kecil, jadi dibaca myu satu ketukan; ミユ dibaca mi-yu dua ketukan.",
+                "en": "ミュ uses a small ュ, so it is read myu, one beat; ミユ is read mi-yu, two beats."
+              }
             },
             {
               "prompt": {
@@ -1088,7 +2026,46 @@
                 "ポ",
                 "ピャ"
               ],
-              "answer": "ピョ"
+              "answer": "ピョ",
+              "explanation": {
+                "id": "ピョ memakai ョ kecil sehingga dibaca pyo; ピヨ dibaca pi-yo dua ketukan.",
+                "en": "ピョ uses a small ョ, so it is read pyo; ピヨ is read pi-yo, two beats."
+              }
+            },
+            {
+              "prompt": {
+                "id": "Kata キャンプ dibaca...",
+                "en": "The word キャンプ is read..."
+              },
+              "glyph": "キャンプ",
+              "options": [
+                "kyanpu",
+                "kiyanpu",
+                "kanpu",
+                "kyapu"
+              ],
+              "answer": "kyanpu",
+              "explanation": {
+                "id": "キャンプ dibaca kyanpu: キャ (kya) lalu ン (n) lalu プ (pu).",
+                "en": "キャンプ is read kyanpu: キャ (kya), then ン (n), then プ (pu)."
+              }
+            },
+            {
+              "prompt": {
+                "id": "Huruf kecil ャ ュ ョ dibaca...",
+                "en": "The small letters ャ ュ ョ are read..."
+              },
+              "options": [
+                "menyatu dengan huruf sebelumnya",
+                "terpisah sebagai ya yu yo",
+                "tidak dibaca sama sekali",
+                "sebagai n"
+              ],
+              "answer": "menyatu dengan huruf sebelumnya",
+              "explanation": {
+                "id": "Huruf kecil ャ ュ ョ tidak dibaca sendiri; ia menyatu dengan huruf sebelumnya menjadi satu bunyi.",
+                "en": "The small letters ャ ュ ョ are not read on their own; they join the letter before them into one sound."
+              }
             }
           ],
           "examples": [
@@ -1101,6 +2078,14 @@
               }
             },
             {
+              "glyph": "キャラ",
+              "romaji": "kyara",
+              "meaning": {
+                "id": "karakter",
+                "en": "character"
+              }
+            },
+            {
               "glyph": "シャツ",
               "romaji": "shatsu",
               "meaning": {
@@ -1109,11 +2094,606 @@
               }
             },
             {
+              "glyph": "チャンス",
+              "romaji": "chansu",
+              "meaning": {
+                "id": "kesempatan",
+                "en": "chance"
+              }
+            },
+            {
               "glyph": "チョコ",
               "romaji": "choko",
               "meaning": {
                 "id": "cokelat",
                 "en": "chocolate"
+              }
+            },
+            {
+              "glyph": "ニュー",
+              "romaji": "nyuu",
+              "meaning": {
+                "id": "baru",
+                "en": "new"
+              }
+            },
+            {
+              "glyph": "ヒョウ",
+              "romaji": "hyou",
+              "meaning": {
+                "id": "macan tutul",
+                "en": "leopard"
+              }
+            },
+            {
+              "glyph": "ミャンマー",
+              "romaji": "myanmaa",
+              "meaning": {
+                "id": "Myanmar",
+                "en": "Myanmar"
+              }
+            },
+            {
+              "glyph": "リュック",
+              "romaji": "ryukku",
+              "meaning": {
+                "id": "ransel",
+                "en": "backpack"
+              }
+            },
+            {
+              "glyph": "ギョウザ",
+              "romaji": "gyouza",
+              "meaning": {
+                "id": "gyoza",
+                "en": "gyoza"
+              }
+            },
+            {
+              "glyph": "ジャム",
+              "romaji": "jamu",
+              "meaning": {
+                "id": "selai",
+                "en": "jam"
+              }
+            },
+            {
+              "glyph": "ビョウイン",
+              "romaji": "byouin",
+              "meaning": {
+                "id": "rumah sakit",
+                "en": "hospital"
+              }
+            },
+            {
+              "glyph": "ピュア",
+              "romaji": "pyua",
+              "meaning": {
+                "id": "murni",
+                "en": "pure"
+              }
+            }
+          ],
+          "stages": [
+            {
+              "kind": "concept",
+              "card": {
+                "title": {
+                  "id": "Yoon Katakana: Aturan yang Sama",
+                  "en": "Katakana Yoon: The Same Rule"
+                },
+                "body": {
+                  "id": "Di katakana, yoon dibentuk dengan cara yang sama: kana kolom i, seperti キ, ditambah huruf kecil ャ, ュ, atau ョ. Ingat: ヤ ユ ヨ itu huruf BESAR, sedangkan ャ ュ ョ itu huruf KECIL. Pasangan ini dibaca menyatu sebagai satu ketukan (satu mora). Contoh: キ + ャ = キャ, dibaca \"kya\".",
+                  "en": "In katakana, yoon are formed the same way: an i-column kana, like キ, plus a small ャ, ュ, or ョ. Remember: ヤ ユ ヨ are BIG letters, while ャ ュ ョ are SMALL. The pair is read together as a single beat (one mora). Example: キ + ャ = キャ, read \"kya\"."
+                },
+                "glyph": "キャ",
+                "romaji": "kya"
+              }
+            },
+            {
+              "kind": "group",
+              "card": {
+                "title": {
+                  "id": "Kelompok ki: キャ キュ キョ",
+                  "en": "The ki group: kya kyu kyo"
+                },
+                "body": {
+                  "id": "Huruf キ bertemu huruf kecil: キ + ャ = キャ (kya), キ + ュ = キュ (kyu), キ + ョ = キョ (kyo). Ketiganya dibaca satu ketukan, bukan dua.",
+                  "en": "The letter キ meets a small letter: キ + ャ = キャ (kya), キ + ュ = キュ (kyu), キ + ョ = キョ (kyo). Each is read as one beat, not two."
+                },
+                "glyph": "キャ",
+                "romaji": "kya"
+              }
+            },
+            {
+              "kind": "examples",
+              "examples": [
+                {
+                  "glyph": "キャンプ",
+                  "romaji": "kyanpu",
+                  "meaning": {
+                    "id": "kemah",
+                    "en": "camp"
+                  }
+                },
+                {
+                  "glyph": "キャラ",
+                  "romaji": "kyara",
+                  "meaning": {
+                    "id": "karakter",
+                    "en": "character"
+                  }
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "card": {
+                "title": {
+                  "id": "Kelompok shi: シャ シュ ショ",
+                  "en": "The shi group: sha shu sho"
+                },
+                "body": {
+                  "id": "Huruf シ bertemu huruf kecil: シ + ャ = シャ (sha), シ + ュ = シュ (shu), シ + ョ = ショ (sho). Ketiganya dibaca satu ketukan, bukan dua.",
+                  "en": "The letter シ meets a small letter: シ + ャ = シャ (sha), シ + ュ = シュ (shu), シ + ョ = ショ (sho). Each is read as one beat, not two."
+                },
+                "glyph": "シャ",
+                "romaji": "sha"
+              }
+            },
+            {
+              "kind": "examples",
+              "examples": [
+                {
+                  "glyph": "シャツ",
+                  "romaji": "shatsu",
+                  "meaning": {
+                    "id": "kemeja",
+                    "en": "shirt"
+                  }
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "card": {
+                "title": {
+                  "id": "Kelompok chi: チャ チュ チョ",
+                  "en": "The chi group: cha chu cho"
+                },
+                "body": {
+                  "id": "Huruf チ bertemu huruf kecil: チ + ャ = チャ (cha), チ + ュ = チュ (chu), チ + ョ = チョ (cho). Ketiganya dibaca satu ketukan, bukan dua.",
+                  "en": "The letter チ meets a small letter: チ + ャ = チャ (cha), チ + ュ = チュ (chu), チ + ョ = チョ (cho). Each is read as one beat, not two."
+                },
+                "glyph": "チャ",
+                "romaji": "cha"
+              }
+            },
+            {
+              "kind": "examples",
+              "examples": [
+                {
+                  "glyph": "チャンス",
+                  "romaji": "chansu",
+                  "meaning": {
+                    "id": "kesempatan",
+                    "en": "chance"
+                  }
+                },
+                {
+                  "glyph": "チョコ",
+                  "romaji": "choko",
+                  "meaning": {
+                    "id": "cokelat",
+                    "en": "chocolate"
+                  }
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "card": {
+                "title": {
+                  "id": "Kelompok ni: ニャ ニュ ニョ",
+                  "en": "The ni group: nya nyu nyo"
+                },
+                "body": {
+                  "id": "Huruf ニ bertemu huruf kecil: ニ + ャ = ニャ (nya), ニ + ュ = ニュ (nyu), ニ + ョ = ニョ (nyo). Ketiganya dibaca satu ketukan, bukan dua.",
+                  "en": "The letter ニ meets a small letter: ニ + ャ = ニャ (nya), ニ + ュ = ニュ (nyu), ニ + ョ = ニョ (nyo). Each is read as one beat, not two."
+                },
+                "glyph": "ニャ",
+                "romaji": "nya"
+              }
+            },
+            {
+              "kind": "examples",
+              "examples": [
+                {
+                  "glyph": "ニュー",
+                  "romaji": "nyuu",
+                  "meaning": {
+                    "id": "baru",
+                    "en": "new"
+                  }
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "card": {
+                "title": {
+                  "id": "Kelompok hi: ヒャ ヒュ ヒョ",
+                  "en": "The hi group: hya hyu hyo"
+                },
+                "body": {
+                  "id": "Huruf ヒ bertemu huruf kecil: ヒ + ャ = ヒャ (hya), ヒ + ュ = ヒュ (hyu), ヒ + ョ = ヒョ (hyo). Ketiganya dibaca satu ketukan, bukan dua.",
+                  "en": "The letter ヒ meets a small letter: ヒ + ャ = ヒャ (hya), ヒ + ュ = ヒュ (hyu), ヒ + ョ = ヒョ (hyo). Each is read as one beat, not two."
+                },
+                "glyph": "ヒャ",
+                "romaji": "hya"
+              }
+            },
+            {
+              "kind": "examples",
+              "examples": [
+                {
+                  "glyph": "ヒョウ",
+                  "romaji": "hyou",
+                  "meaning": {
+                    "id": "macan tutul",
+                    "en": "leopard"
+                  }
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "card": {
+                "title": {
+                  "id": "Kelompok mi: ミャ ミュ ミョ",
+                  "en": "The mi group: mya myu myo"
+                },
+                "body": {
+                  "id": "Huruf ミ bertemu huruf kecil: ミ + ャ = ミャ (mya), ミ + ュ = ミュ (myu), ミ + ョ = ミョ (myo). Ketiganya dibaca satu ketukan, bukan dua.",
+                  "en": "The letter ミ meets a small letter: ミ + ャ = ミャ (mya), ミ + ュ = ミュ (myu), ミ + ョ = ミョ (myo). Each is read as one beat, not two."
+                },
+                "glyph": "ミャ",
+                "romaji": "mya"
+              }
+            },
+            {
+              "kind": "examples",
+              "examples": [
+                {
+                  "glyph": "ミャンマー",
+                  "romaji": "myanmaa",
+                  "meaning": {
+                    "id": "Myanmar",
+                    "en": "Myanmar"
+                  }
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "card": {
+                "title": {
+                  "id": "Kelompok ri: リャ リュ リョ",
+                  "en": "The ri group: rya ryu ryo"
+                },
+                "body": {
+                  "id": "Huruf リ bertemu huruf kecil: リ + ャ = リャ (rya), リ + ュ = リュ (ryu), リ + ョ = リョ (ryo). Ketiganya dibaca satu ketukan, bukan dua.",
+                  "en": "The letter リ meets a small letter: リ + ャ = リャ (rya), リ + ュ = リュ (ryu), リ + ョ = リョ (ryo). Each is read as one beat, not two."
+                },
+                "glyph": "リャ",
+                "romaji": "rya"
+              }
+            },
+            {
+              "kind": "examples",
+              "examples": [
+                {
+                  "glyph": "リュック",
+                  "romaji": "ryukku",
+                  "meaning": {
+                    "id": "ransel",
+                    "en": "backpack"
+                  }
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "card": {
+                "title": {
+                  "id": "Kelompok bersuara: gi, ja, bi, pi",
+                  "en": "The voiced group: gi, ja, bi, pi"
+                },
+                "body": {
+                  "id": "Baris bersuara juga punya yoon, dengan aturan yang sama: ギ + ャ = ギャ (gya), ジ + ャ = ジャ (ja), ビ + ャ = ビャ (bya), ピ + ャ = ピャ (pya). Huruf kecilnya tetap ditulis kecil. Yoon katakana sering muncul di kata serapan.",
+                  "en": "The voiced rows have yoon too, with the same rule: ギ + ャ = ギャ (gya), ジ + ャ = ジャ (ja), ビ + ャ = ビャ (bya), ピ + ャ = ピャ (pya). The small letter stays small. Katakana yoon often appear in borrowed words."
+                },
+                "glyph": "ジャ",
+                "romaji": "ja"
+              }
+            },
+            {
+              "kind": "examples",
+              "examples": [
+                {
+                  "glyph": "ギョウザ",
+                  "romaji": "gyouza",
+                  "meaning": {
+                    "id": "gyoza",
+                    "en": "gyoza"
+                  }
+                },
+                {
+                  "glyph": "ジャム",
+                  "romaji": "jamu",
+                  "meaning": {
+                    "id": "selai",
+                    "en": "jam"
+                  }
+                },
+                {
+                  "glyph": "ビョウイン",
+                  "romaji": "byouin",
+                  "meaning": {
+                    "id": "rumah sakit",
+                    "en": "hospital"
+                  }
+                },
+                {
+                  "glyph": "ピュア",
+                  "romaji": "pyua",
+                  "meaning": {
+                    "id": "murni",
+                    "en": "pure"
+                  }
+                }
+              ]
+            },
+            {
+              "kind": "contrast",
+              "card": {
+                "title": {
+                  "id": "Awas tertukar: キヤ dan キャ",
+                  "en": "Do not mix up: kiya and kya"
+                },
+                "body": {
+                  "id": "Bandingkan baik-baik. キヤ dibaca \"ki-ya\": dua ketukan, karena ヤ ditulis BESAR. キャ dibaca \"kya\": satu ketukan, karena ャ ditulis KECIL. Besar atau kecil mengubah bunyi dan jumlah ketukan.",
+                  "en": "Compare carefully. キヤ is read \"ki-ya\": two beats, because ヤ is written BIG. キャ is read \"kya\": one beat, because ャ is written SMALL. Big or small changes the sound and the number of beats."
+                },
+                "glyph": "キャ",
+                "romaji": "kya"
+              }
+            },
+            {
+              "kind": "practice",
+              "question": {
+                "prompt": {
+                  "id": "Bunyi apa ini?",
+                  "en": "What sound is this?"
+                },
+                "glyph": "キャ",
+                "options": [
+                  "kya",
+                  "kiya",
+                  "ka",
+                  "kyo"
+                ],
+                "answer": "kya",
+                "explanation": {
+                  "id": "キャ dibaca kya satu ketukan, karena ャ kecil menyatu dengan キ.",
+                  "en": "キャ is read kya, one beat, because the small ャ joins キ."
+                }
+              }
+            },
+            {
+              "kind": "practice",
+              "question": {
+                "prompt": {
+                  "id": "Bunyi apa ini?",
+                  "en": "What sound is this?"
+                },
+                "glyph": "シュ",
+                "options": [
+                  "shu",
+                  "shiu",
+                  "su",
+                  "sha"
+                ],
+                "answer": "shu",
+                "explanation": {
+                  "id": "シュ dibaca shu satu ketukan; ュ kecil menyatu dengan シ.",
+                  "en": "シュ is read shu, one beat; the small ュ joins シ."
+                }
+              }
+            },
+            {
+              "kind": "practice",
+              "question": {
+                "prompt": {
+                  "id": "Kata シャツ artinya...",
+                  "en": "The word シャツ means..."
+                },
+                "glyph": "シャツ",
+                "options": [
+                  "kemeja",
+                  "cokelat",
+                  "kemah",
+                  "kesempatan"
+                ],
+                "answer": "kemeja",
+                "explanation": {
+                  "id": "シャツ artinya kemeja; シャ adalah kelompok shi yang baru kamu pelajari.",
+                  "en": "シャツ means shirt; シャ is the shi group you just learned."
+                }
+              }
+            },
+            {
+              "kind": "practice",
+              "question": {
+                "prompt": {
+                  "id": "Huruf mana yang berbunyi \"myu\"?",
+                  "en": "Which letters read \"myu\"?"
+                },
+                "options": [
+                  "ミュ",
+                  "ミユ",
+                  "ム",
+                  "ミョ"
+                ],
+                "answer": "ミュ",
+                "explanation": {
+                  "id": "ミュ memakai ュ kecil, jadi dibaca myu satu ketukan; ミユ dibaca mi-yu dua ketukan.",
+                  "en": "ミュ uses a small ュ, so it is read myu, one beat; ミユ is read mi-yu, two beats."
+                }
+              }
+            },
+            {
+              "kind": "practice",
+              "question": {
+                "prompt": {
+                  "id": "Huruf mana yang berbunyi \"pyo\"?",
+                  "en": "Which letters read \"pyo\"?"
+                },
+                "options": [
+                  "ピョ",
+                  "ピヨ",
+                  "ポ",
+                  "ピャ"
+                ],
+                "answer": "ピョ",
+                "explanation": {
+                  "id": "ピョ memakai ョ kecil sehingga dibaca pyo; ピヨ dibaca pi-yo dua ketukan.",
+                  "en": "ピョ uses a small ョ, so it is read pyo; ピヨ is read pi-yo, two beats."
+                }
+              }
+            },
+            {
+              "kind": "practice",
+              "question": {
+                "prompt": {
+                  "id": "Kata キャンプ dibaca...",
+                  "en": "The word キャンプ is read..."
+                },
+                "glyph": "キャンプ",
+                "options": [
+                  "kyanpu",
+                  "kiyanpu",
+                  "kanpu",
+                  "kyapu"
+                ],
+                "answer": "kyanpu",
+                "explanation": {
+                  "id": "キャンプ dibaca kyanpu: キャ (kya) lalu ン (n) lalu プ (pu).",
+                  "en": "キャンプ is read kyanpu: キャ (kya), then ン (n), then プ (pu)."
+                }
+              }
+            },
+            {
+              "kind": "practice",
+              "question": {
+                "prompt": {
+                  "id": "Huruf kecil ャ ュ ョ dibaca...",
+                  "en": "The small letters ャ ュ ョ are read..."
+                },
+                "options": [
+                  "menyatu dengan huruf sebelumnya",
+                  "terpisah sebagai ya yu yo",
+                  "tidak dibaca sama sekali",
+                  "sebagai n"
+                ],
+                "answer": "menyatu dengan huruf sebelumnya",
+                "explanation": {
+                  "id": "Huruf kecil ャ ュ ョ tidak dibaca sendiri; ia menyatu dengan huruf sebelumnya menjadi satu bunyi.",
+                  "en": "The small letters ャ ュ ョ are not read on their own; they join the letter before them into one sound."
+                }
+              }
+            },
+            {
+              "kind": "quiz",
+              "question": {
+                "prompt": {
+                  "id": "Bunyi apa ini?",
+                  "en": "What sound is this?"
+                },
+                "glyph": "ジョ",
+                "options": [
+                  "jo",
+                  "jiyo",
+                  "ji",
+                  "ja"
+                ],
+                "answer": "jo",
+                "explanation": {
+                  "id": "ジョ dibaca jo satu ketukan; ョ kecil menyatu dengan ジ.",
+                  "en": "ジョ is read jo, one beat; the small ョ joins ジ."
+                }
+              }
+            },
+            {
+              "kind": "quiz",
+              "question": {
+                "prompt": {
+                  "id": "Pasangan mana yang membentuk \"cha\"?",
+                  "en": "Which pair forms \"cha\"?"
+                },
+                "options": [
+                  "チ + ャ",
+                  "チ + ヤ",
+                  "タ + ャ",
+                  "チ + ュ"
+                ],
+                "answer": "チ + ャ",
+                "explanation": {
+                  "id": "cha dibentuk チ + ャ kecil. Dengan ヤ besar jadinya chiya, bukan cha.",
+                  "en": "cha is formed by チ + small ャ. With a big ヤ it becomes chiya, not cha."
+                }
+              }
+            },
+            {
+              "kind": "quiz",
+              "question": {
+                "prompt": {
+                  "id": "Kata チョコ dibaca...",
+                  "en": "The word チョコ is read..."
+                },
+                "glyph": "チョコ",
+                "options": [
+                  "choko",
+                  "chiyoko",
+                  "choku",
+                  "chooko"
+                ],
+                "answer": "choko",
+                "explanation": {
+                  "id": "チョコ dibaca choko: チョ (cho) lalu コ (ko).",
+                  "en": "チョコ is read choko: チョ (cho), then コ (ko)."
+                }
+              }
+            },
+            {
+              "kind": "quiz",
+              "question": {
+                "prompt": {
+                  "id": "Kata チョコ artinya...",
+                  "en": "The word チョコ means..."
+                },
+                "glyph": "チョコ",
+                "options": [
+                  "cokelat",
+                  "kemeja",
+                  "kemah",
+                  "kesempatan"
+                ],
+                "answer": "cokelat",
+                "explanation": {
+                  "id": "チョコ artinya cokelat; チョ adalah kelompok chi yang baru kamu pelajari.",
+                  "en": "チョコ means chocolate; チョ is the chi group you just learned."
+                }
               }
             }
           ]
@@ -1156,52 +2736,125 @@
           "cards": [
             {
               "title": {
-                "id": "Vokal Panjang: Dua Mora",
-                "en": "Long Vowels: Two Morae"
+                "id": "Ketukan Bunyi (Mora)",
+                "en": "Sound Beats (Mora)"
               },
               "body": {
-                "id": "Vokal panjang dibunyikan dua kali lebih lama dan dihitung DUA mora. Di hiragana, vokal diperpanjang dengan menambah huruf vokal: あ+あ (aa), い+い (ii), う+う (uu). Contoh: おかあさん (okaasan) artinya ibu.",
-                "en": "A long vowel is held twice as long and counts as TWO morae. In hiragana, a vowel is lengthened by adding a vowel letter: あ+あ (aa), い+い (ii), う+う (uu). Example: おかあさん (okaasan) means mother."
-              }
+                "id": "Bahasa Jepang menghitung bunyi dengan ketukan, yang disebut mora. Satu ketukan itu satu bunyi pendek. Bandingkan: おばさん (obasan, bibi) punya 4 ketukan: o-ba-sa-n. おばあさん (obaasan, nenek) punya 5 ketukan: o-ba-a-sa-n. Huruf あ yang kedua menambah satu ketukan, dan artinya berubah dari bibi menjadi nenek. Jadi vokal yang panjang menambah ketukan.",
+                "en": "Japanese counts sounds in beats, called mora. One beat is one short sound. Compare: おばさん (obasan, aunt) has 4 beats: o-ba-sa-n. おばあさん (obaasan, grandmother) has 5 beats: o-ba-a-sa-n. The second あ adds one beat, and the meaning changes from aunt to grandmother. So a long vowel adds a beat."
+              },
+              "glyph": "おばあさん",
+              "romaji": "obaasan"
             },
             {
               "title": {
-                "id": "Baris e dan o Punya Aturan Khusus",
-                "en": "The e and o Rows Have Special Rules"
+                "id": "Vokal panjang aa",
+                "en": "The long vowel aa"
               },
               "body": {
-                "id": "Untuk bunyi ee, biasanya ditambah い: せんせい (sensei, guru). Untuk bunyi oo, biasanya ditambah う: おとうさん (otousan, ayah). Panjang vokal bisa mengubah arti: おばさん (bibi) berbeda dari おばあさん (nenek).",
-                "en": "For an ee sound, い is usually added: せんせい (sensei, teacher). For an oo sound, う is usually added: おとうさん (otousan, father). Vowel length can change meaning: おばさん (aunt) differs from おばあさん (grandmother)."
-              }
+                "id": "Di hiragana, bunyi a yang panjang ditulis dengan menambah あ: あ + あ = ああ (aa). Vokal panjang dibunyikan lebih lama dan dihitung dua ketukan, bukan satu.",
+                "en": "In hiragana, a long a sound is written by adding あ: あ + あ = ああ (aa). A long vowel is held longer and counts as two beats, not one."
+              },
+              "glyph": "ああ",
+              "romaji": "aa"
+            },
+            {
+              "title": {
+                "id": "Vokal panjang ii",
+                "en": "The long vowel ii"
+              },
+              "body": {
+                "id": "Bunyi i yang panjang ditulis dengan menambah い: い + い = いい (ii). Sama seperti aa, bunyi ii dihitung dua ketukan.",
+                "en": "A long i sound is written by adding い: い + い = いい (ii). Like aa, the ii sound counts as two beats."
+              },
+              "glyph": "いい",
+              "romaji": "ii"
+            },
+            {
+              "title": {
+                "id": "Vokal panjang uu",
+                "en": "The long vowel uu"
+              },
+              "body": {
+                "id": "Bunyi u yang panjang ditulis dengan menambah う: う + う = うう (uu). Bunyi uu juga dihitung dua ketukan.",
+                "en": "A long u sound is written by adding う: う + う = うう (uu). The uu sound also counts as two beats."
+              },
+              "glyph": "うう",
+              "romaji": "uu"
+            },
+            {
+              "title": {
+                "id": "Aturan khusus: bunyi ee",
+                "en": "Special rule: the ee sound"
+              },
+              "body": {
+                "id": "Bunyi ee yang panjang biasanya TIDAK ditulis え + え, melainkan え + い. Contoh: せんせい dibaca sensei (bukan sensee). Jadi kalau kamu melihat えい, bacalah ee yang panjang.",
+                "en": "A long ee sound is usually NOT written え + え, but え + い. Example: せんせい is read sensei (not sensee). So when you see えい, read it as a long ee."
+              },
+              "glyph": "えい",
+              "romaji": "ei"
+            },
+            {
+              "title": {
+                "id": "Aturan khusus: bunyi oo",
+                "en": "Special rule: the oo sound"
+              },
+              "body": {
+                "id": "Bunyi oo yang panjang biasanya TIDAK ditulis お + お, melainkan お + う. Contoh: おとうさん dibaca otousan (bukan otoosan). Jadi kalau kamu melihat おう, bacalah oo yang panjang.",
+                "en": "A long oo sound is usually NOT written お + お, but お + う. Example: おとうさん is read otousan (not otoosan). So when you see おう, read it as a long oo."
+              },
+              "glyph": "おう",
+              "romaji": "ou"
+            },
+            {
+              "title": {
+                "id": "Pendek dan panjang: arti bisa berubah",
+                "en": "Short and long: the meaning can change"
+              },
+              "body": {
+                "id": "Bandingkan pasangan ini. おばさん (obasan, bibi) itu pendek: 4 ketukan. おばあさん (obaasan, nenek) itu panjang: 5 ketukan. Begitu juga おじさん (ojisan, paman, 4 ketukan) dan おじいさん (ojiisan, kakek, 5 ketukan). Satu huruf vokal tambahan mengubah arti.",
+                "en": "Compare these pairs. おばさん (obasan, aunt) is short: 4 beats. おばあさん (obaasan, grandmother) is long: 5 beats. Likewise おじさん (ojisan, uncle, 4 beats) and おじいさん (ojiisan, grandfather, 5 beats). One extra vowel letter changes the meaning."
+              },
+              "glyph": "おばあさん",
+              "romaji": "obaasan"
             }
           ],
           "quiz": [
             {
               "prompt": {
-                "id": "Vokal panjang dihitung sebagai berapa mora?",
-                "en": "A long vowel counts as how many morae?"
+                "id": "Kata おかあさん punya berapa ketukan (mora)?",
+                "en": "How many beats (morae) does おかあさん have?"
               },
+              "glyph": "おかあさん",
               "options": [
-                "dua mora",
-                "satu mora",
-                "tiga mora",
-                "setengah mora"
+                "lima ketukan",
+                "empat ketukan",
+                "tiga ketukan",
+                "enam ketukan"
               ],
-              "answer": "dua mora"
+              "answer": "lima ketukan",
+              "explanation": {
+                "id": "おかあさん = o-ka-a-sa-n, lima ketukan. Huruf あ kedua dihitung satu ketukan sendiri.",
+                "en": "おかあさん = o-ka-a-sa-n, five beats. The second あ counts as one beat on its own."
+              }
             },
             {
               "prompt": {
-                "id": "Huruf apa yang memperpanjang あ?",
-                "en": "Which letter lengthens あ?"
+                "id": "Kata せんせい punya berapa ketukan (mora)?",
+                "en": "How many beats (morae) does せんせい have?"
               },
-              "glyph": "あ",
+              "glyph": "せんせい",
               "options": [
-                "あ",
-                "い",
-                "う",
-                "ー"
+                "empat ketukan",
+                "lima ketukan",
+                "tiga ketukan",
+                "dua ketukan"
               ],
-              "answer": "あ"
+              "answer": "empat ketukan",
+              "explanation": {
+                "id": "せんせい = se-n-se-i, empat ketukan. Bunyi ee yang panjang (えい) dihitung dua ketukan.",
+                "en": "せんせい = se-n-se-i, four beats. The long ee sound (えい) counts as two beats."
+              }
             },
             {
               "prompt": {
@@ -1214,7 +2867,11 @@
                 "う",
                 "お"
               ],
-              "answer": "い"
+              "answer": "い",
+              "explanation": {
+                "id": "Bunyi ee panjang biasanya ditulis え + い, seperti pada せんせい (sensei).",
+                "en": "A long ee sound is usually written え + い, as in せんせい (sensei)."
+              }
             },
             {
               "prompt": {
@@ -1227,7 +2884,11 @@
                 "い",
                 "え"
               ],
-              "answer": "う"
+              "answer": "う",
+              "explanation": {
+                "id": "Bunyi oo panjang biasanya ditulis お + う, seperti pada おとうさん (otousan).",
+                "en": "A long oo sound is usually written お + う, as in おとうさん (otousan)."
+              }
             }
           ],
           "practice": [
@@ -1236,39 +2897,89 @@
                 "id": "Kata おかあさん dibaca...",
                 "en": "The word おかあさん is read..."
               },
+              "glyph": "おかあさん",
               "options": [
                 "okaasan",
                 "okasan",
-                "okaasan tiga mora",
-                "okausan"
+                "okausan",
+                "ookasan"
               ],
-              "answer": "okaasan"
+              "answer": "okaasan",
+              "explanation": {
+                "id": "おかあさん dibaca okaasan: o-ka-a-sa-n, lima ketukan. Huruf あ kedua memanjangkan a.",
+                "en": "おかあさん is read okaasan: o-ka-a-sa-n, five beats. The second あ lengthens the a."
+              }
             },
             {
               "prompt": {
-                "id": "Kata mana yang berarti \"nenek\"?",
-                "en": "Which word means \"grandmother\"?"
+                "id": "Kata おばあさん artinya...",
+                "en": "The word おばあさん means..."
+              },
+              "glyph": "おばあさん",
+              "options": [
+                "nenek",
+                "bibi",
+                "ibu",
+                "ayah"
+              ],
+              "answer": "nenek",
+              "explanation": {
+                "id": "おばあさん artinya nenek. Bandingkan dengan おばさん (bibi) yang lebih pendek.",
+                "en": "おばあさん means grandmother. Compare with おばさん (aunt), which is shorter."
+              }
+            },
+            {
+              "prompt": {
+                "id": "Mana yang dibaca obasan (bibi, yang pendek)?",
+                "en": "Which one is read obasan (aunt, the short one)?"
               },
               "options": [
-                "おばあさん",
                 "おばさん",
-                "おじいさん",
+                "おばあさん",
+                "おじさん",
                 "おかあさん"
               ],
-              "answer": "おばあさん"
+              "answer": "おばさん",
+              "explanation": {
+                "id": "おばさん dibaca obasan, 4 ketukan. おばあさん dibaca obaasan, 5 ketukan, artinya nenek.",
+                "en": "おばさん is read obasan, 4 beats. おばあさん is read obaasan, 5 beats, and means grandmother."
+              }
             },
             {
               "prompt": {
                 "id": "Kata せんせい dibaca...",
                 "en": "The word せんせい is read..."
               },
+              "glyph": "せんせい",
               "options": [
                 "sensei",
                 "sense",
-                "sen sei pendek",
-                "sensee ditulis せんせえ selalu"
+                "sensee",
+                "sennsei"
               ],
-              "answer": "sensei"
+              "answer": "sensei",
+              "explanation": {
+                "id": "せんせい dibaca sensei: えい dibaca ee panjang, jadi bukan sensee dan bukan sense.",
+                "en": "せんせい is read sensei: えい is a long ee, so it is not sensee and not sense."
+              }
+            },
+            {
+              "prompt": {
+                "id": "Kata おとうさん dibaca...",
+                "en": "The word おとうさん is read..."
+              },
+              "glyph": "おとうさん",
+              "options": [
+                "otousan",
+                "otosan",
+                "otoosan",
+                "otonsan"
+              ],
+              "answer": "otousan",
+              "explanation": {
+                "id": "おとうさん dibaca otousan: おう dibaca oo panjang, jadi bukan otosan yang pendek.",
+                "en": "おとうさん is read otousan: おう is a long oo, so it is not the short otosan."
+              }
             },
             {
               "prompt": {
@@ -1282,7 +2993,11 @@
                 "お",
                 "ー"
               ],
-              "answer": "う"
+              "answer": "う",
+              "explanation": {
+                "id": "Bunyi u panjang ditulis う + う. Tanda ー hanya dipakai di katakana, bukan di hiragana.",
+                "en": "A long u sound is written う + う. The mark ー is only used in katakana, not in hiragana."
+              }
             }
           ],
           "examples": [
@@ -1295,6 +3010,46 @@
               }
             },
             {
+              "glyph": "おばあさん",
+              "romaji": "obaasan",
+              "meaning": {
+                "id": "nenek",
+                "en": "grandmother"
+              }
+            },
+            {
+              "glyph": "おじいさん",
+              "romaji": "ojiisan",
+              "meaning": {
+                "id": "kakek",
+                "en": "grandfather"
+              }
+            },
+            {
+              "glyph": "いい",
+              "romaji": "ii",
+              "meaning": {
+                "id": "bagus",
+                "en": "good"
+              }
+            },
+            {
+              "glyph": "くうき",
+              "romaji": "kuuki",
+              "meaning": {
+                "id": "udara",
+                "en": "air"
+              }
+            },
+            {
+              "glyph": "ゆうびん",
+              "romaji": "yuubin",
+              "meaning": {
+                "id": "pos",
+                "en": "mail"
+              }
+            },
+            {
               "glyph": "せんせい",
               "romaji": "sensei",
               "meaning": {
@@ -1303,11 +3058,446 @@
               }
             },
             {
+              "glyph": "えいが",
+              "romaji": "eiga",
+              "meaning": {
+                "id": "film",
+                "en": "movie"
+              }
+            },
+            {
               "glyph": "おとうさん",
               "romaji": "otousan",
               "meaning": {
                 "id": "ayah",
                 "en": "father"
+              }
+            },
+            {
+              "glyph": "おおきい",
+              "romaji": "ookii",
+              "meaning": {
+                "id": "besar",
+                "en": "big"
+              }
+            }
+          ],
+          "stages": [
+            {
+              "kind": "concept",
+              "card": {
+                "title": {
+                  "id": "Ketukan Bunyi (Mora)",
+                  "en": "Sound Beats (Mora)"
+                },
+                "body": {
+                  "id": "Bahasa Jepang menghitung bunyi dengan ketukan, yang disebut mora. Satu ketukan itu satu bunyi pendek. Bandingkan: おばさん (obasan, bibi) punya 4 ketukan: o-ba-sa-n. おばあさん (obaasan, nenek) punya 5 ketukan: o-ba-a-sa-n. Huruf あ yang kedua menambah satu ketukan, dan artinya berubah dari bibi menjadi nenek. Jadi vokal yang panjang menambah ketukan.",
+                  "en": "Japanese counts sounds in beats, called mora. One beat is one short sound. Compare: おばさん (obasan, aunt) has 4 beats: o-ba-sa-n. おばあさん (obaasan, grandmother) has 5 beats: o-ba-a-sa-n. The second あ adds one beat, and the meaning changes from aunt to grandmother. So a long vowel adds a beat."
+                },
+                "glyph": "おばあさん",
+                "romaji": "obaasan"
+              }
+            },
+            {
+              "kind": "group",
+              "card": {
+                "title": {
+                  "id": "Vokal panjang aa",
+                  "en": "The long vowel aa"
+                },
+                "body": {
+                  "id": "Di hiragana, bunyi a yang panjang ditulis dengan menambah あ: あ + あ = ああ (aa). Vokal panjang dibunyikan lebih lama dan dihitung dua ketukan, bukan satu.",
+                  "en": "In hiragana, a long a sound is written by adding あ: あ + あ = ああ (aa). A long vowel is held longer and counts as two beats, not one."
+                },
+                "glyph": "ああ",
+                "romaji": "aa"
+              }
+            },
+            {
+              "kind": "examples",
+              "examples": [
+                {
+                  "glyph": "おかあさん",
+                  "romaji": "okaasan",
+                  "meaning": {
+                    "id": "ibu",
+                    "en": "mother"
+                  }
+                },
+                {
+                  "glyph": "おばあさん",
+                  "romaji": "obaasan",
+                  "meaning": {
+                    "id": "nenek",
+                    "en": "grandmother"
+                  }
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "card": {
+                "title": {
+                  "id": "Vokal panjang ii",
+                  "en": "The long vowel ii"
+                },
+                "body": {
+                  "id": "Bunyi i yang panjang ditulis dengan menambah い: い + い = いい (ii). Sama seperti aa, bunyi ii dihitung dua ketukan.",
+                  "en": "A long i sound is written by adding い: い + い = いい (ii). Like aa, the ii sound counts as two beats."
+                },
+                "glyph": "いい",
+                "romaji": "ii"
+              }
+            },
+            {
+              "kind": "examples",
+              "examples": [
+                {
+                  "glyph": "おじいさん",
+                  "romaji": "ojiisan",
+                  "meaning": {
+                    "id": "kakek",
+                    "en": "grandfather"
+                  }
+                },
+                {
+                  "glyph": "いい",
+                  "romaji": "ii",
+                  "meaning": {
+                    "id": "bagus",
+                    "en": "good"
+                  }
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "card": {
+                "title": {
+                  "id": "Vokal panjang uu",
+                  "en": "The long vowel uu"
+                },
+                "body": {
+                  "id": "Bunyi u yang panjang ditulis dengan menambah う: う + う = うう (uu). Bunyi uu juga dihitung dua ketukan.",
+                  "en": "A long u sound is written by adding う: う + う = うう (uu). The uu sound also counts as two beats."
+                },
+                "glyph": "うう",
+                "romaji": "uu"
+              }
+            },
+            {
+              "kind": "examples",
+              "examples": [
+                {
+                  "glyph": "くうき",
+                  "romaji": "kuuki",
+                  "meaning": {
+                    "id": "udara",
+                    "en": "air"
+                  }
+                },
+                {
+                  "glyph": "ゆうびん",
+                  "romaji": "yuubin",
+                  "meaning": {
+                    "id": "pos",
+                    "en": "mail"
+                  }
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "card": {
+                "title": {
+                  "id": "Aturan khusus: bunyi ee",
+                  "en": "Special rule: the ee sound"
+                },
+                "body": {
+                  "id": "Bunyi ee yang panjang biasanya TIDAK ditulis え + え, melainkan え + い. Contoh: せんせい dibaca sensei (bukan sensee). Jadi kalau kamu melihat えい, bacalah ee yang panjang.",
+                  "en": "A long ee sound is usually NOT written え + え, but え + い. Example: せんせい is read sensei (not sensee). So when you see えい, read it as a long ee."
+                },
+                "glyph": "えい",
+                "romaji": "ei"
+              }
+            },
+            {
+              "kind": "examples",
+              "examples": [
+                {
+                  "glyph": "せんせい",
+                  "romaji": "sensei",
+                  "meaning": {
+                    "id": "guru",
+                    "en": "teacher"
+                  }
+                },
+                {
+                  "glyph": "えいが",
+                  "romaji": "eiga",
+                  "meaning": {
+                    "id": "film",
+                    "en": "movie"
+                  }
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "card": {
+                "title": {
+                  "id": "Aturan khusus: bunyi oo",
+                  "en": "Special rule: the oo sound"
+                },
+                "body": {
+                  "id": "Bunyi oo yang panjang biasanya TIDAK ditulis お + お, melainkan お + う. Contoh: おとうさん dibaca otousan (bukan otoosan). Jadi kalau kamu melihat おう, bacalah oo yang panjang.",
+                  "en": "A long oo sound is usually NOT written お + お, but お + う. Example: おとうさん is read otousan (not otoosan). So when you see おう, read it as a long oo."
+                },
+                "glyph": "おう",
+                "romaji": "ou"
+              }
+            },
+            {
+              "kind": "examples",
+              "examples": [
+                {
+                  "glyph": "おとうさん",
+                  "romaji": "otousan",
+                  "meaning": {
+                    "id": "ayah",
+                    "en": "father"
+                  }
+                },
+                {
+                  "glyph": "おおきい",
+                  "romaji": "ookii",
+                  "meaning": {
+                    "id": "besar",
+                    "en": "big"
+                  }
+                }
+              ]
+            },
+            {
+              "kind": "contrast",
+              "card": {
+                "title": {
+                  "id": "Pendek dan panjang: arti bisa berubah",
+                  "en": "Short and long: the meaning can change"
+                },
+                "body": {
+                  "id": "Bandingkan pasangan ini. おばさん (obasan, bibi) itu pendek: 4 ketukan. おばあさん (obaasan, nenek) itu panjang: 5 ketukan. Begitu juga おじさん (ojisan, paman, 4 ketukan) dan おじいさん (ojiisan, kakek, 5 ketukan). Satu huruf vokal tambahan mengubah arti.",
+                  "en": "Compare these pairs. おばさん (obasan, aunt) is short: 4 beats. おばあさん (obaasan, grandmother) is long: 5 beats. Likewise おじさん (ojisan, uncle, 4 beats) and おじいさん (ojiisan, grandfather, 5 beats). One extra vowel letter changes the meaning."
+                },
+                "glyph": "おばあさん",
+                "romaji": "obaasan"
+              }
+            },
+            {
+              "kind": "practice",
+              "question": {
+                "prompt": {
+                  "id": "Kata おかあさん dibaca...",
+                  "en": "The word おかあさん is read..."
+                },
+                "glyph": "おかあさん",
+                "options": [
+                  "okaasan",
+                  "okasan",
+                  "okausan",
+                  "ookasan"
+                ],
+                "answer": "okaasan",
+                "explanation": {
+                  "id": "おかあさん dibaca okaasan: o-ka-a-sa-n, lima ketukan. Huruf あ kedua memanjangkan a.",
+                  "en": "おかあさん is read okaasan: o-ka-a-sa-n, five beats. The second あ lengthens the a."
+                }
+              }
+            },
+            {
+              "kind": "practice",
+              "question": {
+                "prompt": {
+                  "id": "Kata おばあさん artinya...",
+                  "en": "The word おばあさん means..."
+                },
+                "glyph": "おばあさん",
+                "options": [
+                  "nenek",
+                  "bibi",
+                  "ibu",
+                  "ayah"
+                ],
+                "answer": "nenek",
+                "explanation": {
+                  "id": "おばあさん artinya nenek. Bandingkan dengan おばさん (bibi) yang lebih pendek.",
+                  "en": "おばあさん means grandmother. Compare with おばさん (aunt), which is shorter."
+                }
+              }
+            },
+            {
+              "kind": "practice",
+              "question": {
+                "prompt": {
+                  "id": "Mana yang dibaca obasan (bibi, yang pendek)?",
+                  "en": "Which one is read obasan (aunt, the short one)?"
+                },
+                "options": [
+                  "おばさん",
+                  "おばあさん",
+                  "おじさん",
+                  "おかあさん"
+                ],
+                "answer": "おばさん",
+                "explanation": {
+                  "id": "おばさん dibaca obasan, 4 ketukan. おばあさん dibaca obaasan, 5 ketukan, artinya nenek.",
+                  "en": "おばさん is read obasan, 4 beats. おばあさん is read obaasan, 5 beats, and means grandmother."
+                }
+              }
+            },
+            {
+              "kind": "practice",
+              "question": {
+                "prompt": {
+                  "id": "Kata せんせい dibaca...",
+                  "en": "The word せんせい is read..."
+                },
+                "glyph": "せんせい",
+                "options": [
+                  "sensei",
+                  "sense",
+                  "sensee",
+                  "sennsei"
+                ],
+                "answer": "sensei",
+                "explanation": {
+                  "id": "せんせい dibaca sensei: えい dibaca ee panjang, jadi bukan sensee dan bukan sense.",
+                  "en": "せんせい is read sensei: えい is a long ee, so it is not sensee and not sense."
+                }
+              }
+            },
+            {
+              "kind": "practice",
+              "question": {
+                "prompt": {
+                  "id": "Kata おとうさん dibaca...",
+                  "en": "The word おとうさん is read..."
+                },
+                "glyph": "おとうさん",
+                "options": [
+                  "otousan",
+                  "otosan",
+                  "otoosan",
+                  "otonsan"
+                ],
+                "answer": "otousan",
+                "explanation": {
+                  "id": "おとうさん dibaca otousan: おう dibaca oo panjang, jadi bukan otosan yang pendek.",
+                  "en": "おとうさん is read otousan: おう is a long oo, so it is not the short otosan."
+                }
+              }
+            },
+            {
+              "kind": "practice",
+              "question": {
+                "prompt": {
+                  "id": "Huruf apa yang memperpanjang う?",
+                  "en": "Which letter lengthens う?"
+                },
+                "glyph": "う",
+                "options": [
+                  "う",
+                  "あ",
+                  "お",
+                  "ー"
+                ],
+                "answer": "う",
+                "explanation": {
+                  "id": "Bunyi u panjang ditulis う + う. Tanda ー hanya dipakai di katakana, bukan di hiragana.",
+                  "en": "A long u sound is written う + う. The mark ー is only used in katakana, not in hiragana."
+                }
+              }
+            },
+            {
+              "kind": "quiz",
+              "question": {
+                "prompt": {
+                  "id": "Kata おかあさん punya berapa ketukan (mora)?",
+                  "en": "How many beats (morae) does おかあさん have?"
+                },
+                "glyph": "おかあさん",
+                "options": [
+                  "lima ketukan",
+                  "empat ketukan",
+                  "tiga ketukan",
+                  "enam ketukan"
+                ],
+                "answer": "lima ketukan",
+                "explanation": {
+                  "id": "おかあさん = o-ka-a-sa-n, lima ketukan. Huruf あ kedua dihitung satu ketukan sendiri.",
+                  "en": "おかあさん = o-ka-a-sa-n, five beats. The second あ counts as one beat on its own."
+                }
+              }
+            },
+            {
+              "kind": "quiz",
+              "question": {
+                "prompt": {
+                  "id": "Kata せんせい punya berapa ketukan (mora)?",
+                  "en": "How many beats (morae) does せんせい have?"
+                },
+                "glyph": "せんせい",
+                "options": [
+                  "empat ketukan",
+                  "lima ketukan",
+                  "tiga ketukan",
+                  "dua ketukan"
+                ],
+                "answer": "empat ketukan",
+                "explanation": {
+                  "id": "せんせい = se-n-se-i, empat ketukan. Bunyi ee yang panjang (えい) dihitung dua ketukan.",
+                  "en": "せんせい = se-n-se-i, four beats. The long ee sound (えい) counts as two beats."
+                }
+              }
+            },
+            {
+              "kind": "quiz",
+              "question": {
+                "prompt": {
+                  "id": "Bunyi \"ee\" panjang biasanya ditulis dengan menambah...",
+                  "en": "A long \"ee\" sound is usually written by adding..."
+                },
+                "options": [
+                  "い",
+                  "あ",
+                  "う",
+                  "お"
+                ],
+                "answer": "い",
+                "explanation": {
+                  "id": "Bunyi ee panjang biasanya ditulis え + い, seperti pada せんせい (sensei).",
+                  "en": "A long ee sound is usually written え + い, as in せんせい (sensei)."
+                }
+              }
+            },
+            {
+              "kind": "quiz",
+              "question": {
+                "prompt": {
+                  "id": "Bunyi \"oo\" panjang biasanya ditulis dengan menambah...",
+                  "en": "A long \"oo\" sound is usually written by adding..."
+                },
+                "options": [
+                  "う",
+                  "あ",
+                  "い",
+                  "え"
+                ],
+                "answer": "う",
+                "explanation": {
+                  "id": "Bunyi oo panjang biasanya ditulis お + う, seperti pada おとうさん (otousan).",
+                  "en": "A long oo sound is usually written お + う, as in おとうさん (otousan)."
+                }
               }
             }
           ]
@@ -1344,26 +3534,89 @@
           "cards": [
             {
               "title": {
-                "id": "Tanda ー Memperpanjang Vokal",
-                "en": "The Mark ー Lengthens a Vowel"
+                "id": "Tanda ー (Chouonpu) Memperpanjang Vokal",
+                "en": "The Mark ー (Chouonpu) Lengthens a Vowel"
               },
               "body": {
-                "id": "Di katakana, vokal panjang ditulis dengan tanda ー (chooonpu) SETELAH kana: コ + ー = コー dibaca \"koo\" yang panjang. Tanda ini dihitung satu mora. Contoh: コーヒー (koohii) artinya kopi.",
-                "en": "In katakana, a long vowel is written with the mark ー (chooonpu) AFTER the kana: コ + ー = コー is read as a long \"koo\". The mark counts as one mora. Example: コーヒー (koohii) means coffee."
-              }
+                "id": "Di katakana, vokal panjang ditulis dengan tanda ー yang disebut chouonpu. Tanda ini ditulis SETELAH kana dan membuat vokal sebelumnya dibaca lebih panjang: コ + ー = コー dibaca \"koo\". Satu ketukan bunyi (satu mora) adalah satu bunyi pendek; tanda ー sendiri dihitung satu ketukan. Jadi コー punya dua ketukan: ko-o.",
+                "en": "In katakana, a long vowel is written with the mark ー, called chouonpu. The mark is written AFTER the kana and makes the vowel before it read longer: コ + ー = コー is read \"koo\". One sound beat (one mora) is one short sound; the mark ー itself counts as one beat. So コー has two beats: ko-o."
+              },
+              "glyph": "コー",
+              "romaji": "koo"
             },
             {
               "title": {
-                "id": "Dipakai di Kata Serapan",
-                "en": "Used in Borrowed Words"
+                "id": "Tanda ー setelah kana",
+                "en": "The mark ー after a kana"
               },
               "body": {
-                "id": "Tanda ー sangat sering muncul di kata serapan: ケーキ (keeki, kue) dan タクシー (takushii, taksi). Tanpa ー, bunyinya menjadi pendek dan kata bisa terdengar berbeda.",
-                "en": "The mark ー appears very often in borrowed words: ケーキ (keeki, cake) and タクシー (takushii, taxi). Without ー, the sound becomes short and the word can sound different."
-              }
+                "id": "Tanda ー bisa mengikuti vokal apa pun: コー (koo), ケー (kee), シー (shii). Bacalah vokal itu lebih panjang, lalu lanjutkan ke huruf berikutnya.",
+                "en": "The mark ー can follow any vowel: コー (koo), ケー (kee), シー (shii). Hold that vowel longer, then move on to the next letter."
+              },
+              "glyph": "コーヒー",
+              "romaji": "koohii"
+            },
+            {
+              "title": {
+                "id": "Tanda ー di kata serapan lain",
+                "en": "The mark ー in other borrowed words"
+              },
+              "body": {
+                "id": "Tanda ー sangat sering muncul di kata serapan. Sekali kamu mengenalnya, kamu akan melihatnya di mana-mana: pada nama makanan, pakaian, dan benda.",
+                "en": "The mark ー appears very often in borrowed words. Once you know it, you will see it everywhere: in the names of food, clothes, and things."
+              },
+              "glyph": "セーター",
+              "romaji": "seetaa"
+            },
+            {
+              "title": {
+                "id": "Pendek dan panjang di katakana",
+                "en": "Short and long in katakana"
+              },
+              "body": {
+                "id": "Bandingkan: コ dibaca \"ko\" yang pendek, satu ketukan. コー dibaca \"koo\" yang panjang, dua ketukan. Begitu juga ケキ dibaca \"keki\" pendek, sedangkan ケーキ dibaca \"keeki\" panjang. Tanda ー-lah yang membuat bedanya.",
+                "en": "Compare: コ is read \"ko\", short, one beat. コー is read \"koo\", long, two beats. Likewise ケキ is read \"keki\", short, while ケーキ is read \"keeki\", long. The mark ー is what makes the difference."
+              },
+              "glyph": "コー",
+              "romaji": "koo"
             }
           ],
           "quiz": [
+            {
+              "prompt": {
+                "id": "Tanda ー sendiri dihitung sebagai...",
+                "en": "The mark ー itself counts as..."
+              },
+              "options": [
+                "satu mora",
+                "tidak dihitung",
+                "dua mora",
+                "satu kata"
+              ],
+              "answer": "satu mora",
+              "explanation": {
+                "id": "Tanda ー sendiri dihitung satu mora (satu ketukan). Ia menambah satu ketukan pada kata.",
+                "en": "The mark ー itself counts as one mora (one beat). It adds one beat to the word."
+              }
+            },
+            {
+              "prompt": {
+                "id": "Kata コーヒー punya berapa ketukan (mora) semuanya?",
+                "en": "How many beats (morae) does コーヒー have in total?"
+              },
+              "glyph": "コーヒー",
+              "options": [
+                "empat ketukan",
+                "tiga ketukan",
+                "lima ketukan",
+                "dua ketukan"
+              ],
+              "answer": "empat ketukan",
+              "explanation": {
+                "id": "コーヒー = ko-o-hi-i, empat ketukan semuanya. Dua tanda ー masing-masing dihitung satu ketukan.",
+                "en": "コーヒー = ko-o-hi-i, four beats in total. Each of the two ー marks counts as one beat."
+              }
+            },
             {
               "prompt": {
                 "id": "Tanda apa yang memperpanjang vokal di katakana?",
@@ -1375,7 +3628,11 @@
                 "゜",
                 "っ"
               ],
-              "answer": "ー"
+              "answer": "ー",
+              "explanation": {
+                "id": "Tanda ー (chouonpu) yang memperpanjang vokal. Tanda ゛ dan ゜ mengubah bunyi konsonan, bukan memanjangkan vokal.",
+                "en": "The mark ー (chouonpu) lengthens a vowel. The marks ゛ and ゜ change a consonant sound; they do not lengthen a vowel."
+              }
             },
             {
               "prompt": {
@@ -1388,34 +3645,11 @@
                 "di atas kana",
                 "menggantikan kana"
               ],
-              "answer": "setelah kana"
-            },
-            {
-              "prompt": {
-                "id": "Tanda ー dihitung sebagai...",
-                "en": "The mark ー counts as..."
-              },
-              "options": [
-                "satu mora",
-                "tidak dihitung",
-                "dua mora",
-                "satu kata"
-              ],
-              "answer": "satu mora"
-            },
-            {
-              "prompt": {
-                "id": "Bunyi apa ini?",
-                "en": "What sound is this?"
-              },
-              "glyph": "コー",
-              "options": [
-                "koo",
-                "ko",
-                "kou pendek",
-                "kotsu"
-              ],
-              "answer": "koo"
+              "answer": "setelah kana",
+              "explanation": {
+                "id": "Tanda ー selalu ditulis setelah kana yang vokalnya dipanjangkan, misalnya コ + ー = コー.",
+                "en": "The mark ー is always written after the kana whose vowel it lengthens, for example コ + ー = コー."
+              }
             }
           ],
           "practice": [
@@ -1424,52 +3658,88 @@
                 "id": "Kata コーヒー dibaca...",
                 "en": "The word コーヒー is read..."
               },
+              "glyph": "コーヒー",
               "options": [
                 "koohii",
                 "kohi",
-                "koohi pendek",
-                "kofii"
+                "kofii",
+                "koohi"
               ],
-              "answer": "koohii"
+              "answer": "koohii",
+              "explanation": {
+                "id": "コーヒー dibaca koohii: ko-o-hi-i, empat ketukan. Tanpa ー, bunyinya jadi pendek.",
+                "en": "コーヒー is read koohii: ko-o-hi-i, four beats. Without ー, the sound becomes short."
+              }
             },
             {
               "prompt": {
-                "id": "Kata mana yang berarti \"kue\"?",
-                "en": "Which word means \"cake\"?"
+                "id": "Kata ケーキ artinya...",
+                "en": "The word ケーキ means..."
+              },
+              "glyph": "ケーキ",
+              "options": [
+                "kue",
+                "kopi",
+                "taksi",
+                "pesta"
+              ],
+              "answer": "kue",
+              "explanation": {
+                "id": "ケーキ artinya kue. Perhatikan ー setelah ケ yang memanjangkan e.",
+                "en": "ケーキ means cake. Notice the ー after ケ that lengthens the e."
+              }
+            },
+            {
+              "prompt": {
+                "id": "Mana yang dibaca koo (panjang)?",
+                "en": "Which one is read koo (long)?"
               },
               "options": [
-                "ケーキ",
-                "ケキ",
-                "コーキ",
-                "ケー"
+                "コー",
+                "コ",
+                "ク",
+                "コウ"
               ],
-              "answer": "ケーキ"
+              "answer": "コー",
+              "explanation": {
+                "id": "コー dibaca koo karena ada tanda ー. コ dibaca ko yang pendek, dan コウ dibaca kou.",
+                "en": "コー is read koo because of the mark ー. コ is read ko, short, and コウ is read kou."
+              }
             },
             {
               "prompt": {
                 "id": "Kata タクシー dibaca...",
                 "en": "The word タクシー is read..."
               },
+              "glyph": "タクシー",
               "options": [
                 "takushii",
                 "takushi",
-                "takusii pendek",
-                "takushitsu"
+                "takushitsu",
+                "takusi"
               ],
-              "answer": "takushii"
+              "answer": "takushii",
+              "explanation": {
+                "id": "タクシー dibaca takushii: ta-ku-shi-i. Huruf ー di akhir memanjangkan i.",
+                "en": "タクシー is read takushii: ta-ku-shi-i. The ー at the end lengthens the i."
+              }
             },
             {
               "prompt": {
-                "id": "Untuk menulis \"aa\" panjang di katakana, kita menulis...",
-                "en": "To write a long \"aa\" in katakana, we write..."
+                "id": "Cara katakana yang biasa untuk menulis \"aa\" panjang adalah...",
+                "en": "The usual katakana way to write a long \"aa\" is..."
               },
               "options": [
                 "アー",
-                "アア selalu",
+                "ア",
                 "アっ",
                 "ア゛"
               ],
-              "answer": "アー"
+              "answer": "アー",
+              "explanation": {
+                "id": "Di katakana, aa panjang ditulis ア + ー. ア saja dibaca a pendek, dan っ serta ゛ bukan pemanjang vokal.",
+                "en": "In katakana, a long aa is written ア + ー. ア alone is a short a, and っ and ゛ are not vowel lengtheners."
+              }
             }
           ],
           "examples": [
@@ -1495,6 +3765,318 @@
               "meaning": {
                 "id": "taksi",
                 "en": "taxi"
+              }
+            },
+            {
+              "glyph": "セーター",
+              "romaji": "seetaa",
+              "meaning": {
+                "id": "sweter",
+                "en": "sweater"
+              }
+            },
+            {
+              "glyph": "パーティー",
+              "romaji": "paatii",
+              "meaning": {
+                "id": "pesta",
+                "en": "party"
+              }
+            }
+          ],
+          "stages": [
+            {
+              "kind": "concept",
+              "card": {
+                "title": {
+                  "id": "Tanda ー (Chouonpu) Memperpanjang Vokal",
+                  "en": "The Mark ー (Chouonpu) Lengthens a Vowel"
+                },
+                "body": {
+                  "id": "Di katakana, vokal panjang ditulis dengan tanda ー yang disebut chouonpu. Tanda ini ditulis SETELAH kana dan membuat vokal sebelumnya dibaca lebih panjang: コ + ー = コー dibaca \"koo\". Satu ketukan bunyi (satu mora) adalah satu bunyi pendek; tanda ー sendiri dihitung satu ketukan. Jadi コー punya dua ketukan: ko-o.",
+                  "en": "In katakana, a long vowel is written with the mark ー, called chouonpu. The mark is written AFTER the kana and makes the vowel before it read longer: コ + ー = コー is read \"koo\". One sound beat (one mora) is one short sound; the mark ー itself counts as one beat. So コー has two beats: ko-o."
+                },
+                "glyph": "コー",
+                "romaji": "koo"
+              }
+            },
+            {
+              "kind": "group",
+              "card": {
+                "title": {
+                  "id": "Tanda ー setelah kana",
+                  "en": "The mark ー after a kana"
+                },
+                "body": {
+                  "id": "Tanda ー bisa mengikuti vokal apa pun: コー (koo), ケー (kee), シー (shii). Bacalah vokal itu lebih panjang, lalu lanjutkan ke huruf berikutnya.",
+                  "en": "The mark ー can follow any vowel: コー (koo), ケー (kee), シー (shii). Hold that vowel longer, then move on to the next letter."
+                },
+                "glyph": "コーヒー",
+                "romaji": "koohii"
+              }
+            },
+            {
+              "kind": "examples",
+              "examples": [
+                {
+                  "glyph": "コーヒー",
+                  "romaji": "koohii",
+                  "meaning": {
+                    "id": "kopi",
+                    "en": "coffee"
+                  }
+                },
+                {
+                  "glyph": "ケーキ",
+                  "romaji": "keeki",
+                  "meaning": {
+                    "id": "kue",
+                    "en": "cake"
+                  }
+                },
+                {
+                  "glyph": "タクシー",
+                  "romaji": "takushii",
+                  "meaning": {
+                    "id": "taksi",
+                    "en": "taxi"
+                  }
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "card": {
+                "title": {
+                  "id": "Tanda ー di kata serapan lain",
+                  "en": "The mark ー in other borrowed words"
+                },
+                "body": {
+                  "id": "Tanda ー sangat sering muncul di kata serapan. Sekali kamu mengenalnya, kamu akan melihatnya di mana-mana: pada nama makanan, pakaian, dan benda.",
+                  "en": "The mark ー appears very often in borrowed words. Once you know it, you will see it everywhere: in the names of food, clothes, and things."
+                },
+                "glyph": "セーター",
+                "romaji": "seetaa"
+              }
+            },
+            {
+              "kind": "examples",
+              "examples": [
+                {
+                  "glyph": "セーター",
+                  "romaji": "seetaa",
+                  "meaning": {
+                    "id": "sweter",
+                    "en": "sweater"
+                  }
+                },
+                {
+                  "glyph": "パーティー",
+                  "romaji": "paatii",
+                  "meaning": {
+                    "id": "pesta",
+                    "en": "party"
+                  }
+                }
+              ]
+            },
+            {
+              "kind": "contrast",
+              "card": {
+                "title": {
+                  "id": "Pendek dan panjang di katakana",
+                  "en": "Short and long in katakana"
+                },
+                "body": {
+                  "id": "Bandingkan: コ dibaca \"ko\" yang pendek, satu ketukan. コー dibaca \"koo\" yang panjang, dua ketukan. Begitu juga ケキ dibaca \"keki\" pendek, sedangkan ケーキ dibaca \"keeki\" panjang. Tanda ー-lah yang membuat bedanya.",
+                  "en": "Compare: コ is read \"ko\", short, one beat. コー is read \"koo\", long, two beats. Likewise ケキ is read \"keki\", short, while ケーキ is read \"keeki\", long. The mark ー is what makes the difference."
+                },
+                "glyph": "コー",
+                "romaji": "koo"
+              }
+            },
+            {
+              "kind": "practice",
+              "question": {
+                "prompt": {
+                  "id": "Kata コーヒー dibaca...",
+                  "en": "The word コーヒー is read..."
+                },
+                "glyph": "コーヒー",
+                "options": [
+                  "koohii",
+                  "kohi",
+                  "kofii",
+                  "koohi"
+                ],
+                "answer": "koohii",
+                "explanation": {
+                  "id": "コーヒー dibaca koohii: ko-o-hi-i, empat ketukan. Tanpa ー, bunyinya jadi pendek.",
+                  "en": "コーヒー is read koohii: ko-o-hi-i, four beats. Without ー, the sound becomes short."
+                }
+              }
+            },
+            {
+              "kind": "practice",
+              "question": {
+                "prompt": {
+                  "id": "Kata ケーキ artinya...",
+                  "en": "The word ケーキ means..."
+                },
+                "glyph": "ケーキ",
+                "options": [
+                  "kue",
+                  "kopi",
+                  "taksi",
+                  "pesta"
+                ],
+                "answer": "kue",
+                "explanation": {
+                  "id": "ケーキ artinya kue. Perhatikan ー setelah ケ yang memanjangkan e.",
+                  "en": "ケーキ means cake. Notice the ー after ケ that lengthens the e."
+                }
+              }
+            },
+            {
+              "kind": "practice",
+              "question": {
+                "prompt": {
+                  "id": "Mana yang dibaca koo (panjang)?",
+                  "en": "Which one is read koo (long)?"
+                },
+                "options": [
+                  "コー",
+                  "コ",
+                  "ク",
+                  "コウ"
+                ],
+                "answer": "コー",
+                "explanation": {
+                  "id": "コー dibaca koo karena ada tanda ー. コ dibaca ko yang pendek, dan コウ dibaca kou.",
+                  "en": "コー is read koo because of the mark ー. コ is read ko, short, and コウ is read kou."
+                }
+              }
+            },
+            {
+              "kind": "practice",
+              "question": {
+                "prompt": {
+                  "id": "Kata タクシー dibaca...",
+                  "en": "The word タクシー is read..."
+                },
+                "glyph": "タクシー",
+                "options": [
+                  "takushii",
+                  "takushi",
+                  "takushitsu",
+                  "takusi"
+                ],
+                "answer": "takushii",
+                "explanation": {
+                  "id": "タクシー dibaca takushii: ta-ku-shi-i. Huruf ー di akhir memanjangkan i.",
+                  "en": "タクシー is read takushii: ta-ku-shi-i. The ー at the end lengthens the i."
+                }
+              }
+            },
+            {
+              "kind": "practice",
+              "question": {
+                "prompt": {
+                  "id": "Cara katakana yang biasa untuk menulis \"aa\" panjang adalah...",
+                  "en": "The usual katakana way to write a long \"aa\" is..."
+                },
+                "options": [
+                  "アー",
+                  "ア",
+                  "アっ",
+                  "ア゛"
+                ],
+                "answer": "アー",
+                "explanation": {
+                  "id": "Di katakana, aa panjang ditulis ア + ー. ア saja dibaca a pendek, dan っ serta ゛ bukan pemanjang vokal.",
+                  "en": "In katakana, a long aa is written ア + ー. ア alone is a short a, and っ and ゛ are not vowel lengtheners."
+                }
+              }
+            },
+            {
+              "kind": "quiz",
+              "question": {
+                "prompt": {
+                  "id": "Tanda ー sendiri dihitung sebagai...",
+                  "en": "The mark ー itself counts as..."
+                },
+                "options": [
+                  "satu mora",
+                  "tidak dihitung",
+                  "dua mora",
+                  "satu kata"
+                ],
+                "answer": "satu mora",
+                "explanation": {
+                  "id": "Tanda ー sendiri dihitung satu mora (satu ketukan). Ia menambah satu ketukan pada kata.",
+                  "en": "The mark ー itself counts as one mora (one beat). It adds one beat to the word."
+                }
+              }
+            },
+            {
+              "kind": "quiz",
+              "question": {
+                "prompt": {
+                  "id": "Kata コーヒー punya berapa ketukan (mora) semuanya?",
+                  "en": "How many beats (morae) does コーヒー have in total?"
+                },
+                "glyph": "コーヒー",
+                "options": [
+                  "empat ketukan",
+                  "tiga ketukan",
+                  "lima ketukan",
+                  "dua ketukan"
+                ],
+                "answer": "empat ketukan",
+                "explanation": {
+                  "id": "コーヒー = ko-o-hi-i, empat ketukan semuanya. Dua tanda ー masing-masing dihitung satu ketukan.",
+                  "en": "コーヒー = ko-o-hi-i, four beats in total. Each of the two ー marks counts as one beat."
+                }
+              }
+            },
+            {
+              "kind": "quiz",
+              "question": {
+                "prompt": {
+                  "id": "Tanda apa yang memperpanjang vokal di katakana?",
+                  "en": "Which mark lengthens a vowel in katakana?"
+                },
+                "options": [
+                  "ー",
+                  "゛",
+                  "゜",
+                  "っ"
+                ],
+                "answer": "ー",
+                "explanation": {
+                  "id": "Tanda ー (chouonpu) yang memperpanjang vokal. Tanda ゛ dan ゜ mengubah bunyi konsonan, bukan memanjangkan vokal.",
+                  "en": "The mark ー (chouonpu) lengthens a vowel. The marks ゛ and ゜ change a consonant sound; they do not lengthen a vowel."
+                }
+              }
+            },
+            {
+              "kind": "quiz",
+              "question": {
+                "prompt": {
+                  "id": "Tanda ー ditulis di mana?",
+                  "en": "Where is the mark ー written?"
+                },
+                "options": [
+                  "setelah kana",
+                  "sebelum kana",
+                  "di atas kana",
+                  "menggantikan kana"
+                ],
+                "answer": "setelah kana",
+                "explanation": {
+                  "id": "Tanda ー selalu ditulis setelah kana yang vokalnya dipanjangkan, misalnya コ + ー = コー.",
+                  "en": "The mark ー is always written after the kana whose vowel it lengthens, for example コ + ー = コー."
+                }
               }
             }
           ]
@@ -1646,13 +4228,63 @@
           "cards": [
             {
               "title": {
-                "id": "Bunyi Asing dari Huruf Vokal Kecil",
-                "en": "Foreign Sounds from Small Vowel Letters"
+                "id": "Huruf Vokal Kecil",
+                "en": "Small Vowel Letters"
               },
               "body": {
-                "id": "Katakana bisa menulis bunyi asing yang tidak ada di kana dasar, dengan menggabungkan kana dasar + huruf vokal kecil ァ ィ ゥ ェ ォ. Contoh: フ + ァ = ファ dibaca \"fa\", dan テ + ィ = ティ dibaca \"ti\".",
-                "en": "Katakana can write foreign sounds that do not exist in the basic kana by combining a base kana + a small vowel letter ァ ィ ゥ ェ ォ. Example: フ + ァ = ファ is read \"fa\", and テ + ィ = ティ is read \"ti\"."
-              }
+                "id": "Bahasa Jepang tidak punya bunyi fa, ti, atau she. Katakana menulis bunyi asing itu dengan kana dasar + huruf vokal kecil ァ ィ ゥ ェ ォ yang ditulis kecil di belakang. Keduanya dibaca jadi SATU bunyi: フ + ァ = ファ dibaca fa, bukan fu-a.",
+                "en": "Japanese has no fa, ti, or she sounds. Katakana writes those foreign sounds with a base kana + a small vowel letter ァ ィ ゥ ェ ォ written small after it. The two are read as ONE sound: フ + ァ = ファ is read fa, not fu-a."
+              },
+              "glyph": "ファ",
+              "romaji": "fa"
+            },
+            {
+              "title": {
+                "id": "Kelompok Fa",
+                "en": "The Fa Group"
+              },
+              "body": {
+                "id": "フ + huruf vokal kecil: ファ fa, フィ fi, フェ fe, フォ fo. Huruf kecilnya yang menentukan bunyi akhirnya: ァ jadi fa, ィ jadi fi, ェ jadi fe, ォ jadi fo.",
+                "en": "フ + a small vowel letter: ファ fa, フィ fi, フェ fe, フォ fo. The small letter decides the final sound: ァ makes fa, ィ makes fi, ェ makes fe, ォ makes fo."
+              },
+              "glyph": "ファ",
+              "romaji": "fa"
+            },
+            {
+              "title": {
+                "id": "Kelompok Ti dan Di",
+                "en": "The Ti and Di Groups"
+              },
+              "body": {
+                "id": "テ + ィ = ティ ti, dan デ + ィ = ディ di. Ada juga ト + ゥ = トゥ tu dan ド + ゥ = ドゥ du.",
+                "en": "テ + ィ = ティ ti, and デ + ィ = ディ di. There are also ト + ゥ = トゥ tu and ド + ゥ = ドゥ du."
+              },
+              "glyph": "ティ",
+              "romaji": "ti"
+            },
+            {
+              "title": {
+                "id": "Kelompok She, Che, dan Je",
+                "en": "The She, Che, and Je Groups"
+              },
+              "body": {
+                "id": "シ + ェ = シェ she, チ + ェ = チェ che, dan ジ + ェ = ジェ je. Perhatikan huruf dasarnya: シ untuk she, チ untuk che, ジ untuk je.",
+                "en": "シ + ェ = シェ she, チ + ェ = チェ che, and ジ + ェ = ジェ je. Watch the base letter: シ for she, チ for che, ジ for je."
+              },
+              "glyph": "シェ",
+              "romaji": "she"
+            },
+            {
+              "title": {
+                "id": "Kelompok Vu",
+                "en": "The Vu Group"
+              },
+              "body": {
+                "id": "ヴ adalah ウ dengan tanda dakuten, dibaca vu. Dengan huruf vokal kecil: ヴァ va, ヴィ vi, ヴェ ve, ヴォ vo.",
+                "en": "ヴ is ウ with a dakuten mark, read vu. With small vowel letters: ヴァ va, ヴィ vi, ヴェ ve, ヴォ vo."
+              },
+              "glyph": "ヴ",
+              "romaji": "vu"
             },
             {
               "title": {
@@ -1660,9 +4292,11 @@
                 "en": "Not Handakuon"
               },
               "body": {
-                "id": "Bunyi tambahan TIDAK memakai handakuon. Handakuon adalah tanda lingkaran kecil ゜ pada baris ha yang membuat baris pa (パピプペポ), sudah dipelajari di Bab 6. Bunyi tambahan memakai huruf vokal kecil, bukan tanda. Huruf ヴ (vu) adalah ウ dengan tanda dakuten, untuk bunyi v.",
-                "en": "Additional sounds do NOT use handakuon. Handakuon is the small circle mark ゜ on the h-row that makes the p-row (パピプペポ), already learned in Chapter 6. Additional sounds use small vowel letters, not a mark. The letter ヴ (vu) is ウ with a dakuten mark, for the v sound."
-              }
+                "id": "Bunyi tambahan TIDAK memakai handakuon. Handakuon adalah tanda lingkaran kecil ゜ pada baris ha yang membuat baris pa (パピプペポ), sudah dipelajari di Bab 6. Bunyi tambahan memakai huruf vokal kecil, bukan tanda. Jadi ファ bukan パ, dan ティ bukan tanda apa pun.",
+                "en": "Additional sounds do NOT use handakuon. Handakuon is the small circle mark ゜ on the h-row that makes the p-row (パピプペポ), already learned in Chapter 6. Additional sounds use small vowel letters, not a mark. So ファ is not パ, and ティ is not any kind of mark."
+              },
+              "glyph": "パ",
+              "romaji": "pa"
             }
           ],
           "quiz": [
@@ -1671,42 +4305,53 @@
                 "id": "Bunyi apa ini?",
                 "en": "What sound is this?"
               },
-              "glyph": "ファ",
               "options": [
                 "fa",
                 "fu a",
                 "ha",
                 "fua"
               ],
-              "answer": "fa"
+              "answer": "fa",
+              "explanation": {
+                "id": "ファ adalah satu bunyi fa, bukan fu + a.",
+                "en": "ファ is a single sound fa, not fu + a."
+              },
+              "glyph": "ファ"
             },
             {
               "prompt": {
                 "id": "Bunyi apa ini?",
                 "en": "What sound is this?"
               },
-              "glyph": "ティ",
               "options": [
                 "ti",
                 "te i",
                 "chi",
                 "tei"
               ],
-              "answer": "ti"
+              "answer": "ti",
+              "explanation": {
+                "id": "ティ adalah satu bunyi ti: テ + ィ kecil.",
+                "en": "ティ is a single sound ti: テ + small ィ."
+              },
+              "glyph": "ティ"
             },
             {
               "prompt": {
-                "id": "Bunyi apa ini?",
-                "en": "What sound is this?"
+                "id": "Pasangan mana yang membentuk \"je\"?",
+                "en": "Which pair forms \"je\"?"
               },
-              "glyph": "ヴ",
               "options": [
-                "vu",
-                "u",
-                "bu",
-                "fu"
+                "ジ + ェ",
+                "ジ + ァ",
+                "シ + ェ",
+                "ジ + ー"
               ],
-              "answer": "vu"
+              "answer": "ジ + ェ",
+              "explanation": {
+                "id": "je = ジ + ェ kecil. シ + ェ jadi she, bukan je.",
+                "en": "je is ジ + small ェ. シ + ェ makes she, not je."
+              }
             },
             {
               "prompt": {
@@ -1719,7 +4364,11 @@
                 "tanda ー",
                 "huruf っ"
               ],
-              "answer": "huruf vokal kecil ァィゥェォ"
+              "answer": "huruf vokal kecil ァィゥェォ",
+              "explanation": {
+                "id": "Bunyi tambahan memakai huruf vokal kecil, bukan tanda apa pun.",
+                "en": "Additional sounds use small vowel letters, not any mark."
+              }
             }
           ],
           "practice": [
@@ -1734,7 +4383,11 @@
                 "ハ + ェ",
                 "フ + ー"
               ],
-              "answer": "フ + ェ"
+              "answer": "フ + ェ",
+              "explanation": {
+                "id": "fe = フ + ェ kecil. ァ jadi fa, bukan fe.",
+                "en": "fe is フ + small ェ. ァ makes fa, not fe."
+              }
             },
             {
               "prompt": {
@@ -1747,20 +4400,46 @@
                 "セ",
                 "シャ"
               ],
-              "answer": "シェ"
+              "answer": "シェ",
+              "explanation": {
+                "id": "she = シ + ェ kecil. シャ dibaca sha, bunyi lain.",
+                "en": "she is シ + small ェ. シャ is read sha, a different sound."
+              }
             },
             {
               "prompt": {
-                "id": "Handakuon adalah...",
-                "en": "Handakuon is..."
+                "id": "Kata フォーク berarti...",
+                "en": "What does the word フォーク mean?"
               },
               "options": [
-                "tanda ゜ yang membuat baris pa",
-                "huruf vokal kecil",
-                "tanda ー",
-                "huruf kecil ャ"
+                "garpu",
+                "pesta",
+                "penggemar",
+                "film"
               ],
-              "answer": "tanda ゜ yang membuat baris pa"
+              "answer": "garpu",
+              "explanation": {
+                "id": "フォーク (fooku) artinya garpu. Pesta adalah パーティー.",
+                "en": "フォーク (fooku) means fork. Party is パーティー."
+              }
+            },
+            {
+              "prompt": {
+                "id": "Bunyi apa ini?",
+                "en": "What sound is this?"
+              },
+              "options": [
+                "vu",
+                "u",
+                "bu",
+                "fu"
+              ],
+              "answer": "vu",
+              "explanation": {
+                "id": "ヴ adalah ウ dengan dakuten, dibaca vu. Bukan u biasa.",
+                "en": "ヴ is ウ with a dakuten mark, read vu. Not a plain u."
+              },
+              "glyph": "ヴ"
             },
             {
               "prompt": {
@@ -1770,10 +4449,14 @@
               "options": [
                 "paatii",
                 "patei",
-                "paatei pendek",
+                "patii",
                 "hatii"
               ],
-              "answer": "paatii"
+              "answer": "paatii",
+              "explanation": {
+                "id": "パー panjang (pa-a) + ティ (ti) = paatii.",
+                "en": "Long パー (pa-a) + ティ (ti) gives paatii."
+              }
             }
           ],
           "examples": [
@@ -1786,6 +4469,22 @@
               }
             },
             {
+              "glyph": "フォーク",
+              "romaji": "fooku",
+              "meaning": {
+                "id": "garpu",
+                "en": "fork"
+              }
+            },
+            {
+              "glyph": "フィルム",
+              "romaji": "firumu",
+              "meaning": {
+                "id": "film",
+                "en": "film"
+              }
+            },
+            {
               "glyph": "パーティー",
               "romaji": "paatii",
               "meaning": {
@@ -1794,11 +4493,442 @@
               }
             },
             {
-              "glyph": "フォーク",
-              "romaji": "fooku",
+              "glyph": "ティー",
+              "romaji": "tii",
               "meaning": {
-                "id": "garpu",
-                "en": "fork"
+                "id": "teh",
+                "en": "tea"
+              }
+            },
+            {
+              "glyph": "ディスク",
+              "romaji": "disuku",
+              "meaning": {
+                "id": "cakram",
+                "en": "disc"
+              }
+            },
+            {
+              "glyph": "シェフ",
+              "romaji": "shefu",
+              "meaning": {
+                "id": "koki",
+                "en": "chef"
+              }
+            },
+            {
+              "glyph": "チェック",
+              "romaji": "chekku",
+              "meaning": {
+                "id": "pemeriksaan",
+                "en": "check"
+              }
+            },
+            {
+              "glyph": "ジェット",
+              "romaji": "jetto",
+              "meaning": {
+                "id": "jet",
+                "en": "jet"
+              }
+            },
+            {
+              "glyph": "ヴァイオリン",
+              "romaji": "vaiorin",
+              "meaning": {
+                "id": "biola",
+                "en": "violin"
+              }
+            },
+            {
+              "glyph": "ヴォーカル",
+              "romaji": "vookaru",
+              "meaning": {
+                "id": "vokal",
+                "en": "vocal"
+              }
+            }
+          ],
+          "stages": [
+            {
+              "kind": "concept",
+              "card": {
+                "title": {
+                  "id": "Huruf Vokal Kecil",
+                  "en": "Small Vowel Letters"
+                },
+                "body": {
+                  "id": "Bahasa Jepang tidak punya bunyi fa, ti, atau she. Katakana menulis bunyi asing itu dengan kana dasar + huruf vokal kecil ァ ィ ゥ ェ ォ yang ditulis kecil di belakang. Keduanya dibaca jadi SATU bunyi: フ + ァ = ファ dibaca fa, bukan fu-a.",
+                  "en": "Japanese has no fa, ti, or she sounds. Katakana writes those foreign sounds with a base kana + a small vowel letter ァ ィ ゥ ェ ォ written small after it. The two are read as ONE sound: フ + ァ = ファ is read fa, not fu-a."
+                },
+                "glyph": "ファ",
+                "romaji": "fa"
+              }
+            },
+            {
+              "kind": "group",
+              "card": {
+                "title": {
+                  "id": "Kelompok Fa",
+                  "en": "The Fa Group"
+                },
+                "body": {
+                  "id": "フ + huruf vokal kecil: ファ fa, フィ fi, フェ fe, フォ fo. Huruf kecilnya yang menentukan bunyi akhirnya: ァ jadi fa, ィ jadi fi, ェ jadi fe, ォ jadi fo.",
+                  "en": "フ + a small vowel letter: ファ fa, フィ fi, フェ fe, フォ fo. The small letter decides the final sound: ァ makes fa, ィ makes fi, ェ makes fe, ォ makes fo."
+                },
+                "glyph": "ファ",
+                "romaji": "fa"
+              }
+            },
+            {
+              "kind": "examples",
+              "examples": [
+                {
+                  "glyph": "ファン",
+                  "romaji": "fan",
+                  "meaning": {
+                    "id": "penggemar",
+                    "en": "fan"
+                  }
+                },
+                {
+                  "glyph": "フォーク",
+                  "romaji": "fooku",
+                  "meaning": {
+                    "id": "garpu",
+                    "en": "fork"
+                  }
+                },
+                {
+                  "glyph": "フィルム",
+                  "romaji": "firumu",
+                  "meaning": {
+                    "id": "film",
+                    "en": "film"
+                  }
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "card": {
+                "title": {
+                  "id": "Kelompok Ti dan Di",
+                  "en": "The Ti and Di Groups"
+                },
+                "body": {
+                  "id": "テ + ィ = ティ ti, dan デ + ィ = ディ di. Ada juga ト + ゥ = トゥ tu dan ド + ゥ = ドゥ du.",
+                  "en": "テ + ィ = ティ ti, and デ + ィ = ディ di. There are also ト + ゥ = トゥ tu and ド + ゥ = ドゥ du."
+                },
+                "glyph": "ティ",
+                "romaji": "ti"
+              }
+            },
+            {
+              "kind": "examples",
+              "examples": [
+                {
+                  "glyph": "パーティー",
+                  "romaji": "paatii",
+                  "meaning": {
+                    "id": "pesta",
+                    "en": "party"
+                  }
+                },
+                {
+                  "glyph": "ティー",
+                  "romaji": "tii",
+                  "meaning": {
+                    "id": "teh",
+                    "en": "tea"
+                  }
+                },
+                {
+                  "glyph": "ディスク",
+                  "romaji": "disuku",
+                  "meaning": {
+                    "id": "cakram",
+                    "en": "disc"
+                  }
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "card": {
+                "title": {
+                  "id": "Kelompok She, Che, dan Je",
+                  "en": "The She, Che, and Je Groups"
+                },
+                "body": {
+                  "id": "シ + ェ = シェ she, チ + ェ = チェ che, dan ジ + ェ = ジェ je. Perhatikan huruf dasarnya: シ untuk she, チ untuk che, ジ untuk je.",
+                  "en": "シ + ェ = シェ she, チ + ェ = チェ che, and ジ + ェ = ジェ je. Watch the base letter: シ for she, チ for che, ジ for je."
+                },
+                "glyph": "シェ",
+                "romaji": "she"
+              }
+            },
+            {
+              "kind": "examples",
+              "examples": [
+                {
+                  "glyph": "シェフ",
+                  "romaji": "shefu",
+                  "meaning": {
+                    "id": "koki",
+                    "en": "chef"
+                  }
+                },
+                {
+                  "glyph": "チェック",
+                  "romaji": "chekku",
+                  "meaning": {
+                    "id": "pemeriksaan",
+                    "en": "check"
+                  }
+                },
+                {
+                  "glyph": "ジェット",
+                  "romaji": "jetto",
+                  "meaning": {
+                    "id": "jet",
+                    "en": "jet"
+                  }
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "card": {
+                "title": {
+                  "id": "Kelompok Vu",
+                  "en": "The Vu Group"
+                },
+                "body": {
+                  "id": "ヴ adalah ウ dengan tanda dakuten, dibaca vu. Dengan huruf vokal kecil: ヴァ va, ヴィ vi, ヴェ ve, ヴォ vo.",
+                  "en": "ヴ is ウ with a dakuten mark, read vu. With small vowel letters: ヴァ va, ヴィ vi, ヴェ ve, ヴォ vo."
+                },
+                "glyph": "ヴ",
+                "romaji": "vu"
+              }
+            },
+            {
+              "kind": "examples",
+              "examples": [
+                {
+                  "glyph": "ヴァイオリン",
+                  "romaji": "vaiorin",
+                  "meaning": {
+                    "id": "biola",
+                    "en": "violin"
+                  }
+                },
+                {
+                  "glyph": "ヴォーカル",
+                  "romaji": "vookaru",
+                  "meaning": {
+                    "id": "vokal",
+                    "en": "vocal"
+                  }
+                }
+              ]
+            },
+            {
+              "kind": "contrast",
+              "card": {
+                "title": {
+                  "id": "Bukan Handakuon",
+                  "en": "Not Handakuon"
+                },
+                "body": {
+                  "id": "Bunyi tambahan TIDAK memakai handakuon. Handakuon adalah tanda lingkaran kecil ゜ pada baris ha yang membuat baris pa (パピプペポ), sudah dipelajari di Bab 6. Bunyi tambahan memakai huruf vokal kecil, bukan tanda. Jadi ファ bukan パ, dan ティ bukan tanda apa pun.",
+                  "en": "Additional sounds do NOT use handakuon. Handakuon is the small circle mark ゜ on the h-row that makes the p-row (パピプペポ), already learned in Chapter 6. Additional sounds use small vowel letters, not a mark. So ファ is not パ, and ティ is not any kind of mark."
+                },
+                "glyph": "パ",
+                "romaji": "pa"
+              }
+            },
+            {
+              "kind": "practice",
+              "question": {
+                "prompt": {
+                  "id": "Pasangan mana yang membentuk \"fe\"?",
+                  "en": "Which pair forms \"fe\"?"
+                },
+                "options": [
+                  "フ + ェ",
+                  "フ + ァ",
+                  "ハ + ェ",
+                  "フ + ー"
+                ],
+                "answer": "フ + ェ",
+                "explanation": {
+                  "id": "fe = フ + ェ kecil. ァ jadi fa, bukan fe.",
+                  "en": "fe is フ + small ェ. ァ makes fa, not fe."
+                }
+              }
+            },
+            {
+              "kind": "practice",
+              "question": {
+                "prompt": {
+                  "id": "Huruf mana yang berbunyi \"she\"?",
+                  "en": "Which letters read \"she\"?"
+                },
+                "options": [
+                  "シェ",
+                  "シヱ",
+                  "セ",
+                  "シャ"
+                ],
+                "answer": "シェ",
+                "explanation": {
+                  "id": "she = シ + ェ kecil. シャ dibaca sha, bunyi lain.",
+                  "en": "she is シ + small ェ. シャ is read sha, a different sound."
+                }
+              }
+            },
+            {
+              "kind": "practice",
+              "question": {
+                "prompt": {
+                  "id": "Kata フォーク berarti...",
+                  "en": "What does the word フォーク mean?"
+                },
+                "options": [
+                  "garpu",
+                  "pesta",
+                  "penggemar",
+                  "film"
+                ],
+                "answer": "garpu",
+                "explanation": {
+                  "id": "フォーク (fooku) artinya garpu. Pesta adalah パーティー.",
+                  "en": "フォーク (fooku) means fork. Party is パーティー."
+                }
+              }
+            },
+            {
+              "kind": "practice",
+              "question": {
+                "prompt": {
+                  "id": "Bunyi apa ini?",
+                  "en": "What sound is this?"
+                },
+                "options": [
+                  "vu",
+                  "u",
+                  "bu",
+                  "fu"
+                ],
+                "answer": "vu",
+                "explanation": {
+                  "id": "ヴ adalah ウ dengan dakuten, dibaca vu. Bukan u biasa.",
+                  "en": "ヴ is ウ with a dakuten mark, read vu. Not a plain u."
+                },
+                "glyph": "ヴ"
+              }
+            },
+            {
+              "kind": "practice",
+              "question": {
+                "prompt": {
+                  "id": "Kata パーティー dibaca...",
+                  "en": "The word パーティー is read..."
+                },
+                "options": [
+                  "paatii",
+                  "patei",
+                  "patii",
+                  "hatii"
+                ],
+                "answer": "paatii",
+                "explanation": {
+                  "id": "パー panjang (pa-a) + ティ (ti) = paatii.",
+                  "en": "Long パー (pa-a) + ティ (ti) gives paatii."
+                }
+              }
+            },
+            {
+              "kind": "quiz",
+              "question": {
+                "prompt": {
+                  "id": "Bunyi apa ini?",
+                  "en": "What sound is this?"
+                },
+                "options": [
+                  "fa",
+                  "fu a",
+                  "ha",
+                  "fua"
+                ],
+                "answer": "fa",
+                "explanation": {
+                  "id": "ファ adalah satu bunyi fa, bukan fu + a.",
+                  "en": "ファ is a single sound fa, not fu + a."
+                },
+                "glyph": "ファ"
+              }
+            },
+            {
+              "kind": "quiz",
+              "question": {
+                "prompt": {
+                  "id": "Bunyi apa ini?",
+                  "en": "What sound is this?"
+                },
+                "options": [
+                  "ti",
+                  "te i",
+                  "chi",
+                  "tei"
+                ],
+                "answer": "ti",
+                "explanation": {
+                  "id": "ティ adalah satu bunyi ti: テ + ィ kecil.",
+                  "en": "ティ is a single sound ti: テ + small ィ."
+                },
+                "glyph": "ティ"
+              }
+            },
+            {
+              "kind": "quiz",
+              "question": {
+                "prompt": {
+                  "id": "Pasangan mana yang membentuk \"je\"?",
+                  "en": "Which pair forms \"je\"?"
+                },
+                "options": [
+                  "ジ + ェ",
+                  "ジ + ァ",
+                  "シ + ェ",
+                  "ジ + ー"
+                ],
+                "answer": "ジ + ェ",
+                "explanation": {
+                  "id": "je = ジ + ェ kecil. シ + ェ jadi she, bukan je.",
+                  "en": "je is ジ + small ェ. シ + ェ makes she, not je."
+                }
+              }
+            },
+            {
+              "kind": "quiz",
+              "question": {
+                "prompt": {
+                  "id": "Bunyi tambahan dibentuk dengan...",
+                  "en": "Additional sounds are formed with..."
+                },
+                "options": [
+                  "huruf vokal kecil ァィゥェォ",
+                  "tanda handakuon ゜",
+                  "tanda ー",
+                  "huruf っ"
+                ],
+                "answer": "huruf vokal kecil ァィゥェォ",
+                "explanation": {
+                  "id": "Bunyi tambahan memakai huruf vokal kecil, bukan tanda apa pun.",
+                  "en": "Additional sounds use small vowel letters, not any mark."
+                }
               }
             }
           ]
@@ -1834,19 +4964,35 @@
                 "en": "Small っ Doubles the Next Consonant"
               },
               "body": {
-                "id": "Huruf っ adalah つ yang ditulis kecil, disebut sokuon. Ia TIDAK dibaca \"tsu\": ia menahan bunyi selama satu mora lalu menggandakan konsonan huruf berikutnya. Contoh: きって (kitte) dibaca ki-t-te, berbeda dari きて (kite).",
-                "en": "The letter っ is a small つ, called sokuon. It is NOT read \"tsu\": it holds the sound for one mora and doubles the consonant of the next letter. Example: きって (kitte) is read ki-t-te, unlike きて (kite)."
-              }
+                "id": "Huruf っ adalah つ yang ditulis kecil, disebut sokuon. Ia TIDAK dibaca \"tsu\": ia menahan bunyi selama satu ketukan, lalu menggandakan konsonan huruf berikutnya. Bandingkan: きて (kite, datang) dan きって (kitte, perangko). Bedanya hanya っ kecil itu.",
+                "en": "The letter っ is a small つ, called sokuon. It is NOT read \"tsu\": it holds the sound for one beat, then doubles the consonant of the next letter. Compare: きて (kite, to come) and きって (kitte, postage stamp). Only that small っ differs."
+              },
+              "glyph": "きって",
+              "romaji": "kitte"
             },
             {
               "title": {
-                "id": "Satu Mora Jeda",
-                "en": "One Mora of Pause"
+                "id": "Satu Ketukan Jeda",
+                "en": "One Beat of Pause"
               },
               "body": {
-                "id": "Sokuon dihitung satu mora penuh, seperti jeda kecil sebelum konsonan berikutnya. Di romaji, ia ditulis sebagai konsonan ganda: がっこう (gakkou, sekolah) dan ずっと (zutto, selalu).",
-                "en": "Sokuon counts as one full mora, like a small pause before the next consonant. In romaji it is written as a doubled consonant: がっこう (gakkou, school) and ずっと (zutto, always)."
-              }
+                "id": "Sokuon dihitung satu mora, yaitu satu ketukan bunyi penuh, seperti jeda kecil sebelum konsonan berikutnya. Di romaji, ia ditulis sebagai konsonan ganda: がっこう (gakkou, sekolah) dan ずっと (zutto, selalu).",
+                "en": "Sokuon counts as one mora, that is, one full sound beat, like a small pause before the next consonant. In romaji it is written as a doubled consonant: がっこう (gakkou, school) and ずっと (zutto, always)."
+              },
+              "glyph": "がっこう",
+              "romaji": "gakkou"
+            },
+            {
+              "title": {
+                "id": "っ Kecil, Bukan つ Besar",
+                "en": "Small っ, Not Big つ"
+              },
+              "body": {
+                "id": "つ yang besar dibaca tsu sebagai bunyi penuh, misalnya つくえ (tsukue, meja). っ yang kecil tidak dibaca sendiri: ia hanya jeda yang menggandakan konsonan berikutnya. Lihat ukurannya: っ kecil, つ besar.",
+                "en": "A full-size つ is read tsu as a full sound, for example つくえ (tsukue, desk). A small っ is not read on its own: it is only a pause that doubles the next consonant. Look at the size: っ is small, つ is big."
+              },
+              "glyph": "つ",
+              "romaji": "tsu"
             }
           ],
           "quiz": [
@@ -1861,7 +5007,28 @@
                 "su",
                 "chi"
               ],
-              "answer": "jeda satu mora yang menggandakan konsonan berikutnya"
+              "answer": "jeda satu mora yang menggandakan konsonan berikutnya",
+              "explanation": {
+                "id": "っ bukan bunyi sendiri. Ia jeda satu ketukan yang menggandakan konsonan berikutnya.",
+                "en": "っ is not a sound of its own. It is a one-beat pause that doubles the next consonant."
+              }
+            },
+            {
+              "prompt": {
+                "id": "Kata mana yang mengandung sokuon?",
+                "en": "Which word contains a sokuon?"
+              },
+              "options": [
+                "がっこう",
+                "がこう",
+                "さくら",
+                "がく"
+              ],
+              "answer": "がっこう",
+              "explanation": {
+                "id": "がっこう punya っ kecil di tengah. Yang lain tidak punya huruf kecil itu.",
+                "en": "がっこう has a small っ in the middle. The others do not have that small letter."
+              }
             },
             {
               "prompt": {
@@ -1874,20 +5041,11 @@
                 "tanda apostrof",
                 "huruf x"
               ],
-              "answer": "konsonan ganda"
-            },
-            {
-              "prompt": {
-                "id": "Kata mana yang mengandung sokuon?",
-                "en": "Which word contains a sokuon?"
-              },
-              "options": [
-                "がっこう",
-                "がこう",
-                "かっこ tanpa jeda",
-                "がく"
-              ],
-              "answer": "がっこう"
+              "answer": "konsonan ganda",
+              "explanation": {
+                "id": "Sokuon jadi konsonan ganda di romaji: がっこう = gakkou.",
+                "en": "Sokuon becomes a doubled consonant in romaji: がっこう = gakkou."
+              }
             },
             {
               "prompt": {
@@ -1898,9 +5056,13 @@
                 "satu mora",
                 "tidak dihitung",
                 "dua mora",
-                "satu suku kata terpisah dibaca tsu"
+                "setengah mora"
               ],
-              "answer": "satu mora"
+              "answer": "satu mora",
+              "explanation": {
+                "id": "Sokuon dihitung satu mora, satu ketukan bunyi penuh.",
+                "en": "Sokuon counts as one mora, one full sound beat."
+              }
             }
           ],
           "practice": [
@@ -1915,33 +5077,11 @@
                 "kitsute",
                 "kitete"
               ],
-              "answer": "kitte"
-            },
-            {
-              "prompt": {
-                "id": "Kata mana yang berarti \"selalu\"?",
-                "en": "Which word means \"always\"?"
-              },
-              "options": [
-                "ずっと",
-                "ずと",
-                "すっと dibaca sutto saja",
-                "ずうと"
-              ],
-              "answer": "ずっと"
-            },
-            {
-              "prompt": {
-                "id": "Pasangan kata mana yang berbeda arti karena sokuon?",
-                "en": "Which word pair differs in meaning because of sokuon?"
-              },
-              "options": [
-                "きて / きって",
-                "きて / きで",
-                "あい / あう",
-                "か / が"
-              ],
-              "answer": "きて / きって"
+              "answer": "kitte",
+              "explanation": {
+                "id": "っ menggandakan t, jadi ki-t-te: kitte. Tanpa っ, jadinya kite.",
+                "en": "っ doubles the t, so ki-t-te: kitte. Without っ it would be kite."
+              }
             },
             {
               "prompt": {
@@ -1954,7 +5094,45 @@
                 "motsuto",
                 "mooto"
               ],
-              "answer": "motto"
+              "answer": "motto",
+              "explanation": {
+                "id": "っ menggandakan t: mo-t-to, motto. っ sendiri tidak dibaca tsu.",
+                "en": "っ doubles the t: mo-t-to, motto. っ on its own is never read tsu."
+              }
+            },
+            {
+              "prompt": {
+                "id": "Kata mana yang berarti \"selalu\"?",
+                "en": "Which word means \"always\"?"
+              },
+              "options": [
+                "ずっと",
+                "ずと",
+                "きっと",
+                "ずうと"
+              ],
+              "answer": "ずっと",
+              "explanation": {
+                "id": "ずっと (zutto) artinya selalu. きっと artinya pasti, bukan selalu.",
+                "en": "ずっと (zutto) means always. きっと means surely, not always."
+              }
+            },
+            {
+              "prompt": {
+                "id": "Pasangan kata mana yang berbeda arti karena sokuon?",
+                "en": "Which word pair differs in meaning because of sokuon?"
+              },
+              "options": [
+                "きて / きって",
+                "きて / きで",
+                "あい / あう",
+                "か / が"
+              ],
+              "answer": "きて / きって",
+              "explanation": {
+                "id": "きて (kite, datang) dan きって (kitte, perangko) hanya beda っ kecilnya.",
+                "en": "きて (kite, to come) and きって (kitte, stamp) differ only by the small っ."
+              }
             }
           ],
           "examples": [
@@ -1981,6 +5159,279 @@
                 "id": "pasti",
                 "en": "surely"
               }
+            },
+            {
+              "glyph": "もっと",
+              "romaji": "motto",
+              "meaning": {
+                "id": "lebih",
+                "en": "more"
+              }
+            },
+            {
+              "glyph": "きっぷ",
+              "romaji": "kippu",
+              "meaning": {
+                "id": "tiket",
+                "en": "ticket"
+              }
+            }
+          ],
+          "stages": [
+            {
+              "kind": "concept",
+              "card": {
+                "title": {
+                  "id": "っ Kecil Menggandakan Konsonan",
+                  "en": "Small っ Doubles the Next Consonant"
+                },
+                "body": {
+                  "id": "Huruf っ adalah つ yang ditulis kecil, disebut sokuon. Ia TIDAK dibaca \"tsu\": ia menahan bunyi selama satu ketukan, lalu menggandakan konsonan huruf berikutnya. Bandingkan: きて (kite, datang) dan きって (kitte, perangko). Bedanya hanya っ kecil itu.",
+                  "en": "The letter っ is a small つ, called sokuon. It is NOT read \"tsu\": it holds the sound for one beat, then doubles the consonant of the next letter. Compare: きて (kite, to come) and きって (kitte, postage stamp). Only that small っ differs."
+                },
+                "glyph": "きって",
+                "romaji": "kitte"
+              }
+            },
+            {
+              "kind": "examples",
+              "examples": [
+                {
+                  "glyph": "がっこう",
+                  "romaji": "gakkou",
+                  "meaning": {
+                    "id": "sekolah",
+                    "en": "school"
+                  }
+                },
+                {
+                  "glyph": "ずっと",
+                  "romaji": "zutto",
+                  "meaning": {
+                    "id": "selalu",
+                    "en": "always"
+                  }
+                },
+                {
+                  "glyph": "きっと",
+                  "romaji": "kitto",
+                  "meaning": {
+                    "id": "pasti",
+                    "en": "surely"
+                  }
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "card": {
+                "title": {
+                  "id": "Satu Ketukan Jeda",
+                  "en": "One Beat of Pause"
+                },
+                "body": {
+                  "id": "Sokuon dihitung satu mora, yaitu satu ketukan bunyi penuh, seperti jeda kecil sebelum konsonan berikutnya. Di romaji, ia ditulis sebagai konsonan ganda: がっこう (gakkou, sekolah) dan ずっと (zutto, selalu).",
+                  "en": "Sokuon counts as one mora, that is, one full sound beat, like a small pause before the next consonant. In romaji it is written as a doubled consonant: がっこう (gakkou, school) and ずっと (zutto, always)."
+                },
+                "glyph": "がっこう",
+                "romaji": "gakkou"
+              }
+            },
+            {
+              "kind": "examples",
+              "examples": [
+                {
+                  "glyph": "もっと",
+                  "romaji": "motto",
+                  "meaning": {
+                    "id": "lebih",
+                    "en": "more"
+                  }
+                },
+                {
+                  "glyph": "きっぷ",
+                  "romaji": "kippu",
+                  "meaning": {
+                    "id": "tiket",
+                    "en": "ticket"
+                  }
+                }
+              ]
+            },
+            {
+              "kind": "contrast",
+              "card": {
+                "title": {
+                  "id": "っ Kecil, Bukan つ Besar",
+                  "en": "Small っ, Not Big つ"
+                },
+                "body": {
+                  "id": "つ yang besar dibaca tsu sebagai bunyi penuh, misalnya つくえ (tsukue, meja). っ yang kecil tidak dibaca sendiri: ia hanya jeda yang menggandakan konsonan berikutnya. Lihat ukurannya: っ kecil, つ besar.",
+                  "en": "A full-size つ is read tsu as a full sound, for example つくえ (tsukue, desk). A small っ is not read on its own: it is only a pause that doubles the next consonant. Look at the size: っ is small, つ is big."
+                },
+                "glyph": "つ",
+                "romaji": "tsu"
+              }
+            },
+            {
+              "kind": "practice",
+              "question": {
+                "prompt": {
+                  "id": "Kata きって dibaca...",
+                  "en": "The word きって is read..."
+                },
+                "options": [
+                  "kitte",
+                  "kite",
+                  "kitsute",
+                  "kitete"
+                ],
+                "answer": "kitte",
+                "explanation": {
+                  "id": "っ menggandakan t, jadi ki-t-te: kitte. Tanpa っ, jadinya kite.",
+                  "en": "っ doubles the t, so ki-t-te: kitte. Without っ it would be kite."
+                }
+              }
+            },
+            {
+              "kind": "practice",
+              "question": {
+                "prompt": {
+                  "id": "Kata もっと dibaca...",
+                  "en": "The word もっと is read..."
+                },
+                "options": [
+                  "motto",
+                  "moto",
+                  "motsuto",
+                  "mooto"
+                ],
+                "answer": "motto",
+                "explanation": {
+                  "id": "っ menggandakan t: mo-t-to, motto. っ sendiri tidak dibaca tsu.",
+                  "en": "っ doubles the t: mo-t-to, motto. っ on its own is never read tsu."
+                }
+              }
+            },
+            {
+              "kind": "practice",
+              "question": {
+                "prompt": {
+                  "id": "Kata mana yang berarti \"selalu\"?",
+                  "en": "Which word means \"always\"?"
+                },
+                "options": [
+                  "ずっと",
+                  "ずと",
+                  "きっと",
+                  "ずうと"
+                ],
+                "answer": "ずっと",
+                "explanation": {
+                  "id": "ずっと (zutto) artinya selalu. きっと artinya pasti, bukan selalu.",
+                  "en": "ずっと (zutto) means always. きっと means surely, not always."
+                }
+              }
+            },
+            {
+              "kind": "practice",
+              "question": {
+                "prompt": {
+                  "id": "Pasangan kata mana yang berbeda arti karena sokuon?",
+                  "en": "Which word pair differs in meaning because of sokuon?"
+                },
+                "options": [
+                  "きて / きって",
+                  "きて / きで",
+                  "あい / あう",
+                  "か / が"
+                ],
+                "answer": "きて / きって",
+                "explanation": {
+                  "id": "きて (kite, datang) dan きって (kitte, perangko) hanya beda っ kecilnya.",
+                  "en": "きて (kite, to come) and きって (kitte, stamp) differ only by the small っ."
+                }
+              }
+            },
+            {
+              "kind": "quiz",
+              "question": {
+                "prompt": {
+                  "id": "Huruf っ dibaca sebagai...",
+                  "en": "The letter っ is read as..."
+                },
+                "options": [
+                  "jeda satu mora yang menggandakan konsonan berikutnya",
+                  "tsu",
+                  "su",
+                  "chi"
+                ],
+                "answer": "jeda satu mora yang menggandakan konsonan berikutnya",
+                "explanation": {
+                  "id": "っ bukan bunyi sendiri. Ia jeda satu ketukan yang menggandakan konsonan berikutnya.",
+                  "en": "っ is not a sound of its own. It is a one-beat pause that doubles the next consonant."
+                }
+              }
+            },
+            {
+              "kind": "quiz",
+              "question": {
+                "prompt": {
+                  "id": "Kata mana yang mengandung sokuon?",
+                  "en": "Which word contains a sokuon?"
+                },
+                "options": [
+                  "がっこう",
+                  "がこう",
+                  "さくら",
+                  "がく"
+                ],
+                "answer": "がっこう",
+                "explanation": {
+                  "id": "がっこう punya っ kecil di tengah. Yang lain tidak punya huruf kecil itu.",
+                  "en": "がっこう has a small っ in the middle. The others do not have that small letter."
+                }
+              }
+            },
+            {
+              "kind": "quiz",
+              "question": {
+                "prompt": {
+                  "id": "Di romaji, sokuon ditulis sebagai...",
+                  "en": "In romaji, sokuon is written as..."
+                },
+                "options": [
+                  "konsonan ganda",
+                  "huruf t kecil",
+                  "tanda apostrof",
+                  "huruf x"
+                ],
+                "answer": "konsonan ganda",
+                "explanation": {
+                  "id": "Sokuon jadi konsonan ganda di romaji: がっこう = gakkou.",
+                  "en": "Sokuon becomes a doubled consonant in romaji: がっこう = gakkou."
+                }
+              }
+            },
+            {
+              "kind": "quiz",
+              "question": {
+                "prompt": {
+                  "id": "Sokuon dihitung sebagai...",
+                  "en": "Sokuon counts as..."
+                },
+                "options": [
+                  "satu mora",
+                  "tidak dihitung",
+                  "dua mora",
+                  "setengah mora"
+                ],
+                "answer": "satu mora",
+                "explanation": {
+                  "id": "Sokuon dihitung satu mora, satu ketukan bunyi penuh.",
+                  "en": "Sokuon counts as one mora, one full sound beat."
+                }
+              }
             }
           ]
         },
@@ -2006,9 +5457,23 @@
                 "en": "ッ in Borrowed Words"
               },
               "body": {
-                "id": "Di katakana, sokuon ditulis ッ kecil dan bekerja persis seperti っ: jeda satu mora yang menggandakan konsonan berikutnya. Ia sangat sering muncul di kata serapan, misalnya ベッド (beddo, tempat tidur).",
-                "en": "In katakana, sokuon is written as a small ッ and works exactly like っ: a one-mora pause that doubles the next consonant. It appears very often in borrowed words, for example ベッド (beddo, bed)."
-              }
+                "id": "Di katakana, sokuon ditulis ッ kecil dan bekerja persis seperti っ: jeda satu ketukan yang menggandakan konsonan berikutnya. Ia sangat sering muncul di kata serapan, misalnya ベッド (beddo, tempat tidur).",
+                "en": "In katakana, sokuon is written as a small ッ and works exactly like っ: a one-beat pause that doubles the next consonant. It appears very often in borrowed words, for example ベッド (beddo, bed)."
+              },
+              "glyph": "ベッド",
+              "romaji": "beddo"
+            },
+            {
+              "title": {
+                "id": "Ditulis sebagai Konsonan Ganda",
+                "en": "Written as a Doubled Consonant"
+              },
+              "body": {
+                "id": "Seperti っ, ッ dihitung satu mora, yaitu satu ketukan bunyi. Di romaji ia ditulis sebagai konsonan ganda: カップ (kappu, cangkir) dan ネット (netto, internet).",
+                "en": "Like っ, ッ counts as one mora, one sound beat. In romaji it is written as a doubled consonant: カップ (kappu, cup) and ネット (netto, internet)."
+              },
+              "glyph": "カップ",
+              "romaji": "kappu"
             },
             {
               "title": {
@@ -2016,9 +5481,11 @@
                 "en": "Do Not Confuse It with a Full-Size ツ"
               },
               "body": {
-                "id": "ッ selalu ditulis kecil. ツ yang besar dibaca \"tsu\" sebagai bunyi penuh, sedangkan ッ kecil tidak dibaca sendiri. Contoh: ネット (netto, internet) memakai ッ kecil.",
-                "en": "ッ is always written small. A full-size ツ is read \"tsu\" as a full sound, while the small ッ is not read on its own. Example: ネット (netto, internet) uses a small ッ."
-              }
+                "id": "ッ selalu ditulis kecil. ツ yang besar dibaca tsu sebagai bunyi penuh, sedangkan ッ kecil tidak dibaca sendiri. Contoh: ネット (netto, internet) memakai ッ kecil, bukan ツ.",
+                "en": "ッ is always written small. A full-size ツ is read tsu as a full sound, while the small ッ is not read on its own. Example: ネット (netto, internet) uses a small ッ, not ツ."
+              },
+              "glyph": "ツ",
+              "romaji": "tsu"
             }
           ],
           "quiz": [
@@ -2033,7 +5500,11 @@
                 "su",
                 "te"
               ],
-              "answer": "jeda satu mora yang menggandakan konsonan berikutnya"
+              "answer": "jeda satu mora yang menggandakan konsonan berikutnya",
+              "explanation": {
+                "id": "ッ bukan bunyi sendiri. Ia jeda satu ketukan yang menggandakan konsonan berikutnya.",
+                "en": "ッ is not a sound of its own. It is a one-beat pause that doubles the next consonant."
+              }
             },
             {
               "prompt": {
@@ -2043,10 +5514,14 @@
               "options": [
                 "ベッド",
                 "ベド",
-                "ベツド dibaca betsudu",
-                "ベー"
+                "ベル",
+                "カメ"
               ],
-              "answer": "ベッド"
+              "answer": "ベッド",
+              "explanation": {
+                "id": "ベッド punya ッ kecil di tengah. Yang lain tidak punya huruf kecil itu.",
+                "en": "ベッド has a small ッ in the middle. The others do not have that small letter."
+              }
             },
             {
               "prompt": {
@@ -2054,12 +5529,16 @@
                 "en": "Small ッ differs from full-size ツ because..."
               },
               "options": [
-                "ッ tidak dibaca sendiri",
-                "ッ dibaca tsu dua kali",
+                "ッ hanya jeda, bukan bunyi",
+                "ッ berbunyi tsu dua kali",
                 "ツ adalah tanda baca",
                 "keduanya sama persis"
               ],
-              "answer": "ッ tidak dibaca sendiri"
+              "answer": "ッ hanya jeda, bukan bunyi",
+              "explanation": {
+                "id": "ツ besar dibaca tsu, sedangkan ッ kecil hanya jeda dan bukan bunyi sendiri.",
+                "en": "A big ツ is read tsu, while a small ッ is only a pause, not a sound of its own."
+              }
             },
             {
               "prompt": {
@@ -2072,7 +5551,11 @@
                 "tanda seru",
                 "huruf tsu"
               ],
-              "answer": "konsonan ganda"
+              "answer": "konsonan ganda",
+              "explanation": {
+                "id": "Sokuon jadi konsonan ganda di romaji: ベッド = beddo.",
+                "en": "Sokuon becomes a doubled consonant in romaji: ベッド = beddo."
+              }
             }
           ],
           "practice": [
@@ -2087,7 +5570,11 @@
                 "katsupu",
                 "kaapu"
               ],
-              "answer": "kappu"
+              "answer": "kappu",
+              "explanation": {
+                "id": "ッ menggandakan p: ka-p-pu, kappu. Tanpa ッ, jadinya kapu.",
+                "en": "ッ doubles the p: ka-p-pu, kappu. Without ッ it would be kapu."
+              }
             },
             {
               "prompt": {
@@ -2100,7 +5587,11 @@
                 "netsuto",
                 "neeto"
               ],
-              "answer": "netto"
+              "answer": "netto",
+              "explanation": {
+                "id": "ッ menggandakan t: ne-t-to, netto. ッ sendiri tidak dibaca tsu.",
+                "en": "ッ doubles the t: ne-t-to, netto. ッ on its own is never read tsu."
+              }
             },
             {
               "prompt": {
@@ -2113,7 +5604,11 @@
                 "チケート",
                 "チツケト"
               ],
-              "answer": "チケット"
+              "answer": "チケット",
+              "explanation": {
+                "id": "チケット (chiketto) artinya tiket. Perhatikan ッ kecil di tengahnya.",
+                "en": "チケット (chiketto) means ticket. Notice the small ッ in the middle."
+              }
             },
             {
               "prompt": {
@@ -2126,7 +5621,11 @@
                 "betsudo",
                 "beedo"
               ],
-              "answer": "beddo"
+              "answer": "beddo",
+              "explanation": {
+                "id": "ッ menggandakan d: be-d-do, beddo.",
+                "en": "ッ doubles the d: be-d-do, beddo."
+              }
             }
           ],
           "examples": [
@@ -2152,6 +5651,279 @@
               "meaning": {
                 "id": "internet",
                 "en": "internet"
+              }
+            },
+            {
+              "glyph": "チケット",
+              "romaji": "chiketto",
+              "meaning": {
+                "id": "tiket",
+                "en": "ticket"
+              }
+            },
+            {
+              "glyph": "マッチ",
+              "romaji": "matchi",
+              "meaning": {
+                "id": "korek api",
+                "en": "match"
+              }
+            }
+          ],
+          "stages": [
+            {
+              "kind": "concept",
+              "card": {
+                "title": {
+                  "id": "ッ di Kata Serapan",
+                  "en": "ッ in Borrowed Words"
+                },
+                "body": {
+                  "id": "Di katakana, sokuon ditulis ッ kecil dan bekerja persis seperti っ: jeda satu ketukan yang menggandakan konsonan berikutnya. Ia sangat sering muncul di kata serapan, misalnya ベッド (beddo, tempat tidur).",
+                  "en": "In katakana, sokuon is written as a small ッ and works exactly like っ: a one-beat pause that doubles the next consonant. It appears very often in borrowed words, for example ベッド (beddo, bed)."
+                },
+                "glyph": "ベッド",
+                "romaji": "beddo"
+              }
+            },
+            {
+              "kind": "examples",
+              "examples": [
+                {
+                  "glyph": "ベッド",
+                  "romaji": "beddo",
+                  "meaning": {
+                    "id": "tempat tidur",
+                    "en": "bed"
+                  }
+                },
+                {
+                  "glyph": "カップ",
+                  "romaji": "kappu",
+                  "meaning": {
+                    "id": "cangkir",
+                    "en": "cup"
+                  }
+                },
+                {
+                  "glyph": "ネット",
+                  "romaji": "netto",
+                  "meaning": {
+                    "id": "internet",
+                    "en": "internet"
+                  }
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "card": {
+                "title": {
+                  "id": "Ditulis sebagai Konsonan Ganda",
+                  "en": "Written as a Doubled Consonant"
+                },
+                "body": {
+                  "id": "Seperti っ, ッ dihitung satu mora, yaitu satu ketukan bunyi. Di romaji ia ditulis sebagai konsonan ganda: カップ (kappu, cangkir) dan ネット (netto, internet).",
+                  "en": "Like っ, ッ counts as one mora, one sound beat. In romaji it is written as a doubled consonant: カップ (kappu, cup) and ネット (netto, internet)."
+                },
+                "glyph": "カップ",
+                "romaji": "kappu"
+              }
+            },
+            {
+              "kind": "examples",
+              "examples": [
+                {
+                  "glyph": "チケット",
+                  "romaji": "chiketto",
+                  "meaning": {
+                    "id": "tiket",
+                    "en": "ticket"
+                  }
+                },
+                {
+                  "glyph": "マッチ",
+                  "romaji": "matchi",
+                  "meaning": {
+                    "id": "korek api",
+                    "en": "match"
+                  }
+                }
+              ]
+            },
+            {
+              "kind": "contrast",
+              "card": {
+                "title": {
+                  "id": "Jangan Tertukar dengan ツ Besar",
+                  "en": "Do Not Confuse It with a Full-Size ツ"
+                },
+                "body": {
+                  "id": "ッ selalu ditulis kecil. ツ yang besar dibaca tsu sebagai bunyi penuh, sedangkan ッ kecil tidak dibaca sendiri. Contoh: ネット (netto, internet) memakai ッ kecil, bukan ツ.",
+                  "en": "ッ is always written small. A full-size ツ is read tsu as a full sound, while the small ッ is not read on its own. Example: ネット (netto, internet) uses a small ッ, not ツ."
+                },
+                "glyph": "ツ",
+                "romaji": "tsu"
+              }
+            },
+            {
+              "kind": "practice",
+              "question": {
+                "prompt": {
+                  "id": "Kata カップ dibaca...",
+                  "en": "The word カップ is read..."
+                },
+                "options": [
+                  "kappu",
+                  "kapu",
+                  "katsupu",
+                  "kaapu"
+                ],
+                "answer": "kappu",
+                "explanation": {
+                  "id": "ッ menggandakan p: ka-p-pu, kappu. Tanpa ッ, jadinya kapu.",
+                  "en": "ッ doubles the p: ka-p-pu, kappu. Without ッ it would be kapu."
+                }
+              }
+            },
+            {
+              "kind": "practice",
+              "question": {
+                "prompt": {
+                  "id": "Kata ネット dibaca...",
+                  "en": "The word ネット is read..."
+                },
+                "options": [
+                  "netto",
+                  "neto",
+                  "netsuto",
+                  "neeto"
+                ],
+                "answer": "netto",
+                "explanation": {
+                  "id": "ッ menggandakan t: ne-t-to, netto. ッ sendiri tidak dibaca tsu.",
+                  "en": "ッ doubles the t: ne-t-to, netto. ッ on its own is never read tsu."
+                }
+              }
+            },
+            {
+              "kind": "practice",
+              "question": {
+                "prompt": {
+                  "id": "Kata mana yang berarti \"tiket\"?",
+                  "en": "Which word means \"ticket\"?"
+                },
+                "options": [
+                  "チケット",
+                  "チケト",
+                  "チケート",
+                  "チツケト"
+                ],
+                "answer": "チケット",
+                "explanation": {
+                  "id": "チケット (chiketto) artinya tiket. Perhatikan ッ kecil di tengahnya.",
+                  "en": "チケット (chiketto) means ticket. Notice the small ッ in the middle."
+                }
+              }
+            },
+            {
+              "kind": "practice",
+              "question": {
+                "prompt": {
+                  "id": "Kata ベッド dibaca...",
+                  "en": "The word ベッド is read..."
+                },
+                "options": [
+                  "beddo",
+                  "bedo",
+                  "betsudo",
+                  "beedo"
+                ],
+                "answer": "beddo",
+                "explanation": {
+                  "id": "ッ menggandakan d: be-d-do, beddo.",
+                  "en": "ッ doubles the d: be-d-do, beddo."
+                }
+              }
+            },
+            {
+              "kind": "quiz",
+              "question": {
+                "prompt": {
+                  "id": "Huruf ッ dibaca sebagai...",
+                  "en": "The letter ッ is read as..."
+                },
+                "options": [
+                  "jeda satu mora yang menggandakan konsonan berikutnya",
+                  "tsu",
+                  "su",
+                  "te"
+                ],
+                "answer": "jeda satu mora yang menggandakan konsonan berikutnya",
+                "explanation": {
+                  "id": "ッ bukan bunyi sendiri. Ia jeda satu ketukan yang menggandakan konsonan berikutnya.",
+                  "en": "ッ is not a sound of its own. It is a one-beat pause that doubles the next consonant."
+                }
+              }
+            },
+            {
+              "kind": "quiz",
+              "question": {
+                "prompt": {
+                  "id": "Kata mana yang mengandung sokuon?",
+                  "en": "Which word contains a sokuon?"
+                },
+                "options": [
+                  "ベッド",
+                  "ベド",
+                  "ベル",
+                  "カメ"
+                ],
+                "answer": "ベッド",
+                "explanation": {
+                  "id": "ベッド punya ッ kecil di tengah. Yang lain tidak punya huruf kecil itu.",
+                  "en": "ベッド has a small ッ in the middle. The others do not have that small letter."
+                }
+              }
+            },
+            {
+              "kind": "quiz",
+              "question": {
+                "prompt": {
+                  "id": "ッ kecil berbeda dari ツ besar karena...",
+                  "en": "Small ッ differs from full-size ツ because..."
+                },
+                "options": [
+                  "ッ hanya jeda, bukan bunyi",
+                  "ッ berbunyi tsu dua kali",
+                  "ツ adalah tanda baca",
+                  "keduanya sama persis"
+                ],
+                "answer": "ッ hanya jeda, bukan bunyi",
+                "explanation": {
+                  "id": "ツ besar dibaca tsu, sedangkan ッ kecil hanya jeda dan bukan bunyi sendiri.",
+                  "en": "A big ツ is read tsu, while a small ッ is only a pause, not a sound of its own."
+                }
+              }
+            },
+            {
+              "kind": "quiz",
+              "question": {
+                "prompt": {
+                  "id": "Di romaji, ッ ditulis sebagai...",
+                  "en": "In romaji, ッ is written as..."
+                },
+                "options": [
+                  "konsonan ganda",
+                  "huruf q",
+                  "tanda seru",
+                  "huruf tsu"
+                ],
+                "answer": "konsonan ganda",
+                "explanation": {
+                  "id": "Sokuon jadi konsonan ganda di romaji: ベッド = beddo.",
+                  "en": "Sokuon becomes a doubled consonant in romaji: ベッド = beddo."
+                }
               }
             }
           ]

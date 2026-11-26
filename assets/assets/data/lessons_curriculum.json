@@ -2239,7 +2239,7 @@
                 "menyatu dengan huruf sebelumnya",
                 "terpisah sebagai ya yu yo",
                 "tidak dibaca sama sekali",
-                "sebagai n"
+                "dibaca dua ketukan"
               ],
               "answer": "menyatu dengan huruf sebelumnya",
               "explanation": {
@@ -2844,7 +2844,7 @@
                   "menyatu dengan huruf sebelumnya",
                   "terpisah sebagai ya yu yo",
                   "tidak dibaca sama sekali",
-                  "sebagai n"
+                  "dibaca dua ketukan"
                 ],
                 "answer": "menyatu dengan huruf sebelumnya",
                 "explanation": {
@@ -4532,8 +4532,8 @@
                 "en": "Not Handakuon"
               },
               "body": {
-                "id": "Bunyi tambahan TIDAK memakai handakuon. Handakuon adalah tanda lingkaran kecil ゜ pada baris ha yang membuat baris pa (パピプペポ), sudah dipelajari di Bab 6. Bunyi tambahan memakai huruf vokal kecil, bukan tanda. Jadi ファ bukan パ, dan ティ bukan tanda apa pun.",
-                "en": "Additional sounds do NOT use handakuon. Handakuon is the small circle mark ゜ on the h-row that makes the p-row (パピプペポ), already learned in Chapter 6. Additional sounds use small vowel letters, not a mark. So ファ is not パ, and ティ is not any kind of mark."
+                "id": "Bunyi tambahan TIDAK memakai handakuon. Handakuten adalah tanda lingkaran kecil ゜ pada baris ha yang membuat baris pa (パピプペポ), sudah dipelajari di Bab 6. Bunyi tambahan memakai huruf vokal kecil, bukan tanda. Jadi ファ bukan パ, dan ティ bukan tanda apa pun.",
+                "en": "Additional sounds do NOT use handakuon. Handakuten is the small circle mark ゜ on the h-row that makes the p-row (パピプペポ), already learned in Chapter 6. Additional sounds use small vowel letters, not a mark. So ファ is not パ, and ティ is not any kind of mark."
               },
               "glyph": "パ",
               "romaji": "pa"
@@ -4600,7 +4600,7 @@
               },
               "options": [
                 "huruf vokal kecil ァィゥェォ",
-                "tanda handakuon ゜",
+                "tanda handakuten ゜",
                 "tanda ー",
                 "huruf っ"
               ],
@@ -4981,8 +4981,8 @@
                   "en": "Not Handakuon"
                 },
                 "body": {
-                  "id": "Bunyi tambahan TIDAK memakai handakuon. Handakuon adalah tanda lingkaran kecil ゜ pada baris ha yang membuat baris pa (パピプペポ), sudah dipelajari di Bab 6. Bunyi tambahan memakai huruf vokal kecil, bukan tanda. Jadi ファ bukan パ, dan ティ bukan tanda apa pun.",
-                  "en": "Additional sounds do NOT use handakuon. Handakuon is the small circle mark ゜ on the h-row that makes the p-row (パピプペポ), already learned in Chapter 6. Additional sounds use small vowel letters, not a mark. So ファ is not パ, and ティ is not any kind of mark."
+                  "id": "Bunyi tambahan TIDAK memakai handakuon. Handakuten adalah tanda lingkaran kecil ゜ pada baris ha yang membuat baris pa (パピプペポ), sudah dipelajari di Bab 6. Bunyi tambahan memakai huruf vokal kecil, bukan tanda. Jadi ファ bukan パ, dan ティ bukan tanda apa pun.",
+                  "en": "Additional sounds do NOT use handakuon. Handakuten is the small circle mark ゜ on the h-row that makes the p-row (パピプペポ), already learned in Chapter 6. Additional sounds use small vowel letters, not a mark. So ファ is not パ, and ティ is not any kind of mark."
                 },
                 "glyph": "パ",
                 "romaji": "pa"
@@ -5160,7 +5160,7 @@
                 },
                 "options": [
                   "huruf vokal kecil ァィゥェォ",
-                  "tanda handakuon ゜",
+                  "tanda handakuten ゜",
                   "tanda ー",
                   "huruf っ"
                 ],

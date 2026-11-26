@@ -762,7 +762,13 @@
                 "en": "Yoon are made from one i-column kana, like き, plus a small ゃ, ゅ, or ょ. Notice the difference: や ゆ よ are BIG letters, while ゃ ゅ ょ are SMALL. The two letters are read together as a single sound beat (one mora). Example: き + ゃ = きゃ, read \"kya\", not \"ki-ya\"."
               },
               "glyph": "きゃ",
-              "romaji": "kya"
+              "romaji": "kya",
+              "rows": [
+                {
+                  "glyph": "きゃ",
+                  "romaji": "kya"
+                }
+              ]
             },
             {
               "title": {
@@ -774,7 +780,21 @@
                 "en": "The letter き meets a small letter: き + ゃ = きゃ (kya), き + ゅ = きゅ (kyu), き + ょ = きょ (kyo). Each is read as one beat, not two."
               },
               "glyph": "きゃ",
-              "romaji": "kya"
+              "romaji": "kya",
+              "rows": [
+                {
+                  "glyph": "きゃ",
+                  "romaji": "kya"
+                },
+                {
+                  "glyph": "きゅ",
+                  "romaji": "kyu"
+                },
+                {
+                  "glyph": "きょ",
+                  "romaji": "kyo"
+                }
+              ]
             },
             {
               "title": {
@@ -786,7 +806,21 @@
                 "en": "The letter し meets a small letter: し + ゃ = しゃ (sha), し + ゅ = しゅ (shu), し + ょ = しょ (sho). Each is read as one beat, not two."
               },
               "glyph": "しゃ",
-              "romaji": "sha"
+              "romaji": "sha",
+              "rows": [
+                {
+                  "glyph": "しゃ",
+                  "romaji": "sha"
+                },
+                {
+                  "glyph": "しゅ",
+                  "romaji": "shu"
+                },
+                {
+                  "glyph": "しょ",
+                  "romaji": "sho"
+                }
+              ]
             },
             {
               "title": {
@@ -798,7 +832,21 @@
                 "en": "The letter ち meets a small letter: ち + ゃ = ちゃ (cha), ち + ゅ = ちゅ (chu), ち + ょ = ちょ (cho). Each is read as one beat, not two."
               },
               "glyph": "ちゃ",
-              "romaji": "cha"
+              "romaji": "cha",
+              "rows": [
+                {
+                  "glyph": "ちゃ",
+                  "romaji": "cha"
+                },
+                {
+                  "glyph": "ちゅ",
+                  "romaji": "chu"
+                },
+                {
+                  "glyph": "ちょ",
+                  "romaji": "cho"
+                }
+              ]
             },
             {
               "title": {
@@ -810,7 +858,21 @@
                 "en": "The letter に meets a small letter: に + ゃ = にゃ (nya), に + ゅ = にゅ (nyu), に + ょ = にょ (nyo). Each is read as one beat, not two."
               },
               "glyph": "にゃ",
-              "romaji": "nya"
+              "romaji": "nya",
+              "rows": [
+                {
+                  "glyph": "にゃ",
+                  "romaji": "nya"
+                },
+                {
+                  "glyph": "にゅ",
+                  "romaji": "nyu"
+                },
+                {
+                  "glyph": "にょ",
+                  "romaji": "nyo"
+                }
+              ]
             },
             {
               "title": {
@@ -822,7 +884,21 @@
                 "en": "The letter ひ meets a small letter: ひ + ゃ = ひゃ (hya), ひ + ゅ = ひゅ (hyu), ひ + ょ = ひょ (hyo). Each is read as one beat, not two."
               },
               "glyph": "ひゃ",
-              "romaji": "hya"
+              "romaji": "hya",
+              "rows": [
+                {
+                  "glyph": "ひゃ",
+                  "romaji": "hya"
+                },
+                {
+                  "glyph": "ひゅ",
+                  "romaji": "hyu"
+                },
+                {
+                  "glyph": "ひょ",
+                  "romaji": "hyo"
+                }
+              ]
             },
             {
               "title": {
@@ -834,7 +910,21 @@
                 "en": "The letter み meets a small letter: み + ゃ = みゃ (mya), み + ゅ = みゅ (myu), み + ょ = みょ (myo). Each is read as one beat, not two."
               },
               "glyph": "みゃ",
-              "romaji": "mya"
+              "romaji": "mya",
+              "rows": [
+                {
+                  "glyph": "みゃ",
+                  "romaji": "mya"
+                },
+                {
+                  "glyph": "みゅ",
+                  "romaji": "myu"
+                },
+                {
+                  "glyph": "みょ",
+                  "romaji": "myo"
+                }
+              ]
             },
             {
               "title": {
@@ -846,7 +936,21 @@
                 "en": "The letter り meets a small letter: り + ゃ = りゃ (rya), り + ゅ = りゅ (ryu), り + ょ = りょ (ryo). Each is read as one beat, not two."
               },
               "glyph": "りゃ",
-              "romaji": "rya"
+              "romaji": "rya",
+              "rows": [
+                {
+                  "glyph": "りゃ",
+                  "romaji": "rya"
+                },
+                {
+                  "glyph": "りゅ",
+                  "romaji": "ryu"
+                },
+                {
+                  "glyph": "りょ",
+                  "romaji": "ryo"
+                }
+              ]
             },
             {
               "title": {
@@ -858,7 +962,21 @@
                 "en": "The letter ぎ meets a small letter: ぎ + ゃ = ぎゃ (gya), ぎ + ゅ = ぎゅ (gyu), ぎ + ょ = ぎょ (gyo). Each is read as one beat, not two."
               },
               "glyph": "ぎゃ",
-              "romaji": "gya"
+              "romaji": "gya",
+              "rows": [
+                {
+                  "glyph": "ぎゃ",
+                  "romaji": "gya"
+                },
+                {
+                  "glyph": "ぎゅ",
+                  "romaji": "gyu"
+                },
+                {
+                  "glyph": "ぎょ",
+                  "romaji": "gyo"
+                }
+              ]
             },
             {
               "title": {
@@ -870,7 +988,21 @@
                 "en": "The letter じ meets a small letter: じ + ゃ = じゃ (ja), じ + ゅ = じゅ (ju), じ + ょ = じょ (jo). Each is read as one beat, not two."
               },
               "glyph": "じゃ",
-              "romaji": "ja"
+              "romaji": "ja",
+              "rows": [
+                {
+                  "glyph": "じゃ",
+                  "romaji": "ja"
+                },
+                {
+                  "glyph": "じゅ",
+                  "romaji": "ju"
+                },
+                {
+                  "glyph": "じょ",
+                  "romaji": "jo"
+                }
+              ]
             },
             {
               "title": {
@@ -882,7 +1014,21 @@
                 "en": "The letter び meets a small letter: び + ゃ = びゃ (bya), び + ゅ = びゅ (byu), び + ょ = びょ (byo). Each is read as one beat, not two."
               },
               "glyph": "びゃ",
-              "romaji": "bya"
+              "romaji": "bya",
+              "rows": [
+                {
+                  "glyph": "びゃ",
+                  "romaji": "bya"
+                },
+                {
+                  "glyph": "びゅ",
+                  "romaji": "byu"
+                },
+                {
+                  "glyph": "びょ",
+                  "romaji": "byo"
+                }
+              ]
             },
             {
               "title": {
@@ -894,7 +1040,21 @@
                 "en": "The letter ぴ meets a small letter: ぴ + ゃ = ぴゃ (pya), ぴ + ゅ = ぴゅ (pyu), ぴ + ょ = ぴょ (pyo). Each is read as one beat, not two."
               },
               "glyph": "ぴゃ",
-              "romaji": "pya"
+              "romaji": "pya",
+              "rows": [
+                {
+                  "glyph": "ぴゃ",
+                  "romaji": "pya"
+                },
+                {
+                  "glyph": "ぴゅ",
+                  "romaji": "pyu"
+                },
+                {
+                  "glyph": "ぴょ",
+                  "romaji": "pyo"
+                }
+              ]
             },
             {
               "title": {
@@ -906,7 +1066,25 @@
                 "en": "Compare carefully. きや is read \"ki-ya\": two beats, because や is written BIG. きゃ is read \"kya\": one beat, because ゃ is written SMALL. Big or small changes the sound and the number of beats."
               },
               "glyph": "きゃ",
-              "romaji": "kya"
+              "romaji": "kya",
+              "rows": [
+                {
+                  "glyph": "きや",
+                  "romaji": "kiya",
+                  "note": {
+                    "id": "dua ketukan, や besar",
+                    "en": "two beats, big や"
+                  }
+                },
+                {
+                  "glyph": "きゃ",
+                  "romaji": "kya",
+                  "note": {
+                    "id": "satu ketukan, ゃ kecil",
+                    "en": "one beat, small ゃ"
+                  }
+                }
+              ]
             }
           ],
           "quiz": [
@@ -1250,7 +1428,13 @@
                   "en": "Yoon are made from one i-column kana, like き, plus a small ゃ, ゅ, or ょ. Notice the difference: や ゆ よ are BIG letters, while ゃ ゅ ょ are SMALL. The two letters are read together as a single sound beat (one mora). Example: き + ゃ = きゃ, read \"kya\", not \"ki-ya\"."
                 },
                 "glyph": "きゃ",
-                "romaji": "kya"
+                "romaji": "kya",
+                "rows": [
+                  {
+                    "glyph": "きゃ",
+                    "romaji": "kya"
+                  }
+                ]
               }
             },
             {
@@ -1265,7 +1449,21 @@
                   "en": "The letter き meets a small letter: き + ゃ = きゃ (kya), き + ゅ = きゅ (kyu), き + ょ = きょ (kyo). Each is read as one beat, not two."
                 },
                 "glyph": "きゃ",
-                "romaji": "kya"
+                "romaji": "kya",
+                "rows": [
+                  {
+                    "glyph": "きゃ",
+                    "romaji": "kya"
+                  },
+                  {
+                    "glyph": "きゅ",
+                    "romaji": "kyu"
+                  },
+                  {
+                    "glyph": "きょ",
+                    "romaji": "kyo"
+                  }
+                ]
               }
             },
             {
@@ -1301,7 +1499,21 @@
                   "en": "The letter し meets a small letter: し + ゃ = しゃ (sha), し + ゅ = しゅ (shu), し + ょ = しょ (sho). Each is read as one beat, not two."
                 },
                 "glyph": "しゃ",
-                "romaji": "sha"
+                "romaji": "sha",
+                "rows": [
+                  {
+                    "glyph": "しゃ",
+                    "romaji": "sha"
+                  },
+                  {
+                    "glyph": "しゅ",
+                    "romaji": "shu"
+                  },
+                  {
+                    "glyph": "しょ",
+                    "romaji": "sho"
+                  }
+                ]
               }
             },
             {
@@ -1337,7 +1549,21 @@
                   "en": "The letter ち meets a small letter: ち + ゃ = ちゃ (cha), ち + ゅ = ちゅ (chu), ち + ょ = ちょ (cho). Each is read as one beat, not two."
                 },
                 "glyph": "ちゃ",
-                "romaji": "cha"
+                "romaji": "cha",
+                "rows": [
+                  {
+                    "glyph": "ちゃ",
+                    "romaji": "cha"
+                  },
+                  {
+                    "glyph": "ちゅ",
+                    "romaji": "chu"
+                  },
+                  {
+                    "glyph": "ちょ",
+                    "romaji": "cho"
+                  }
+                ]
               }
             },
             {
@@ -1365,7 +1591,21 @@
                   "en": "The letter に meets a small letter: に + ゃ = にゃ (nya), に + ゅ = にゅ (nyu), に + ょ = にょ (nyo). Each is read as one beat, not two."
                 },
                 "glyph": "にゃ",
-                "romaji": "nya"
+                "romaji": "nya",
+                "rows": [
+                  {
+                    "glyph": "にゃ",
+                    "romaji": "nya"
+                  },
+                  {
+                    "glyph": "にゅ",
+                    "romaji": "nyu"
+                  },
+                  {
+                    "glyph": "にょ",
+                    "romaji": "nyo"
+                  }
+                ]
               }
             },
             {
@@ -1393,7 +1633,21 @@
                   "en": "The letter ひ meets a small letter: ひ + ゃ = ひゃ (hya), ひ + ゅ = ひゅ (hyu), ひ + ょ = ひょ (hyo). Each is read as one beat, not two."
                 },
                 "glyph": "ひゃ",
-                "romaji": "hya"
+                "romaji": "hya",
+                "rows": [
+                  {
+                    "glyph": "ひゃ",
+                    "romaji": "hya"
+                  },
+                  {
+                    "glyph": "ひゅ",
+                    "romaji": "hyu"
+                  },
+                  {
+                    "glyph": "ひょ",
+                    "romaji": "hyo"
+                  }
+                ]
               }
             },
             {
@@ -1421,7 +1675,21 @@
                   "en": "The letter み meets a small letter: み + ゃ = みゃ (mya), み + ゅ = みゅ (myu), み + ょ = みょ (myo). Each is read as one beat, not two."
                 },
                 "glyph": "みゃ",
-                "romaji": "mya"
+                "romaji": "mya",
+                "rows": [
+                  {
+                    "glyph": "みゃ",
+                    "romaji": "mya"
+                  },
+                  {
+                    "glyph": "みゅ",
+                    "romaji": "myu"
+                  },
+                  {
+                    "glyph": "みょ",
+                    "romaji": "myo"
+                  }
+                ]
               }
             },
             {
@@ -1449,7 +1717,21 @@
                   "en": "The letter り meets a small letter: り + ゃ = りゃ (rya), り + ゅ = りゅ (ryu), り + ょ = りょ (ryo). Each is read as one beat, not two."
                 },
                 "glyph": "りゃ",
-                "romaji": "rya"
+                "romaji": "rya",
+                "rows": [
+                  {
+                    "glyph": "りゃ",
+                    "romaji": "rya"
+                  },
+                  {
+                    "glyph": "りゅ",
+                    "romaji": "ryu"
+                  },
+                  {
+                    "glyph": "りょ",
+                    "romaji": "ryo"
+                  }
+                ]
               }
             },
             {
@@ -1485,7 +1767,21 @@
                   "en": "The letter ぎ meets a small letter: ぎ + ゃ = ぎゃ (gya), ぎ + ゅ = ぎゅ (gyu), ぎ + ょ = ぎょ (gyo). Each is read as one beat, not two."
                 },
                 "glyph": "ぎゃ",
-                "romaji": "gya"
+                "romaji": "gya",
+                "rows": [
+                  {
+                    "glyph": "ぎゃ",
+                    "romaji": "gya"
+                  },
+                  {
+                    "glyph": "ぎゅ",
+                    "romaji": "gyu"
+                  },
+                  {
+                    "glyph": "ぎょ",
+                    "romaji": "gyo"
+                  }
+                ]
               }
             },
             {
@@ -1513,7 +1809,21 @@
                   "en": "The letter じ meets a small letter: じ + ゃ = じゃ (ja), じ + ゅ = じゅ (ju), じ + ょ = じょ (jo). Each is read as one beat, not two."
                 },
                 "glyph": "じゃ",
-                "romaji": "ja"
+                "romaji": "ja",
+                "rows": [
+                  {
+                    "glyph": "じゃ",
+                    "romaji": "ja"
+                  },
+                  {
+                    "glyph": "じゅ",
+                    "romaji": "ju"
+                  },
+                  {
+                    "glyph": "じょ",
+                    "romaji": "jo"
+                  }
+                ]
               }
             },
             {
@@ -1541,7 +1851,21 @@
                   "en": "The letter び meets a small letter: び + ゃ = びゃ (bya), び + ゅ = びゅ (byu), び + ょ = びょ (byo). Each is read as one beat, not two."
                 },
                 "glyph": "びゃ",
-                "romaji": "bya"
+                "romaji": "bya",
+                "rows": [
+                  {
+                    "glyph": "びゃ",
+                    "romaji": "bya"
+                  },
+                  {
+                    "glyph": "びゅ",
+                    "romaji": "byu"
+                  },
+                  {
+                    "glyph": "びょ",
+                    "romaji": "byo"
+                  }
+                ]
               }
             },
             {
@@ -1569,7 +1893,21 @@
                   "en": "The letter ぴ meets a small letter: ぴ + ゃ = ぴゃ (pya), ぴ + ゅ = ぴゅ (pyu), ぴ + ょ = ぴょ (pyo). Each is read as one beat, not two."
                 },
                 "glyph": "ぴゃ",
-                "romaji": "pya"
+                "romaji": "pya",
+                "rows": [
+                  {
+                    "glyph": "ぴゃ",
+                    "romaji": "pya"
+                  },
+                  {
+                    "glyph": "ぴゅ",
+                    "romaji": "pyu"
+                  },
+                  {
+                    "glyph": "ぴょ",
+                    "romaji": "pyo"
+                  }
+                ]
               }
             },
             {
@@ -1613,8 +1951,29 @@
                   "en": "Compare carefully. きや is read \"ki-ya\": two beats, because や is written BIG. きゃ is read \"kya\": one beat, because ゃ is written SMALL. Big or small changes the sound and the number of beats."
                 },
                 "glyph": "きゃ",
-                "romaji": "kya"
+                "romaji": "kya",
+                "rows": [
+                  {
+                    "glyph": "きや",
+                    "romaji": "kiya",
+                    "note": {
+                      "id": "dua ketukan, や besar",
+                      "en": "two beats, big や"
+                    }
+                  },
+                  {
+                    "glyph": "きゃ",
+                    "romaji": "kya",
+                    "note": {
+                      "id": "satu ketukan, ゃ kecil",
+                      "en": "one beat, small ゃ"
+                    }
+                  }
+                ]
               }
+            },
+            {
+              "kind": "matchWords"
             },
             {
               "kind": "practice",
@@ -1903,7 +2262,13 @@
                 "en": "In katakana, yoon are formed the same way: an i-column kana, like キ, plus a small ャ, ュ, or ョ. Remember: ヤ ユ ヨ are BIG letters, while ャ ュ ョ are SMALL. The pair is read together as a single beat (one mora). Example: キ + ャ = キャ, read \"kya\"."
               },
               "glyph": "キャ",
-              "romaji": "kya"
+              "romaji": "kya",
+              "rows": [
+                {
+                  "glyph": "キャ",
+                  "romaji": "kya"
+                }
+              ]
             },
             {
               "title": {
@@ -1915,7 +2280,21 @@
                 "en": "The letter キ meets a small letter: キ + ャ = キャ (kya), キ + ュ = キュ (kyu), キ + ョ = キョ (kyo). Each is read as one beat, not two."
               },
               "glyph": "キャ",
-              "romaji": "kya"
+              "romaji": "kya",
+              "rows": [
+                {
+                  "glyph": "キャ",
+                  "romaji": "kya"
+                },
+                {
+                  "glyph": "キュ",
+                  "romaji": "kyu"
+                },
+                {
+                  "glyph": "キョ",
+                  "romaji": "kyo"
+                }
+              ]
             },
             {
               "title": {
@@ -1927,7 +2306,21 @@
                 "en": "The letter シ meets a small letter: シ + ャ = シャ (sha), シ + ュ = シュ (shu), シ + ョ = ショ (sho). Each is read as one beat, not two."
               },
               "glyph": "シャ",
-              "romaji": "sha"
+              "romaji": "sha",
+              "rows": [
+                {
+                  "glyph": "シャ",
+                  "romaji": "sha"
+                },
+                {
+                  "glyph": "シュ",
+                  "romaji": "shu"
+                },
+                {
+                  "glyph": "ショ",
+                  "romaji": "sho"
+                }
+              ]
             },
             {
               "title": {
@@ -1939,7 +2332,21 @@
                 "en": "The letter チ meets a small letter: チ + ャ = チャ (cha), チ + ュ = チュ (chu), チ + ョ = チョ (cho). Each is read as one beat, not two."
               },
               "glyph": "チャ",
-              "romaji": "cha"
+              "romaji": "cha",
+              "rows": [
+                {
+                  "glyph": "チャ",
+                  "romaji": "cha"
+                },
+                {
+                  "glyph": "チュ",
+                  "romaji": "chu"
+                },
+                {
+                  "glyph": "チョ",
+                  "romaji": "cho"
+                }
+              ]
             },
             {
               "title": {
@@ -1951,7 +2358,21 @@
                 "en": "The letter ニ meets a small letter: ニ + ャ = ニャ (nya), ニ + ュ = ニュ (nyu), ニ + ョ = ニョ (nyo). Each is read as one beat, not two."
               },
               "glyph": "ニャ",
-              "romaji": "nya"
+              "romaji": "nya",
+              "rows": [
+                {
+                  "glyph": "ニャ",
+                  "romaji": "nya"
+                },
+                {
+                  "glyph": "ニュ",
+                  "romaji": "nyu"
+                },
+                {
+                  "glyph": "ニョ",
+                  "romaji": "nyo"
+                }
+              ]
             },
             {
               "title": {
@@ -1963,7 +2384,21 @@
                 "en": "The letter ヒ meets a small letter: ヒ + ャ = ヒャ (hya), ヒ + ュ = ヒュ (hyu), ヒ + ョ = ヒョ (hyo). Each is read as one beat, not two."
               },
               "glyph": "ヒャ",
-              "romaji": "hya"
+              "romaji": "hya",
+              "rows": [
+                {
+                  "glyph": "ヒャ",
+                  "romaji": "hya"
+                },
+                {
+                  "glyph": "ヒュ",
+                  "romaji": "hyu"
+                },
+                {
+                  "glyph": "ヒョ",
+                  "romaji": "hyo"
+                }
+              ]
             },
             {
               "title": {
@@ -1975,7 +2410,21 @@
                 "en": "The letter ミ meets a small letter: ミ + ャ = ミャ (mya), ミ + ュ = ミュ (myu), ミ + ョ = ミョ (myo). Each is read as one beat, not two."
               },
               "glyph": "ミャ",
-              "romaji": "mya"
+              "romaji": "mya",
+              "rows": [
+                {
+                  "glyph": "ミャ",
+                  "romaji": "mya"
+                },
+                {
+                  "glyph": "ミュ",
+                  "romaji": "myu"
+                },
+                {
+                  "glyph": "ミョ",
+                  "romaji": "myo"
+                }
+              ]
             },
             {
               "title": {
@@ -1987,7 +2436,21 @@
                 "en": "The letter リ meets a small letter: リ + ャ = リャ (rya), リ + ュ = リュ (ryu), リ + ョ = リョ (ryo). Each is read as one beat, not two."
               },
               "glyph": "リャ",
-              "romaji": "rya"
+              "romaji": "rya",
+              "rows": [
+                {
+                  "glyph": "リャ",
+                  "romaji": "rya"
+                },
+                {
+                  "glyph": "リュ",
+                  "romaji": "ryu"
+                },
+                {
+                  "glyph": "リョ",
+                  "romaji": "ryo"
+                }
+              ]
             },
             {
               "title": {
@@ -1999,7 +2462,21 @@
                 "en": "The letter ギ meets a small letter: ギ + ャ = ギャ (gya), ギ + ュ = ギュ (gyu), ギ + ョ = ギョ (gyo). Each is read as one beat, not two."
               },
               "glyph": "ギャ",
-              "romaji": "gya"
+              "romaji": "gya",
+              "rows": [
+                {
+                  "glyph": "ギャ",
+                  "romaji": "gya"
+                },
+                {
+                  "glyph": "ギュ",
+                  "romaji": "gyu"
+                },
+                {
+                  "glyph": "ギョ",
+                  "romaji": "gyo"
+                }
+              ]
             },
             {
               "title": {
@@ -2011,7 +2488,21 @@
                 "en": "The letter ジ meets a small letter: ジ + ャ = ジャ (ja), ジ + ュ = ジュ (ju), ジ + ョ = ジョ (jo). Each is read as one beat, not two."
               },
               "glyph": "ジャ",
-              "romaji": "ja"
+              "romaji": "ja",
+              "rows": [
+                {
+                  "glyph": "ジャ",
+                  "romaji": "ja"
+                },
+                {
+                  "glyph": "ジュ",
+                  "romaji": "ju"
+                },
+                {
+                  "glyph": "ジョ",
+                  "romaji": "jo"
+                }
+              ]
             },
             {
               "title": {
@@ -2023,7 +2514,21 @@
                 "en": "The letter ビ meets a small letter: ビ + ャ = ビャ (bya), ビ + ュ = ビュ (byu), ビ + ョ = ビョ (byo). Each is read as one beat, not two."
               },
               "glyph": "ビャ",
-              "romaji": "bya"
+              "romaji": "bya",
+              "rows": [
+                {
+                  "glyph": "ビャ",
+                  "romaji": "bya"
+                },
+                {
+                  "glyph": "ビュ",
+                  "romaji": "byu"
+                },
+                {
+                  "glyph": "ビョ",
+                  "romaji": "byo"
+                }
+              ]
             },
             {
               "title": {
@@ -2035,7 +2540,21 @@
                 "en": "The letter ピ meets a small letter: ピ + ャ = ピャ (pya), ピ + ュ = ピュ (pyu), ピ + ョ = ピョ (pyo). Each is read as one beat, not two."
               },
               "glyph": "ピャ",
-              "romaji": "pya"
+              "romaji": "pya",
+              "rows": [
+                {
+                  "glyph": "ピャ",
+                  "romaji": "pya"
+                },
+                {
+                  "glyph": "ピュ",
+                  "romaji": "pyu"
+                },
+                {
+                  "glyph": "ピョ",
+                  "romaji": "pyo"
+                }
+              ]
             },
             {
               "title": {
@@ -2047,7 +2566,25 @@
                 "en": "Compare carefully. キヤ is read \"ki-ya\": two beats, because ヤ is written BIG. キャ is read \"kya\": one beat, because ャ is written SMALL. Big or small changes the sound and the number of beats."
               },
               "glyph": "キャ",
-              "romaji": "kya"
+              "romaji": "kya",
+              "rows": [
+                {
+                  "glyph": "キヤ",
+                  "romaji": "kiya",
+                  "note": {
+                    "id": "dua ketukan, ヤ besar",
+                    "en": "two beats, big ヤ"
+                  }
+                },
+                {
+                  "glyph": "キャ",
+                  "romaji": "kya",
+                  "note": {
+                    "id": "satu ketukan, ャ kecil",
+                    "en": "one beat, small ャ"
+                  }
+                }
+              ]
             }
           ],
           "quiz": [
@@ -2367,7 +2904,13 @@
                   "en": "In katakana, yoon are formed the same way: an i-column kana, like キ, plus a small ャ, ュ, or ョ. Remember: ヤ ユ ヨ are BIG letters, while ャ ュ ョ are SMALL. The pair is read together as a single beat (one mora). Example: キ + ャ = キャ, read \"kya\"."
                 },
                 "glyph": "キャ",
-                "romaji": "kya"
+                "romaji": "kya",
+                "rows": [
+                  {
+                    "glyph": "キャ",
+                    "romaji": "kya"
+                  }
+                ]
               }
             },
             {
@@ -2382,7 +2925,21 @@
                   "en": "The letter キ meets a small letter: キ + ャ = キャ (kya), キ + ュ = キュ (kyu), キ + ョ = キョ (kyo). Each is read as one beat, not two."
                 },
                 "glyph": "キャ",
-                "romaji": "kya"
+                "romaji": "kya",
+                "rows": [
+                  {
+                    "glyph": "キャ",
+                    "romaji": "kya"
+                  },
+                  {
+                    "glyph": "キュ",
+                    "romaji": "kyu"
+                  },
+                  {
+                    "glyph": "キョ",
+                    "romaji": "kyo"
+                  }
+                ]
               }
             },
             {
@@ -2418,7 +2975,21 @@
                   "en": "The letter シ meets a small letter: シ + ャ = シャ (sha), シ + ュ = シュ (shu), シ + ョ = ショ (sho). Each is read as one beat, not two."
                 },
                 "glyph": "シャ",
-                "romaji": "sha"
+                "romaji": "sha",
+                "rows": [
+                  {
+                    "glyph": "シャ",
+                    "romaji": "sha"
+                  },
+                  {
+                    "glyph": "シュ",
+                    "romaji": "shu"
+                  },
+                  {
+                    "glyph": "ショ",
+                    "romaji": "sho"
+                  }
+                ]
               }
             },
             {
@@ -2446,7 +3017,21 @@
                   "en": "The letter チ meets a small letter: チ + ャ = チャ (cha), チ + ュ = チュ (chu), チ + ョ = チョ (cho). Each is read as one beat, not two."
                 },
                 "glyph": "チャ",
-                "romaji": "cha"
+                "romaji": "cha",
+                "rows": [
+                  {
+                    "glyph": "チャ",
+                    "romaji": "cha"
+                  },
+                  {
+                    "glyph": "チュ",
+                    "romaji": "chu"
+                  },
+                  {
+                    "glyph": "チョ",
+                    "romaji": "cho"
+                  }
+                ]
               }
             },
             {
@@ -2482,7 +3067,21 @@
                   "en": "The letter ニ meets a small letter: ニ + ャ = ニャ (nya), ニ + ュ = ニュ (nyu), ニ + ョ = ニョ (nyo). Each is read as one beat, not two."
                 },
                 "glyph": "ニャ",
-                "romaji": "nya"
+                "romaji": "nya",
+                "rows": [
+                  {
+                    "glyph": "ニャ",
+                    "romaji": "nya"
+                  },
+                  {
+                    "glyph": "ニュ",
+                    "romaji": "nyu"
+                  },
+                  {
+                    "glyph": "ニョ",
+                    "romaji": "nyo"
+                  }
+                ]
               }
             },
             {
@@ -2510,7 +3109,21 @@
                   "en": "The letter ヒ meets a small letter: ヒ + ャ = ヒャ (hya), ヒ + ュ = ヒュ (hyu), ヒ + ョ = ヒョ (hyo). Each is read as one beat, not two."
                 },
                 "glyph": "ヒャ",
-                "romaji": "hya"
+                "romaji": "hya",
+                "rows": [
+                  {
+                    "glyph": "ヒャ",
+                    "romaji": "hya"
+                  },
+                  {
+                    "glyph": "ヒュ",
+                    "romaji": "hyu"
+                  },
+                  {
+                    "glyph": "ヒョ",
+                    "romaji": "hyo"
+                  }
+                ]
               }
             },
             {
@@ -2538,7 +3151,21 @@
                   "en": "The letter ミ meets a small letter: ミ + ャ = ミャ (mya), ミ + ュ = ミュ (myu), ミ + ョ = ミョ (myo). Each is read as one beat, not two."
                 },
                 "glyph": "ミャ",
-                "romaji": "mya"
+                "romaji": "mya",
+                "rows": [
+                  {
+                    "glyph": "ミャ",
+                    "romaji": "mya"
+                  },
+                  {
+                    "glyph": "ミュ",
+                    "romaji": "myu"
+                  },
+                  {
+                    "glyph": "ミョ",
+                    "romaji": "myo"
+                  }
+                ]
               }
             },
             {
@@ -2566,7 +3193,21 @@
                   "en": "The letter リ meets a small letter: リ + ャ = リャ (rya), リ + ュ = リュ (ryu), リ + ョ = リョ (ryo). Each is read as one beat, not two."
                 },
                 "glyph": "リャ",
-                "romaji": "rya"
+                "romaji": "rya",
+                "rows": [
+                  {
+                    "glyph": "リャ",
+                    "romaji": "rya"
+                  },
+                  {
+                    "glyph": "リュ",
+                    "romaji": "ryu"
+                  },
+                  {
+                    "glyph": "リョ",
+                    "romaji": "ryo"
+                  }
+                ]
               }
             },
             {
@@ -2594,7 +3235,21 @@
                   "en": "The letter ギ meets a small letter: ギ + ャ = ギャ (gya), ギ + ュ = ギュ (gyu), ギ + ョ = ギョ (gyo). Each is read as one beat, not two."
                 },
                 "glyph": "ギャ",
-                "romaji": "gya"
+                "romaji": "gya",
+                "rows": [
+                  {
+                    "glyph": "ギャ",
+                    "romaji": "gya"
+                  },
+                  {
+                    "glyph": "ギュ",
+                    "romaji": "gyu"
+                  },
+                  {
+                    "glyph": "ギョ",
+                    "romaji": "gyo"
+                  }
+                ]
               }
             },
             {
@@ -2622,7 +3277,21 @@
                   "en": "The letter ジ meets a small letter: ジ + ャ = ジャ (ja), ジ + ュ = ジュ (ju), ジ + ョ = ジョ (jo). Each is read as one beat, not two."
                 },
                 "glyph": "ジャ",
-                "romaji": "ja"
+                "romaji": "ja",
+                "rows": [
+                  {
+                    "glyph": "ジャ",
+                    "romaji": "ja"
+                  },
+                  {
+                    "glyph": "ジュ",
+                    "romaji": "ju"
+                  },
+                  {
+                    "glyph": "ジョ",
+                    "romaji": "jo"
+                  }
+                ]
               }
             },
             {
@@ -2650,7 +3319,21 @@
                   "en": "The letter ビ meets a small letter: ビ + ャ = ビャ (bya), ビ + ュ = ビュ (byu), ビ + ョ = ビョ (byo). Each is read as one beat, not two."
                 },
                 "glyph": "ビャ",
-                "romaji": "bya"
+                "romaji": "bya",
+                "rows": [
+                  {
+                    "glyph": "ビャ",
+                    "romaji": "bya"
+                  },
+                  {
+                    "glyph": "ビュ",
+                    "romaji": "byu"
+                  },
+                  {
+                    "glyph": "ビョ",
+                    "romaji": "byo"
+                  }
+                ]
               }
             },
             {
@@ -2678,7 +3361,21 @@
                   "en": "The letter ピ meets a small letter: ピ + ャ = ピャ (pya), ピ + ュ = ピュ (pyu), ピ + ョ = ピョ (pyo). Each is read as one beat, not two."
                 },
                 "glyph": "ピャ",
-                "romaji": "pya"
+                "romaji": "pya",
+                "rows": [
+                  {
+                    "glyph": "ピャ",
+                    "romaji": "pya"
+                  },
+                  {
+                    "glyph": "ピュ",
+                    "romaji": "pyu"
+                  },
+                  {
+                    "glyph": "ピョ",
+                    "romaji": "pyo"
+                  }
+                ]
               }
             },
             {
@@ -2706,8 +3403,29 @@
                   "en": "Compare carefully. キヤ is read \"ki-ya\": two beats, because ヤ is written BIG. キャ is read \"kya\": one beat, because ャ is written SMALL. Big or small changes the sound and the number of beats."
                 },
                 "glyph": "キャ",
-                "romaji": "kya"
+                "romaji": "kya",
+                "rows": [
+                  {
+                    "glyph": "キヤ",
+                    "romaji": "kiya",
+                    "note": {
+                      "id": "dua ketukan, ヤ besar",
+                      "en": "two beats, big ヤ"
+                    }
+                  },
+                  {
+                    "glyph": "キャ",
+                    "romaji": "kya",
+                    "note": {
+                      "id": "satu ketukan, ャ kecil",
+                      "en": "one beat, small ャ"
+                    }
+                  }
+                ]
               }
+            },
+            {
+              "kind": "matchWords"
             },
             {
               "kind": "practice",
@@ -2984,7 +3702,13 @@
                 "en": "Japanese counts sounds in beats, called mora. One beat is one short sound. Compare: おばさん (obasan, aunt) has 4 beats: o-ba-sa-n. おばあさん (obaasan, grandmother) has 5 beats: o-ba-a-sa-n. The second あ adds one beat, and the meaning changes from aunt to grandmother. So a long vowel adds a beat."
               },
               "glyph": "おばあさん",
-              "romaji": "obaasan"
+              "romaji": "obaasan",
+              "rows": [
+                {
+                  "glyph": "おばあさん",
+                  "romaji": "obaasan"
+                }
+              ]
             },
             {
               "title": {
@@ -2996,7 +3720,13 @@
                 "en": "In hiragana, a long a sound is written by adding あ: あ + あ = ああ (aa). A long vowel is held longer and counts as two beats, not one."
               },
               "glyph": "ああ",
-              "romaji": "aa"
+              "romaji": "aa",
+              "rows": [
+                {
+                  "glyph": "ああ",
+                  "romaji": "aa"
+                }
+              ]
             },
             {
               "title": {
@@ -3008,7 +3738,13 @@
                 "en": "A long i sound is written by adding い: い + い = いい (ii). Like aa, the ii sound counts as two beats."
               },
               "glyph": "いい",
-              "romaji": "ii"
+              "romaji": "ii",
+              "rows": [
+                {
+                  "glyph": "いい",
+                  "romaji": "ii"
+                }
+              ]
             },
             {
               "title": {
@@ -3020,7 +3756,13 @@
                 "en": "A long u sound is written by adding う: う + う = うう (uu). The uu sound also counts as two beats."
               },
               "glyph": "うう",
-              "romaji": "uu"
+              "romaji": "uu",
+              "rows": [
+                {
+                  "glyph": "うう",
+                  "romaji": "uu"
+                }
+              ]
             },
             {
               "title": {
@@ -3032,7 +3774,13 @@
                 "en": "A long ee sound is usually NOT written え + え, but え + い. Example: せんせい is read sensei (not sensee). So when you see えい, read it as a long ee."
               },
               "glyph": "えい",
-              "romaji": "ei"
+              "romaji": "ei",
+              "rows": [
+                {
+                  "glyph": "えい",
+                  "romaji": "ei"
+                }
+              ]
             },
             {
               "title": {
@@ -3044,7 +3792,13 @@
                 "en": "A long oo sound is usually NOT written お + お, but お + う. Example: おとうさん is read otousan (not otoosan). So when you see おう, read it as a long oo."
               },
               "glyph": "おう",
-              "romaji": "ou"
+              "romaji": "ou",
+              "rows": [
+                {
+                  "glyph": "おう",
+                  "romaji": "ou"
+                }
+              ]
             },
             {
               "title": {
@@ -3056,7 +3810,25 @@
                 "en": "Compare these pairs. おばさん (obasan, aunt) is short: 4 beats. おばあさん (obaasan, grandmother) is long: 5 beats. Likewise おじさん (ojisan, uncle, 4 beats) and おじいさん (ojiisan, grandfather, 5 beats). One extra vowel letter changes the meaning."
               },
               "glyph": "おばあさん",
-              "romaji": "obaasan"
+              "romaji": "obaasan",
+              "rows": [
+                {
+                  "glyph": "おばさん",
+                  "romaji": "obasan",
+                  "note": {
+                    "id": "bibi, 4 ketukan",
+                    "en": "aunt, 4 beats"
+                  }
+                },
+                {
+                  "glyph": "おばあさん",
+                  "romaji": "obaasan",
+                  "note": {
+                    "id": "nenek, 5 ketukan",
+                    "en": "grandmother, 5 beats"
+                  }
+                }
+              ]
             }
           ],
           "quiz": [
@@ -3335,7 +4107,13 @@
                   "en": "Japanese counts sounds in beats, called mora. One beat is one short sound. Compare: おばさん (obasan, aunt) has 4 beats: o-ba-sa-n. おばあさん (obaasan, grandmother) has 5 beats: o-ba-a-sa-n. The second あ adds one beat, and the meaning changes from aunt to grandmother. So a long vowel adds a beat."
                 },
                 "glyph": "おばあさん",
-                "romaji": "obaasan"
+                "romaji": "obaasan",
+                "rows": [
+                  {
+                    "glyph": "おばあさん",
+                    "romaji": "obaasan"
+                  }
+                ]
               }
             },
             {
@@ -3350,7 +4128,13 @@
                   "en": "In hiragana, a long a sound is written by adding あ: あ + あ = ああ (aa). A long vowel is held longer and counts as two beats, not one."
                 },
                 "glyph": "ああ",
-                "romaji": "aa"
+                "romaji": "aa",
+                "rows": [
+                  {
+                    "glyph": "ああ",
+                    "romaji": "aa"
+                  }
+                ]
               }
             },
             {
@@ -3386,7 +4170,13 @@
                   "en": "A long i sound is written by adding い: い + い = いい (ii). Like aa, the ii sound counts as two beats."
                 },
                 "glyph": "いい",
-                "romaji": "ii"
+                "romaji": "ii",
+                "rows": [
+                  {
+                    "glyph": "いい",
+                    "romaji": "ii"
+                  }
+                ]
               }
             },
             {
@@ -3422,7 +4212,13 @@
                   "en": "A long u sound is written by adding う: う + う = うう (uu). The uu sound also counts as two beats."
                 },
                 "glyph": "うう",
-                "romaji": "uu"
+                "romaji": "uu",
+                "rows": [
+                  {
+                    "glyph": "うう",
+                    "romaji": "uu"
+                  }
+                ]
               }
             },
             {
@@ -3458,7 +4254,13 @@
                   "en": "A long ee sound is usually NOT written え + え, but え + い. Example: せんせい is read sensei (not sensee). So when you see えい, read it as a long ee."
                 },
                 "glyph": "えい",
-                "romaji": "ei"
+                "romaji": "ei",
+                "rows": [
+                  {
+                    "glyph": "えい",
+                    "romaji": "ei"
+                  }
+                ]
               }
             },
             {
@@ -3494,7 +4296,13 @@
                   "en": "A long oo sound is usually NOT written お + お, but お + う. Example: おとうさん is read otousan (not otoosan). So when you see おう, read it as a long oo."
                 },
                 "glyph": "おう",
-                "romaji": "ou"
+                "romaji": "ou",
+                "rows": [
+                  {
+                    "glyph": "おう",
+                    "romaji": "ou"
+                  }
+                ]
               }
             },
             {
@@ -3530,8 +4338,29 @@
                   "en": "Compare these pairs. おばさん (obasan, aunt) is short: 4 beats. おばあさん (obaasan, grandmother) is long: 5 beats. Likewise おじさん (ojisan, uncle, 4 beats) and おじいさん (ojiisan, grandfather, 5 beats). One extra vowel letter changes the meaning."
                 },
                 "glyph": "おばあさん",
-                "romaji": "obaasan"
+                "romaji": "obaasan",
+                "rows": [
+                  {
+                    "glyph": "おばさん",
+                    "romaji": "obasan",
+                    "note": {
+                      "id": "bibi, 4 ketukan",
+                      "en": "aunt, 4 beats"
+                    }
+                  },
+                  {
+                    "glyph": "おばあさん",
+                    "romaji": "obaasan",
+                    "note": {
+                      "id": "nenek, 5 ketukan",
+                      "en": "grandmother, 5 beats"
+                    }
+                  }
+                ]
               }
+            },
+            {
+              "kind": "matchWords"
             },
             {
               "kind": "practice",
@@ -3782,7 +4611,13 @@
                 "en": "In katakana, a long vowel is written with the mark ー, called chouonpu. The mark is written AFTER the kana and makes the vowel before it read longer: コ + ー = コー is read \"koo\". One sound beat (one mora) is one short sound; the mark ー itself counts as one beat. So コー has two beats: ko-o."
               },
               "glyph": "コー",
-              "romaji": "koo"
+              "romaji": "koo",
+              "rows": [
+                {
+                  "glyph": "コー",
+                  "romaji": "koo"
+                }
+              ]
             },
             {
               "title": {
@@ -3794,7 +4629,21 @@
                 "en": "The mark ー can follow any vowel: コー (koo), ケー (kee), シー (shii). Hold that vowel longer, then move on to the next letter."
               },
               "glyph": "コーヒー",
-              "romaji": "koohii"
+              "romaji": "koohii",
+              "rows": [
+                {
+                  "glyph": "コー",
+                  "romaji": "koo"
+                },
+                {
+                  "glyph": "ケー",
+                  "romaji": "kee"
+                },
+                {
+                  "glyph": "シー",
+                  "romaji": "shii"
+                }
+              ]
             },
             {
               "title": {
@@ -3806,7 +4655,13 @@
                 "en": "The mark ー appears very often in borrowed words. Once you know it, you will see it everywhere: in the names of food, clothes, and things."
               },
               "glyph": "セーター",
-              "romaji": "seetaa"
+              "romaji": "seetaa",
+              "rows": [
+                {
+                  "glyph": "セーター",
+                  "romaji": "seetaa"
+                }
+              ]
             },
             {
               "title": {
@@ -3818,7 +4673,25 @@
                 "en": "Compare: コ is read \"ko\", short, one beat. コー is read \"koo\", long, two beats. Likewise ケキ is read \"keki\", short, while ケーキ is read \"keeki\", long. The mark ー is what makes the difference."
               },
               "glyph": "コー",
-              "romaji": "koo"
+              "romaji": "koo",
+              "rows": [
+                {
+                  "glyph": "コ",
+                  "romaji": "ko",
+                  "note": {
+                    "id": "pendek, satu ketukan",
+                    "en": "short, one beat"
+                  }
+                },
+                {
+                  "glyph": "コー",
+                  "romaji": "koo",
+                  "note": {
+                    "id": "panjang, dua ketukan",
+                    "en": "long, two beats"
+                  }
+                }
+              ]
             }
           ],
           "quiz": [
@@ -4037,7 +4910,13 @@
                   "en": "In katakana, a long vowel is written with the mark ー, called chouonpu. The mark is written AFTER the kana and makes the vowel before it read longer: コ + ー = コー is read \"koo\". One sound beat (one mora) is one short sound; the mark ー itself counts as one beat. So コー has two beats: ko-o."
                 },
                 "glyph": "コー",
-                "romaji": "koo"
+                "romaji": "koo",
+                "rows": [
+                  {
+                    "glyph": "コー",
+                    "romaji": "koo"
+                  }
+                ]
               }
             },
             {
@@ -4052,7 +4931,21 @@
                   "en": "The mark ー can follow any vowel: コー (koo), ケー (kee), シー (shii). Hold that vowel longer, then move on to the next letter."
                 },
                 "glyph": "コーヒー",
-                "romaji": "koohii"
+                "romaji": "koohii",
+                "rows": [
+                  {
+                    "glyph": "コー",
+                    "romaji": "koo"
+                  },
+                  {
+                    "glyph": "ケー",
+                    "romaji": "kee"
+                  },
+                  {
+                    "glyph": "シー",
+                    "romaji": "shii"
+                  }
+                ]
               }
             },
             {
@@ -4096,7 +4989,13 @@
                   "en": "The mark ー appears very often in borrowed words. Once you know it, you will see it everywhere: in the names of food, clothes, and things."
                 },
                 "glyph": "セーター",
-                "romaji": "seetaa"
+                "romaji": "seetaa",
+                "rows": [
+                  {
+                    "glyph": "セーター",
+                    "romaji": "seetaa"
+                  }
+                ]
               }
             },
             {
@@ -4132,8 +5031,29 @@
                   "en": "Compare: コ is read \"ko\", short, one beat. コー is read \"koo\", long, two beats. Likewise ケキ is read \"keki\", short, while ケーキ is read \"keeki\", long. The mark ー is what makes the difference."
                 },
                 "glyph": "コー",
-                "romaji": "koo"
+                "romaji": "koo",
+                "rows": [
+                  {
+                    "glyph": "コ",
+                    "romaji": "ko",
+                    "note": {
+                      "id": "pendek, satu ketukan",
+                      "en": "short, one beat"
+                    }
+                  },
+                  {
+                    "glyph": "コー",
+                    "romaji": "koo",
+                    "note": {
+                      "id": "panjang, dua ketukan",
+                      "en": "long, two beats"
+                    }
+                  }
+                ]
               }
+            },
+            {
+              "kind": "matchWords"
             },
             {
               "kind": "practice",
@@ -4476,7 +5396,13 @@
                 "en": "Japanese has no fa, ti, or she sounds. Katakana writes those foreign sounds with a base kana + a small vowel letter ァ ィ ゥ ェ ォ written small after it. The two are read as ONE sound: フ + ァ = ファ is read fa, not fu-a."
               },
               "glyph": "ファ",
-              "romaji": "fa"
+              "romaji": "fa",
+              "rows": [
+                {
+                  "glyph": "ファ",
+                  "romaji": "fa"
+                }
+              ]
             },
             {
               "title": {
@@ -4488,7 +5414,25 @@
                 "en": "フ + a small vowel letter: ファ fa, フィ fi, フェ fe, フォ fo. The small letter decides the final sound: ァ makes fa, ィ makes fi, ェ makes fe, ォ makes fo."
               },
               "glyph": "ファ",
-              "romaji": "fa"
+              "romaji": "fa",
+              "rows": [
+                {
+                  "glyph": "ファ",
+                  "romaji": "fa"
+                },
+                {
+                  "glyph": "フィ",
+                  "romaji": "fi"
+                },
+                {
+                  "glyph": "フェ",
+                  "romaji": "fe"
+                },
+                {
+                  "glyph": "フォ",
+                  "romaji": "fo"
+                }
+              ]
             },
             {
               "title": {
@@ -4500,7 +5444,25 @@
                 "en": "テ + ィ = ティ ti, and デ + ィ = ディ di. There are also ト + ゥ = トゥ tu and ド + ゥ = ドゥ du."
               },
               "glyph": "ティ",
-              "romaji": "ti"
+              "romaji": "ti",
+              "rows": [
+                {
+                  "glyph": "ティ",
+                  "romaji": "ti"
+                },
+                {
+                  "glyph": "ディ",
+                  "romaji": "di"
+                },
+                {
+                  "glyph": "トゥ",
+                  "romaji": "tu"
+                },
+                {
+                  "glyph": "ドゥ",
+                  "romaji": "du"
+                }
+              ]
             },
             {
               "title": {
@@ -4512,7 +5474,21 @@
                 "en": "シ + ェ = シェ she, チ + ェ = チェ che, and ジ + ェ = ジェ je. Watch the base letter: シ for she, チ for che, ジ for je."
               },
               "glyph": "シェ",
-              "romaji": "she"
+              "romaji": "she",
+              "rows": [
+                {
+                  "glyph": "シェ",
+                  "romaji": "she"
+                },
+                {
+                  "glyph": "チェ",
+                  "romaji": "che"
+                },
+                {
+                  "glyph": "ジェ",
+                  "romaji": "je"
+                }
+              ]
             },
             {
               "title": {
@@ -4524,7 +5500,25 @@
                 "en": "ヴ is ウ with a dakuten mark, read vu. With small vowel letters: ヴァ va, ヴィ vi, ヴェ ve, ヴォ vo."
               },
               "glyph": "ヴ",
-              "romaji": "vu"
+              "romaji": "vu",
+              "rows": [
+                {
+                  "glyph": "ヴァ",
+                  "romaji": "va"
+                },
+                {
+                  "glyph": "ヴィ",
+                  "romaji": "vi"
+                },
+                {
+                  "glyph": "ヴェ",
+                  "romaji": "ve"
+                },
+                {
+                  "glyph": "ヴォ",
+                  "romaji": "vo"
+                }
+              ]
             },
             {
               "title": {
@@ -4536,7 +5530,25 @@
                 "en": "Additional sounds do NOT use handakuon. Handakuten is the small circle mark ゜ on the h-row that makes the p-row (パピプペポ), already learned in Chapter 6. Additional sounds use small vowel letters, not a mark. So ファ is not パ, and ティ is not any kind of mark."
               },
               "glyph": "パ",
-              "romaji": "pa"
+              "romaji": "pa",
+              "rows": [
+                {
+                  "glyph": "パ",
+                  "romaji": "pa",
+                  "note": {
+                    "id": "baris pa, memakai handakuten ゜",
+                    "en": "pa row, uses handakuten ゜"
+                  }
+                },
+                {
+                  "glyph": "ファ",
+                  "romaji": "fa",
+                  "note": {
+                    "id": "bunyi tambahan, huruf vokal kecil",
+                    "en": "additional sound, small vowel kana"
+                  }
+                }
+              ]
             }
           ],
           "quiz": [
@@ -4802,7 +5814,13 @@
                   "en": "Japanese has no fa, ti, or she sounds. Katakana writes those foreign sounds with a base kana + a small vowel letter ァ ィ ゥ ェ ォ written small after it. The two are read as ONE sound: フ + ァ = ファ is read fa, not fu-a."
                 },
                 "glyph": "ファ",
-                "romaji": "fa"
+                "romaji": "fa",
+                "rows": [
+                  {
+                    "glyph": "ファ",
+                    "romaji": "fa"
+                  }
+                ]
               }
             },
             {
@@ -4817,7 +5835,25 @@
                   "en": "フ + a small vowel letter: ファ fa, フィ fi, フェ fe, フォ fo. The small letter decides the final sound: ァ makes fa, ィ makes fi, ェ makes fe, ォ makes fo."
                 },
                 "glyph": "ファ",
-                "romaji": "fa"
+                "romaji": "fa",
+                "rows": [
+                  {
+                    "glyph": "ファ",
+                    "romaji": "fa"
+                  },
+                  {
+                    "glyph": "フィ",
+                    "romaji": "fi"
+                  },
+                  {
+                    "glyph": "フェ",
+                    "romaji": "fe"
+                  },
+                  {
+                    "glyph": "フォ",
+                    "romaji": "fo"
+                  }
+                ]
               }
             },
             {
@@ -4861,7 +5897,25 @@
                   "en": "テ + ィ = ティ ti, and デ + ィ = ディ di. There are also ト + ゥ = トゥ tu and ド + ゥ = ドゥ du."
                 },
                 "glyph": "ティ",
-                "romaji": "ti"
+                "romaji": "ti",
+                "rows": [
+                  {
+                    "glyph": "ティ",
+                    "romaji": "ti"
+                  },
+                  {
+                    "glyph": "ディ",
+                    "romaji": "di"
+                  },
+                  {
+                    "glyph": "トゥ",
+                    "romaji": "tu"
+                  },
+                  {
+                    "glyph": "ドゥ",
+                    "romaji": "du"
+                  }
+                ]
               }
             },
             {
@@ -4905,7 +5959,21 @@
                   "en": "シ + ェ = シェ she, チ + ェ = チェ che, and ジ + ェ = ジェ je. Watch the base letter: シ for she, チ for che, ジ for je."
                 },
                 "glyph": "シェ",
-                "romaji": "she"
+                "romaji": "she",
+                "rows": [
+                  {
+                    "glyph": "シェ",
+                    "romaji": "she"
+                  },
+                  {
+                    "glyph": "チェ",
+                    "romaji": "che"
+                  },
+                  {
+                    "glyph": "ジェ",
+                    "romaji": "je"
+                  }
+                ]
               }
             },
             {
@@ -4949,7 +6017,25 @@
                   "en": "ヴ is ウ with a dakuten mark, read vu. With small vowel letters: ヴァ va, ヴィ vi, ヴェ ve, ヴォ vo."
                 },
                 "glyph": "ヴ",
-                "romaji": "vu"
+                "romaji": "vu",
+                "rows": [
+                  {
+                    "glyph": "ヴァ",
+                    "romaji": "va"
+                  },
+                  {
+                    "glyph": "ヴィ",
+                    "romaji": "vi"
+                  },
+                  {
+                    "glyph": "ヴェ",
+                    "romaji": "ve"
+                  },
+                  {
+                    "glyph": "ヴォ",
+                    "romaji": "vo"
+                  }
+                ]
               }
             },
             {
@@ -4985,8 +6071,29 @@
                   "en": "Additional sounds do NOT use handakuon. Handakuten is the small circle mark ゜ on the h-row that makes the p-row (パピプペポ), already learned in Chapter 6. Additional sounds use small vowel letters, not a mark. So ファ is not パ, and ティ is not any kind of mark."
                 },
                 "glyph": "パ",
-                "romaji": "pa"
+                "romaji": "pa",
+                "rows": [
+                  {
+                    "glyph": "パ",
+                    "romaji": "pa",
+                    "note": {
+                      "id": "baris pa, memakai handakuten ゜",
+                      "en": "pa row, uses handakuten ゜"
+                    }
+                  },
+                  {
+                    "glyph": "ファ",
+                    "romaji": "fa",
+                    "note": {
+                      "id": "bunyi tambahan, huruf vokal kecil",
+                      "en": "additional sound, small vowel kana"
+                    }
+                  }
+                ]
               }
+            },
+            {
+              "kind": "matchWords"
             },
             {
               "kind": "practice",
@@ -5208,7 +6315,13 @@
                 "en": "The letter っ is a small つ, called sokuon. It is NOT read \"tsu\": it holds the sound for one beat, then doubles the consonant of the next letter. Compare: きて (kite, to come) and きって (kitte, postage stamp). Only that small っ differs."
               },
               "glyph": "きって",
-              "romaji": "kitte"
+              "romaji": "kitte",
+              "rows": [
+                {
+                  "glyph": "きって",
+                  "romaji": "kitte"
+                }
+              ]
             },
             {
               "title": {
@@ -5220,7 +6333,13 @@
                 "en": "Sokuon counts as one mora, that is, one full sound beat, like a small pause before the next consonant. In romaji it is written as a doubled consonant: がっこう (gakkou, school) and ずっと (zutto, always)."
               },
               "glyph": "がっこう",
-              "romaji": "gakkou"
+              "romaji": "gakkou",
+              "rows": [
+                {
+                  "glyph": "がっこう",
+                  "romaji": "gakkou"
+                }
+              ]
             },
             {
               "title": {
@@ -5232,7 +6351,25 @@
                 "en": "A full-size つ is read tsu as a full sound, for example つくえ (tsukue, desk). A small っ is not read on its own: it is only a pause that doubles the next consonant. Look at the size: っ is small, つ is big."
               },
               "glyph": "つ",
-              "romaji": "tsu"
+              "romaji": "tsu",
+              "rows": [
+                {
+                  "glyph": "つ",
+                  "romaji": "tsu",
+                  "note": {
+                    "id": "besar, dibaca penuh",
+                    "en": "big, read fully"
+                  }
+                },
+                {
+                  "glyph": "っ",
+                  "romaji": "—",
+                  "note": {
+                    "id": "kecil, hanya jeda yang menggandakan konsonan",
+                    "en": "small, only a pause that doubles the next consonant"
+                  }
+                }
+              ]
             }
           ],
           "quiz": [
@@ -5430,7 +6567,13 @@
                   "en": "The letter っ is a small つ, called sokuon. It is NOT read \"tsu\": it holds the sound for one beat, then doubles the consonant of the next letter. Compare: きて (kite, to come) and きって (kitte, postage stamp). Only that small っ differs."
                 },
                 "glyph": "きって",
-                "romaji": "kitte"
+                "romaji": "kitte",
+                "rows": [
+                  {
+                    "glyph": "きって",
+                    "romaji": "kitte"
+                  }
+                ]
               }
             },
             {
@@ -5474,7 +6617,13 @@
                   "en": "Sokuon counts as one mora, that is, one full sound beat, like a small pause before the next consonant. In romaji it is written as a doubled consonant: がっこう (gakkou, school) and ずっと (zutto, always)."
                 },
                 "glyph": "がっこう",
-                "romaji": "gakkou"
+                "romaji": "gakkou",
+                "rows": [
+                  {
+                    "glyph": "がっこう",
+                    "romaji": "gakkou"
+                  }
+                ]
               }
             },
             {
@@ -5510,8 +6659,29 @@
                   "en": "A full-size つ is read tsu as a full sound, for example つくえ (tsukue, desk). A small っ is not read on its own: it is only a pause that doubles the next consonant. Look at the size: っ is small, つ is big."
                 },
                 "glyph": "つ",
-                "romaji": "tsu"
+                "romaji": "tsu",
+                "rows": [
+                  {
+                    "glyph": "つ",
+                    "romaji": "tsu",
+                    "note": {
+                      "id": "besar, dibaca penuh",
+                      "en": "big, read fully"
+                    }
+                  },
+                  {
+                    "glyph": "っ",
+                    "romaji": "—",
+                    "note": {
+                      "id": "kecil, hanya jeda yang menggandakan konsonan",
+                      "en": "small, only a pause that doubles the next consonant"
+                    }
+                  }
+                ]
               }
+            },
+            {
+              "kind": "matchWords"
             },
             {
               "kind": "practice",
@@ -5701,7 +6871,13 @@
                 "en": "In katakana, sokuon is written as a small ッ and works exactly like っ: a one-beat pause that doubles the next consonant. It appears very often in borrowed words, for example ベッド (beddo, bed)."
               },
               "glyph": "ベッド",
-              "romaji": "beddo"
+              "romaji": "beddo",
+              "rows": [
+                {
+                  "glyph": "ベッド",
+                  "romaji": "beddo"
+                }
+              ]
             },
             {
               "title": {
@@ -5713,7 +6889,13 @@
                 "en": "Like っ, ッ counts as one mora, one sound beat. In romaji it is written as a doubled consonant: カップ (kappu, cup) and ネット (netto, internet)."
               },
               "glyph": "カップ",
-              "romaji": "kappu"
+              "romaji": "kappu",
+              "rows": [
+                {
+                  "glyph": "カップ",
+                  "romaji": "kappu"
+                }
+              ]
             },
             {
               "title": {
@@ -5725,7 +6907,25 @@
                 "en": "ッ is always written small. A full-size ツ is read tsu as a full sound, while the small ッ is not read on its own. Example: ネット (netto, internet) uses a small ッ, not ツ."
               },
               "glyph": "ツ",
-              "romaji": "tsu"
+              "romaji": "tsu",
+              "rows": [
+                {
+                  "glyph": "ツ",
+                  "romaji": "tsu",
+                  "note": {
+                    "id": "besar, dibaca penuh",
+                    "en": "big, read fully"
+                  }
+                },
+                {
+                  "glyph": "ッ",
+                  "romaji": "—",
+                  "note": {
+                    "id": "kecil, hanya jeda yang menggandakan konsonan",
+                    "en": "small, only a pause that doubles the next consonant"
+                  }
+                }
+              ]
             }
           ],
           "quiz": [
@@ -5923,7 +7123,13 @@
                   "en": "In katakana, sokuon is written as a small ッ and works exactly like っ: a one-beat pause that doubles the next consonant. It appears very often in borrowed words, for example ベッド (beddo, bed)."
                 },
                 "glyph": "ベッド",
-                "romaji": "beddo"
+                "romaji": "beddo",
+                "rows": [
+                  {
+                    "glyph": "ベッド",
+                    "romaji": "beddo"
+                  }
+                ]
               }
             },
             {
@@ -5967,7 +7173,13 @@
                   "en": "Like っ, ッ counts as one mora, one sound beat. In romaji it is written as a doubled consonant: カップ (kappu, cup) and ネット (netto, internet)."
                 },
                 "glyph": "カップ",
-                "romaji": "kappu"
+                "romaji": "kappu",
+                "rows": [
+                  {
+                    "glyph": "カップ",
+                    "romaji": "kappu"
+                  }
+                ]
               }
             },
             {
@@ -6003,8 +7215,29 @@
                   "en": "ッ is always written small. A full-size ツ is read tsu as a full sound, while the small ッ is not read on its own. Example: ネット (netto, internet) uses a small ッ, not ツ."
                 },
                 "glyph": "ツ",
-                "romaji": "tsu"
+                "romaji": "tsu",
+                "rows": [
+                  {
+                    "glyph": "ツ",
+                    "romaji": "tsu",
+                    "note": {
+                      "id": "besar, dibaca penuh",
+                      "en": "big, read fully"
+                    }
+                  },
+                  {
+                    "glyph": "ッ",
+                    "romaji": "—",
+                    "note": {
+                      "id": "kecil, hanya jeda yang menggandakan konsonan",
+                      "en": "small, only a pause that doubles the next consonant"
+                    }
+                  }
+                ]
               }
+            },
+            {
+              "kind": "matchWords"
             },
             {
               "kind": "practice",

@@ -92,7 +92,7 @@
           },
           "subtitle": {
             "id": "あいうえお",
-            "en": "a i u e o"
+            "en": "A I U E O"
           },
           "kana": [
             "hira_a",
@@ -111,7 +111,7 @@
           },
           "subtitle": {
             "id": "かきくけこ",
-            "en": "ka ki ku ke ko"
+            "en": "KA KI KU KE KO"
           },
           "kana": [
             "hira_ka",
@@ -130,7 +130,7 @@
           },
           "subtitle": {
             "id": "さしすせそ",
-            "en": "sa shi su se so"
+            "en": "SA SHI SU SE SO"
           },
           "kana": [
             "hira_sa",
@@ -149,7 +149,7 @@
           },
           "subtitle": {
             "id": "たちつてと",
-            "en": "ta chi tsu te to"
+            "en": "TA CHI TSU TE TO"
           },
           "kana": [
             "hira_ta",
@@ -168,7 +168,7 @@
           },
           "subtitle": {
             "id": "なにぬねの",
-            "en": "na ni nu ne no"
+            "en": "NA NI NU NE NO"
           },
           "kana": [
             "hira_na",
@@ -187,7 +187,7 @@
           },
           "subtitle": {
             "id": "はひふへほ",
-            "en": "ha hi fu he ho"
+            "en": "HA HI FU HE HO"
           },
           "kana": [
             "hira_ha",
@@ -206,7 +206,7 @@
           },
           "subtitle": {
             "id": "まみむめも",
-            "en": "ma mi mu me mo"
+            "en": "MA MI MU ME MO"
           },
           "kana": [
             "hira_ma",
@@ -225,7 +225,7 @@
           },
           "subtitle": {
             "id": "やゆよ",
-            "en": "ya yu yo"
+            "en": "YA YU YO"
           },
           "kana": [
             "hira_ya",
@@ -242,7 +242,7 @@
           },
           "subtitle": {
             "id": "らりるれろ",
-            "en": "ra ri ru re ro"
+            "en": "RA RI RU RE RO"
           },
           "kana": [
             "hira_ra",
@@ -261,7 +261,7 @@
           },
           "subtitle": {
             "id": "わをん",
-            "en": "wa wo n"
+            "en": "WA WO N"
           },
           "kana": [
             "hira_wa",
@@ -288,7 +288,7 @@
           },
           "subtitle": {
             "id": "アイウエオ",
-            "en": "a i u e o"
+            "en": "A I U E O"
           },
           "kana": [
             "kata_a",
@@ -307,7 +307,7 @@
           },
           "subtitle": {
             "id": "カキクケコ",
-            "en": "ka ki ku ke ko"
+            "en": "KA KI KU KE KO"
           },
           "kana": [
             "kata_ka",
@@ -326,7 +326,7 @@
           },
           "subtitle": {
             "id": "サシスセソ",
-            "en": "sa shi su se so"
+            "en": "SA SHI SU SE SO"
           },
           "kana": [
             "kata_sa",
@@ -345,7 +345,7 @@
           },
           "subtitle": {
             "id": "タチツテト",
-            "en": "ta chi tsu te to"
+            "en": "TA CHI TSU TE TO"
           },
           "kana": [
             "kata_ta",
@@ -364,7 +364,7 @@
           },
           "subtitle": {
             "id": "ナニヌネノ",
-            "en": "na ni nu ne no"
+            "en": "NA NI NU NE NO"
           },
           "kana": [
             "kata_na",
@@ -383,7 +383,7 @@
           },
           "subtitle": {
             "id": "ハヒフヘホ",
-            "en": "ha hi fu he ho"
+            "en": "HA HI FU HE HO"
           },
           "kana": [
             "kata_ha",
@@ -402,7 +402,7 @@
           },
           "subtitle": {
             "id": "マミムメモ",
-            "en": "ma mi mu me mo"
+            "en": "MA MI MU ME MO"
           },
           "kana": [
             "kata_ma",
@@ -421,7 +421,7 @@
           },
           "subtitle": {
             "id": "ヤユヨ",
-            "en": "ya yu yo"
+            "en": "YA YU YO"
           },
           "kana": [
             "kata_ya",
@@ -438,7 +438,7 @@
           },
           "subtitle": {
             "id": "ラリルレロ",
-            "en": "ra ri ru re ro"
+            "en": "RA RI RU RE RO"
           },
           "kana": [
             "kata_ra",
@@ -457,7 +457,7 @@
           },
           "subtitle": {
             "id": "ワヲン",
-            "en": "wa wo n"
+            "en": "WA WO N"
           },
           "kana": [
             "kata_wa",
@@ -484,7 +484,7 @@
           },
           "subtitle": {
             "id": "がぎぐげご",
-            "en": "ga gi gu ge go"
+            "en": "GA GI GU GE GO"
           },
           "kana": [
             "hira_ga",
@@ -503,7 +503,7 @@
           },
           "subtitle": {
             "id": "ざじずぜぞ",
-            "en": "za ji zu ze zo"
+            "en": "ZA JI ZU ZE ZO"
           },
           "kana": [
             "hira_za",
@@ -522,7 +522,7 @@
           },
           "subtitle": {
             "id": "だぢづでど",
-            "en": "da di du de do"
+            "en": "DA DI DU DE DO"
           },
           "kana": [
             "hira_da",
@@ -541,7 +541,7 @@
           },
           "subtitle": {
             "id": "ばびぶべぼ",
-            "en": "ba bi bu be bo"
+            "en": "BA BI BU BE BO"
           },
           "kana": [
             "hira_ba",
@@ -570,7 +570,7 @@
           },
           "subtitle": {
             "id": "ガギグゲゴ",
-            "en": "ga gi gu ge go"
+            "en": "GA GI GU GE GO"
           },
           "kana": [
             "kata_ga",
@@ -589,7 +589,7 @@
           },
           "subtitle": {
             "id": "ザジズゼゾ",
-            "en": "za ji zu ze zo"
+            "en": "ZA JI ZU ZE ZO"
           },
           "kana": [
             "kata_za",
@@ -608,7 +608,7 @@
           },
           "subtitle": {
             "id": "ダヂヅデド",
-            "en": "da di du de do"
+            "en": "DA DI DU DE DO"
           },
           "kana": [
             "kata_da",
@@ -627,7 +627,7 @@
           },
           "subtitle": {
             "id": "バビブベボ",
-            "en": "ba bi bu be bo"
+            "en": "BA BI BU BE BO"
           },
           "kana": [
             "kata_ba",
@@ -656,7 +656,7 @@
           },
           "subtitle": {
             "id": "ぱぴぷぺぽ",
-            "en": "pa pi pu pe po"
+            "en": "PA PI PU PE PO"
           },
           "kana": [
             "hira_pa",
@@ -685,7 +685,7 @@
           },
           "subtitle": {
             "id": "パピプペポ",
-            "en": "pa pi pu pe po"
+            "en": "PA PI PU PE PO"
           },
           "kana": [
             "kata_pa",
@@ -714,7 +714,7 @@
           },
           "subtitle": {
             "id": "きゃ きゅ きょ",
-            "en": "kya kyu kyo"
+            "en": "KYA KYU KYO"
           },
           "kana": [
             "hira_kya",
@@ -1095,12 +1095,12 @@
               },
               "glyph": "ちょ",
               "options": [
-                "cho",
-                "chiyo",
-                "chi",
-                "cha"
+                "CHO",
+                "Chiyo",
+                "CHI",
+                "CHA"
               ],
-              "answer": "cho",
+              "answer": "CHO",
               "explanation": {
                 "id": "ちょ dibaca cho satu ketukan; ょ kecil menyatu dengan ち.",
                 "en": "ちょ is read cho, one beat; the small ょ joins ち."
@@ -1108,8 +1108,8 @@
             },
             {
               "prompt": {
-                "id": "Pasangan mana yang membentuk \"kya\"?",
-                "en": "Which pair forms \"kya\"?"
+                "id": "Pasangan mana yang membentuk \"KYA\"?",
+                "en": "Which pair forms \"KYA\"?"
               },
               "options": [
                 "き + ゃ",
@@ -1130,12 +1130,12 @@
               },
               "glyph": "りょこう",
               "options": [
-                "ryokou",
-                "riyokou",
-                "ryoku",
-                "ryou"
+                "Ryokou",
+                "Riyokou",
+                "Ryoku",
+                "Ryou"
               ],
-              "answer": "ryokou",
+              "answer": "Ryokou",
               "explanation": {
                 "id": "りょこう dibaca ryokou: りょ (ryo) lalu こ (ko) lalu う memanjangkan o.",
                 "en": "りょこう is read ryokou: りょ (ryo), then こ (ko), then う lengthens the o."
@@ -1168,12 +1168,12 @@
               },
               "glyph": "きゃ",
               "options": [
-                "kya",
-                "kiya",
-                "ka",
-                "kyo"
+                "KYA",
+                "Kiya",
+                "KA",
+                "KYO"
               ],
-              "answer": "kya",
+              "answer": "KYA",
               "explanation": {
                 "id": "きゃ dibaca kya satu ketukan, karena ゃ kecil menyatu dengan き.",
                 "en": "きゃ is read kya, one beat, because the small ゃ joins き."
@@ -1186,12 +1186,12 @@
               },
               "glyph": "しゅ",
               "options": [
-                "shu",
-                "shiyu",
-                "su",
-                "sho"
+                "SHU",
+                "Shiyu",
+                "SU",
+                "SHO"
               ],
-              "answer": "shu",
+              "answer": "SHU",
               "explanation": {
                 "id": "しゅ dibaca shu satu ketukan; ゅ kecil menyatu dengan し.",
                 "en": "しゅ is read shu, one beat; the small ゅ joins し."
@@ -1217,8 +1217,8 @@
             },
             {
               "prompt": {
-                "id": "Huruf mana yang berbunyi \"ryu\"?",
-                "en": "Which letters read \"ryu\"?"
+                "id": "Huruf mana yang berbunyi \"RYU\"?",
+                "en": "Which letters read \"RYU\"?"
               },
               "options": [
                 "りゅ",
@@ -1234,8 +1234,8 @@
             },
             {
               "prompt": {
-                "id": "Huruf mana yang berbunyi \"ja\"?",
-                "en": "Which letters read \"ja\"?"
+                "id": "Huruf mana yang berbunyi \"JA\"?",
+                "en": "Which letters read \"JA\"?"
               },
               "options": [
                 "じゃ",
@@ -1256,12 +1256,12 @@
               },
               "glyph": "きょう",
               "options": [
-                "kyou",
-                "kiyou",
-                "kou",
-                "kyo"
+                "Kyou",
+                "Kiyou",
+                "Kou",
+                "KYO"
               ],
-              "answer": "kyou",
+              "answer": "Kyou",
               "explanation": {
                 "id": "きょう dibaca kyou: きょ (kyo) lalu う memanjangkan o. Bukan kiyou, karena ょ kecil menyatu dengan き.",
                 "en": "きょう is read kyou: きょ (kyo), then う lengthens the o. Not kiyou, because the small ょ joins き."
@@ -1984,12 +1984,12 @@
                 },
                 "glyph": "きゃ",
                 "options": [
-                  "kya",
-                  "kiya",
-                  "ka",
-                  "kyo"
+                  "KYA",
+                  "Kiya",
+                  "KA",
+                  "KYO"
                 ],
-                "answer": "kya",
+                "answer": "KYA",
                 "explanation": {
                   "id": "きゃ dibaca kya satu ketukan, karena ゃ kecil menyatu dengan き.",
                   "en": "きゃ is read kya, one beat, because the small ゃ joins き."
@@ -2005,12 +2005,12 @@
                 },
                 "glyph": "しゅ",
                 "options": [
-                  "shu",
-                  "shiyu",
-                  "su",
-                  "sho"
+                  "SHU",
+                  "Shiyu",
+                  "SU",
+                  "SHO"
                 ],
-                "answer": "shu",
+                "answer": "SHU",
                 "explanation": {
                   "id": "しゅ dibaca shu satu ketukan; ゅ kecil menyatu dengan し.",
                   "en": "しゅ is read shu, one beat; the small ゅ joins し."
@@ -2042,8 +2042,8 @@
               "kind": "practice",
               "question": {
                 "prompt": {
-                  "id": "Huruf mana yang berbunyi \"ryu\"?",
-                  "en": "Which letters read \"ryu\"?"
+                  "id": "Huruf mana yang berbunyi \"RYU\"?",
+                  "en": "Which letters read \"RYU\"?"
                 },
                 "options": [
                   "りゅ",
@@ -2062,8 +2062,8 @@
               "kind": "practice",
               "question": {
                 "prompt": {
-                  "id": "Huruf mana yang berbunyi \"ja\"?",
-                  "en": "Which letters read \"ja\"?"
+                  "id": "Huruf mana yang berbunyi \"JA\"?",
+                  "en": "Which letters read \"JA\"?"
                 },
                 "options": [
                   "じゃ",
@@ -2087,12 +2087,12 @@
                 },
                 "glyph": "きょう",
                 "options": [
-                  "kyou",
-                  "kiyou",
-                  "kou",
-                  "kyo"
+                  "Kyou",
+                  "Kiyou",
+                  "Kou",
+                  "KYO"
                 ],
-                "answer": "kyou",
+                "answer": "Kyou",
                 "explanation": {
                   "id": "きょう dibaca kyou: きょ (kyo) lalu う memanjangkan o. Bukan kiyou, karena ょ kecil menyatu dengan き.",
                   "en": "きょう is read kyou: きょ (kyo), then う lengthens the o. Not kiyou, because the small ょ joins き."
@@ -2128,12 +2128,12 @@
                 },
                 "glyph": "ちょ",
                 "options": [
-                  "cho",
-                  "chiyo",
-                  "chi",
-                  "cha"
+                  "CHO",
+                  "Chiyo",
+                  "CHI",
+                  "CHA"
                 ],
-                "answer": "cho",
+                "answer": "CHO",
                 "explanation": {
                   "id": "ちょ dibaca cho satu ketukan; ょ kecil menyatu dengan ち.",
                   "en": "ちょ is read cho, one beat; the small ょ joins ち."
@@ -2144,8 +2144,8 @@
               "kind": "quiz",
               "question": {
                 "prompt": {
-                  "id": "Pasangan mana yang membentuk \"kya\"?",
-                  "en": "Which pair forms \"kya\"?"
+                  "id": "Pasangan mana yang membentuk \"KYA\"?",
+                  "en": "Which pair forms \"KYA\"?"
                 },
                 "options": [
                   "き + ゃ",
@@ -2169,12 +2169,12 @@
                 },
                 "glyph": "りょこう",
                 "options": [
-                  "ryokou",
-                  "riyokou",
-                  "ryoku",
-                  "ryou"
+                  "Ryokou",
+                  "Riyokou",
+                  "Ryoku",
+                  "Ryou"
                 ],
-                "answer": "ryokou",
+                "answer": "Ryokou",
                 "explanation": {
                   "id": "りょこう dibaca ryokou: りょ (ryo) lalu こ (ko) lalu う memanjangkan o.",
                   "en": "りょこう is read ryokou: りょ (ryo), then こ (ko), then う lengthens the o."
@@ -2214,7 +2214,7 @@
           },
           "subtitle": {
             "id": "キャ キュ キョ",
-            "en": "kya kyu kyo"
+            "en": "KYA KYU KYO"
           },
           "kana": [
             "kata_kya",
@@ -2595,12 +2595,12 @@
               },
               "glyph": "ジョ",
               "options": [
-                "jo",
-                "jiyo",
-                "ji",
-                "ja"
+                "JO",
+                "Jiyo",
+                "JI",
+                "JA"
               ],
-              "answer": "jo",
+              "answer": "JO",
               "explanation": {
                 "id": "ジョ dibaca jo satu ketukan; ョ kecil menyatu dengan ジ.",
                 "en": "ジョ is read jo, one beat; the small ョ joins ジ."
@@ -2608,8 +2608,8 @@
             },
             {
               "prompt": {
-                "id": "Pasangan mana yang membentuk \"cha\"?",
-                "en": "Which pair forms \"cha\"?"
+                "id": "Pasangan mana yang membentuk \"CHA\"?",
+                "en": "Which pair forms \"CHA\"?"
               },
               "options": [
                 "チ + ャ",
@@ -2630,12 +2630,12 @@
               },
               "glyph": "チョコ",
               "options": [
-                "choko",
-                "chiyoko",
-                "choku",
-                "chooko"
+                "Choko",
+                "Chiyoko",
+                "Choku",
+                "Chooko"
               ],
-              "answer": "choko",
+              "answer": "Choko",
               "explanation": {
                 "id": "チョコ dibaca choko: チョ (cho) lalu コ (ko).",
                 "en": "チョコ is read choko: チョ (cho), then コ (ko)."
@@ -2668,12 +2668,12 @@
               },
               "glyph": "キャ",
               "options": [
-                "kya",
-                "kiya",
-                "ka",
-                "kyo"
+                "KYA",
+                "Kiya",
+                "KA",
+                "KYO"
               ],
-              "answer": "kya",
+              "answer": "KYA",
               "explanation": {
                 "id": "キャ dibaca kya satu ketukan, karena ャ kecil menyatu dengan キ.",
                 "en": "キャ is read kya, one beat, because the small ャ joins キ."
@@ -2686,12 +2686,12 @@
               },
               "glyph": "シュ",
               "options": [
-                "shu",
-                "shiu",
-                "su",
-                "sha"
+                "SHU",
+                "Shiu",
+                "SU",
+                "SHA"
               ],
-              "answer": "shu",
+              "answer": "SHU",
               "explanation": {
                 "id": "シュ dibaca shu satu ketukan; ュ kecil menyatu dengan シ.",
                 "en": "シュ is read shu, one beat; the small ュ joins シ."
@@ -2717,8 +2717,8 @@
             },
             {
               "prompt": {
-                "id": "Huruf mana yang berbunyi \"myu\"?",
-                "en": "Which letters read \"myu\"?"
+                "id": "Huruf mana yang berbunyi \"MYU\"?",
+                "en": "Which letters read \"MYU\"?"
               },
               "options": [
                 "ミュ",
@@ -2734,8 +2734,8 @@
             },
             {
               "prompt": {
-                "id": "Huruf mana yang berbunyi \"pyo\"?",
-                "en": "Which letters read \"pyo\"?"
+                "id": "Huruf mana yang berbunyi \"PYO\"?",
+                "en": "Which letters read \"PYO\"?"
               },
               "options": [
                 "ピョ",
@@ -2756,12 +2756,12 @@
               },
               "glyph": "キャンプ",
               "options": [
-                "kyanpu",
-                "kiyanpu",
-                "kanpu",
-                "kyapu"
+                "Kyanpu",
+                "Kiyanpu",
+                "Kanpu",
+                "Kyapu"
               ],
-              "answer": "kyanpu",
+              "answer": "Kyanpu",
               "explanation": {
                 "id": "キャンプ dibaca kyanpu: キャ (kya) lalu ン (n) lalu プ (pu).",
                 "en": "キャンプ is read kyanpu: キャ (kya), then ン (n), then プ (pu)."
@@ -3436,12 +3436,12 @@
                 },
                 "glyph": "キャ",
                 "options": [
-                  "kya",
-                  "kiya",
-                  "ka",
-                  "kyo"
+                  "KYA",
+                  "Kiya",
+                  "KA",
+                  "KYO"
                 ],
-                "answer": "kya",
+                "answer": "KYA",
                 "explanation": {
                   "id": "キャ dibaca kya satu ketukan, karena ャ kecil menyatu dengan キ.",
                   "en": "キャ is read kya, one beat, because the small ャ joins キ."
@@ -3457,12 +3457,12 @@
                 },
                 "glyph": "シュ",
                 "options": [
-                  "shu",
-                  "shiu",
-                  "su",
-                  "sha"
+                  "SHU",
+                  "Shiu",
+                  "SU",
+                  "SHA"
                 ],
-                "answer": "shu",
+                "answer": "SHU",
                 "explanation": {
                   "id": "シュ dibaca shu satu ketukan; ュ kecil menyatu dengan シ.",
                   "en": "シュ is read shu, one beat; the small ュ joins シ."
@@ -3494,8 +3494,8 @@
               "kind": "practice",
               "question": {
                 "prompt": {
-                  "id": "Huruf mana yang berbunyi \"myu\"?",
-                  "en": "Which letters read \"myu\"?"
+                  "id": "Huruf mana yang berbunyi \"MYU\"?",
+                  "en": "Which letters read \"MYU\"?"
                 },
                 "options": [
                   "ミュ",
@@ -3514,8 +3514,8 @@
               "kind": "practice",
               "question": {
                 "prompt": {
-                  "id": "Huruf mana yang berbunyi \"pyo\"?",
-                  "en": "Which letters read \"pyo\"?"
+                  "id": "Huruf mana yang berbunyi \"PYO\"?",
+                  "en": "Which letters read \"PYO\"?"
                 },
                 "options": [
                   "ピョ",
@@ -3539,12 +3539,12 @@
                 },
                 "glyph": "キャンプ",
                 "options": [
-                  "kyanpu",
-                  "kiyanpu",
-                  "kanpu",
-                  "kyapu"
+                  "Kyanpu",
+                  "Kiyanpu",
+                  "Kanpu",
+                  "Kyapu"
                 ],
-                "answer": "kyanpu",
+                "answer": "Kyanpu",
                 "explanation": {
                   "id": "キャンプ dibaca kyanpu: キャ (kya) lalu ン (n) lalu プ (pu).",
                   "en": "キャンプ is read kyanpu: キャ (kya), then ン (n), then プ (pu)."
@@ -3580,12 +3580,12 @@
                 },
                 "glyph": "ジョ",
                 "options": [
-                  "jo",
-                  "jiyo",
-                  "ji",
-                  "ja"
+                  "JO",
+                  "Jiyo",
+                  "JI",
+                  "JA"
                 ],
-                "answer": "jo",
+                "answer": "JO",
                 "explanation": {
                   "id": "ジョ dibaca jo satu ketukan; ョ kecil menyatu dengan ジ.",
                   "en": "ジョ is read jo, one beat; the small ョ joins ジ."
@@ -3596,8 +3596,8 @@
               "kind": "quiz",
               "question": {
                 "prompt": {
-                  "id": "Pasangan mana yang membentuk \"cha\"?",
-                  "en": "Which pair forms \"cha\"?"
+                  "id": "Pasangan mana yang membentuk \"CHA\"?",
+                  "en": "Which pair forms \"CHA\"?"
                 },
                 "options": [
                   "チ + ャ",
@@ -3621,12 +3621,12 @@
                 },
                 "glyph": "チョコ",
                 "options": [
-                  "choko",
-                  "chiyoko",
-                  "choku",
-                  "chooko"
+                  "Choko",
+                  "Chiyoko",
+                  "Choku",
+                  "Chooko"
                 ],
-                "answer": "choko",
+                "answer": "Choko",
                 "explanation": {
                   "id": "チョコ dibaca choko: チョ (cho) lalu コ (ko).",
                   "en": "チョコ is read choko: チョ (cho), then コ (ko)."
@@ -3675,7 +3675,7 @@
           },
           "subtitle": {
             "id": "ああ, いい, うう",
-            "en": "aa, ii, uu"
+            "en": "AA, II, UU"
           },
           "kana": [
             "hira_a",
@@ -3870,8 +3870,8 @@
             },
             {
               "prompt": {
-                "id": "Bunyi \"ee\" panjang biasanya ditulis dengan menambah apa?",
-                "en": "A long \"ee\" sound is usually written by adding what?"
+                "id": "Bunyi \"EE\" panjang biasanya ditulis dengan menambah apa?",
+                "en": "A long \"EE\" sound is usually written by adding what?"
               },
               "options": [
                 "い",
@@ -3887,8 +3887,8 @@
             },
             {
               "prompt": {
-                "id": "Bunyi \"oo\" panjang biasanya ditulis dengan menambah apa?",
-                "en": "A long \"oo\" sound is usually written by adding what?"
+                "id": "Bunyi \"OO\" panjang biasanya ditulis dengan menambah apa?",
+                "en": "A long \"OO\" sound is usually written by adding what?"
               },
               "options": [
                 "う",
@@ -3911,12 +3911,12 @@
               },
               "glyph": "おかあさん",
               "options": [
-                "okaasan",
-                "okasan",
-                "okausan",
-                "ookasan"
+                "Okaasan",
+                "Okasan",
+                "Okausan",
+                "Ookasan"
               ],
-              "answer": "okaasan",
+              "answer": "Okaasan",
               "explanation": {
                 "id": "おかあさん dibaca okaasan: o-ka-a-sa-n, lima ketukan. Huruf あ kedua memanjangkan a.",
                 "en": "おかあさん is read okaasan: o-ka-a-sa-n, five beats. The second あ lengthens the a."
@@ -3964,12 +3964,12 @@
               },
               "glyph": "せんせい",
               "options": [
-                "sensei",
-                "sense",
-                "sensee",
-                "sennsei"
+                "Sensei",
+                "Sense",
+                "Sensee",
+                "Sennsei"
               ],
-              "answer": "sensei",
+              "answer": "Sensei",
               "explanation": {
                 "id": "せんせい dibaca sensei: えい dibaca ee panjang, jadi bukan sensee dan bukan sense.",
                 "en": "せんせい is read sensei: えい is a long ee, so it is not sensee and not sense."
@@ -3982,12 +3982,12 @@
               },
               "glyph": "おとうさん",
               "options": [
-                "otousan",
-                "otosan",
-                "otoosan",
-                "otonsan"
+                "Otousan",
+                "Otosan",
+                "Otoosan",
+                "Otonsan"
               ],
-              "answer": "otousan",
+              "answer": "Otousan",
               "explanation": {
                 "id": "おとうさん dibaca otousan: おう dibaca oo panjang, jadi bukan otosan yang pendek.",
                 "en": "おとうさん is read otousan: おう is a long oo, so it is not the short otosan."
@@ -4371,12 +4371,12 @@
                 },
                 "glyph": "おかあさん",
                 "options": [
-                  "okaasan",
-                  "okasan",
-                  "okausan",
-                  "ookasan"
+                  "Okaasan",
+                  "Okasan",
+                  "Okausan",
+                  "Ookasan"
                 ],
-                "answer": "okaasan",
+                "answer": "Okaasan",
                 "explanation": {
                   "id": "おかあさん dibaca okaasan: o-ka-a-sa-n, lima ketukan. Huruf あ kedua memanjangkan a.",
                   "en": "おかあさん is read okaasan: o-ka-a-sa-n, five beats. The second あ lengthens the a."
@@ -4433,12 +4433,12 @@
                 },
                 "glyph": "せんせい",
                 "options": [
-                  "sensei",
-                  "sense",
-                  "sensee",
-                  "sennsei"
+                  "Sensei",
+                  "Sense",
+                  "Sensee",
+                  "Sennsei"
                 ],
-                "answer": "sensei",
+                "answer": "Sensei",
                 "explanation": {
                   "id": "せんせい dibaca sensei: えい dibaca ee panjang, jadi bukan sensee dan bukan sense.",
                   "en": "せんせい is read sensei: えい is a long ee, so it is not sensee and not sense."
@@ -4454,12 +4454,12 @@
                 },
                 "glyph": "おとうさん",
                 "options": [
-                  "otousan",
-                  "otosan",
-                  "otoosan",
-                  "otonsan"
+                  "Otousan",
+                  "Otosan",
+                  "Otoosan",
+                  "Otonsan"
                 ],
-                "answer": "otousan",
+                "answer": "Otousan",
                 "explanation": {
                   "id": "おとうさん dibaca otousan: おう dibaca oo panjang, jadi bukan otosan yang pendek.",
                   "en": "おとうさん is read otousan: おう is a long oo, so it is not the short otosan."
@@ -4533,8 +4533,8 @@
               "kind": "quiz",
               "question": {
                 "prompt": {
-                  "id": "Bunyi \"ee\" panjang biasanya ditulis dengan menambah apa?",
-                  "en": "A long \"ee\" sound is usually written by adding what?"
+                  "id": "Bunyi \"EE\" panjang biasanya ditulis dengan menambah apa?",
+                  "en": "A long \"EE\" sound is usually written by adding what?"
                 },
                 "options": [
                   "い",
@@ -4553,8 +4553,8 @@
               "kind": "quiz",
               "question": {
                 "prompt": {
-                  "id": "Bunyi \"oo\" panjang biasanya ditulis dengan menambah apa?",
-                  "en": "A long \"oo\" sound is usually written by adding what?"
+                  "id": "Bunyi \"OO\" panjang biasanya ditulis dengan menambah apa?",
+                  "en": "A long \"OO\" sound is usually written by adding what?"
                 },
                 "options": [
                   "う",
@@ -4581,7 +4581,7 @@
           },
           "subtitle": {
             "id": "アー, イー, ウー",
-            "en": "aa, ii, uu"
+            "en": "AA, II, UU"
           },
           "kana": [
             "kata_a",
@@ -4773,12 +4773,12 @@
               },
               "glyph": "コーヒー",
               "options": [
-                "koohii",
-                "kohi",
-                "kofii",
-                "koohi"
+                "Koohii",
+                "Kohi",
+                "Kofii",
+                "Koohi"
               ],
-              "answer": "koohii",
+              "answer": "Koohii",
               "explanation": {
                 "id": "コーヒー dibaca koohii: ko-o-hi-i, empat ketukan. Tanpa ー, bunyinya jadi pendek.",
                 "en": "コーヒー is read koohii: ko-o-hi-i, four beats. Without ー, the sound becomes short."
@@ -4826,12 +4826,12 @@
               },
               "glyph": "タクシー",
               "options": [
-                "takushii",
-                "takushi",
-                "takushitsu",
-                "takusi"
+                "Takushii",
+                "Takushi",
+                "Takushitsu",
+                "Takusi"
               ],
-              "answer": "takushii",
+              "answer": "Takushii",
               "explanation": {
                 "id": "タクシー dibaca takushii: ta-ku-shi-i. Huruf ー di akhir memanjangkan i.",
                 "en": "タクシー is read takushii: ta-ku-shi-i. The ー at the end lengthens the i."
@@ -4839,8 +4839,8 @@
             },
             {
               "prompt": {
-                "id": "Bagaimana cara katakana yang biasa untuk menulis \"aa\" panjang?",
-                "en": "What is the usual katakana way to write a long \"aa\"?"
+                "id": "Bagaimana cara katakana yang biasa untuk menulis \"AA\" panjang?",
+                "en": "What is the usual katakana way to write a long \"AA\"?"
               },
               "options": [
                 "アー",
@@ -5064,12 +5064,12 @@
                 },
                 "glyph": "コーヒー",
                 "options": [
-                  "koohii",
-                  "kohi",
-                  "kofii",
-                  "koohi"
+                  "Koohii",
+                  "Kohi",
+                  "Kofii",
+                  "Koohi"
                 ],
-                "answer": "koohii",
+                "answer": "Koohii",
                 "explanation": {
                   "id": "コーヒー dibaca koohii: ko-o-hi-i, empat ketukan. Tanpa ー, bunyinya jadi pendek.",
                   "en": "コーヒー is read koohii: ko-o-hi-i, four beats. Without ー, the sound becomes short."
@@ -5126,12 +5126,12 @@
                 },
                 "glyph": "タクシー",
                 "options": [
-                  "takushii",
-                  "takushi",
-                  "takushitsu",
-                  "takusi"
+                  "Takushii",
+                  "Takushi",
+                  "Takushitsu",
+                  "Takusi"
                 ],
-                "answer": "takushii",
+                "answer": "Takushii",
                 "explanation": {
                   "id": "タクシー dibaca takushii: ta-ku-shi-i. Huruf ー di akhir memanjangkan i.",
                   "en": "タクシー is read takushii: ta-ku-shi-i. The ー at the end lengthens the i."
@@ -5142,8 +5142,8 @@
               "kind": "practice",
               "question": {
                 "prompt": {
-                  "id": "Bagaimana cara katakana yang biasa untuk menulis \"aa\" panjang?",
-                  "en": "What is the usual katakana way to write a long \"aa\"?"
+                  "id": "Bagaimana cara katakana yang biasa untuk menulis \"AA\" panjang?",
+                  "en": "What is the usual katakana way to write a long \"AA\"?"
                 },
                 "options": [
                   "アー",
@@ -5261,7 +5261,7 @@
           },
           "subtitle": {
             "id": "ファ フィ フェ フォ",
-            "en": "fa fi fe fo"
+            "en": "FA FI FE FO"
           },
           "combos": [
             {
@@ -5558,12 +5558,12 @@
                 "en": "What sound is this?"
               },
               "options": [
-                "fa",
-                "fu a",
-                "ha",
-                "fua"
+                "FA",
+                "Fu a",
+                "HA",
+                "Fua"
               ],
-              "answer": "fa",
+              "answer": "FA",
               "explanation": {
                 "id": "ファ adalah satu bunyi fa, bukan fu + a.",
                 "en": "ファ is a single sound fa, not fu + a."
@@ -5576,12 +5576,12 @@
                 "en": "What sound is this?"
               },
               "options": [
-                "ti",
-                "te i",
-                "chi",
-                "tei"
+                "TI",
+                "Te i",
+                "CHI",
+                "Tei"
               ],
-              "answer": "ti",
+              "answer": "TI",
               "explanation": {
                 "id": "ティ adalah satu bunyi ti: テ + ィ kecil.",
                 "en": "ティ is a single sound ti: テ + small ィ."
@@ -5590,8 +5590,8 @@
             },
             {
               "prompt": {
-                "id": "Pasangan mana yang membentuk \"je\"?",
-                "en": "Which pair forms \"je\"?"
+                "id": "Pasangan mana yang membentuk \"JE\"?",
+                "en": "Which pair forms \"JE\"?"
               },
               "options": [
                 "ジ + ェ",
@@ -5626,8 +5626,8 @@
           "practice": [
             {
               "prompt": {
-                "id": "Pasangan mana yang membentuk \"fe\"?",
-                "en": "Which pair forms \"fe\"?"
+                "id": "Pasangan mana yang membentuk \"FE\"?",
+                "en": "Which pair forms \"FE\"?"
               },
               "options": [
                 "フ + ェ",
@@ -5643,8 +5643,8 @@
             },
             {
               "prompt": {
-                "id": "Huruf mana yang berbunyi \"she\"?",
-                "en": "Which letters read \"she\"?"
+                "id": "Huruf mana yang berbunyi \"SHE\"?",
+                "en": "Which letters read \"SHE\"?"
               },
               "options": [
                 "シェ",
@@ -5681,12 +5681,12 @@
                 "en": "What sound is this?"
               },
               "options": [
-                "vu",
-                "u",
-                "bu",
-                "fu"
+                "VU",
+                "U",
+                "BU",
+                "FU"
               ],
-              "answer": "vu",
+              "answer": "VU",
               "explanation": {
                 "id": "ヴ adalah ウ dengan dakuten, dibaca vu. Bukan u biasa.",
                 "en": "ヴ is ウ with a dakuten mark, read vu. Not a plain u."
@@ -5699,12 +5699,12 @@
                 "en": "How is the word パーティー read?"
               },
               "options": [
-                "paatii",
-                "patei",
-                "patii",
-                "hatii"
+                "Paatii",
+                "Patei",
+                "Patii",
+                "Hatii"
               ],
-              "answer": "paatii",
+              "answer": "Paatii",
               "explanation": {
                 "id": "パー panjang (pa-a) + ティ (ti) = paatii.",
                 "en": "Long パー (pa-a) + ティ (ti) gives paatii."
@@ -6099,8 +6099,8 @@
               "kind": "practice",
               "question": {
                 "prompt": {
-                  "id": "Pasangan mana yang membentuk \"fe\"?",
-                  "en": "Which pair forms \"fe\"?"
+                  "id": "Pasangan mana yang membentuk \"FE\"?",
+                  "en": "Which pair forms \"FE\"?"
                 },
                 "options": [
                   "フ + ェ",
@@ -6119,8 +6119,8 @@
               "kind": "practice",
               "question": {
                 "prompt": {
-                  "id": "Huruf mana yang berbunyi \"she\"?",
-                  "en": "Which letters read \"she\"?"
+                  "id": "Huruf mana yang berbunyi \"SHE\"?",
+                  "en": "Which letters read \"SHE\"?"
                 },
                 "options": [
                   "シェ",
@@ -6163,12 +6163,12 @@
                   "en": "What sound is this?"
                 },
                 "options": [
-                  "vu",
-                  "u",
-                  "bu",
-                  "fu"
+                  "VU",
+                  "U",
+                  "BU",
+                  "FU"
                 ],
-                "answer": "vu",
+                "answer": "VU",
                 "explanation": {
                   "id": "ヴ adalah ウ dengan dakuten, dibaca vu. Bukan u biasa.",
                   "en": "ヴ is ウ with a dakuten mark, read vu. Not a plain u."
@@ -6184,12 +6184,12 @@
                   "en": "How is the word パーティー read?"
                 },
                 "options": [
-                  "paatii",
-                  "patei",
-                  "patii",
-                  "hatii"
+                  "Paatii",
+                  "Patei",
+                  "Patii",
+                  "Hatii"
                 ],
-                "answer": "paatii",
+                "answer": "Paatii",
                 "explanation": {
                   "id": "パー panjang (pa-a) + ティ (ti) = paatii.",
                   "en": "Long パー (pa-a) + ティ (ti) gives paatii."
@@ -6204,12 +6204,12 @@
                   "en": "What sound is this?"
                 },
                 "options": [
-                  "fa",
-                  "fu a",
-                  "ha",
-                  "fua"
+                  "FA",
+                  "Fu a",
+                  "HA",
+                  "Fua"
                 ],
-                "answer": "fa",
+                "answer": "FA",
                 "explanation": {
                   "id": "ファ adalah satu bunyi fa, bukan fu + a.",
                   "en": "ファ is a single sound fa, not fu + a."
@@ -6225,12 +6225,12 @@
                   "en": "What sound is this?"
                 },
                 "options": [
-                  "ti",
-                  "te i",
-                  "chi",
-                  "tei"
+                  "TI",
+                  "Te i",
+                  "CHI",
+                  "Tei"
                 ],
-                "answer": "ti",
+                "answer": "TI",
                 "explanation": {
                   "id": "ティ adalah satu bunyi ti: テ + ィ kecil.",
                   "en": "ティ is a single sound ti: テ + small ィ."
@@ -6242,8 +6242,8 @@
               "kind": "quiz",
               "question": {
                 "prompt": {
-                  "id": "Pasangan mana yang membentuk \"je\"?",
-                  "en": "Which pair forms \"je\"?"
+                  "id": "Pasangan mana yang membentuk \"JE\"?",
+                  "en": "Which pair forms \"JE\"?"
                 },
                 "options": [
                   "ジ + ェ",
@@ -6380,9 +6380,9 @@
               },
               "options": [
                 "jeda satu mora yang menggandakan konsonan berikutnya",
-                "tsu",
-                "su",
-                "chi"
+                "TSU",
+                "SU",
+                "CHI"
               ],
               "answer": "jeda satu mora yang menggandakan konsonan berikutnya",
               "explanation": {
@@ -6449,12 +6449,12 @@
                 "en": "How is the word きって read?"
               },
               "options": [
-                "kitte",
-                "kite",
-                "kitsute",
-                "kitete"
+                "Kitte",
+                "Kite",
+                "Kitsute",
+                "Kitete"
               ],
-              "answer": "kitte",
+              "answer": "Kitte",
               "explanation": {
                 "id": "っ menggandakan t, jadi ki-t-te: kitte. Tanpa っ, jadinya kite.",
                 "en": "っ doubles the t, so ki-t-te: kitte. Without っ it would be kite."
@@ -6466,12 +6466,12 @@
                 "en": "How is the word もっと read?"
               },
               "options": [
-                "motto",
-                "moto",
-                "motsuto",
-                "mooto"
+                "Motto",
+                "Moto",
+                "Motsuto",
+                "Mooto"
               ],
-              "answer": "motto",
+              "answer": "Motto",
               "explanation": {
                 "id": "っ menggandakan t: mo-t-to, motto. っ sendiri tidak dibaca tsu.",
                 "en": "っ doubles the t: mo-t-to, motto. っ on its own is never read tsu."
@@ -6691,12 +6691,12 @@
                   "en": "How is the word きって read?"
                 },
                 "options": [
-                  "kitte",
-                  "kite",
-                  "kitsute",
-                  "kitete"
+                  "Kitte",
+                  "Kite",
+                  "Kitsute",
+                  "Kitete"
                 ],
-                "answer": "kitte",
+                "answer": "Kitte",
                 "explanation": {
                   "id": "っ menggandakan t, jadi ki-t-te: kitte. Tanpa っ, jadinya kite.",
                   "en": "っ doubles the t, so ki-t-te: kitte. Without っ it would be kite."
@@ -6711,12 +6711,12 @@
                   "en": "How is the word もっと read?"
                 },
                 "options": [
-                  "motto",
-                  "moto",
-                  "motsuto",
-                  "mooto"
+                  "Motto",
+                  "Moto",
+                  "Motsuto",
+                  "Mooto"
                 ],
-                "answer": "motto",
+                "answer": "Motto",
                 "explanation": {
                   "id": "っ menggandakan t: mo-t-to, motto. っ sendiri tidak dibaca tsu.",
                   "en": "っ doubles the t: mo-t-to, motto. っ on its own is never read tsu."
@@ -6772,9 +6772,9 @@
                 },
                 "options": [
                   "jeda satu mora yang menggandakan konsonan berikutnya",
-                  "tsu",
-                  "su",
-                  "chi"
+                  "TSU",
+                  "SU",
+                  "CHI"
                 ],
                 "answer": "jeda satu mora yang menggandakan konsonan berikutnya",
                 "explanation": {
@@ -6936,9 +6936,9 @@
               },
               "options": [
                 "jeda satu mora yang menggandakan konsonan berikutnya",
-                "tsu",
-                "su",
-                "te"
+                "TSU",
+                "SU",
+                "TE"
               ],
               "answer": "jeda satu mora yang menggandakan konsonan berikutnya",
               "explanation": {
@@ -7005,12 +7005,12 @@
                 "en": "How is the word カップ read?"
               },
               "options": [
-                "kappu",
-                "kapu",
-                "katsupu",
-                "kaapu"
+                "Kappu",
+                "Kapu",
+                "Katsupu",
+                "Kaapu"
               ],
-              "answer": "kappu",
+              "answer": "Kappu",
               "explanation": {
                 "id": "ッ menggandakan p: ka-p-pu, kappu. Tanpa ッ, jadinya kapu.",
                 "en": "ッ doubles the p: ka-p-pu, kappu. Without ッ it would be kapu."
@@ -7022,12 +7022,12 @@
                 "en": "How is the word ネット read?"
               },
               "options": [
-                "netto",
-                "neto",
-                "netsuto",
-                "neeto"
+                "Netto",
+                "Neto",
+                "Netsuto",
+                "Neeto"
               ],
-              "answer": "netto",
+              "answer": "Netto",
               "explanation": {
                 "id": "ッ menggandakan t: ne-t-to, netto. ッ sendiri tidak dibaca tsu.",
                 "en": "ッ doubles the t: ne-t-to, netto. ッ on its own is never read tsu."
@@ -7056,12 +7056,12 @@
                 "en": "How is the word ベッド read?"
               },
               "options": [
-                "beddo",
-                "bedo",
-                "betsudo",
-                "beedo"
+                "Beddo",
+                "Bedo",
+                "Betsudo",
+                "Beedo"
               ],
-              "answer": "beddo",
+              "answer": "Beddo",
               "explanation": {
                 "id": "ッ menggandakan d: be-d-do, beddo.",
                 "en": "ッ doubles the d: be-d-do, beddo."
@@ -7247,12 +7247,12 @@
                   "en": "How is the word カップ read?"
                 },
                 "options": [
-                  "kappu",
-                  "kapu",
-                  "katsupu",
-                  "kaapu"
+                  "Kappu",
+                  "Kapu",
+                  "Katsupu",
+                  "Kaapu"
                 ],
-                "answer": "kappu",
+                "answer": "Kappu",
                 "explanation": {
                   "id": "ッ menggandakan p: ka-p-pu, kappu. Tanpa ッ, jadinya kapu.",
                   "en": "ッ doubles the p: ka-p-pu, kappu. Without ッ it would be kapu."
@@ -7267,12 +7267,12 @@
                   "en": "How is the word ネット read?"
                 },
                 "options": [
-                  "netto",
-                  "neto",
-                  "netsuto",
-                  "neeto"
+                  "Netto",
+                  "Neto",
+                  "Netsuto",
+                  "Neeto"
                 ],
-                "answer": "netto",
+                "answer": "Netto",
                 "explanation": {
                   "id": "ッ menggandakan t: ne-t-to, netto. ッ sendiri tidak dibaca tsu.",
                   "en": "ッ doubles the t: ne-t-to, netto. ッ on its own is never read tsu."
@@ -7307,12 +7307,12 @@
                   "en": "How is the word ベッド read?"
                 },
                 "options": [
-                  "beddo",
-                  "bedo",
-                  "betsudo",
-                  "beedo"
+                  "Beddo",
+                  "Bedo",
+                  "Betsudo",
+                  "Beedo"
                 ],
-                "answer": "beddo",
+                "answer": "Beddo",
                 "explanation": {
                   "id": "ッ menggandakan d: be-d-do, beddo.",
                   "en": "ッ doubles the d: be-d-do, beddo."
@@ -7328,9 +7328,9 @@
                 },
                 "options": [
                   "jeda satu mora yang menggandakan konsonan berikutnya",
-                  "tsu",
-                  "su",
-                  "te"
+                  "TSU",
+                  "SU",
+                  "TE"
                 ],
                 "answer": "jeda satu mora yang menggandakan konsonan berikutnya",
                 "explanation": {

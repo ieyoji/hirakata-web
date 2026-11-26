@@ -778,17 +778,12 @@
                   "en": "Yoon: Two Letters, One Sound"
                 },
                 "body": {
-                  "id": "Yoon: dua huruf dibaca jadi satu bunyi. Ambil kana kolom i seperti き, tambah huruf kecil ゃ, ゅ, atau ょ. Jadi き + ゃ = きゃ, dibaca kya.",
-                  "en": "Yoon is two letters read as one sound. Take an i-column kana like き, then add a small ゃ, ゅ, or ょ. So き + ゃ = きゃ, read kya."
+                  "id": "Yoon: dua huruf dibaca jadi satu bunyi. Ambil kana kolom i seperti き, tambah huruf kecil ゃ, ゅ, atau ょ. Huruf kecil itu ditulis lebih kecil dan menempel pada kana sebelumnya. Jadi き + ゃ = きゃ, dibaca kya, satu ketukan saja, bukan dua.",
+                  "en": "Yoon is two letters read as one sound. Take an i-column kana like き, then add a small ゃ, ゅ, or ょ. The small letter is written smaller, attached to the kana before it. So き + ゃ = きゃ, read kya, just one beat, not two."
                 },
                 "glyph": "きゃ",
                 "romaji": "kya",
-                "rows": [
-                  {
-                    "glyph": "きゃ",
-                    "romaji": "kya"
-                  }
-                ]
+                "rows": []
               }
             },
             {
@@ -849,8 +844,8 @@
                   "en": "The shi group: sha shu sho"
                 },
                 "body": {
-                  "id": "し bertemu huruf kecil ゃ, ゅ, dan ょ.",
-                  "en": "し meets small ゃ, ゅ, and ょ."
+                  "id": "し bertemu huruf kecil ゃ, ゅ, dan ょ. Jadinya しゃ (sha), しゅ (shu), dan しょ (sho), masing-masing satu ketukan.",
+                  "en": "し meets small ゃ, ゅ, and ょ. That makes しゃ (sha), しゅ (shu), and しょ (sho), each one beat."
                 },
                 "glyph": "しゃ",
                 "romaji": "sha",
@@ -899,8 +894,8 @@
                   "en": "The chi group: cha chu cho"
                 },
                 "body": {
-                  "id": "ち bertemu huruf kecil ゃ, ゅ, dan ょ.",
-                  "en": "ち meets small ゃ, ゅ, and ょ."
+                  "id": "ち bertemu huruf kecil ゃ, ゅ, dan ょ. Jadinya ちゃ (cha), ちゅ (chu), dan ちょ (cho), masing-masing satu ketukan.",
+                  "en": "ち meets small ゃ, ゅ, and ょ. That makes ちゃ (cha), ちゅ (chu), and ちょ (cho), each one beat."
                 },
                 "glyph": "ちゃ",
                 "romaji": "cha",
@@ -941,8 +936,8 @@
                   "en": "The ni group: nya nyu nyo"
                 },
                 "body": {
-                  "id": "に bertemu huruf kecil ゃ, ゅ, dan ょ.",
-                  "en": "に meets small ゃ, ゅ, and ょ."
+                  "id": "に bertemu huruf kecil ゃ, ゅ, dan ょ. Jadinya にゃ (nya), にゅ (nyu), dan にょ (nyo), masing-masing satu ketukan.",
+                  "en": "に meets small ゃ, ゅ, and ょ. That makes にゃ (nya), にゅ (nyu), and にょ (nyo), each one beat."
                 },
                 "glyph": "にゃ",
                 "romaji": "nya",
@@ -983,8 +978,8 @@
                   "en": "The hi group: hya hyu hyo"
                 },
                 "body": {
-                  "id": "ひ bertemu huruf kecil ゃ, ゅ, dan ょ.",
-                  "en": "ひ meets small ゃ, ゅ, and ょ."
+                  "id": "ひ bertemu huruf kecil ゃ, ゅ, dan ょ. Jadinya ひゃ (hya), ひゅ (hyu), dan ひょ (hyo), masing-masing satu ketukan.",
+                  "en": "ひ meets small ゃ, ゅ, and ょ. That makes ひゃ (hya), ひゅ (hyu), and ひょ (hyo), each one beat."
                 },
                 "glyph": "ひゃ",
                 "romaji": "hya",
@@ -1025,8 +1020,8 @@
                   "en": "The mi group: mya myu myo"
                 },
                 "body": {
-                  "id": "み bertemu huruf kecil ゃ, ゅ, dan ょ.",
-                  "en": "み meets small ゃ, ゅ, and ょ."
+                  "id": "み bertemu huruf kecil ゃ, ゅ, dan ょ. Jadinya みゃ (mya), みゅ (myu), dan みょ (myo), masing-masing satu ketukan.",
+                  "en": "み meets small ゃ, ゅ, and ょ. That makes みゃ (mya), みゅ (myu), and みょ (myo), each one beat."
                 },
                 "glyph": "みゃ",
                 "romaji": "mya",
@@ -1067,8 +1062,8 @@
                   "en": "The ri group: rya ryu ryo"
                 },
                 "body": {
-                  "id": "り bertemu huruf kecil ゃ, ゅ, dan ょ.",
-                  "en": "り meets small ゃ, ゅ, and ょ."
+                  "id": "り bertemu huruf kecil ゃ, ゅ, dan ょ. Jadinya りゃ (rya), りゅ (ryu), dan りょ (ryo), masing-masing satu ketukan.",
+                  "en": "り meets small ゃ, ゅ, and ょ. That makes りゃ (rya), りゅ (ryu), and りょ (ryo), each one beat."
                 },
                 "glyph": "りゃ",
                 "romaji": "rya",
@@ -1117,8 +1112,8 @@
                   "en": "The gi group: gya gyu gyo"
                 },
                 "body": {
-                  "id": "ぎ bertemu huruf kecil ゃ, ゅ, dan ょ.",
-                  "en": "ぎ meets small ゃ, ゅ, and ょ."
+                  "id": "ぎ bertemu huruf kecil ゃ, ゅ, dan ょ. Jadinya ぎゃ (gya), ぎゅ (gyu), dan ぎょ (gyo), masing-masing satu ketukan.",
+                  "en": "ぎ meets small ゃ, ゅ, and ょ. That makes ぎゃ (gya), ぎゅ (gyu), and ぎょ (gyo), each one beat."
                 },
                 "glyph": "ぎゃ",
                 "romaji": "gya",
@@ -1159,8 +1154,8 @@
                   "en": "The ja group: ja ju jo"
                 },
                 "body": {
-                  "id": "じ bertemu huruf kecil ゃ, ゅ, dan ょ.",
-                  "en": "じ meets small ゃ, ゅ, and ょ."
+                  "id": "じ bertemu huruf kecil ゃ, ゅ, dan ょ. Jadinya じゃ (ja), じゅ (ju), dan じょ (jo), masing-masing satu ketukan.",
+                  "en": "じ meets small ゃ, ゅ, and ょ. That makes じゃ (ja), じゅ (ju), and じょ (jo), each one beat."
                 },
                 "glyph": "じゃ",
                 "romaji": "ja",
@@ -1201,8 +1196,8 @@
                   "en": "The bi group: bya byu byo"
                 },
                 "body": {
-                  "id": "び bertemu huruf kecil ゃ, ゅ, dan ょ.",
-                  "en": "び meets small ゃ, ゅ, and ょ."
+                  "id": "び bertemu huruf kecil ゃ, ゅ, dan ょ. Jadinya びゃ (bya), びゅ (byu), dan びょ (byo), masing-masing satu ketukan.",
+                  "en": "び meets small ゃ, ゅ, and ょ. That makes びゃ (bya), びゅ (byu), and びょ (byo), each one beat."
                 },
                 "glyph": "びゃ",
                 "romaji": "bya",
@@ -1243,8 +1238,8 @@
                   "en": "The pi group: pya pyu pyo"
                 },
                 "body": {
-                  "id": "ぴゃ (pya), ぴゅ (pyu), ぴょ (pyo).",
-                  "en": "ぴゃ (pya), ぴゅ (pyu), ぴょ (pyo)."
+                  "id": "ぴ bertemu huruf kecil ゃ, ゅ, dan ょ. Jadinya ぴゃ (pya), ぴゅ (pyu), dan ぴょ (pyo), masing-masing satu ketukan.",
+                  "en": "ぴ meets small ゃ, ゅ, and ょ. That makes ぴゃ (pya), ぴゅ (pyu), and ぴょ (pyo), each one beat."
                 },
                 "glyph": "ぴゃ",
                 "romaji": "pya",
@@ -1614,17 +1609,12 @@
                   "en": "Katakana Yoon: The Same Rule"
                 },
                 "body": {
-                  "id": "Yoon di katakana sama saja. Ambil kana kolom i seperti キ, tambah huruf kecil ャ, ュ, atau ョ. Jadi キ + ャ = キャ, dibaca kya, satu ketukan (mora).",
-                  "en": "Yoon works the same in katakana. Take an i-column kana like キ, add a small ャ, ュ, or ョ. So キ + ャ = キャ, read kya, one beat (mora)."
+                  "id": "Yoon di katakana sama saja. Ambil kana kolom i seperti キ, tambah huruf kecil ャ, ュ, atau ョ. Huruf kecil itu ditulis lebih kecil dan menempel pada kana sebelumnya. Jadi キ + ャ = キャ, dibaca kya, satu ketukan saja, bukan dua.",
+                  "en": "Yoon works the same in katakana. Take an i-column kana like キ, then add a small ャ, ュ, or ョ. The small letter is written smaller, attached to the kana before it. So キ + ャ = キャ, read kya, just one beat, not two."
                 },
                 "glyph": "キャ",
                 "romaji": "kya",
-                "rows": [
-                  {
-                    "glyph": "キャ",
-                    "romaji": "kya"
-                  }
-                ]
+                "rows": []
               }
             },
             {
@@ -1685,8 +1675,8 @@
                   "en": "The shi group: sha shu sho"
                 },
                 "body": {
-                  "id": "シ bertemu huruf kecil ャ, ュ, dan ョ.",
-                  "en": "シ meets small ャ, ュ, and ョ."
+                  "id": "シ bertemu huruf kecil ャ, ュ, dan ョ. Jadinya シャ (sha), シュ (shu), dan ショ (sho), masing-masing satu ketukan.",
+                  "en": "シ meets small ャ, ュ, and ョ. That makes シャ (sha), シュ (shu), and ショ (sho), each one beat."
                 },
                 "glyph": "シャ",
                 "romaji": "sha",
@@ -1727,8 +1717,8 @@
                   "en": "The chi group: cha chu cho"
                 },
                 "body": {
-                  "id": "チ bertemu huruf kecil ャ, ュ, dan ョ.",
-                  "en": "チ meets small ャ, ュ, and ョ."
+                  "id": "チ bertemu huruf kecil ャ, ュ, dan ョ. Jadinya チャ (cha), チュ (chu), dan チョ (cho), masing-masing satu ketukan.",
+                  "en": "チ meets small ャ, ュ, and ョ. That makes チャ (cha), チュ (chu), and チョ (cho), each one beat."
                 },
                 "glyph": "チャ",
                 "romaji": "cha",
@@ -1777,8 +1767,8 @@
                   "en": "The ni group: nya nyu nyo"
                 },
                 "body": {
-                  "id": "ニ bertemu huruf kecil ャ, ュ, dan ョ.",
-                  "en": "ニ meets small ャ, ュ, and ョ."
+                  "id": "ニ bertemu huruf kecil ャ, ュ, dan ョ. Jadinya ニャ (nya), ニュ (nyu), dan ニョ (nyo), masing-masing satu ketukan.",
+                  "en": "ニ meets small ャ, ュ, and ョ. That makes ニャ (nya), ニュ (nyu), and ニョ (nyo), each one beat."
                 },
                 "glyph": "ニャ",
                 "romaji": "nya",
@@ -1819,8 +1809,8 @@
                   "en": "The hi group: hya hyu hyo"
                 },
                 "body": {
-                  "id": "ヒ bertemu huruf kecil ャ, ュ, dan ョ.",
-                  "en": "ヒ meets small ャ, ュ, and ョ."
+                  "id": "ヒ bertemu huruf kecil ャ, ュ, dan ョ. Jadinya ヒャ (hya), ヒュ (hyu), dan ヒョ (hyo), masing-masing satu ketukan.",
+                  "en": "ヒ meets small ャ, ュ, and ョ. That makes ヒャ (hya), ヒュ (hyu), and ヒョ (hyo), each one beat."
                 },
                 "glyph": "ヒャ",
                 "romaji": "hya",
@@ -1861,8 +1851,8 @@
                   "en": "The mi group: mya myu myo"
                 },
                 "body": {
-                  "id": "ミ bertemu huruf kecil ャ, ュ, dan ョ.",
-                  "en": "ミ meets small ャ, ュ, and ョ."
+                  "id": "ミ bertemu huruf kecil ャ, ュ, dan ョ. Jadinya ミャ (mya), ミュ (myu), dan ミョ (myo), masing-masing satu ketukan.",
+                  "en": "ミ meets small ャ, ュ, and ョ. That makes ミャ (mya), ミュ (myu), and ミョ (myo), each one beat."
                 },
                 "glyph": "ミャ",
                 "romaji": "mya",
@@ -1903,8 +1893,8 @@
                   "en": "The ri group: rya ryu ryo"
                 },
                 "body": {
-                  "id": "リ bertemu huruf kecil ャ, ュ, dan ョ.",
-                  "en": "リ meets small ャ, ュ, and ョ."
+                  "id": "リ bertemu huruf kecil ャ, ュ, dan ョ. Jadinya リャ (rya), リュ (ryu), dan リョ (ryo), masing-masing satu ketukan.",
+                  "en": "リ meets small ャ, ュ, and ョ. That makes リャ (rya), リュ (ryu), and リョ (ryo), each one beat."
                 },
                 "glyph": "リャ",
                 "romaji": "rya",
@@ -1945,8 +1935,8 @@
                   "en": "The gi group: gya gyu gyo"
                 },
                 "body": {
-                  "id": "ギ bertemu huruf kecil ャ, ュ, dan ョ.",
-                  "en": "ギ meets small ャ, ュ, and ョ."
+                  "id": "ギ bertemu huruf kecil ャ, ュ, dan ョ. Jadinya ギャ (gya), ギュ (gyu), dan ギョ (gyo), masing-masing satu ketukan.",
+                  "en": "ギ meets small ャ, ュ, and ョ. That makes ギャ (gya), ギュ (gyu), and ギョ (gyo), each one beat."
                 },
                 "glyph": "ギャ",
                 "romaji": "gya",
@@ -1987,8 +1977,8 @@
                   "en": "The ja group: ja ju jo"
                 },
                 "body": {
-                  "id": "ジ bertemu huruf kecil ャ, ュ, dan ョ.",
-                  "en": "ジ meets small ャ, ュ, and ョ."
+                  "id": "ジ bertemu huruf kecil ャ, ュ, dan ョ. Jadinya ジャ (ja), ジュ (ju), dan ジョ (jo), masing-masing satu ketukan.",
+                  "en": "ジ meets small ャ, ュ, and ョ. That makes ジャ (ja), ジュ (ju), and ジョ (jo), each one beat."
                 },
                 "glyph": "ジャ",
                 "romaji": "ja",
@@ -2029,8 +2019,8 @@
                   "en": "The bi group: bya byu byo"
                 },
                 "body": {
-                  "id": "ビ bertemu huruf kecil ャ, ュ, dan ョ.",
-                  "en": "ビ meets small ャ, ュ, and ョ."
+                  "id": "ビ bertemu huruf kecil ャ, ュ, dan ョ. Jadinya ビャ (bya), ビュ (byu), dan ビョ (byo), masing-masing satu ketukan.",
+                  "en": "ビ meets small ャ, ュ, and ョ. That makes ビャ (bya), ビュ (byu), and ビョ (byo), each one beat."
                 },
                 "glyph": "ビャ",
                 "romaji": "bya",
@@ -2071,8 +2061,8 @@
                   "en": "The pi group: pya pyu pyo"
                 },
                 "body": {
-                  "id": "ピ bertemu huruf kecil ャ, ュ, dan ョ. ピャ (pya), ピュ (pyu), ピョ (pyo).",
-                  "en": "ピ meets small ャ, ュ, and ョ. ピャ (pya), ピュ (pyu), ピョ (pyo)."
+                  "id": "ピ bertemu huruf kecil ャ, ュ, dan ョ. Jadinya ピャ (pya), ピュ (pyu), dan ピョ (pyo), masing-masing satu ketukan.",
+                  "en": "ピ meets small ャ, ュ, and ョ. That makes ピャ (pya), ピュ (pyu), and ピョ (pyo), each one beat."
                 },
                 "glyph": "ピャ",
                 "romaji": "pya",
@@ -2414,17 +2404,12 @@
                   "en": "Sound Beats (Mora)"
                 },
                 "body": {
-                  "id": "Bahasa Jepang menghitung bunyi dengan ketukan, atau mora. Satu ketukan itu satu bunyi pendek. Contoh: おばさん (obasan, bibi) punya 4 ketukan, sedangkan おばあさん (obaasan, nenek) punya 5 ketukan.",
-                  "en": "Japanese counts sounds in beats, called mora. One beat is one short sound. For example: おばさん (obasan, aunt) has 4 beats, while おばあさん (obaasan, grandmother) has 5 beats."
+                  "id": "Bahasa Jepang menghitung bunyi dengan ketukan, atau mora. Satu ketukan itu satu bunyi pendek. Panjang atau pendeknya bunyi bisa mengubah arti kata, jadi ketukan itu penting. Huruf kecil dan tanda panjang ikut dihitung: っ satu ketukan, ー satu ketukan. Contoh: おばさん (obasan, bibi) punya 4 ketukan, sedangkan おばあさん (obaasan, nenek) punya 5 ketukan.",
+                  "en": "Japanese counts sounds in beats, called mora. One beat is one short sound. Long or short can change a word's meaning, so beats matter. Small letters and lengthening marks count too: っ is one beat, ー is one beat. For example: おばさん (obasan, aunt) has 4 beats, while おばあさん (obaasan, grandmother) has 5 beats."
                 },
                 "glyph": "おばあさん",
                 "romaji": "obaasan",
-                "rows": [
-                  {
-                    "glyph": "おばあさん",
-                    "romaji": "obaasan"
-                  }
-                ]
+                "rows": []
               }
             },
             {
@@ -2477,8 +2462,8 @@
                   "en": "The long vowel ii"
                 },
                 "body": {
-                  "id": "I panjang: い + い = いい, dibaca ii.",
-                  "en": "Long i: い + い = いい, read ii."
+                  "id": "Di hiragana, i panjang ditulis い + い = いい, dibaca ii, dua ketukan.",
+                  "en": "In hiragana, long i is written い + い = いい, read ii, two beats."
                 },
                 "glyph": "いい",
                 "romaji": "ii",
@@ -2519,8 +2504,8 @@
                   "en": "The long vowel uu"
                 },
                 "body": {
-                  "id": "U panjang: う + う = うう, dibaca uu.",
-                  "en": "Long u: う + う = うう, read uu."
+                  "id": "Di hiragana, u panjang ditulis う + う = うう, dibaca uu, dua ketukan.",
+                  "en": "In hiragana, long u is written う + う = うう, read uu, two beats."
                 },
                 "glyph": "うう",
                 "romaji": "uu",
@@ -2561,8 +2546,8 @@
                   "en": "Special rule: the ee sound"
                 },
                 "body": {
-                  "id": "Bunyi ee panjang ditulis え + い, bukan え + え.",
-                  "en": "Long ee is written え + い, not え + え."
+                  "id": "Bunyi ee panjang ditulis え + い, bukan え + え. Jadi えい dibaca ee, dua ketukan.",
+                  "en": "Long ee is written え + い, not え + え. So えい is read ee, two beats."
                 },
                 "glyph": "えい",
                 "romaji": "ei",
@@ -2603,8 +2588,8 @@
                   "en": "Special rule: the oo sound"
                 },
                 "body": {
-                  "id": "Bunyi oo panjang ditulis お + う, bukan お + お.",
-                  "en": "Long oo is written お + う, not お + お."
+                  "id": "Bunyi oo panjang ditulis お + う, bukan お + お. Jadi おう dibaca oo, dua ketukan.",
+                  "en": "Long oo is written お + う, not お + お. So おう is read oo, two beats."
                 },
                 "glyph": "おう",
                 "romaji": "ou",
@@ -2920,17 +2905,12 @@
                   "en": "The Mark ー (Chouonpu) Lengthens a Vowel"
                 },
                 "body": {
-                  "id": "Vokal panjang ditulis dengan tanda ー (chouonpu). Tanda ini ditulis setelah kana: コ + ー = コー, dibaca koo. Tanda ー dihitung satu ketukan, jadi コー punya dua ketukan.",
-                  "en": "Long vowels use the mark ー (chouonpu). Put it after the kana: コ + ー = コー, read koo. The mark counts as one beat, so コー has two beats."
+                  "id": "Vokal panjang di katakana ditulis dengan tanda ー (chouonpu). Tanda ini ditulis setelah kana: コ + ー = コー, dibaca koo. Tanda ー bisa mengikuti vokal apa pun. Kata serapan sering memakainya, seperti コーヒー (kopi). Tanda ー dihitung satu ketukan, jadi コー punya dua ketukan.",
+                  "en": "Long vowels in katakana use the mark ー (chouonpu). Put it after the kana: コ + ー = コー, read koo. The mark can follow any vowel. Borrowed words often use it, like コーヒー (coffee). The mark counts as one beat, so コー has two beats."
                 },
                 "glyph": "コー",
                 "romaji": "koo",
-                "rows": [
-                  {
-                    "glyph": "コー",
-                    "romaji": "koo"
-                  }
-                ]
+                "rows": []
               }
             },
             {
@@ -2941,8 +2921,8 @@
                   "en": "The mark ー after a kana"
                 },
                 "body": {
-                  "id": "Tanda ー mengikuti vokal apa pun.",
-                  "en": "The mark ー follows any vowel."
+                  "id": "Tanda ー mengikuti vokal apa pun. Contohnya コー (koo), ケー (kee), dan シー (shii).",
+                  "en": "The mark ー follows any vowel. For example コー (koo), ケー (kee), and シー (shii)."
                 },
                 "glyph": "コーヒー",
                 "romaji": "koohii",
@@ -2999,8 +2979,8 @@
                   "en": "The mark ー in other borrowed words"
                 },
                 "body": {
-                  "id": "Kamu akan sering melihat ー di kata serapan.",
-                  "en": "You will often see ー in borrowed words."
+                  "id": "Kamu akan sering melihat ー di kata serapan. Contohnya セーター (seetaa).",
+                  "en": "You will often see ー in borrowed words. For example セーター (seetaa)."
                 },
                 "glyph": "セーター",
                 "romaji": "seetaa",
@@ -3408,17 +3388,12 @@
                   "en": "Small Vowel Letters"
                 },
                 "body": {
-                  "id": "Bahasa Jepang tidak punya fa, ti, atau she. Katakana menulisnya dengan kana dasar + huruf vokal kecil. Huruf kecil itu ァ ィ ゥ ェ ォ, dibaca jadi satu bunyi.",
-                  "en": "Japanese has no fa, ti, or she. Katakana writes them with a base kana + a small vowel. They are ァ ィ ゥ ェ ォ, read as one sound."
+                  "id": "Bahasa Jepang tidak punya fa, ti, atau she. Katakana menulisnya dengan kana dasar + huruf vokal kecil. Huruf kecil itu ァ ィ ゥ ェ ォ, dibaca jadi satu bunyi dengan kana sebelumnya. Jadi フ + ァ = ファ, dibaca fa. Pola yang sama membuat ti, she, dan bunyi lainnya.",
+                  "en": "Japanese has no fa, ti, or she. Katakana writes them with a base kana + a small vowel. They are ァ ィ ゥ ェ ォ, read as one sound with the kana. So フ + ァ = ファ, read fa. The same pattern makes ti, she, and the other sounds."
                 },
                 "glyph": "ファ",
                 "romaji": "fa",
-                "rows": [
-                  {
-                    "glyph": "ファ",
-                    "romaji": "fa"
-                  }
-                ]
+                "rows": []
               }
             },
             {
@@ -3429,8 +3404,8 @@
                   "en": "The Fa Group"
                 },
                 "body": {
-                  "id": "フ + huruf vokal kecil jadi fa, fi, fe, fo.",
-                  "en": "フ + a small vowel makes fa, fi, fe, fo."
+                  "id": "フ + huruf vokal kecil jadi fa, fi, fe, fo. Keempatnya dibaca satu bunyi.",
+                  "en": "フ + a small vowel makes fa, fi, fe, fo. All four are read as one sound."
                 },
                 "glyph": "ファ",
                 "romaji": "fa",
@@ -3491,8 +3466,8 @@
                   "en": "The Ti and Di Groups"
                 },
                 "body": {
-                  "id": "ティ ti, ディ di, トゥ tu, ドゥ du.",
-                  "en": "ティ ti, ディ di, トゥ tu, ドゥ du."
+                  "id": "Empat gabungan ini dibaca satu bunyi: ティ ti, ディ di, トゥ tu, ドゥ du.",
+                  "en": "Four combinations, one sound each: ティ ti, ディ di, トゥ tu, ドゥ du."
                 },
                 "glyph": "ティ",
                 "romaji": "ti",
@@ -3553,8 +3528,8 @@
                   "en": "The She, Che, and Je Groups"
                 },
                 "body": {
-                  "id": "シェ she, チェ che, ジェ je.",
-                  "en": "シェ she, チェ che, ジェ je."
+                  "id": "Tiga gabungan ini dibaca satu bunyi: シェ she, チェ che, ジェ je.",
+                  "en": "These three combinations are read as one sound: シェ she, チェ che, ジェ je."
                 },
                 "glyph": "シェ",
                 "romaji": "she",
@@ -3611,8 +3586,8 @@
                   "en": "The Vu Group"
                 },
                 "body": {
-                  "id": "ヴ adalah ウ dengan dakuten, dibaca vu.",
-                  "en": "ヴ is ウ with dakuten, read vu."
+                  "id": "ヴ adalah ウ dengan dakuten, dibaca vu. Dengan huruf vokal kecil, jadinya ヴァ va, ヴィ vi, ヴェ ve, dan ヴォ vo.",
+                  "en": "ヴ is ウ with dakuten, read vu. With a small vowel it becomes ヴァ va, ヴィ vi, ヴェ ve, and ヴォ vo."
                 },
                 "glyph": "ヴ",
                 "romaji": "vu",
@@ -3911,17 +3886,12 @@
                   "en": "Small っ Doubles the Next Consonant"
                 },
                 "body": {
-                  "id": "Huruf っ kecil disebut sokuon. Ia tidak dibaca tsu, tapi menahan bunyi satu ketukan lalu menggandakan konsonan berikutnya.",
-                  "en": "The small っ is called sokuon. It is not read tsu. It holds the sound for one beat, then doubles the next consonant."
+                  "id": "Huruf っ kecil disebut sokuon. Ia tidak dibaca tsu, tapi menahan bunyi satu ketukan lalu menggandakan konsonan berikutnya. Kamu bisa merasakannya sebagai jeda pendek sebelum konsonan itu. Coba きって (kitte, perangko): dibaca dengan jeda pendek sebelum te. Sokuon sendiri dihitung satu ketukan.",
+                  "en": "The small っ is called sokuon. It is not read tsu. It holds the sound for one beat, then doubles the next consonant. You can feel it as a short pause before that consonant. Try きって (kitte, stamp): it is read with a short pause before te. Sokuon itself counts as one beat."
                 },
                 "glyph": "きって",
                 "romaji": "kitte",
-                "rows": [
-                  {
-                    "glyph": "きって",
-                    "romaji": "kitte"
-                  }
-                ]
+                "rows": []
               }
             },
             {
@@ -4217,17 +4187,12 @@
                   "en": "ッ in Borrowed Words"
                 },
                 "body": {
-                  "id": "Di katakana, sokuon ditulis ッ kecil dan bekerja seperti っ. Ia jeda satu ketukan yang menggandakan konsonan berikutnya.",
-                  "en": "In katakana, sokuon is written as a small ッ and works like っ. It is a one-beat pause that doubles the next consonant."
+                  "id": "Di katakana, sokuon ditulis ッ kecil dan bekerja seperti っ. Ia jeda satu ketukan yang menggandakan konsonan berikutnya. Kamu akan sering melihatnya di kata serapan. Coba ベッド (beddo, tempat tidur): dibaca dengan jeda pendek sebelum do. Sokuon sendiri dihitung satu ketukan.",
+                  "en": "In katakana, sokuon is written as a small ッ and works like っ. It is a one-beat pause that doubles the next consonant. You will often see it in borrowed words. Try ベッド (beddo, bed): it is read with a short pause before do. Sokuon itself counts as one beat."
                 },
                 "glyph": "ベッド",
                 "romaji": "beddo",
-                "rows": [
-                  {
-                    "glyph": "ベッド",
-                    "romaji": "beddo"
-                  }
-                ]
+                "rows": []
               }
             },
             {

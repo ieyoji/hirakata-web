@@ -778,8 +778,8 @@
                   "en": "Yoon: Two Letters, One Sound"
                 },
                 "body": {
-                  "id": "Yoon: dua huruf dibaca jadi satu bunyi. Ambil kana kolom i seperti き, tambah huruf kecil ゃ, ゅ, atau ょ. Huruf kecil itu ditulis lebih kecil dan menempel pada kana sebelumnya. Jadi き + ゃ = きゃ, dibaca kya, satu ketukan saja, bukan dua.",
-                  "en": "Yoon is two letters read as one sound. Take an i-column kana like き, then add a small ゃ, ゅ, or ょ. The small letter is written smaller, attached to the kana before it. So き + ゃ = きゃ, read kya, just one beat, not two."
+                  "id": "Yoon merupakan gabungan dua huruf kana yang dibaca sebagai satu bunyi. Huruf pertama adalah kana yang bunyi akhirnya i, misalnya き (ki), し (shi), ち (chi), に (ni), ひ (hi), み (mi), dan り (ri).\n\nHuruf kedua adalah ya, yu, atau yo yang ditulis dalam ukuran kecil: ゃ, ゅ, ょ. Huruf kecil tersebut ditulis lebih kecil dan ditempatkan rapat setelah huruf pertama. Huruf kecil tidak dibaca secara terpisah, melainkan dibaca bersama huruf pertama.\n\nBunyi i pada huruf pertama menyatu dengan huruf kecil tersebut. Oleh karena itu, き + ゃ dibaca kya, yaitu satu ketukan, bukan ki-ya. Satu ketukan berarti bunyi tersebut diucapkan satu kali secara singkat.\n\nSebaliknya, huruf besar seperti や dibaca secara terpisah sebagai ya. Oleh karena itu, きや dibaca ki-ya, yaitu dua ketukan. Dengan demikian, huruf kecil menghasilkan satu bunyi, sedangkan huruf besar menghasilkan dua bunyi.",
+                  "en": "Yoon is a combination of two kana letters read as one sound. The first letter is a kana whose sound ends in i, for example き (ki), し (shi), ち (chi), に (ni), ひ (hi), み (mi), and り (ri).\n\nThe second letter is ya, yu, or yo, written in a small size: ゃ, ゅ, ょ. The small letter is written smaller and placed close after the first letter. The small letter is not read on its own; it is read together with the first letter.\n\nThe i sound of the first letter merges with the small letter. So き + ゃ is read kya, which is one beat, not ki-ya. One beat means the sound is spoken once, briefly.\n\nBy contrast, a big letter like や is read on its own as ya. So きや is read ki-ya, which is two beats. In short, a small letter makes one sound, while a big letter makes two sounds."
                 },
                 "glyph": "きゃ",
                 "romaji": "kya",
@@ -794,8 +794,8 @@
                   "en": "The ki group: kya kyu kyo"
                 },
                 "body": {
-                  "id": "き bertemu huruf kecil ゃ, ゅ, dan ょ. Ketiganya dibaca satu ketukan, bukan dua.",
-                  "en": "き meets small ゃ, ゅ, and ょ. Each is read as one beat, not two."
+                  "id": "Pada kelompok ini, huruf pertama adalah き (ki). Huruf き dapat digabungkan dengan huruf kecil ゃ, ゅ, dan ょ. Gabungan き dan ゃ dibaca kya, gabungan き dan ゅ dibaca kyu, dan gabungan き dan ょ dibaca kyo. Huruf kecil tersebut tidak dibaca secara terpisah, melainkan dibaca bersama き. Bunyi i pada ki menyatu dengan huruf kecil tersebut, sehingga setiap gabungan dibaca sebagai satu ketukan, bukan dua ketukan. Oleh karena itu, きゃ dibaca kya, bukan ki-ya.",
+                  "en": "In this group, the first letter is き (ki). き can be combined with the small letters ゃ, ゅ, and ょ. The combination of き and ゃ is read kya, the combination of き and ゅ is read kyu, and the combination of き and ょ is read kyo. The small letters are not read on their own; they are read together with き. The i sound in ki merges with the small letter, so each combination is read as one beat, not two beats. So きゃ is read kya, not ki-ya."
                 },
                 "glyph": "きゃ",
                 "romaji": "kya",
@@ -844,8 +844,8 @@
                   "en": "The shi group: sha shu sho"
                 },
                 "body": {
-                  "id": "し bertemu huruf kecil ゃ, ゅ, dan ょ. Jadinya しゃ (sha), しゅ (shu), dan しょ (sho), masing-masing satu ketukan.",
-                  "en": "し meets small ゃ, ゅ, and ょ. That makes しゃ (sha), しゅ (shu), and しょ (sho), each one beat."
+                  "id": "Pada kelompok ini, huruf pertama adalah し (shi). Huruf し dapat digabungkan dengan huruf kecil ゃ, ゅ, dan ょ. Gabungan し dan ゃ dibaca sha, gabungan し dan ゅ dibaca shu, dan gabungan し dan ょ dibaca sho. Huruf kecil tersebut tidak dibaca secara terpisah, melainkan dibaca bersama し. Bunyi i pada shi menyatu dengan huruf kecil tersebut, sehingga setiap gabungan dibaca sebagai satu ketukan, bukan dua ketukan. Oleh karena itu, しゃ dibaca sha, bukan shi-ya.",
+                  "en": "In this group, the first letter is し (shi). し can be combined with the small letters ゃ, ゅ, and ょ. The combination of し and ゃ is read sha, the combination of し and ゅ is read shu, and the combination of し and ょ is read sho. The small letters are not read on their own; they are read together with し. The i sound in shi merges with the small letter, so each combination is read as one beat, not two beats. So しゃ is read sha, not shi-ya."
                 },
                 "glyph": "しゃ",
                 "romaji": "sha",
@@ -894,8 +894,8 @@
                   "en": "The chi group: cha chu cho"
                 },
                 "body": {
-                  "id": "ち bertemu huruf kecil ゃ, ゅ, dan ょ. Jadinya ちゃ (cha), ちゅ (chu), dan ちょ (cho), masing-masing satu ketukan.",
-                  "en": "ち meets small ゃ, ゅ, and ょ. That makes ちゃ (cha), ちゅ (chu), and ちょ (cho), each one beat."
+                  "id": "Pada kelompok ini, huruf pertama adalah ち (chi). Huruf ち dapat digabungkan dengan huruf kecil ゃ, ゅ, dan ょ. Gabungan ち dan ゃ dibaca cha, gabungan ち dan ゅ dibaca chu, dan gabungan ち dan ょ dibaca cho. Huruf kecil tersebut tidak dibaca secara terpisah, melainkan dibaca bersama ち. Bunyi i pada chi menyatu dengan huruf kecil tersebut, sehingga setiap gabungan dibaca sebagai satu ketukan, bukan dua ketukan. Oleh karena itu, ちゃ dibaca cha, bukan chi-ya.",
+                  "en": "In this group, the first letter is ち (chi). ち can be combined with the small letters ゃ, ゅ, and ょ. The combination of ち and ゃ is read cha, the combination of ち and ゅ is read chu, and the combination of ち and ょ is read cho. The small letters are not read on their own; they are read together with ち. The i sound in chi merges with the small letter, so each combination is read as one beat, not two beats. So ちゃ is read cha, not chi-ya."
                 },
                 "glyph": "ちゃ",
                 "romaji": "cha",
@@ -936,8 +936,8 @@
                   "en": "The ni group: nya nyu nyo"
                 },
                 "body": {
-                  "id": "に bertemu huruf kecil ゃ, ゅ, dan ょ. Jadinya にゃ (nya), にゅ (nyu), dan にょ (nyo), masing-masing satu ketukan.",
-                  "en": "に meets small ゃ, ゅ, and ょ. That makes にゃ (nya), にゅ (nyu), and にょ (nyo), each one beat."
+                  "id": "Pada kelompok ini, huruf pertama adalah に (ni). Huruf に dapat digabungkan dengan huruf kecil ゃ, ゅ, dan ょ. Gabungan に dan ゃ dibaca nya, gabungan に dan ゅ dibaca nyu, dan gabungan に dan ょ dibaca nyo. Huruf kecil tersebut tidak dibaca secara terpisah, melainkan dibaca bersama に. Bunyi i pada ni menyatu dengan huruf kecil tersebut, sehingga setiap gabungan dibaca sebagai satu ketukan, bukan dua ketukan. Oleh karena itu, にゃ dibaca nya, bukan ni-ya.",
+                  "en": "In this group, the first letter is に (ni). に can be combined with the small letters ゃ, ゅ, and ょ. The combination of に and ゃ is read nya, the combination of に and ゅ is read nyu, and the combination of に and ょ is read nyo. The small letters are not read on their own; they are read together with に. The i sound in ni merges with the small letter, so each combination is read as one beat, not two beats. So にゃ is read nya, not ni-ya."
                 },
                 "glyph": "にゃ",
                 "romaji": "nya",
@@ -978,8 +978,8 @@
                   "en": "The hi group: hya hyu hyo"
                 },
                 "body": {
-                  "id": "ひ bertemu huruf kecil ゃ, ゅ, dan ょ. Jadinya ひゃ (hya), ひゅ (hyu), dan ひょ (hyo), masing-masing satu ketukan.",
-                  "en": "ひ meets small ゃ, ゅ, and ょ. That makes ひゃ (hya), ひゅ (hyu), and ひょ (hyo), each one beat."
+                  "id": "Pada kelompok ini, huruf pertama adalah ひ (hi). Huruf ひ dapat digabungkan dengan huruf kecil ゃ, ゅ, dan ょ. Gabungan ひ dan ゃ dibaca hya, gabungan ひ dan ゅ dibaca hyu, dan gabungan ひ dan ょ dibaca hyo. Huruf kecil tersebut tidak dibaca secara terpisah, melainkan dibaca bersama ひ. Bunyi i pada hi menyatu dengan huruf kecil tersebut, sehingga setiap gabungan dibaca sebagai satu ketukan, bukan dua ketukan. Oleh karena itu, ひゃ dibaca hya, bukan hi-ya.",
+                  "en": "In this group, the first letter is ひ (hi). ひ can be combined with the small letters ゃ, ゅ, and ょ. The combination of ひ and ゃ is read hya, the combination of ひ and ゅ is read hyu, and the combination of ひ and ょ is read hyo. The small letters are not read on their own; they are read together with ひ. The i sound in hi merges with the small letter, so each combination is read as one beat, not two beats. So ひゃ is read hya, not hi-ya."
                 },
                 "glyph": "ひゃ",
                 "romaji": "hya",
@@ -1020,8 +1020,8 @@
                   "en": "The mi group: mya myu myo"
                 },
                 "body": {
-                  "id": "み bertemu huruf kecil ゃ, ゅ, dan ょ. Jadinya みゃ (mya), みゅ (myu), dan みょ (myo), masing-masing satu ketukan.",
-                  "en": "み meets small ゃ, ゅ, and ょ. That makes みゃ (mya), みゅ (myu), and みょ (myo), each one beat."
+                  "id": "Pada kelompok ini, huruf pertama adalah み (mi). Huruf み dapat digabungkan dengan huruf kecil ゃ, ゅ, dan ょ. Gabungan み dan ゃ dibaca mya, gabungan み dan ゅ dibaca myu, dan gabungan み dan ょ dibaca myo. Huruf kecil tersebut tidak dibaca secara terpisah, melainkan dibaca bersama み. Bunyi i pada mi menyatu dengan huruf kecil tersebut, sehingga setiap gabungan dibaca sebagai satu ketukan, bukan dua ketukan. Oleh karena itu, みゃ dibaca mya, bukan mi-ya.",
+                  "en": "In this group, the first letter is み (mi). み can be combined with the small letters ゃ, ゅ, and ょ. The combination of み and ゃ is read mya, the combination of み and ゅ is read myu, and the combination of み and ょ is read myo. The small letters are not read on their own; they are read together with み. The i sound in mi merges with the small letter, so each combination is read as one beat, not two beats. So みゃ is read mya, not mi-ya."
                 },
                 "glyph": "みゃ",
                 "romaji": "mya",
@@ -1062,8 +1062,8 @@
                   "en": "The ri group: rya ryu ryo"
                 },
                 "body": {
-                  "id": "り bertemu huruf kecil ゃ, ゅ, dan ょ. Jadinya りゃ (rya), りゅ (ryu), dan りょ (ryo), masing-masing satu ketukan.",
-                  "en": "り meets small ゃ, ゅ, and ょ. That makes りゃ (rya), りゅ (ryu), and りょ (ryo), each one beat."
+                  "id": "Pada kelompok ini, huruf pertama adalah り (ri). Huruf り dapat digabungkan dengan huruf kecil ゃ, ゅ, dan ょ. Gabungan り dan ゃ dibaca rya, gabungan り dan ゅ dibaca ryu, dan gabungan り dan ょ dibaca ryo. Huruf kecil tersebut tidak dibaca secara terpisah, melainkan dibaca bersama り. Bunyi i pada ri menyatu dengan huruf kecil tersebut, sehingga setiap gabungan dibaca sebagai satu ketukan, bukan dua ketukan. Oleh karena itu, りゃ dibaca rya, bukan ri-ya.",
+                  "en": "In this group, the first letter is り (ri). り can be combined with the small letters ゃ, ゅ, and ょ. The combination of り and ゃ is read rya, the combination of り and ゅ is read ryu, and the combination of り and ょ is read ryo. The small letters are not read on their own; they are read together with り. The i sound in ri merges with the small letter, so each combination is read as one beat, not two beats. So りゃ is read rya, not ri-ya."
                 },
                 "glyph": "りゃ",
                 "romaji": "rya",
@@ -1112,8 +1112,8 @@
                   "en": "The gi group: gya gyu gyo"
                 },
                 "body": {
-                  "id": "ぎ bertemu huruf kecil ゃ, ゅ, dan ょ. Jadinya ぎゃ (gya), ぎゅ (gyu), dan ぎょ (gyo), masing-masing satu ketukan.",
-                  "en": "ぎ meets small ゃ, ゅ, and ょ. That makes ぎゃ (gya), ぎゅ (gyu), and ぎょ (gyo), each one beat."
+                  "id": "Pada kelompok ini, huruf pertama adalah ぎ (gi). Huruf ぎ dapat digabungkan dengan huruf kecil ゃ, ゅ, dan ょ. Gabungan ぎ dan ゃ dibaca gya, gabungan ぎ dan ゅ dibaca gyu, dan gabungan ぎ dan ょ dibaca gyo. Huruf kecil tersebut tidak dibaca secara terpisah, melainkan dibaca bersama ぎ. Bunyi i pada gi menyatu dengan huruf kecil tersebut, sehingga setiap gabungan dibaca sebagai satu ketukan, bukan dua ketukan. Oleh karena itu, ぎゃ dibaca gya, bukan gi-ya.",
+                  "en": "In this group, the first letter is ぎ (gi). ぎ can be combined with the small letters ゃ, ゅ, and ょ. The combination of ぎ and ゃ is read gya, the combination of ぎ and ゅ is read gyu, and the combination of ぎ and ょ is read gyo. The small letters are not read on their own; they are read together with ぎ. The i sound in gi merges with the small letter, so each combination is read as one beat, not two beats. So ぎゃ is read gya, not gi-ya."
                 },
                 "glyph": "ぎゃ",
                 "romaji": "gya",
@@ -1154,8 +1154,8 @@
                   "en": "The ja group: ja ju jo"
                 },
                 "body": {
-                  "id": "じ bertemu huruf kecil ゃ, ゅ, dan ょ. Jadinya じゃ (ja), じゅ (ju), dan じょ (jo), masing-masing satu ketukan.",
-                  "en": "じ meets small ゃ, ゅ, and ょ. That makes じゃ (ja), じゅ (ju), and じょ (jo), each one beat."
+                  "id": "Pada kelompok ini, huruf pertama adalah じ (ji). Huruf じ dapat digabungkan dengan huruf kecil ゃ, ゅ, dan ょ. Gabungan じ dan ゃ dibaca ja, gabungan じ dan ゅ dibaca ju, dan gabungan じ dan ょ dibaca jo. Huruf kecil tersebut tidak dibaca secara terpisah, melainkan dibaca bersama じ. Bunyi i pada ji menyatu dengan huruf kecil tersebut, sehingga setiap gabungan dibaca sebagai satu ketukan, bukan dua ketukan. Oleh karena itu, じゃ dibaca ja, bukan ji-ya.",
+                  "en": "In this group, the first letter is じ (ji). じ can be combined with the small letters ゃ, ゅ, and ょ. The combination of じ and ゃ is read ja, the combination of じ and ゅ is read ju, and the combination of じ and ょ is read jo. The small letters are not read on their own; they are read together with じ. The i sound in ji merges with the small letter, so each combination is read as one beat, not two beats. So じゃ is read ja, not ji-ya."
                 },
                 "glyph": "じゃ",
                 "romaji": "ja",
@@ -1196,8 +1196,8 @@
                   "en": "The bi group: bya byu byo"
                 },
                 "body": {
-                  "id": "び bertemu huruf kecil ゃ, ゅ, dan ょ. Jadinya びゃ (bya), びゅ (byu), dan びょ (byo), masing-masing satu ketukan.",
-                  "en": "び meets small ゃ, ゅ, and ょ. That makes びゃ (bya), びゅ (byu), and びょ (byo), each one beat."
+                  "id": "Pada kelompok ini, huruf pertama adalah び (bi). Huruf び dapat digabungkan dengan huruf kecil ゃ, ゅ, dan ょ. Gabungan び dan ゃ dibaca bya, gabungan び dan ゅ dibaca byu, dan gabungan び dan ょ dibaca byo. Huruf kecil tersebut tidak dibaca secara terpisah, melainkan dibaca bersama び. Bunyi i pada bi menyatu dengan huruf kecil tersebut, sehingga setiap gabungan dibaca sebagai satu ketukan, bukan dua ketukan. Oleh karena itu, びゃ dibaca bya, bukan bi-ya.",
+                  "en": "In this group, the first letter is び (bi). び can be combined with the small letters ゃ, ゅ, and ょ. The combination of び and ゃ is read bya, the combination of び and ゅ is read byu, and the combination of び and ょ is read byo. The small letters are not read on their own; they are read together with び. The i sound in bi merges with the small letter, so each combination is read as one beat, not two beats. So びゃ is read bya, not bi-ya."
                 },
                 "glyph": "びゃ",
                 "romaji": "bya",
@@ -1238,8 +1238,8 @@
                   "en": "The pi group: pya pyu pyo"
                 },
                 "body": {
-                  "id": "ぴ bertemu huruf kecil ゃ, ゅ, dan ょ. Jadinya ぴゃ (pya), ぴゅ (pyu), dan ぴょ (pyo), masing-masing satu ketukan.",
-                  "en": "ぴ meets small ゃ, ゅ, and ょ. That makes ぴゃ (pya), ぴゅ (pyu), and ぴょ (pyo), each one beat."
+                  "id": "Pada kelompok ini, huruf pertama adalah ぴ (pi). Huruf ぴ dapat digabungkan dengan huruf kecil ゃ, ゅ, dan ょ. Gabungan ぴ dan ゃ dibaca pya, gabungan ぴ dan ゅ dibaca pyu, dan gabungan ぴ dan ょ dibaca pyo. Huruf kecil tersebut tidak dibaca secara terpisah, melainkan dibaca bersama ぴ. Bunyi i pada pi menyatu dengan huruf kecil tersebut, sehingga setiap gabungan dibaca sebagai satu ketukan, bukan dua ketukan. Oleh karena itu, ぴゃ dibaca pya, bukan pi-ya.",
+                  "en": "In this group, the first letter is ぴ (pi). ぴ can be combined with the small letters ゃ, ゅ, and ょ. The combination of ぴ and ゃ is read pya, the combination of ぴ and ゅ is read pyu, and the combination of ぴ and ょ is read pyo. The small letters are not read on their own; they are read together with ぴ. The i sound in pi merges with the small letter, so each combination is read as one beat, not two beats. So ぴゃ is read pya, not pi-ya."
                 },
                 "glyph": "ぴゃ",
                 "romaji": "pya",
@@ -1609,8 +1609,8 @@
                   "en": "Katakana Yoon: The Same Rule"
                 },
                 "body": {
-                  "id": "Yoon di katakana sama saja. Ambil kana kolom i seperti キ, tambah huruf kecil ャ, ュ, atau ョ. Huruf kecil itu ditulis lebih kecil dan menempel pada kana sebelumnya. Jadi キ + ャ = キャ, dibaca kya, satu ketukan saja, bukan dua.",
-                  "en": "Yoon works the same in katakana. Take an i-column kana like キ, then add a small ャ, ュ, or ョ. The small letter is written smaller, attached to the kana before it. So キ + ャ = キャ, read kya, just one beat, not two."
+                  "id": "Yoon merupakan gabungan dua huruf kana yang dibaca sebagai satu bunyi. Huruf pertama adalah kana yang bunyi akhirnya i, misalnya キ (ki), シ (shi), チ (chi), ニ (ni), ヒ (hi), ミ (mi), dan リ (ri).\n\nHuruf kedua adalah ya, yu, atau yo yang ditulis dalam ukuran kecil: ャ, ュ, ョ. Huruf kecil tersebut ditulis lebih kecil dan ditempatkan rapat setelah huruf pertama. Huruf kecil tidak dibaca secara terpisah, melainkan dibaca bersama huruf pertama.\n\nBunyi i pada huruf pertama menyatu dengan huruf kecil tersebut. Oleh karena itu, キ + ャ dibaca kya, yaitu satu ketukan, bukan ki-ya. Satu ketukan berarti bunyi tersebut diucapkan satu kali secara singkat.\n\nSebaliknya, huruf besar seperti ヤ dibaca secara terpisah sebagai ya. Oleh karena itu, キヤ dibaca ki-ya, yaitu dua ketukan. Dengan demikian, huruf kecil menghasilkan satu bunyi, sedangkan huruf besar menghasilkan dua bunyi.",
+                  "en": "Yoon is a combination of two kana letters read as one sound. The first letter is a kana whose sound ends in i, for example キ (ki), シ (shi), チ (chi), ニ (ni), ヒ (hi), ミ (mi), and リ (ri).\n\nThe second letter is ya, yu, or yo, written in a small size: ャ, ュ, ョ. The small letter is written smaller and placed close after the first letter. The small letter is not read on its own; it is read together with the first letter.\n\nThe i sound of the first letter merges with the small letter. So キ + ャ is read kya, which is one beat, not ki-ya. One beat means the sound is spoken once, briefly.\n\nBy contrast, a big letter like ヤ is read on its own as ya. So キヤ is read ki-ya, which is two beats. In short, a small letter makes one sound, while a big letter makes two sounds."
                 },
                 "glyph": "キャ",
                 "romaji": "kya",
@@ -1625,8 +1625,8 @@
                   "en": "The ki group: kya kyu kyo"
                 },
                 "body": {
-                  "id": "キ bertemu huruf kecil ャ, ュ, dan ョ. Mari coba: キ + ャ = キャ (kya), キ + ュ = キュ (kyu). Dan キ + ョ = キョ (kyo).",
-                  "en": "キ meets small ャ, ュ, and ョ. Let's try: キ + ャ = キャ (kya), キ + ュ = キュ (kyu). And キ + ョ = キョ (kyo)."
+                  "id": "Pada kelompok ini, huruf pertama adalah キ (ki). Huruf キ dapat digabungkan dengan huruf kecil ャ, ュ, dan ョ. Gabungan キ dan ャ dibaca kya, gabungan キ dan ュ dibaca kyu, dan gabungan キ dan ョ dibaca kyo. Huruf kecil tersebut tidak dibaca secara terpisah, melainkan dibaca bersama キ. Bunyi i pada ki menyatu dengan huruf kecil tersebut, sehingga setiap gabungan dibaca sebagai satu ketukan, bukan dua ketukan. Oleh karena itu, キャ dibaca kya, bukan ki-ya.",
+                  "en": "In this group, the first letter is キ (ki). キ can be combined with the small letters ャ, ュ, and ョ. The combination of キ and ャ is read kya, the combination of キ and ュ is read kyu, and the combination of キ and ョ is read kyo. The small letters are not read on their own; they are read together with キ. The i sound in ki merges with the small letter, so each combination is read as one beat, not two beats. So キャ is read kya, not ki-ya."
                 },
                 "glyph": "キャ",
                 "romaji": "kya",
@@ -1675,8 +1675,8 @@
                   "en": "The shi group: sha shu sho"
                 },
                 "body": {
-                  "id": "シ bertemu huruf kecil ャ, ュ, dan ョ. Jadinya シャ (sha), シュ (shu), dan ショ (sho), masing-masing satu ketukan.",
-                  "en": "シ meets small ャ, ュ, and ョ. That makes シャ (sha), シュ (shu), and ショ (sho), each one beat."
+                  "id": "Pada kelompok ini, huruf pertama adalah シ (shi). Huruf シ dapat digabungkan dengan huruf kecil ャ, ュ, dan ョ. Gabungan シ dan ャ dibaca sha, gabungan シ dan ュ dibaca shu, dan gabungan シ dan ョ dibaca sho. Huruf kecil tersebut tidak dibaca secara terpisah, melainkan dibaca bersama シ. Bunyi i pada shi menyatu dengan huruf kecil tersebut, sehingga setiap gabungan dibaca sebagai satu ketukan, bukan dua ketukan. Oleh karena itu, シャ dibaca sha, bukan shi-ya.",
+                  "en": "In this group, the first letter is シ (shi). シ can be combined with the small letters ャ, ュ, and ョ. The combination of シ and ャ is read sha, the combination of シ and ュ is read shu, and the combination of シ and ョ is read sho. The small letters are not read on their own; they are read together with シ. The i sound in shi merges with the small letter, so each combination is read as one beat, not two beats. So シャ is read sha, not shi-ya."
                 },
                 "glyph": "シャ",
                 "romaji": "sha",
@@ -1717,8 +1717,8 @@
                   "en": "The chi group: cha chu cho"
                 },
                 "body": {
-                  "id": "チ bertemu huruf kecil ャ, ュ, dan ョ. Jadinya チャ (cha), チュ (chu), dan チョ (cho), masing-masing satu ketukan.",
-                  "en": "チ meets small ャ, ュ, and ョ. That makes チャ (cha), チュ (chu), and チョ (cho), each one beat."
+                  "id": "Pada kelompok ini, huruf pertama adalah チ (chi). Huruf チ dapat digabungkan dengan huruf kecil ャ, ュ, dan ョ. Gabungan チ dan ャ dibaca cha, gabungan チ dan ュ dibaca chu, dan gabungan チ dan ョ dibaca cho. Huruf kecil tersebut tidak dibaca secara terpisah, melainkan dibaca bersama チ. Bunyi i pada chi menyatu dengan huruf kecil tersebut, sehingga setiap gabungan dibaca sebagai satu ketukan, bukan dua ketukan. Oleh karena itu, チャ dibaca cha, bukan chi-ya.",
+                  "en": "In this group, the first letter is チ (chi). チ can be combined with the small letters ャ, ュ, and ョ. The combination of チ and ャ is read cha, the combination of チ and ュ is read chu, and the combination of チ and ョ is read cho. The small letters are not read on their own; they are read together with チ. The i sound in chi merges with the small letter, so each combination is read as one beat, not two beats. So チャ is read cha, not chi-ya."
                 },
                 "glyph": "チャ",
                 "romaji": "cha",
@@ -1767,8 +1767,8 @@
                   "en": "The ni group: nya nyu nyo"
                 },
                 "body": {
-                  "id": "ニ bertemu huruf kecil ャ, ュ, dan ョ. Jadinya ニャ (nya), ニュ (nyu), dan ニョ (nyo), masing-masing satu ketukan.",
-                  "en": "ニ meets small ャ, ュ, and ョ. That makes ニャ (nya), ニュ (nyu), and ニョ (nyo), each one beat."
+                  "id": "Pada kelompok ini, huruf pertama adalah ニ (ni). Huruf ニ dapat digabungkan dengan huruf kecil ャ, ュ, dan ョ. Gabungan ニ dan ャ dibaca nya, gabungan ニ dan ュ dibaca nyu, dan gabungan ニ dan ョ dibaca nyo. Huruf kecil tersebut tidak dibaca secara terpisah, melainkan dibaca bersama ニ. Bunyi i pada ni menyatu dengan huruf kecil tersebut, sehingga setiap gabungan dibaca sebagai satu ketukan, bukan dua ketukan. Oleh karena itu, ニャ dibaca nya, bukan ni-ya.",
+                  "en": "In this group, the first letter is ニ (ni). ニ can be combined with the small letters ャ, ュ, and ョ. The combination of ニ and ャ is read nya, the combination of ニ and ュ is read nyu, and the combination of ニ and ョ is read nyo. The small letters are not read on their own; they are read together with ニ. The i sound in ni merges with the small letter, so each combination is read as one beat, not two beats. So ニャ is read nya, not ni-ya."
                 },
                 "glyph": "ニャ",
                 "romaji": "nya",
@@ -1809,8 +1809,8 @@
                   "en": "The hi group: hya hyu hyo"
                 },
                 "body": {
-                  "id": "ヒ bertemu huruf kecil ャ, ュ, dan ョ. Jadinya ヒャ (hya), ヒュ (hyu), dan ヒョ (hyo), masing-masing satu ketukan.",
-                  "en": "ヒ meets small ャ, ュ, and ョ. That makes ヒャ (hya), ヒュ (hyu), and ヒョ (hyo), each one beat."
+                  "id": "Pada kelompok ini, huruf pertama adalah ヒ (hi). Huruf ヒ dapat digabungkan dengan huruf kecil ャ, ュ, dan ョ. Gabungan ヒ dan ャ dibaca hya, gabungan ヒ dan ュ dibaca hyu, dan gabungan ヒ dan ョ dibaca hyo. Huruf kecil tersebut tidak dibaca secara terpisah, melainkan dibaca bersama ヒ. Bunyi i pada hi menyatu dengan huruf kecil tersebut, sehingga setiap gabungan dibaca sebagai satu ketukan, bukan dua ketukan. Oleh karena itu, ヒャ dibaca hya, bukan hi-ya.",
+                  "en": "In this group, the first letter is ヒ (hi). ヒ can be combined with the small letters ャ, ュ, and ョ. The combination of ヒ and ャ is read hya, the combination of ヒ and ュ is read hyu, and the combination of ヒ and ョ is read hyo. The small letters are not read on their own; they are read together with ヒ. The i sound in hi merges with the small letter, so each combination is read as one beat, not two beats. So ヒャ is read hya, not hi-ya."
                 },
                 "glyph": "ヒャ",
                 "romaji": "hya",
@@ -1851,8 +1851,8 @@
                   "en": "The mi group: mya myu myo"
                 },
                 "body": {
-                  "id": "ミ bertemu huruf kecil ャ, ュ, dan ョ. Jadinya ミャ (mya), ミュ (myu), dan ミョ (myo), masing-masing satu ketukan.",
-                  "en": "ミ meets small ャ, ュ, and ョ. That makes ミャ (mya), ミュ (myu), and ミョ (myo), each one beat."
+                  "id": "Pada kelompok ini, huruf pertama adalah ミ (mi). Huruf ミ dapat digabungkan dengan huruf kecil ャ, ュ, dan ョ. Gabungan ミ dan ャ dibaca mya, gabungan ミ dan ュ dibaca myu, dan gabungan ミ dan ョ dibaca myo. Huruf kecil tersebut tidak dibaca secara terpisah, melainkan dibaca bersama ミ. Bunyi i pada mi menyatu dengan huruf kecil tersebut, sehingga setiap gabungan dibaca sebagai satu ketukan, bukan dua ketukan. Oleh karena itu, ミャ dibaca mya, bukan mi-ya.",
+                  "en": "In this group, the first letter is ミ (mi). ミ can be combined with the small letters ャ, ュ, and ョ. The combination of ミ and ャ is read mya, the combination of ミ and ュ is read myu, and the combination of ミ and ョ is read myo. The small letters are not read on their own; they are read together with ミ. The i sound in mi merges with the small letter, so each combination is read as one beat, not two beats. So ミャ is read mya, not mi-ya."
                 },
                 "glyph": "ミャ",
                 "romaji": "mya",
@@ -1893,8 +1893,8 @@
                   "en": "The ri group: rya ryu ryo"
                 },
                 "body": {
-                  "id": "リ bertemu huruf kecil ャ, ュ, dan ョ. Jadinya リャ (rya), リュ (ryu), dan リョ (ryo), masing-masing satu ketukan.",
-                  "en": "リ meets small ャ, ュ, and ョ. That makes リャ (rya), リュ (ryu), and リョ (ryo), each one beat."
+                  "id": "Pada kelompok ini, huruf pertama adalah リ (ri). Huruf リ dapat digabungkan dengan huruf kecil ャ, ュ, dan ョ. Gabungan リ dan ャ dibaca rya, gabungan リ dan ュ dibaca ryu, dan gabungan リ dan ョ dibaca ryo. Huruf kecil tersebut tidak dibaca secara terpisah, melainkan dibaca bersama リ. Bunyi i pada ri menyatu dengan huruf kecil tersebut, sehingga setiap gabungan dibaca sebagai satu ketukan, bukan dua ketukan. Oleh karena itu, リャ dibaca rya, bukan ri-ya.",
+                  "en": "In this group, the first letter is リ (ri). リ can be combined with the small letters ャ, ュ, and ョ. The combination of リ and ャ is read rya, the combination of リ and ュ is read ryu, and the combination of リ and ョ is read ryo. The small letters are not read on their own; they are read together with リ. The i sound in ri merges with the small letter, so each combination is read as one beat, not two beats. So リャ is read rya, not ri-ya."
                 },
                 "glyph": "リャ",
                 "romaji": "rya",
@@ -1935,8 +1935,8 @@
                   "en": "The gi group: gya gyu gyo"
                 },
                 "body": {
-                  "id": "ギ bertemu huruf kecil ャ, ュ, dan ョ. Jadinya ギャ (gya), ギュ (gyu), dan ギョ (gyo), masing-masing satu ketukan.",
-                  "en": "ギ meets small ャ, ュ, and ョ. That makes ギャ (gya), ギュ (gyu), and ギョ (gyo), each one beat."
+                  "id": "Pada kelompok ini, huruf pertama adalah ギ (gi). Huruf ギ dapat digabungkan dengan huruf kecil ャ, ュ, dan ョ. Gabungan ギ dan ャ dibaca gya, gabungan ギ dan ュ dibaca gyu, dan gabungan ギ dan ョ dibaca gyo. Huruf kecil tersebut tidak dibaca secara terpisah, melainkan dibaca bersama ギ. Bunyi i pada gi menyatu dengan huruf kecil tersebut, sehingga setiap gabungan dibaca sebagai satu ketukan, bukan dua ketukan. Oleh karena itu, ギャ dibaca gya, bukan gi-ya.",
+                  "en": "In this group, the first letter is ギ (gi). ギ can be combined with the small letters ャ, ュ, and ョ. The combination of ギ and ャ is read gya, the combination of ギ and ュ is read gyu, and the combination of ギ and ョ is read gyo. The small letters are not read on their own; they are read together with ギ. The i sound in gi merges with the small letter, so each combination is read as one beat, not two beats. So ギャ is read gya, not gi-ya."
                 },
                 "glyph": "ギャ",
                 "romaji": "gya",
@@ -1977,8 +1977,8 @@
                   "en": "The ja group: ja ju jo"
                 },
                 "body": {
-                  "id": "ジ bertemu huruf kecil ャ, ュ, dan ョ. Jadinya ジャ (ja), ジュ (ju), dan ジョ (jo), masing-masing satu ketukan.",
-                  "en": "ジ meets small ャ, ュ, and ョ. That makes ジャ (ja), ジュ (ju), and ジョ (jo), each one beat."
+                  "id": "Pada kelompok ini, huruf pertama adalah ジ (ji). Huruf ジ dapat digabungkan dengan huruf kecil ャ, ュ, dan ョ. Gabungan ジ dan ャ dibaca ja, gabungan ジ dan ュ dibaca ju, dan gabungan ジ dan ョ dibaca jo. Huruf kecil tersebut tidak dibaca secara terpisah, melainkan dibaca bersama ジ. Bunyi i pada ji menyatu dengan huruf kecil tersebut, sehingga setiap gabungan dibaca sebagai satu ketukan, bukan dua ketukan. Oleh karena itu, ジャ dibaca ja, bukan ji-ya.",
+                  "en": "In this group, the first letter is ジ (ji). ジ can be combined with the small letters ャ, ュ, and ョ. The combination of ジ and ャ is read ja, the combination of ジ and ュ is read ju, and the combination of ジ and ョ is read jo. The small letters are not read on their own; they are read together with ジ. The i sound in ji merges with the small letter, so each combination is read as one beat, not two beats. So ジャ is read ja, not ji-ya."
                 },
                 "glyph": "ジャ",
                 "romaji": "ja",
@@ -2019,8 +2019,8 @@
                   "en": "The bi group: bya byu byo"
                 },
                 "body": {
-                  "id": "ビ bertemu huruf kecil ャ, ュ, dan ョ. Jadinya ビャ (bya), ビュ (byu), dan ビョ (byo), masing-masing satu ketukan.",
-                  "en": "ビ meets small ャ, ュ, and ョ. That makes ビャ (bya), ビュ (byu), and ビョ (byo), each one beat."
+                  "id": "Pada kelompok ini, huruf pertama adalah ビ (bi). Huruf ビ dapat digabungkan dengan huruf kecil ャ, ュ, dan ョ. Gabungan ビ dan ャ dibaca bya, gabungan ビ dan ュ dibaca byu, dan gabungan ビ dan ョ dibaca byo. Huruf kecil tersebut tidak dibaca secara terpisah, melainkan dibaca bersama ビ. Bunyi i pada bi menyatu dengan huruf kecil tersebut, sehingga setiap gabungan dibaca sebagai satu ketukan, bukan dua ketukan. Oleh karena itu, ビャ dibaca bya, bukan bi-ya.",
+                  "en": "In this group, the first letter is ビ (bi). ビ can be combined with the small letters ャ, ュ, and ョ. The combination of ビ and ャ is read bya, the combination of ビ and ュ is read byu, and the combination of ビ and ョ is read byo. The small letters are not read on their own; they are read together with ビ. The i sound in bi merges with the small letter, so each combination is read as one beat, not two beats. So ビャ is read bya, not bi-ya."
                 },
                 "glyph": "ビャ",
                 "romaji": "bya",
@@ -2061,8 +2061,8 @@
                   "en": "The pi group: pya pyu pyo"
                 },
                 "body": {
-                  "id": "ピ bertemu huruf kecil ャ, ュ, dan ョ. Jadinya ピャ (pya), ピュ (pyu), dan ピョ (pyo), masing-masing satu ketukan.",
-                  "en": "ピ meets small ャ, ュ, and ョ. That makes ピャ (pya), ピュ (pyu), and ピョ (pyo), each one beat."
+                  "id": "Pada kelompok ini, huruf pertama adalah ピ (pi). Huruf ピ dapat digabungkan dengan huruf kecil ャ, ュ, dan ョ. Gabungan ピ dan ャ dibaca pya, gabungan ピ dan ュ dibaca pyu, dan gabungan ピ dan ョ dibaca pyo. Huruf kecil tersebut tidak dibaca secara terpisah, melainkan dibaca bersama ピ. Bunyi i pada pi menyatu dengan huruf kecil tersebut, sehingga setiap gabungan dibaca sebagai satu ketukan, bukan dua ketukan. Oleh karena itu, ピャ dibaca pya, bukan pi-ya.",
+                  "en": "In this group, the first letter is ピ (pi). ピ can be combined with the small letters ャ, ュ, and ョ. The combination of ピ and ャ is read pya, the combination of ピ and ュ is read pyu, and the combination of ピ and ョ is read pyo. The small letters are not read on their own; they are read together with ピ. The i sound in pi merges with the small letter, so each combination is read as one beat, not two beats. So ピャ is read pya, not pi-ya."
                 },
                 "glyph": "ピャ",
                 "romaji": "pya",

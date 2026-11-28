@@ -37,7 +37,7 @@
     {
      "jp": "彼は病気です。",
      "kana": "かれはびょうきです。",
-     "romaji": "Kareha byouki desu.",
+     "romaji": "Kare wa byouki desu.",
      "meaning": {
       "id": "Dia sakit.",
       "en": "He is sick."
@@ -63,7 +63,7 @@
     {
      "jp": "私は先生ではありません。",
      "kana": "わたしはせんせいではありません。",
-     "romaji": "Watashi wa sensei dehaarimasen.",
+     "romaji": "Watashi wa sensei de wa arimasen.",
      "meaning": {
       "id": "Saya bukan guru.",
       "en": "I am not a teacher."
@@ -72,7 +72,7 @@
     {
      "jp": "私は医者ではありません。",
      "kana": "わたしはいしゃではありません。",
-     "romaji": "Watashi wa isha dehaarimasen.",
+     "romaji": "Watashi wa isha de wa arimasen.",
      "meaning": {
       "id": "Saya bukan dokter.",
       "en": "I'm not a doctor."
@@ -424,7 +424,7 @@
     {
      "jp": "彼は虎が好き。",
      "kana": "かれはとらがすき。",
-     "romaji": "Kareha tora ga suki.",
+     "romaji": "Kare wa tora ga suki.",
      "meaning": {
       "id": "Dia suka macan.",
       "en": "He likes a tiger."
@@ -459,7 +459,7 @@
     {
      "jp": "彼は医者でしょう。",
      "kana": "かれはいしゃでしょう。",
-     "romaji": "Kareha isha deshou.",
+     "romaji": "Kare wa isha deshou.",
      "meaning": {
       "id": "Kemungkinan dia adalah seorang dokter.",
       "en": "I think he is a doctor."
@@ -468,7 +468,7 @@
     {
      "jp": "彼はすぐ来るでしょう。",
      "kana": "かれはすぐくるでしょう。",
-     "romaji": "Kareha sugu kuru deshou.",
+     "romaji": "Kare wa sugu kuru deshou.",
      "meaning": {
       "id": "Ia akan segera datang.",
       "en": "He will come soon."
@@ -609,7 +609,7 @@
     {
      "jp": "彼は背中を掻いたり、爪を噛んだりする癖がある。",
      "kana": "かれはせなかをかいたり、つめをかんだりするくせがある。",
-     "romaji": "Kareha senaka wo kai tari, tsume wo kan darisuru kuse gaaru.",
+     "romaji": "Kare wa senaka wo kai tari, tsume wo kan darisuru kuse gaaru.",
      "meaning": {
       "id": "Dia memiliki kebiasaan menggaruk punggung dan menggigit kuku.",
       "en": "He has a habit of scratching his back and biting his nails."
@@ -723,7 +723,7 @@
     {
      "jp": "石を投げてはいけない。",
      "kana": "いしをなげてはいけない。",
-     "romaji": "Ishi wo nage tehaikenai.",
+     "romaji": "Ishi wo nage te wa ikenai.",
      "meaning": {
       "id": "Jangan melempar batu.",
       "en": "Don't throw stones."
@@ -732,7 +732,7 @@
     {
      "jp": "道路で遊んではいけません。",
      "kana": "どうろであそんではいけません。",
-     "romaji": "Douro de asonde haikemasen.",
+     "romaji": "Douro de asonde wa ikemasen.",
      "meaning": {
       "id": "Jangan main di jalan raya.",
       "en": "Don't play in the street."
@@ -741,7 +741,7 @@
     {
      "jp": "人をからかってはいけない。",
      "kana": "にんをからかってはいけない。",
-     "romaji": "Nin wokarakattehaikenai.",
+     "romaji": "Nin wo karakatte wa ikenai.",
      "meaning": {
       "id": "Jangan mempermainkan orang lain.",
       "en": "Don't make fun of other people."
@@ -767,7 +767,7 @@
     {
      "jp": "彼は正しいと思う。",
      "kana": "かれはただしいとおもう。",
-     "romaji": "Kareha tadashii to omou.",
+     "romaji": "Kare wa tadashii to omou.",
      "meaning": {
       "id": "Saya pikir dia benar.",
       "en": "I think he is right."
@@ -785,7 +785,7 @@
     {
      "jp": "僕は彼は馬鹿だと思う。",
      "kana": "ぼくはかれはばかだとおもう。",
-     "romaji": "Bokuha kareha baka dato omou.",
+     "romaji": "Boku wa kare wa baka dato omou.",
      "meaning": {
       "id": "Saya rasa dia bodoh.",
       "en": "I think him a fool."
@@ -820,7 +820,7 @@
     {
      "jp": "彼女は状況をつかむことができる。",
      "kana": "かのじょはじょうきょうをつかむことができる。",
-     "romaji": "Kanojo wa joukyou wotsukamukotogadekiru.",
+     "romaji": "Kanojo wa joukyou wo tsukamu koto ga dekiru.",
      "meaning": {
       "id": "Dia mampu memahami situasi yang ada.",
       "en": "She is able to grasp the situation."
@@ -1181,7 +1181,7 @@
     {
      "jp": "君はまだ高校生のように見えるね。",
      "kana": "くんはまだこうこうせいのようにみえるね。",
-     "romaji": "Kun hamada koukousei noyouni mie rune.",
+     "romaji": "Kun wa mada koukousei noyouni mie rune.",
      "meaning": {
       "id": "Kamu kelihatan seperti masih SMA.",
       "en": "You still look like a high school student."
@@ -1225,7 +1225,7 @@
     {
      "jp": "私の髪はまだ洗ったばかりで濡れていた。",
      "kana": "わたしのかみはまだあらったばかりでぬれていた。",
-     "romaji": "Watashi no kami hamada aratsu tabakaride nure teita.",
+     "romaji": "Watashi no kami wa mada aratsu tabakaride nure teita.",
      "meaning": {
       "id": "Rambutku masih basah karena aku baru saja keramas.",
       "en": "My hair was still wet from being washed."
@@ -1304,7 +1304,7 @@
     {
      "jp": "彼はそうさせられました。",
      "kana": "かれはそうさせられました。",
-     "romaji": "Kareha sousaseraremashita.",
+     "romaji": "Kare wa sousaseraremashita.",
      "meaning": {
       "id": "Dia diciptakan untuk melakukannya.",
       "en": "He was made to do so."
@@ -1313,7 +1313,7 @@
     {
      "jp": "彼は悪い癖を直させられた。",
      "kana": "かれはわるいくせをなおさせられた。",
-     "romaji": "Kareha warui kuse wo naosa serareta.",
+     "romaji": "Kare wa warui kuse wo naosa serareta.",
      "meaning": {
       "id": "Dia sembuh dari kebiasaan buruknya.",
       "en": "He was cured of his bad habits."
@@ -1339,7 +1339,7 @@
     {
      "jp": "人は皆幸せになれるわけではない。",
      "kana": "にんはみなしあわせになれるわけではない。",
-     "romaji": "Nin wa mina shiawase ninareruwakedehanai.",
+     "romaji": "Nin wa mina shiawase ninareruwake de wa nai.",
      "meaning": {
       "id": "Tidak semua orang dapat merasakan kebahagiaan.",
       "en": "Every man cannot be happy."
@@ -1348,7 +1348,7 @@
     {
      "jp": "私は彼の小説を全部読んだわけではない。",
      "kana": "わたしはかのしょうせつをぜんぶよんだわけではない。",
-     "romaji": "Watashi wa kano shousetsu wo zenbu yonda wakedehanai.",
+     "romaji": "Watashi wa kano shousetsu wo zenbu yonda wake de wa nai.",
      "meaning": {
       "id": "Aku belum membaca semua novelnya.",
       "en": "I haven't read all of his novels."
@@ -1357,7 +1357,7 @@
     {
      "jp": "その本のうちどちらもおもしろいわけではない。",
      "kana": "そのほんのうちどちらもおもしろいわけではない。",
-     "romaji": "Sono hon nouchidochiramoomoshiroiwakedehanai.",
+     "romaji": "Sono hon nouchidochiramoomoshiroiwake de wa nai.",
      "meaning": {
       "id": "Tidak ada satupun dari buku-buku itu yang menarik.",
       "en": "Neither of those books is interesting."
@@ -1524,7 +1524,7 @@
     {
      "jp": "きみは雨が好きだよね。",
      "kana": "きみはあめがすきだよね。",
-     "romaji": "Kimiha ame ga suki dayone.",
+     "romaji": "Kimi wa ame ga suki dayone.",
      "meaning": {
       "id": "Kamu suka hujan, kan?",
       "en": "You like rain, don't you?"
@@ -1603,7 +1603,7 @@
     {
      "jp": "彼は多くの困難にもかかわらず、成功した。",
      "kana": "かれはおおくのこんなんにもかかわらず、せいこうした。",
-     "romaji": "Kareha ooku no konnan nimokakawarazu, seikou shita.",
+     "romaji": "Kare wa ooku no konnan nimokakawarazu, seikou shita.",
      "meaning": {
       "id": "Dia berhasil meskipun terdapat banyak kesulitan.",
       "en": "He succeeded in the face of many difficulties."
@@ -1612,7 +1612,7 @@
     {
      "jp": "彼は多くの障害にもかかわらずその仕事をした。",
      "kana": "かれはおおくのしょうがいにもかかわらずそのしごとをした。",
-     "romaji": "Kareha ooku no shougai nimokakawarazusono shigoto woshita.",
+     "romaji": "Kare wa ooku no shougai nimokakawarazusono shigoto wo shita.",
      "meaning": {
       "id": "Dia melakukan pekerjaan itu meskipun ada banyak kendala.",
       "en": "He did the work in spite of many obstacles."
@@ -1647,7 +1647,7 @@
     {
      "jp": "そう考えざるを得ない。",
      "kana": "そうかんがえざるをえない。",
-     "romaji": "Sou kangae zaruwo ena i.",
+     "romaji": "Sou kangae zaru wo ena i.",
      "meaning": {
       "id": "Aku tidak bisa tapi berpikir begitu.",
       "en": "I can not but think so."
@@ -1656,7 +1656,7 @@
     {
      "jp": "そうせざるを得ないね。",
      "kana": "そうせざるをえないね。",
-     "romaji": "Sousezaruwo ena ine.",
+     "romaji": "Sousezaru wo ena ine.",
      "meaning": {
       "id": "Aku tidak punya pilihan selain melakukan itu.",
       "en": "I have no choice but to do that."
@@ -1665,7 +1665,7 @@
     {
      "jp": "彼女は笑わざるを得ない。",
      "kana": "かのじょはわらわざるをえない。",
-     "romaji": "Kanojo wa warawa zaruwo ena i.",
+     "romaji": "Kanojo wa warawa zaru wo ena i.",
      "meaning": {
       "id": "Dia tidak bisa hanya tertawa.",
       "en": "She cannot but laugh."
@@ -1700,7 +1700,7 @@
     {
      "jp": "年齢を問わず人々はこの歌が好きだ。",
      "kana": "ねんれいをとわずひとびとはこのうたがすきだ。",
-     "romaji": "Nenrei wo towa zu hitobito hakono uta ga suki da.",
+     "romaji": "Nenrei wo towa zu hitobito wa kono uta ga suki da.",
      "meaning": {
       "id": "Orang-orang dari segala usia seperti lagu ini.",
       "en": "People of all ages like this song."
@@ -1709,7 +1709,7 @@
     {
      "jp": "そこは、日中問わず兵士が警備に当たっている。",
      "kana": "そこは、にっちゅうとわずへいしがけいびにあたっている。",
-     "romaji": "Sokoha, nitchuu towa zu heishi ga keibi ni ata tteiru.",
+     "romaji": "Soko wa, nitchuu towa zu heishi ga keibi ni ata tteiru.",
      "meaning": {
       "id": "Tentara menjaga tempat siang dan malam.",
       "en": "Soldiers guard the place day and night."
@@ -1744,7 +1744,7 @@
     {
      "jp": "彼はまだ来ない。バスに乗り遅れたに違いない。",
      "kana": "かれはまだこない。ばすにのりおくれたにちがいない。",
-     "romaji": "Kareha mada konai. basu ni nori okure tani chigai nai.",
+     "romaji": "Kare wa mada konai. basu ni nori okure tani chigai nai.",
      "meaning": {
       "id": "Dia belum datang juga. Dia pasti ketinggalan bis.",
       "en": "He hasn't come yet. He must have missed the bus."
@@ -1753,7 +1753,7 @@
     {
      "jp": "彼のやったことには何か理由があるに違いない。",
      "kana": "かのやったことにはなにかりゆうがあるにちがいない。",
-     "romaji": "Kano yattakotoniha nanika riyuu gaaruni chigai nai.",
+     "romaji": "Kano yattakoto ni wa nanika riyuu gaaruni chigai nai.",
      "meaning": {
       "id": "Pasti ada alasan atas apa yang telah ia perbuat.",
       "en": "There must be some reason for what he has done."
@@ -1841,7 +1841,7 @@
     {
      "jp": "高校を卒業して以来彼は何もしていない。",
      "kana": "こうこうをそつぎょうしていらいかれはなにもしていない。",
-     "romaji": "Koukou wo sotsugyou shite irai kareha nanimo shiteinai.",
+     "romaji": "Koukou wo sotsugyou shite irai kare wa nanimo shiteinai.",
      "meaning": {
       "id": "Sejak dia lulus SMA, dia tidak melakukan apa-apa.",
       "en": "Since he graduated from high school, he hasn't been doing anything."
@@ -1885,7 +1885,7 @@
     {
      "jp": "がちょうを飼う。",
      "kana": "がちょうをかう。",
-     "romaji": "Gachouwo kau.",
+     "romaji": "Gachou wo kau.",
      "meaning": {
       "id": "Aku mengangkat angsa.",
       "en": "I raise a goose."
@@ -2096,7 +2096,7 @@
     {
      "jp": "こっからは立入禁止だって。",
      "kana": "こっからはたちいりきんしだって。",
-     "romaji": "Kokkaraha tachiirikinshi datte.",
+     "romaji": "Kokkara wa tachiirikinshi datte.",
      "meaning": {
       "id": "Mulai dari sini dilarang masuk katanya.",
       "en": "It says entry is prohibited from this point on."
@@ -2131,7 +2131,7 @@
     {
      "jp": "世論のため彼は引退を余儀なくされた。",
      "kana": "よろんのためかれはいんたいをよぎなくされた。",
-     "romaji": "Yoron notame kareha intai wo yogina kusareta.",
+     "romaji": "Yoron notame kare wa intai wo yogina kusareta.",
      "meaning": {
       "id": "Opini publik mengharuskan dia untuk pensiun.",
       "en": "Public opinion obliged him to retire."
@@ -2219,7 +2219,7 @@
     {
      "jp": "鳥は鋭い目をもっている。",
      "kana": "とりはするどいめをもっている。",
-     "romaji": "Tori wa surudoi me womotteiru.",
+     "romaji": "Tori wa surudoi me wo motteiru.",
      "meaning": {
       "id": "Burung memiliki mata yang tajam.",
       "en": "Birds have sharp eyes."
@@ -2228,7 +2228,7 @@
     {
      "jp": "私たちは記憶するという能力をもっている。",
      "kana": "わたしたちはきおくするというのうりょくをもっている。",
-     "romaji": "Watashitachi wa kioku surutoiu nouryoku womotteiru.",
+     "romaji": "Watashitachi wa kioku surutoiu nouryoku wo motteiru.",
      "meaning": {
       "id": "Kita memiliki kemampuan untuk mengingat.",
       "en": "We have the ability to remember."
@@ -2237,7 +2237,7 @@
     {
      "jp": "類をもって集まる。",
      "kana": "るいをもってあつまる。",
-     "romaji": "Rui womotte atsumaru.",
+     "romaji": "Rui wo motte atsumaru.",
      "meaning": {
       "id": "Burung dari kawanan bulu bersama-sama.",
       "en": "Birds of a feather flock together."
@@ -2281,7 +2281,7 @@
     {
      "jp": "彼は激怒で張り裂けんばかりだった。",
      "kana": "かれはげきどではりさけんばかりだった。",
-     "romaji": "Kareha gekido de hari sake nbakaridatta.",
+     "romaji": "Kare wa gekido de hari sake nbakaridatta.",
      "meaning": {
       "id": "(Sesungguhnya dia dahulu di dunia dalam keadaan marah) karena melakukan homosex.",
       "en": "He was bursting with fury."
@@ -2307,7 +2307,7 @@
     {
      "jp": "それは完全にあなた次第です。",
      "kana": "それはかんぜんにあなたしだいです。",
-     "romaji": "Soreha kanzen nianata shidai desu.",
+     "romaji": "Sore wa kanzen nianata shidai desu.",
      "meaning": {
       "id": "Itu sepenuhnya tergantung padamu.",
       "en": "It's entirely up to you."
@@ -2316,7 +2316,7 @@
     {
      "jp": "君を助けるために私は最善を尽くした。あとは君次第だ。",
      "kana": "くんをたすけるためにわたしはさいぜんをつくした。あとはきみじだいだ。",
-     "romaji": "Kun wo tasuke rutameni watashi wa saizen wo tsukushi ta. atoha kimiji dai da.",
+     "romaji": "Kun wo tasuke rutameni watashi wa saizen wo tsukushi ta. ato wa kimiji dai da.",
      "meaning": {
       "id": "Saya sudah melakukan yang saya mampu untuk membantu kamu. Selebihnya adalah kamu sendiri.",
       "en": "I have done the best I could to help you. The rest is up to you."
@@ -2325,7 +2325,7 @@
     {
      "jp": "あなたにいくら給料を支払うかは、あなたの腕次第ですね。",
      "kana": "あなたにいくらきゅうりょうをしはらうかは、あなたのうでしだいですね。",
-     "romaji": "Anataniikura kyuuryou wo shiharau kaha, anatano ude shidai desune.",
+     "romaji": "Anataniikura kyuuryou wo shiharau ka wa, anatano ude shidai desune.",
      "meaning": {
       "id": "Berapa gaji yang harus kubayar, tergantung pada kemampuanmu.",
       "en": "How much we pay you depends on your skill."
@@ -2360,7 +2360,7 @@
     {
      "jp": "彼は警官を見るや否や逃亡した。",
      "kana": "かれはけいかんをみるやひやとうぼうした。",
-     "romaji": "Kareha keikan wo miru ya hi ya toubou shita.",
+     "romaji": "Kare wa keikan wo miru ya hi ya toubou shita.",
      "meaning": {
       "id": "Begitu ia melihat polisi, ia melarikan diri.",
       "en": "As soon as he saw the policeman, he ran away."
@@ -2369,7 +2369,7 @@
     {
      "jp": "彼は警官をみるや否や走り去った。",
      "kana": "かれはけいかんをみるやひやはしりさった。",
-     "romaji": "Kareha keikan womiruya hi ya hashiri satsu ta.",
+     "romaji": "Kare wa keikan wo miru ya hi ya hashiri satsu ta.",
      "meaning": {
       "id": "Begitu ia melihat polisi, ia melarikan diri.",
       "en": "As soon as he saw the policeman, he ran away."
@@ -2439,7 +2439,7 @@
     {
      "jp": "僕はイタリア語を書くのはおろか読めもしない。",
      "kana": "ぼくはいたりあごをかくのはおろかよめもしない。",
-     "romaji": "Bokuha itaria go wo kaku nohaoroka yome moshinai.",
+     "romaji": "Boku wa itaria go wo kaku no wa oroka yome moshinai.",
      "meaning": {
       "id": "Aku tidak bisa menulis dalam bahasa Italia, apalagi membacanya.",
       "en": "I can't even read Italian, let alone write it."
@@ -2448,7 +2448,7 @@
     {
      "jp": "彼はおろかにもがちょうを殺した。",
      "kana": "かれはおろかにもがちょうをころした。",
-     "romaji": "Kareha orokanimogachouwo koroshi ta.",
+     "romaji": "Kare wa orokani mo gachou wo koroshi ta.",
      "meaning": {
       "id": "Dia membunuh angsa, bodoh.",
       "en": "He killed the goose, foolishly."
@@ -2457,7 +2457,7 @@
     {
      "jp": "君はおろかな行為をやめねばならない。",
      "kana": "くんはおろかなこういをやめねばならない。",
-     "romaji": "Kun haorokana koui woyamenebanaranai.",
+     "romaji": "Kun wa orokana koui wo yame neba naranai.",
      "meaning": {
       "id": "Anda harus mengakhiri perilaku bodoh Anda.",
       "en": "You must put an end to your foolish behavior."
@@ -2483,7 +2483,7 @@
     {
      "jp": "それはいかんわい！",
      "kana": "それはいかんわい！",
-     "romaji": "Sorehaikanwai!",
+     "romaji": "Sore wa ikan wai!",
      "meaning": {
       "id": "Itu tidak akan berhasil!",
       "en": "That won't work!"
@@ -2501,7 +2501,7 @@
     {
      "jp": "教室でおしゃべりをしてはいかん。",
      "kana": "きょうしつでおしゃべりをしてはいかん。",
-     "romaji": "Kyoushitsu deoshaberiwoshitehaikan.",
+     "romaji": "Kyoushitsu de oshaberi wo shite wa ikan.",
      "meaning": {
       "id": "Jangan bicara di kelas.",
       "en": "Don't you talk in the classroom."
@@ -2545,7 +2545,7 @@
     {
      "jp": "それは確かかい。",
      "kana": "それはたしかかい。",
-     "romaji": "Soreha tashika kai.",
+     "romaji": "Sore wa tashika kai.",
      "meaning": {
       "id": "Apa kau yakin dengan hal itu?",
       "en": "Can I take your word for it?"
